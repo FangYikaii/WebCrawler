@@ -1,0 +1,229 @@
+HTTP/1.1 200 OK
+Cache-Control: max-age=3600
+Content-Length: 18394
+Content-Type: text/html
+Content-Location: http://www.qqbiaoqing.com/Default.htm
+Last-Modified: Sat, 25 Mar 2017 00:00:17 GMT
+Accept-Ranges: bytes
+ETag: "96d452c9faa4d21:1aff9"
+Server: Microsoft-IIS/6.0
+X-Powered-By: ASP.NET
+Date: Sat, 25 Mar 2017 04:46:31 GMT
+Connection: close
+
+﻿
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+<meta http-equiv="mobile-agent" content="format=html5; url=http://m.qqbiaoqing.com/">
+<title>QQ表情 QQ表情包大全下载 QQ表情大全 QQ表情图片大全 QQ表情包下载</title>
+<link rel="canonical" href="http://www.qqbiaoqing.com/"/>
+<link rel="stylesheet" type="text/css" href="http://qq.oicq88.com/css/base.css" /><link rel="stylesheet" type="text/css" href="http://qq.oicq88.com/css/qqbiaoqing.css" />
+<script type="text/javascript" src="http://qq.oicq88.com/script/base.js"></script>
+<script type="text/javascript" src="http://qq.oicq88.com/script/mobile.js"></script>
+</head>
+<body>
+
+<div class="top">
+<div class="header">
+<a href="/"><img src="http://qq.oicq88.com/images/qqbiaoqing/logo.gif" alt="QQ表情大全"/></a>
+</div>
+</div>        
+<!--导航条开始-->
+<div class="navbox">
+<div class="nav">
+<ul>
+<li><a href="http://www.oicq88.com/" target="_blank"><span>网名</span></a></li>
+<li><a href="http://www.qqgexingqianming.com/" target="_blank"><span>个性签名</span></a></li>
+<li><a href="/" class="hover" target="_top"><span>表情</span></a></li>
+<li><a href="http://www.qqshuoshuo.com/" target="_blank"><span>说说</span></a></li>
+<li><a href="http://www.qqrizhi.com/" target="_blank"><span>日志</span></a></li>
+<li><a href="http://www.haoyouyinxiang.com/" target="_blank"><span>好友印象</span></a></li>
+<li><a href="http://www.84399.com/xiaochengxu/ndio26.htm" rel="nofollow" target="_blank"><span>节日祝福</span></a></li>
+<li><a href="http://www.84399.com/xiaochengxu/auv9ac.htm" rel="nofollow" target="_blank"><span>炫表情</span></a></li>
+</ul>
+<div class="navbg"></div>
+</div>
+<div class="navboxbg"></div>
+</div>
+<!--导航条结束-->
+
+<div class="main">
+
+<!--当前位置 开始-->
+<div class="location">
+<div class="bread-crumb">
+<strong>QQ表情大全</strong>
+</div>
+<div class="share">
+<div id="bdshare" class="bdshare_b"></div>
+</div>
+</div>
+<!--当前位置 结束-->
+
+<div class="hdbox">
+<div class="hd-tab">
+<a href="/gaoxiao/" target="_blank">QQ搞笑表情</a><a href="/shouhui/" target="_blank">QQ手绘表情</a><a href="/wenzi/" target="_blank">QQ文字表情</a><a href="/keai/" target="_blank">QQ可爱表情</a><a href="/dongtai/" target="_blank">QQ动态表情</a><a href="/dongman/" target="_blank">QQ动漫表情</a><a href="/jingdian/" target="_blank">QQ经典表情</a><a href="/gaoguai/" target="_blank">QQ搞怪表情</a><a href="/egao/" target="_blank">QQ恶搞表情</a><a href="/xinuaile/" target="_blank">QQ喜怒哀乐表情</a><a href="/gexing/" target="_blank">QQ个性表情</a><a href="/linglei/" target="_blank">QQ另类表情</a><a href="/aiqing/" target="_blank">QQ爱情表情</a><a href="/kongbu/" target="_blank">QQ恐怖表情</a><a href="/meinv/" target="_blank">QQ美女表情</a><a href="/shuaige/" target="_blank">QQ帅哥表情</a><a href="/wenhou/" target="_blank">QQ问候表情</a><a href="/chaomeng/" target="_blank">QQ超萌表情</a><a href="/feizhuliu/" target="_blank">QQ非主流表情</a><a href="/qun/" target="_blank">QQ群表情</a><a href="/fangyan/" target="_blank">QQ方言表情</a><a href="/jieri/" target="_blank">QQ节日表情</a><a href="/xinqing/" target="_blank">QQ心情表情</a><a href="/zhufu/" target="_blank">QQ祝福表情</a><a href="/tiaokan/" target="_blank">QQ调侃表情</a><a href="/tiaopi/" target="_blank">QQ调皮表情</a><a href="/daoqian/" target="_blank">QQ道歉表情</a><a href="/wanpi/" target="_blank">QQ顽皮表情</a><a href="/paoniu/" target="_blank">QQ泡妞表情</a><a href="/bao/" target="_blank"><strong>QQ表情包</strong></a>
+<div class="clear"></div>
+</div>
+</div>
+
+<script type="text/javascript">
+var cpro_id = "u2430923";
+</script>
+<script src="http://cpro.baidustatic.com/cpro/ui/c.js" type="text/javascript"></script>
+<br/><br/>
+
+
+<div class="box">
+<div class="boxleft">
+
+<div class="tabbox">
+<ul class="pics">
+<li><a href="/qq/11629.htm" target="_blank"><img src="http://q.qqbiaoqing.com/q/2010-5-25/b55bd9ed2f30379c8ce7ae25866045b4.gif" alt="永远跟你走" width="128" height="128" border="0"/></a></li><li><a href="/qq/51578.htm" target="_blank"><img src="http://q.qqbiaoqing.com/q/2014/11/21/56995668c90e9b39cdc30554683c49cc.gif" alt="惊吓" width="80" height="80" border="0"/></a></li><li><a href="/qq/68650.htm" target="_blank"><img src="http://q.qqbiaoqing.com/q/2016/06/06/ce1ebc4086fa1bd8046130d9785eaa17.gif" alt="给你中指" width="150" height="82" border="0"/></a></li><li><a href="/qq/47598.htm" target="_blank"><img src="http://q.qqbiaoqing.com/q/2014/08/23/76d29595e3b29c595e9bf49ade004c3b.gif" alt="累" width="150" height="150" border="0"/></a></li><li><a href="/qq/64149.htm" target="_blank"><img src="http://q.qqbiaoqing.com/q/2015/12/30/c4de37bba00ea42b8717bc8c74089154.gif" alt="抛媚眼" width="75" height="75" border="0"/></a></li><li><a href="/qq/70974.htm" target="_blank"><img src="http://q.qqbiaoqing.com/q/2016/11/05/0da38ad1933a8775b4fd83e34b0a4a56.gif" alt="爱你呦" width="150" height="150" border="0"/></a></li><li><a href="/qq/50776.htm" target="_blank"><img src="http://q.qqbiaoqing.com/q/2014/11/03/0c244404e9a5ca9c2f34f8cd570d5ab1.gif" alt="幸福的笑容" width="50" height="50" border="0"/></a></li><li><a href="/qq/47134.htm" target="_blank"><img src="http://q.qqbiaoqing.com/q/2014/08/14/d669a22f2cda75820d5c4bc4ddf5ba61.jpg" alt="金刚娃" width="150" height="150" border="0"/></a></li><li><a href="/qq/43797.htm" target="_blank"><img src="http://q.qqbiaoqing.com/q/2014/05/30/86e0b5fc616c86d377812e70e94f7557.jpg" alt="抠鼻" width="100" height="100" border="0"/></a></li><li><a href="/qq/45676.htm" target="_blank"><img src="http://q.qqbiaoqing.com/q/2014/07/17/6416c7cbf4563f406dd88c9429eb8db3.gif" alt="流汗" width="120" height="120" border="0"/></a></li><li><a href="/qq/44930.htm" target="_blank"><img src="http://q.qqbiaoqing.com/q/2014/06/26/71c0428c4566ce746d7d40ab04f87628.gif" alt="拍屁屁" width="110" height="110" border="0"/></a></li><li><a href="/qq/61743.htm" target="_blank"><img src="http://q.qqbiaoqing.com/q/2015/12/07/79cc12c4b9330ff7ae2d7cf323a3f43d.gif" alt="撞墙" width="150" height="150" border="0"/></a></li><li><a href="/qq/60130.htm" target="_blank"><img src="http://q.qqbiaoqing.com/q/2015/08/24/f84d3b9386081273a2349bc0021997ee.gif" alt="送礼物" width="100" height="100" border="0"/></a></li><li><a href="/qq/5719.htm" target="_blank"><img src="http://q.qqbiaoqing.com/q/2010-10-13/7a6e19026eff5121937daa37f705f9dc.gif" alt="蹑手蹑脚" width="80" height="80" border="0"/></a></li><li><a href="/qq/35082.htm" target="_blank"><img src="http://q.qqbiaoqing.com/q/2013/11/12/12291c45d12ac90c14ba8a05227543ba.gif" alt="最高瞳术！盯~！" width="150" height="143" border="0"/></a></li><li><a href="/qq/57535.htm" target="_blank"><img src="http://q.qqbiaoqing.com/q/2015/06/12/81a8cb7b622e65058ce8e2847869c901.gif" alt="郁闷" width="140" height="114" border="0"/></a></li></ul>
+</div>
+</div>
+<div class="boxright">
+<div class="gg">
+<script type="text/javascript">
+var cpro_id = "u2430934";
+</script>
+<script src="http://cpro.baidustatic.com/cpro/ui/c.js" type="text/javascript"></script>
+</div>
+<div class="module">
+<div class="sidetit"><a href="/tuijian.htm" class="more" target="_blank">推荐QQ表情</a></div>
+<ul class="side">
+<li><p><a href="/qq/28306.htm" target="_blank">囧大叔</a></p></li><li><p><a href="/qq/34345.htm" target="_blank">藐视神情</a></p></li><li><p><a href="/qq/9926.htm" target="_blank">疯了~</a></p></li><li><p><a href="/qq/30629.htm" target="_blank">骚扰</a></p></li><li><p><a href="/qq/70812.htm" target="_blank">嗨起来</a></p></li><li><p><a href="/qq/36043.htm" target="_blank">这是看到什么了</a></p></li><li><p><a href="/qq/28052.htm" target="_blank">霸气外露</a></p></li><li><p><a href="/qq/29184.htm" target="_blank">我是木乃伊</a></p></li><li><p><a href="/qq/71049.htm" target="_blank">飞吻</a></p></li></ul>
+</div>
+
+</div>
+</div>
+
+
+
+<div class="hdbox2">
+<div class="hd-tab">
+<div class="clear"></div>
+</div>
+</div>
+
+<div class="gg">
+<script type="text/javascript">
+var cpro_id = "u2430926";
+</script>
+<script src="http://cpro.baidustatic.com/cpro/ui/c.js" type="text/javascript"></script>
+</div>
+
+<div class="box">
+<div class="boxleft">
+<div class="module">
+<div class="tit"><a href="/zuixin.htm" target="_blank" class="more">最新QQ表情</a></div>
+<ul class="pics">
+<li><a href="/qq/12985.htm" target="_blank"><img src="http://q.qqbiaoqing.com/q/2011-4-18/75188a3a0a245167048507ac7b3935b0.gif" alt="我爱你" width="128" height="128" border="0"/></a></li><li><a href="/qq/72865.htm" target="_blank"><img src="http://q.qqbiaoqing.com/q/2017/02/03/08d4a457ff4b9fa8fc4ae4bb1c432e2a.gif" alt="谢谢老板" width="240" height="240" border="0"/></a></li><li><a href="/qq/60495.htm" target="_blank"><img src="http://q.qqbiaoqing.com/q/2015/09/04/eef18f996548b0a0791fc75e0bb59d5c.gif" alt="卖萌" width="150" height="150" border="0"/></a></li><li><a href="/qq/34909.htm" target="_blank"><img src="http://q.qqbiaoqing.com/q/2013/11/08/cdd1718d33e000bcfe278781b6cd3370.jpg" alt="红唇" width="21" height="19" border="0"/></a></li><li><a href="/qq/25138.htm" target="_blank"><img src="http://q.qqbiaoqing.com/q/2011-3-24/4424631bc46aa46a46aea53823027ddb.gif" alt="有你最幸福" width="128" height="128" border="0"/></a></li><li><a href="/qq/30911.htm" target="_blank"><img src="http://q.qqbiaoqing.com/q/2013/08/30/62da99c9bc54d9a3a343b3e3ba9b2f04.gif" alt="大眼睛" width="128" height="128" border="0"/></a></li><li><a href="/qq/54176.htm" target="_blank"><img src="http://q.qqbiaoqing.com/q/2015/01/22/789644eed4047ebde51d7805e0b7f3f2.gif" alt="喝杯功夫茶" width="100" height="100" border="0"/></a></li><li><a href="/qq/27159.htm" target="_blank"><img src="http://q.qqbiaoqing.com/q/2015/09/07/9fd9bb106e3f457c9afa0bd118f2c6a4.gif" alt="碗上好" width="150" height="103" border="0"/></a></li><li><a href="/qq/61752.htm" target="_blank"><img src="http://q.qqbiaoqing.com/q/2015/10/16/1442b3b529c6351e8006677f46579a68.gif" alt="好耶" width="80" height="80" border="0"/></a></li><li><a href="/qq/57388.htm" target="_blank"><img src="http://q.qqbiaoqing.com/q/2015/06/10/665a1678045cacd27fd142e339fb6b6f.gif" alt="剪刀手" width="75" height="75" border="0"/></a></li><li><a href="/qq/70076.htm" target="_blank"><img src="http://q.qqbiaoqing.com/q/2016/08/31/7a093b78418aa63f3a0b9f10ac995caf.gif" alt="谁在骂我" width="115" height="150" border="0"/></a></li><li><a href="/qq/63767.htm" target="_blank"><img src="http://q.qqbiaoqing.com/q/2015/12/16/d0b73cd269d27b64a32b828ac2c3a686.gif" alt="垂涎我的美色" width="150" height="144" border="0"/></a></li></ul>
+</div>
+</div>    
+<div class="boxright">
+<div class="gg">
+<script type="text/javascript">
+var cpro_id = "u2430937";
+</script>
+<script src="http://cpro.baidustatic.com/cpro/ui/c.js" type="text/javascript"></script>
+<br><br>
+<script type="text/javascript">
+var cpro_id = "u2430938";
+</script>
+<script src="http://cpro.baidustatic.com/cpro/ui/c.js" type="text/javascript"></script>
+</div>
+</div>    
+</div>
+
+<div class="box">
+<div class="module">
+<div class="tit"><a href="/paihang.htm" class="more" target="_blank">QQ表情排行榜</a></div>
+<div class="picfix">
+<ul class="pics">
+<li><a href="/qq/52132.htm" target="_blank"><img src="http://q.qqbiaoqing.com/q/2014/12/04/785f9541e5e1081aa1327663c94e72ac.gif" alt="疑问" width="120" height="126" border="0"/></a></li><li><a href="/qq/39798.htm" target="_blank"><img src="http://q.qqbiaoqing.com/q/2014/02/24/d98ae72502df466932f1d11562e92ab8.gif" alt="挖鼻屎" width="100" height="100" border="0"/></a></li><li><a href="/qq/29590.htm" target="_blank"><img src="http://q.qqbiaoqing.com/q/2013/07/22/d8229195ff3e4c34cd734f3497ba7732.gif" alt="老婆来了" width="112" height="112" border="0"/></a></li><li><a href="/qq/4814.htm" target="_blank"><img src="http://q.qqbiaoqing.com/q/2010-7-6/11350189a830c7a7236ffe9a863f21c5.gif" alt="火烧屁股了" width="43" height="101" border="0"/></a></li><li><a href="/qq/31019.htm" target="_blank"><img src="http://q.qqbiaoqing.com/q/2013/09/02/443f00162ded8bbb14c1040fc996e0cd.gif" alt="练习后空翻" width="150" height="140" border="0"/></a></li><li><a href="/qq/65835.htm" target="_blank"><img src="http://q.qqbiaoqing.com/q/2016/02/29/6710f14b349ce0e5a2c72a78f9343d46.gif" alt="好笑" width="150" height="150" border="0"/></a></li><li><a href="/qq/55078.htm" target="_blank"><img src="http://q.qqbiaoqing.com/q/2015/03/06/0cb4fadbb59ca98733a9e33fd0b03d8c.gif" alt="不理你" width="100" height="100" border="0"/></a></li><li><a href="/qq/33979.htm" target="_blank"><img src="http://q.qqbiaoqing.com/q/2013/10/17/0ca6befe946800795c7764e83335b892.gif" alt="彩虹" width="100" height="74" border="0"/></a></li><li><a href="/qq/24857.htm" target="_blank"><img src="http://q.qqbiaoqing.com/q/2010-8-12/9e14fbba0d09267a851d9464e4cb15df.gif" alt="妹妹你大胆的往前走" width="128" height="128" border="0"/></a></li><li><a href="/qq/60454.htm" target="_blank"><img src="http://q.qqbiaoqing.com/q/2015/09/02/8b8efc61d06cc0b80a9029e11912b1e6.gif" alt="好厉害" width="150" height="150" border="0"/></a></li><li><a href="/qq/72851.htm" target="_blank"><img src="http://q.qqbiaoqing.com/q/2017/02/03/91e1017217934b885015412dc1cf22f1.gif" alt="拿去花" width="100" height="100" border="0"/></a></li><li><a href="/qq/57685.htm" target="_blank"><img src="http://q.qqbiaoqing.com/q/2015/06/17/c2752ef41938ae3b8ea4db1ce36a1818.gif" alt="尴尬" width="128" height="128" border="0"/></a></li></ul>
+</div>
+</div>
+</div>
+
+<div class="ad">
+<script type="text/javascript">
+var cpro_id = "u2430929";
+</script>
+<script src="http://cpro.baidustatic.com/cpro/ui/c.js" type="text/javascript"></script>
+</div>
+</div>
+
+<script type="text/javascript">
+<!--
+share();
+new scroller();
+//-->
+</script>
+
+<div align="center"><iframe align="center" frameborder="0" width="960" height="120" scrolling="no" src="http://www.92987.com/iframe.htm" marginwidth="0" marginheight="0"></iframe><br/><br/></div>
+<div align="center"><img src="http://qq.oicq88.com/images/qqbiaoqing/tip.gif" /></div>
+<div class="bottom">
+<div class="footer">
+<div class="links">
+友情链接：
+<a href="http://10.ip138.com/" target="_blank">十大品牌排行榜</a>
+<a href="http://www.4399dmw.com/" target="_blank">好看的动漫</a>
+<a href="http://news.4399.com/" target="_blank">儿童游戏</a>
+<a href="http://www.4399er.com/" target="_blank">儿歌视频大全</a>
+<a href="http://www.66825.com/" target="_blank">360手机助手</a>
+<a href="http://www.qq163.com/" target="_blank">QQ163网页游戏</a>
+<a href="http://www.qqfenzu.com/" target="_blank">QQ分组</a>
+<a href="http://www.zybus.com/" target="_blank">综艺巴士</a>
+<a href="http://www.weimeicun.com/" target="_blank">女性网</a>
+<a href="http://qq.lameng.net/" target="_blank">留言板留言大全</a>
+<a href="http://www.demaxiya.com/" target="_blank">lol视频</a>
+<a href="http://www.tuku.cn/" target="_blank">图片库</a>
+<a href="http://www.jsqq.net/" target="_blank">QQ皮肤</a>
+<a href="http://www.5ixiaopin.com/" target="_blank">宋小宝</a>
+<a href="http://www.wmpic.me/" target="_blank">唯美图片</a>
+<a href="http://tx.haiqq.com/" target="_blank">QQ头像</a>
+<a href="http://www.qqkj.cn/" target="_blank">QQ皮肤</a>
+<a href="http://xiaohua.zol.com.cn/" target="_blank">笑话</a>
+<a href="http://www.slkj.org/" target="_blank">古诗大全</a>
+<a href="http://www.qq1234.org/" target="_blank">QQ个性网名</a>
+<a href="http://www.rainmall.com/" target="_blank">剧情介绍</a>
+<a href="http://www.huiyi8.com/" target="_blank">图片素材</a>
+<a href="http://www.kuwenshen.com/" target="_blank">酷纹身</a>
+<a href="http://www.maomaogougou.cn/" target="_blank">宠物网</a>
+<a href="http://xz.99166.com/" target="_blank">星座运势</a>
+<a href="http://photo.jokeji.cn/" target="_blank">QQ图片</a>
+<a href="http://www.fuhaodq.com/" target="_blank">表情符号</a>
+<a href="http://www.fzlu.com/" target="_blank">图片大全</a>
+<a href="http://cm.k366.com/" target="_blank">姓名测试打分</a>
+<a href="http://www.gs5000.cn/" target="_blank">历史故事</a>
+<a href="http://pu.onegreen.net/" target="_blank">歌谱简谱网</a>
+<a href="http://www.yiledao.com/" target="_blank">搞笑视频</a>
+<a href="http://www.365j.com/" target="_blank">经典台词</a>
+<a href="http://www.biaoyu.org/" target="_blank">标语</a>
+<a href="http://www.bizhizu.cn/" target="_blank">壁纸族</a>
+<a href="http://www.zqnf.com/" target="_blank">答案网</a>
+<a href="http://www.wudage.com/" target="_blank">娱乐新闻</a>
+<a href="http://www.gukaifu.com/" target="_blank">股票行情</a>
+<a href="http://www.luyouqi.com/" target="_blank">路由器</a>
+<a href="http://www.16sucai.com/" target="_blank">16素材网</a>
+</div>
+<div class="copyright"><span><img src="http://qq.oicq88.com/images/qqicon.gif"/></span><a href="/" target="_top">好玩的QQ表情大全</a><br />厦门市漫游科技有限公司 <a href="http://www.miitbeian.gov.cn/" rel="nofollow" target="_blank">闽ICP备15026659号-10</a><a target="_blank" href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=35020302001796" rel="nofollow" style="display:inline-block;margin-left: 10px;"><img src="http://www.beian.gov.cn/img/ghs.png" style="float:left;"/>闽公网安备 35020302001796号</a><br/>Copyright &copy;2016 www.qqbiaoqing.com All Rights Reserved.</div>
+</div>
+</div>
+<script type="text/javascript" charset="UTF-8" src="http://s.abcache.com/houyuantuan/script/index.js"></script>
+<div class="hide">
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?d45ae15bfb3b4df3128d044d995f13ca";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+</div>
+</body>
+</html>

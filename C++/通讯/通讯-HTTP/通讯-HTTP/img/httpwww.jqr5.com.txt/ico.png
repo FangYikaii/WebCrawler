@@ -1,0 +1,76 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" /> 
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>哎呀…您访问的页面不存在-机器人网</title>
+<link rel="stylesheet" type="text/css" />
+<script type="text/javascript">     
+function countDown(secs,surl){     
+ //alert(surl);     
+ var jumpTo = document.getElementById('jumpTo');
+ jumpTo.innerHTML=secs;  
+ if(--secs>0){     
+     setTimeout("countDown("+secs+",'"+surl+"')",1000);     
+     }     
+ else{       
+     location.href=surl;     
+     }     
+ }     
+</script> 
+<style>
+*{margin:0;padding:0}
+body{font-family:"微软雅黑";background:#fff}
+img{border:none}
+a *{cursor:pointer}
+ul,li{list-style:none}
+table{table-layout:fixed;}
+table tr td{word-break:break-all; word-wrap:break-word;}
+
+a{text-decoration:none;outline:none}
+a:hover{text-decoration:underline}
+.cf:after{content: ".";display: block;height: 0;font-size: 0;clear:both;visibility: hidden;}
+.cf{zoom: 1;clear:both}
+.clear{ clear:both;}
+
+.topimg{ text-align:center; padding-bottom:20px;}
+
+.main{ width:1000px; margin:0 auto; padding-top:240px;}
+.main-l{ padding-left:55px; padding-right:150px; float:left;}
+.main-r{ float:left;}
+.main-r h2{text-align:left;color:#5ba3eb;font-size:16px;font-weight:normal;height:35px; margin-top:20px; padding-left:10px;}
+.main-r .c2{ margin-bottom:10px;}
+.main-r a{display:inline-block;margin:0 4px;font-size:14px;height:23px;color:#626262;padding-top:1px;text-decoration:none;text-align:left}
+.main-r a:hover{color:#626262;text-decoration:none;}
+.main-r a.home{width:66px;background:url("http://www.jqr5.com/404/02.png");padding-left:30px}
+.main-r a.home:hover{background:url("http://www.jqr5.com/404/02.png") 0 -24px}
+.main-r a.home:active{background:url("http://www.jqr5.com/404/02.png") 0 -48px}
+.main-r a.re{width:66px;background:url("http://www.jqr5.com/404/03.png");padding-left:30px}
+.main-r a.re:hover{background:url("http://www.jqr5.com/404/03.png") 0 -24px}
+.main-r a.re:active{background:url("http://www.jqr5.com/404/03.png") 0 -48px}
+.main-r a.sr{width:153px;background:url("http://www.jqr5.com/404/04.png");padding-left:28px}
+.main-r a.sr:hover{background:url("http://www.jqr5.com/404/04.png") 0 -24px}
+.main-r a.sr:active{background:url("http://www.jqr5.com/404/04.png") 0 -48px}
+.main-r .c3{ font-size:16px; color:#666; padding-left:10px;}
+.main-r .c3 a{height:80px;text-align:center;color:#666;font-size:16px;}
+</style>
+
+</head>
+<body>
+<div class="main">
+	<div class="main-l">
+    	<img src="http://www.jqr5.com/404/404_jqr.png" />
+    </div>
+    <div class="main-r">
+    	<p><img src="http://www.jqr5.com/404/404_wz.png" /></p>
+        <h2><span id="jumpTo">24</span>秒后自动跳转到首页<script type="text/javascript">countDown(24,'http://www.jqr5.com/');</script></h2>
+        <div class="c2"><a href="http://www.jqr5.com" class="re">返回首页</a><a href="http://www.jqr5.com" class="sr">搜索一下页面相关信息</a></div>
+        <div class="c3"><a href="http://www.jqr5.com">机器人网</a>提醒 - 您可能输入了错误的网址，或者该网页已删除或移动</div>
+   	</div>
+    <div class="clear"></div>
+</div>
+
+
+<div style="display:none;"><script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_1254188765'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "w.cnzz.com/c.php%3Fid%3D1254188765%26l%3D3' type='text/javascript'%3E%3C/script%3E"));</script></div>
+</body>
+</html>

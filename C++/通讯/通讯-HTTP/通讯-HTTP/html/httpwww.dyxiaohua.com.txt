@@ -1,0 +1,571 @@
+HTTP/1.1 200 OK
+Connection: close
+Date: Sat, 25 Mar 2017 04:32:44 GMT
+Content-Length: 45189
+Content-Type: text/html
+Content-Location: http://www.dyxiaohua.com/index.html
+Last-Modified: Sat, 10 Dec 2016 07:34:06 GMT
+Accept-Ranges: bytes
+ETag: "043bcc9b752d21:17035"
+Server: IIS
+X-Powered-By: WAF/2.0
+Set-Cookie: safedog-flow-item=8235D610B97138DC19F46A9DF3CF439E; expires=Sat, 25-Mar-2017 15:59:44 GMT; domain=dyxiaohua.com; path=/
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>好笑的笑话_男女笑话_冷笑话_小笑话_笑话故事_荤段子笑话_爆笑笑话_搞笑图片-第一笑话网</title>
+<meta name="description" content="第一笑话网提供各种爆笑笑话,恶心笑话,男女笑话,夫妻笑话,儿童笑话,短笑话,冷笑话,小笑话,英语笑话,短信笑话,笑话故事,搞笑图片,荤段子笑话,谜语笑话,绕口令,让大家笑口常开!还包含了短信祝福语,励志名言让大家想看什么就看什么。
+" />
+<meta name="keywords" content="第一笑话,好笑的笑话,爆笑笑话,男女笑话,冷笑话,小笑话,职场笑话,笑话故事" />
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" />
+<link type="text/css" href="style/css.css" rel="stylesheet"/>
+<script src="js/roll.js" type="text/javascript"></script>
+<script type="text/javascript" src="/js/jquery-1.9.1.min.js"></script>
+<script type="text/javascript" src="/js/jquery.litenav.js"></script>
+<meta property="qc:admins" content="7126205667641011705163757" />
+</head>
+<body  oncontextmenu="return false" ondragstart="return false" onselect="document.selection.empty()" oncopy="document.selection.empty()" onbeforecopy="return false" onmouseup="document.selection.empty()">
+<div class="w1000 logo123">
+<div class="logo1"><a href="/"><img src="/img/logo.jpg"   alt="第一笑话logo" width="400" height="60"/></a></div>
+<div class="logo2"></div>
+<div class="logo3">
+<!-- Baidu Button BEGIN -->
+<div id="bdshare" class="bdshare_t bds_tools_32 get-codes-bdshare">
+        	<span class="bds_more"></span>
+            <a class="bds_qzone"></a>
+            <a class="bds_tqq"></a>
+            <a class="bds_tsina"></a>
+            <a class="bds_renren"></a>
+            <a class="bds_qq"></a>
+            <a class="shareCount"></a>
+ </div>
+ <script type="text/javascript" id="bdshare_js" data="type=tools&amp;uid=616930" ></script>
+<script type="text/javascript" id="bdshell_js"></script>
+<script type="text/javascript">
+document.getElementById("bdshell_js").src = "http://bdimg.share.baidu.com/static/js/shell_v2.js?cdnversion=" + Math.ceil(new Date()/3600000)
+</script>
+<!-- Baidu Button END -->
+</div>
+</div>
+
+<div class="w100">
+<ul class="menu fwhite f14">
+<li class="selected"><a href="/" title="笑话大全">笑话大全</a></li>
+<li><a href="/xiaohua/baoxiao/" title="爆笑笑话">爆笑笑话</a></li>
+<li><a href="/xiaohua/nannv/" title="男女笑话">男女笑话</a></li>
+<li><a href="/xiaohua/qiuaimiji/" title="求爱秘籍">求爱秘籍</a></li>
+<li><a href="/zonghe/" title="综合情趣">综合情趣</a></li>
+<li><a href="/xiaohua/jieri/" title="节日笑话">节日笑话</a></li>
+<li><a href="/xiaohua/zhichang/" title="职场笑话">职场笑话</a></li>
+<li><a href="/xiaohua/ertong/" title="儿童笑话">儿童笑话</a></li>
+<li><a href="/zhihui/" title="智慧故事">智慧故事</a></li>
+<li><a href="/gaoxiao/" title="搞笑图片">搞笑图片</a></li>
+</ul>
+</div>
+<div class="w1000">
+<!--<div class="w1000"><img src="/img/i_16.jpg" width="1000" height="290" alt="111"/></div>-->
+<div class="w1000 lanmu">
+<ul class="fbold f16">
+<script>gg("960x40a1");</script>
+</ul>
+</div>
+<div class="ss_div border4">
+<div class="hotz"><font class="fred">热门关键字</font>： <a href="http://www.dyxiaohua.com/xiaohua/">好笑的笑话</a>&nbsp;  <a href="http://www.dyxiaohua.com/xiaohua/baoxiao/"> 爆笑笑话</a>  &nbsp;<a href="http://www.dyxiaohua.com/xiaohua/qiuaimiji/">求爱秘籍</a></div>
+<div class="search">
+	<form method="get" action="/plus/search.php" target="_blank">	
+			<input name="keyword" class="keyword" type="text" value="在这里搜笑话..." onfocus="if(this.value=='在这里搜笑话...'){this.value='';}"  onblur="if(this.value==''){this.value='在这里搜笑话...';}">
+			<input class="submit_btn" value="" type="submit">
+	  </form>
+</div><!---搜索-->
+</div>
+<div class="w722">
+<!--开始2--->
+<div class="w720 m_10">
+<div class="w355 ">
+<div class="w355_h"><h2>最新更新</h2><span class="dmore f333"><a href="/">更多</a></span></div>
+<ul>
+<li><h2><a href="/baoxiao/kongbu/9910.html" target="_blank" title="鬼碟" rel="bookmark"> 鬼碟</a></h2><h6>浏览次数:<font class="yys">1</font></h6></li>
+<li><h2><a href="/baoxiao/kongbu/9894.html" target="_blank" title="红马甲" rel="bookmark"> 红马甲</a></h2><h6>浏览次数:<font class="yys">1</font></h6></li>
+<li><h2><a href="/baoxiao/kongbu/9874.html" target="_blank" title="豪宅电影" rel="bookmark"> 豪宅电影</a></h2><h6>浏览次数:<font class="yys">0</font></h6></li>
+<li><h2><a href="/baoxiao/kongbu/9869.html" target="_blank" title="基地夜遇" rel="bookmark"> 基地夜遇</a></h2><h6>浏览次数:<font class="yys">1</font></h6></li>
+<li><h2><a href="/baoxiao/kongbu/9875.html" target="_blank" title="恐怖的小镇" rel="bookmark"> 恐怖的小镇</a></h2><h6>浏览次数:<font class="yys">0</font></h6></li>
+<li><h2><a href="/baoxiao/kongbu/9913.html" target="_blank" title="幸福的电视" rel="bookmark"> 幸福的电视</a></h2><h6>浏览次数:<font class="yys">0</font></h6></li>
+<li><h2><a href="/baoxiao/kongbu/9892.html" target="_blank" title="停尸间里的歌声" rel="bookmark"> 停尸间里的歌声</a></h2><h6>浏览次数:<font class="yys">0</font></h6></li>
+<li><h2><a href="/baoxiao/kongbu/9902.html" target="_blank" title="卖肉粽子咯" rel="bookmark"> 卖肉粽子咯</a></h2><h6>浏览次数:<font class="yys">0</font></h6></li>
+<li><h2><a href="/baoxiao/kongbu/9919.html" target="_blank" title="还魂夜里的化妆师" rel="bookmark"> 还魂夜里的化妆师</a></h2><h6>浏览次数:<font class="yys">0</font></h6></li>
+<li><h2><a href="/baoxiao/kongbu/9936.html" target="_blank" title="手仙" rel="bookmark"> 手仙</a></h2><h6>浏览次数:<font class="yys">0</font></h6></li>
+	
+</ul>
+</div>
+
+
+<div class="w355 m_left10">
+<div class="w355_h"><h2>夫妻笑话</h2><span class="dmore f333"><a href="/xiaohua/fuqi/">更多</a></span></div>
+<ul>
+<li><h2><a href="/xiaohua/fuqi/12857.html" target="_blank" title="笑话：这老婆太有才了" rel="bookmark"> 笑话：这老婆太有才了</a></h2><h6>浏览次数:<font class="yys">2102</font></h6></li>
+<li><h2><a href="/xiaohua/fuqi/12850.html" target="_blank" title="让男人吃不消的爆笑老婆" rel="bookmark"> 让男人吃不消的爆笑老婆</a></h2><h6>浏览次数:<font class="yys">1766</font></h6></li>
+<li><h2><a href="/xiaohua/fuqi/12841.html" target="_blank" title="夫妻笑话：笑晕你没商量" rel="bookmark"> 夫妻笑话：笑晕你没商量</a></h2><h6>浏览次数:<font class="yys">2344</font></h6></li>
+<li><h2><a href="/xiaohua/fuqi/12783.html" target="_blank" title="老婆和网友聊微信！笑得我肚子痛死" rel="bookmark"> 老婆和网友聊微信！笑得我肚子痛死</a></h2><h6>浏览次数:<font class="yys">2417</font></h6></li>
+<li><h2><a href="/xiaohua/fuqi/12775.html" target="_blank" title="今晚你打算怎么死?" rel="bookmark"> 今晚你打算怎么死?</a></h2><h6>浏览次数:<font class="yys">2217</font></h6></li>
+<li><h2><a href="/xiaohua/fuqi/12725.html" target="_blank" title="一个女人有一晚没回家" rel="bookmark"> 一个女人有一晚没回家</a></h2><h6>浏览次数:<font class="yys">2371</font></h6></li>
+<li><h2><a href="/xiaohua/fuqi/12709.html" target="_blank" title="夫妻笑话，无奈按错了键，群发了！" rel="bookmark"> 夫妻笑话，无奈按错了键，群发了！</a></h2><h6>浏览次数:<font class="yys">1955</font></h6></li>
+<li><h2><a href="/xiaohua/fuqi/12708.html" target="_blank" title="幽默搞笑夫妻生活，败家娘们~" rel="bookmark"> 幽默搞笑夫妻生活，败家娘们~</a></h2><h6>浏览次数:<font class="yys">2373</font></h6></li>
+<li><h2><a href="/xiaohua/fuqi/12707.html" target="_blank" title="老婆手机来了信息，她瞟一眼就放下" rel="bookmark"> 老婆手机来了信息，她瞟一眼就放下</a></h2><h6>浏览次数:<font class="yys">1396</font></h6></li>
+<li><h2><a href="/xiaohua/fuqi/12677.html" target="_blank" title="你老婆那么漂亮，为什么还去嫖？答" rel="bookmark"> 你老婆那么漂亮，为什么还去嫖？答</a></h2><h6>浏览次数:<font class="yys">1384</font></h6></li>
+	
+</ul>
+</div>
+</div>
+
+<!--2结束--->
+
+<!--<div class="w720 m_10"><script>gg("728x90x1");</script></div>-->
+<!--开始2--->
+<div class="w720 m_10">
+<div class="w355 ">
+
+<div class="w355_h"><h2>爆笑笑话</h2><span class="dmore f333"><a href="/xiaohua/baoxiao/">更多</a></span></div>
+<ul>
+    <li><h2><a href="/xiaohua/baoxiao/12432.html" target="_blank" title="给我买套房子吧？小明说，把“房”" rel="bookmark"> 给我买套房子吧？小明说，把“房”</a></h2><h6>浏览次数:<font class="yys">3077</font></h6></li>
+<li><h2><a href="/xiaohua/baoxiao/12245.html" target="_blank" title="你骗了我，没想到你这么小都是挤出" rel="bookmark"> 你骗了我，没想到你这么小都是挤出</a></h2><h6>浏览次数:<font class="yys">5926</font></h6></li>
+<li><h2><a href="/xiaohua/baoxiao/12230.html" target="_blank" title="这《减肥诗》太神了..." rel="bookmark"> 这《减肥诗》太神了...</a></h2><h6>浏览次数:<font class="yys">4418</font></h6></li>
+<li><h2><a href="/xiaohua/baoxiao/12175.html" target="_blank" title="一波搞笑段子疯狂来袭，专治各种不" rel="bookmark"> 一波搞笑段子疯狂来袭，专治各种不</a></h2><h6>浏览次数:<font class="yys">3428</font></h6></li>
+<li><h2><a href="/xiaohua/baoxiao/12152.html" target="_blank" title="昨晚和女神在一间屋子" rel="bookmark"> 昨晚和女神在一间屋子</a></h2><h6>浏览次数:<font class="yys">3281</font></h6></li>
+<li><h2><a href="/xiaohua/baoxiao/12148.html" target="_blank" title="现在的女孩太不像话了,都是低腰裤," rel="bookmark"> 现在的女孩太不像话了,都是低腰裤,</a></h2><h6>浏览次数:<font class="yys">4948</font></h6></li>
+<li><h2><a href="/xiaohua/baoxiao/12119.html" target="_blank" title="关于股市的牛笑话" rel="bookmark"> 关于股市的牛笑话</a></h2><h6>浏览次数:<font class="yys">3462</font></h6></li>
+<li><h2><a href="/xiaohua/baoxiao/12118.html" target="_blank" title="经典搞笑的对白" rel="bookmark"> 经典搞笑的对白</a></h2><h6>浏览次数:<font class="yys">3344</font></h6></li>
+<li><h2><a href="/xiaohua/baoxiao/6708.html" target="_blank" title="客店夫妇的笑话" rel="bookmark"> 客店夫妇的笑话</a></h2><h6>浏览次数:<font class="yys">3117</font></h6></li>
+<li><h2><a href="/xiaohua/baoxiao/6738.html" target="_blank" title="乞丐们的搞笑对话" rel="bookmark"> 乞丐们的搞笑对话</a></h2><h6>浏览次数:<font class="yys">2025</font></h6></li>
+	
+</ul>
+
+</div>
+
+<div class="w355 m_left10">
+<div class="w355_h"><h2>男女笑话</h2><span class="dmore f333"><a href="/xiaohua/nannv/">更多</a></span></div>
+<ul>
+    <li><h2><a href="/xiaohua/nannv/12872.html" target="_blank" title="男女笑话：约会" rel="bookmark"> 男女笑话：约会</a></h2><h6>浏览次数:<font class="yys">3221</font></h6></li>
+<li><h2><a href="/xiaohua/nannv/12772.html" target="_blank" title="你老公的副驾驶留给了谁，看哭了！" rel="bookmark"> 你老公的副驾驶留给了谁，看哭了！</a></h2><h6>浏览次数:<font class="yys">3110</font></h6></li>
+<li><h2><a href="/xiaohua/nannv/12738.html" target="_blank" title="和小姐开房完事后闲聊的趣事~" rel="bookmark"> 和小姐开房完事后闲聊的趣事~</a></h2><h6>浏览次数:<font class="yys">3058</font></h6></li>
+<li><h2><a href="/xiaohua/nannv/12715.html" target="_blank" title="爆笑男女，你没见识过的一朵大奇葩" rel="bookmark"> 爆笑男女，你没见识过的一朵大奇葩</a></h2><h6>浏览次数:<font class="yys">3029</font></h6></li>
+<li><h2><a href="/xiaohua/nannv/12714.html" target="_blank" title="你长这么丑我怎么看上你了！" rel="bookmark"> 你长这么丑我怎么看上你了！</a></h2><h6>浏览次数:<font class="yys">3184</font></h6></li>
+<li><h2><a href="/xiaohua/nannv/12699.html" target="_blank" title="在女友手机里，发现一个叫备胎的人" rel="bookmark"> 在女友手机里，发现一个叫备胎的人</a></h2><h6>浏览次数:<font class="yys">3105</font></h6></li>
+<li><h2><a href="/xiaohua/nannv/12687.html" target="_blank" title="女朋友怀孕了，去找大舅哥借钱……" rel="bookmark"> 女朋友怀孕了，去找大舅哥借钱……</a></h2><h6>浏览次数:<font class="yys">2984</font></h6></li>
+<li><h2><a href="/xiaohua/nannv/12649.html" target="_blank" title="男的对女的说：没事，瞎了我养你一" rel="bookmark"> 男的对女的说：没事，瞎了我养你一</a></h2><h6>浏览次数:<font class="yys">3152</font></h6></li>
+<li><h2><a href="/xiaohua/nannv/12603.html" target="_blank" title="不许抽烟了，不然就分手！" rel="bookmark"> 不许抽烟了，不然就分手！</a></h2><h6>浏览次数:<font class="yys">1840</font></h6></li>
+<li><h2><a href="/xiaohua/nannv/12542.html" target="_blank" title="XXX不就是你妈么？" rel="bookmark"> XXX不就是你妈么？</a></h2><h6>浏览次数:<font class="yys">1938</font></h6></li>
+	
+
+</ul>
+</div>
+</div>
+<!--2结束--->
+<!--<div class="w720 m_10"><script>gg("728x90x2");</script></div>-->
+<!--开始2--->
+<div class="w720 m_10">
+<div class="w355 ">
+<div class="w355_h"><h2>校园笑话</h2><span class="dmore f333"><a href="/xiaohua/xiaoyuan/">更多</a></span></div>
+<ul>
+    <li><h2><a href="/xiaohua/xiaoyuan/9222.html" target="_blank" title="搞笑高考报考指南笑话" rel="bookmark"> 搞笑高考报考指南笑话</a></h2><h6>浏览次数:<font class="yys">114</font></h6></li>
+<li><h2><a href="/xiaohua/xiaoyuan/9229.html" target="_blank" title="中学老师对学生的爆笑语录" rel="bookmark"> 中学老师对学生的爆笑语录</a></h2><h6>浏览次数:<font class="yys">102</font></h6></li>
+<li><h2><a href="/xiaohua/xiaoyuan/10196.html" target="_blank" title="1+1=?的笑话爆笑" rel="bookmark"> 1+1=?的笑话爆笑</a></h2><h6>浏览次数:<font class="yys">81</font></h6></li>
+<li><h2><a href="/xiaohua/xiaoyuan/12901.html" target="_blank" title="妈妈，小明转到我们班了。然后呢？" rel="bookmark"> 妈妈，小明转到我们班了。然后呢？</a></h2><h6>浏览次数:<font class="yys">1040</font></h6></li>
+<li><h2><a href="/xiaohua/xiaoyuan/12832.html" target="_blank" title="最新版的，小明滚出去，笑哭了！" rel="bookmark"> 最新版的，小明滚出去，笑哭了！</a></h2><h6>浏览次数:<font class="yys">866</font></h6></li>
+<li><h2><a href="/xiaohua/xiaoyuan/12808.html" target="_blank" title="音乐课上，老师讲述：“什么叫高调" rel="bookmark"> 音乐课上，老师讲述：“什么叫高调</a></h2><h6>浏览次数:<font class="yys">2186</font></h6></li>
+<li><h2><a href="/xiaohua/xiaoyuan/12797.html" target="_blank" title="校园笑话：傻乎乎乐呵呵的奇葩同学" rel="bookmark"> 校园笑话：傻乎乎乐呵呵的奇葩同学</a></h2><h6>浏览次数:<font class="yys">1772</font></h6></li>
+<li><h2><a href="/xiaohua/xiaoyuan/12778.html" target="_blank" title="你们知道如何分辨面粉和淀粉么？" rel="bookmark"> 你们知道如何分辨面粉和淀粉么？</a></h2><h6>浏览次数:<font class="yys">1703</font></h6></li>
+<li><h2><a href="/xiaohua/xiaoyuan/12763.html" target="_blank" title="哪位同学告诉我《西游记》里面谁的" rel="bookmark"> 哪位同学告诉我《西游记》里面谁的</a></h2><h6>浏览次数:<font class="yys">1773</font></h6></li>
+<li><h2><a href="/xiaohua/xiaoyuan/12743.html" target="_blank" title="我表弟学习成绩不佳 ，一天老师问" rel="bookmark"> 我表弟学习成绩不佳 ，一天老师问</a></h2><h6>浏览次数:<font class="yys">1718</font></h6></li>
+<li><h2><a href="/xiaohua/xiaoyuan/12701.html" target="_blank" title="死了" rel="bookmark"> 死了</a></h2><h6>浏览次数:<font class="yys">1836</font></h6></li>
+	
+</ul>
+</div>
+
+
+
+<div class="w355 m_left10">
+
+<div class="w355_h"><h2>经营笑话</h2><span class="dmore f333"><a href="/xiaohua/jingying/">更多</a></span></div>
+<ul>
+    <li><h2><a href="/xiaohua/jingying/12770.html" target="_blank" title="儿子建行，女儿是招行~" rel="bookmark"> 儿子建行，女儿是招行~</a></h2><h6>浏览次数:<font class="yys">1880</font></h6></li>
+<li><h2><a href="/xiaohua/jingying/12613.html" target="_blank" title="从笑话学经营" rel="bookmark"> 从笑话学经营</a></h2><h6>浏览次数:<font class="yys">1733</font></h6></li>
+<li><h2><a href="/xiaohua/jingying/12612.html" target="_blank" title="经营笑话：选天堂还是地狱" rel="bookmark"> 经营笑话：选天堂还是地狱</a></h2><h6>浏览次数:<font class="yys">1831</font></h6></li>
+<li><h2><a href="/xiaohua/jingying/8564.html" target="_blank" title="老板让姐妹脱光试试的笑话" rel="bookmark"> 老板让姐妹脱光试试的笑话</a></h2><h6>浏览次数:<font class="yys">2749</font></h6></li>
+<li><h2><a href="/xiaohua/jingying/8654.html" target="_blank" title="避孕药推销的笑话" rel="bookmark"> 避孕药推销的笑话</a></h2><h6>浏览次数:<font class="yys">2304</font></h6></li>
+<li><h2><a href="/xiaohua/jingying/8653.html" target="_blank" title="商品种类不行" rel="bookmark"> 商品种类不行</a></h2><h6>浏览次数:<font class="yys">2674</font></h6></li>
+<li><h2><a href="/xiaohua/jingying/8618.html" target="_blank" title="最低消费的笑话" rel="bookmark"> 最低消费的笑话</a></h2><h6>浏览次数:<font class="yys">1809</font></h6></li>
+<li><h2><a href="/xiaohua/jingying/8541.html" target="_blank" title="吃饭的嘴角笑话" rel="bookmark"> 吃饭的嘴角笑话</a></h2><h6>浏览次数:<font class="yys">2232</font></h6></li>
+<li><h2><a href="/xiaohua/jingying/8683.html" target="_blank" title="骗烟的笑话" rel="bookmark"> 骗烟的笑话</a></h2><h6>浏览次数:<font class="yys">1353</font></h6></li>
+<li><h2><a href="/xiaohua/jingying/8688.html" target="_blank" title="不是单卖的是日本的" rel="bookmark"> 不是单卖的是日本的</a></h2><h6>浏览次数:<font class="yys">1821</font></h6></li>
+<li><h2><a href="/xiaohua/jingying/8715.html" target="_blank" title="菜里有头发的笑话" rel="bookmark"> 菜里有头发的笑话</a></h2><h6>浏览次数:<font class="yys">2194</font></h6></li>
+	
+</ul>
+</div>
+</div>
+<!--2结束--->
+
+<!--<div class="w720 m_10"><script>gg("728x90x3");</script></div>-->
+
+
+<!--开始2--->
+<div class="w720 m_10">
+<div class="w355 ">
+<div class="w355_h"><h2>节日笑话</h2><span class="dmore f333"><a href="/xiaohua/jieri/">更多</a></span></div>
+<ul>
+    <li><h2><a href="/xiaohua/jieri/12761.html" target="_blank" title="双11的段子到底有多逗！！" rel="bookmark"> 双11的段子到底有多逗！！</a></h2><h6>浏览次数:<font class="yys">3031</font></h6></li>
+<li><h2><a href="/xiaohua/jieri/12747.html" target="_blank" title="光棍节幽默笑话" rel="bookmark"> 光棍节幽默笑话</a></h2><h6>浏览次数:<font class="yys">2976</font></h6></li>
+<li><h2><a href="/xiaohua/jieri/12631.html" target="_blank" title="节日笑话—世界上有两件事最难" rel="bookmark"> 节日笑话—世界上有两件事最难</a></h2><h6>浏览次数:<font class="yys">3045</font></h6></li>
+<li><h2><a href="/xiaohua/jieri/12400.html" target="_blank" title="一个带孩子的大嫂牙不好，问：有软" rel="bookmark"> 一个带孩子的大嫂牙不好，问：有软</a></h2><h6>浏览次数:<font class="yys">3327</font></h6></li>
+<li><h2><a href="/xiaohua/jieri/12399.html" target="_blank" title="节日笑话：字母过中秋" rel="bookmark"> 节日笑话：字母过中秋</a></h2><h6>浏览次数:<font class="yys">4012</font></h6></li>
+<li><h2><a href="/xiaohua/jieri/12398.html" target="_blank" title="中秋节到了，父子二人一起做月饼." rel="bookmark"> 中秋节到了，父子二人一起做月饼.</a></h2><h6>浏览次数:<font class="yys">3120</font></h6></li>
+<li><h2><a href="/xiaohua/jieri/12396.html" target="_blank" title="低龄孩子也适合听的中秋节故事《月" rel="bookmark"> 低龄孩子也适合听的中秋节故事《月</a></h2><h6>浏览次数:<font class="yys">4660</font></h6></li>
+<li><h2><a href="/xiaohua/jieri/12392.html" target="_blank" title="关于中秋国庆的搞笑段子" rel="bookmark"> 关于中秋国庆的搞笑段子</a></h2><h6>浏览次数:<font class="yys">4145</font></h6></li>
+<li><h2><a href="/xiaohua/jieri/12368.html" target="_blank" title="中秋节幽默对话,竟然是这样的……" rel="bookmark"> 中秋节幽默对话,竟然是这样的……</a></h2><h6>浏览次数:<font class="yys">3734</font></h6></li>
+<li><h2><a href="/xiaohua/jieri/12359.html" target="_blank" title="名家月饼" rel="bookmark"> 名家月饼</a></h2><h6>浏览次数:<font class="yys">3821</font></h6></li>
+	
+</ul>
+</div>
+
+<div class="w355 m_left10">
+<div class="w355_h"><h2>职场笑话</h2><span class="dmore f333"><a href="/xiaohua/zhichang/">更多</a></span></div>
+<ul>
+    <li><h2><a href="/xiaohua/zhichang/12621.html" target="_blank" title="这些搞笑但很实用的职场笑话 你看" rel="bookmark"> 这些搞笑但很实用的职场笑话 你看</a></h2><h6>浏览次数:<font class="yys">2926</font></h6></li>
+<li><h2><a href="/xiaohua/zhichang/12580.html" target="_blank" title="辞职的原因竟然是和公司的缘分尽了" rel="bookmark"> 辞职的原因竟然是和公司的缘分尽了</a></h2><h6>浏览次数:<font class="yys">3699</font></h6></li>
+<li><h2><a href="/xiaohua/zhichang/12568.html" target="_blank" title="经典搞笑打工诗，谁编的？说到心坎" rel="bookmark"> 经典搞笑打工诗，谁编的？说到心坎</a></h2><h6>浏览次数:<font class="yys">2877</font></h6></li>
+<li><h2><a href="/xiaohua/zhichang/12549.html" target="_blank" title="上班不搞笑，工作木精神" rel="bookmark"> 上班不搞笑，工作木精神</a></h2><h6>浏览次数:<font class="yys">2963</font></h6></li>
+<li><h2><a href="/xiaohua/zhichang/12548.html" target="_blank" title="暗藏真理的职场笑话" rel="bookmark"> 暗藏真理的职场笑话</a></h2><h6>浏览次数:<font class="yys">2822</font></h6></li>
+<li><h2><a href="/xiaohua/zhichang/12434.html" target="_blank" title="美女同事穿了一超短裙来上班 结果" rel="bookmark"> 美女同事穿了一超短裙来上班 结果</a></h2><h6>浏览次数:<font class="yys">3546</font></h6></li>
+<li><h2><a href="/xiaohua/zhichang/12311.html" target="_blank" title="职场社交！这些玩笑可开不得！" rel="bookmark"> 职场社交！这些玩笑可开不得！</a></h2><h6>浏览次数:<font class="yys">4100</font></h6></li>
+<li><h2><a href="/xiaohua/zhichang/12291.html" target="_blank" title="应聘时应注意的细节" rel="bookmark"> 应聘时应注意的细节</a></h2><h6>浏览次数:<font class="yys">4288</font></h6></li>
+<li><h2><a href="/xiaohua/zhichang/12220.html" target="_blank" title="老板，我要请一天假" rel="bookmark"> 老板，我要请一天假</a></h2><h6>浏览次数:<font class="yys">4212</font></h6></li>
+<li><h2><a href="/xiaohua/zhichang/12217.html" target="_blank" title="最低消费" rel="bookmark"> 最低消费</a></h2><h6>浏览次数:<font class="yys">4308</font></h6></li>
+	
+</ul>
+</div>
+</div>
+<!--2结束--->
+
+<!--开始2--->
+<!--<div class="w720 m_10"><script>gg("728x75a1");</script></div>-->
+<!--开始2--->
+<div class="w720 m_10">
+<div class="w355 ">
+<div class="w355_h"><h2>儿童笑话</h2><span class="dmore f333"><a href="/xiaohua/ertong/">更多</a></span></div>
+<ul>
+    <li><h2><a href="/xiaohua/ertong/12758.html" target="_blank" title="谁家的孩子？笑死我了！" rel="bookmark"> 谁家的孩子？笑死我了！</a></h2><h6>浏览次数:<font class="yys">2876</font></h6></li>
+<li><h2><a href="/xiaohua/ertong/12750.html" target="_blank" title="叔叔，我是小，又不傻" rel="bookmark"> 叔叔，我是小，又不傻</a></h2><h6>浏览次数:<font class="yys">2856</font></h6></li>
+<li><h2><a href="/xiaohua/ertong/12720.html" target="_blank" title="小朋友开导大人的话，治标治本" rel="bookmark"> 小朋友开导大人的话，治标治本</a></h2><h6>浏览次数:<font class="yys">2799</font></h6></li>
+<li><h2><a href="/xiaohua/ertong/12719.html" target="_blank" title="捣蛋的小朋友，笑死人了" rel="bookmark"> 捣蛋的小朋友，笑死人了</a></h2><h6>浏览次数:<font class="yys">2871</font></h6></li>
+<li><h2><a href="/xiaohua/ertong/12682.html" target="_blank" title="儿童笑话：我要好好复习" rel="bookmark"> 儿童笑话：我要好好复习</a></h2><h6>浏览次数:<font class="yys">2804</font></h6></li>
+<li><h2><a href="/xiaohua/ertong/12627.html" target="_blank" title="儿子死活不肯写作业，老师打电话让" rel="bookmark"> 儿子死活不肯写作业，老师打电话让</a></h2><h6>浏览次数:<font class="yys">2935</font></h6></li>
+<li><h2><a href="/xiaohua/ertong/12578.html" target="_blank" title="小明，你知道飞机是谁发明的吗？." rel="bookmark"> 小明，你知道飞机是谁发明的吗？.</a></h2><h6>浏览次数:<font class="yys">3644</font></h6></li>
+<li><h2><a href="/xiaohua/ertong/12547.html" target="_blank" title="我是不会为了一个冰淇淋跟你走的" rel="bookmark"> 我是不会为了一个冰淇淋跟你走的</a></h2><h6>浏览次数:<font class="yys">3906</font></h6></li>
+<li><h2><a href="/xiaohua/ertong/12546.html" target="_blank" title="笑掉大牙的10条儿童笑话" rel="bookmark"> 笑掉大牙的10条儿童笑话</a></h2><h6>浏览次数:<font class="yys">1921</font></h6></li>
+<li><h2><a href="/xiaohua/ertong/12357.html" target="_blank" title="还能不能在这个世上好好的生活了？" rel="bookmark"> 还能不能在这个世上好好的生活了？</a></h2><h6>浏览次数:<font class="yys">1791</font></h6></li>
+	
+</ul>
+</div>
+
+
+
+<div class="w355 m_left10">
+<div class="w355_h"><h2>哲理智慧</h2><span class="dmore f333"><a href="/zhihui/zheli/">更多</a></span></div>
+<ul>
+    <li><h2><a href="/zhihui/miaoyanmiaoyu/12903.html" target="_blank" title="四大名著一句话总结，太有意思了！" rel="bookmark"> 四大名著一句话总结，太有意思了！</a></h2><h6>浏览次数:<font class="yys">1190</font></h6></li>
+<li><h2><a href="/zhihui/miaoyanmiaoyu/12891.html" target="_blank" title="信贷风险管理语录：贷前、审查审批" rel="bookmark"> 信贷风险管理语录：贷前、审查审批</a></h2><h6>浏览次数:<font class="yys">1162</font></h6></li>
+<li><h2><a href="/zhihui/youyi/12890.html" target="_blank" title="这样的女子值得珍惜" rel="bookmark"> 这样的女子值得珍惜</a></h2><h6>浏览次数:<font class="yys">1027</font></h6></li>
+<li><h2><a href="/zhihui/miaoyanmiaoyu/12881.html" target="_blank" title="既风骚又有哲理的话，不服来辩~" rel="bookmark"> 既风骚又有哲理的话，不服来辩~</a></h2><h6>浏览次数:<font class="yys">1193</font></h6></li>
+<li><h2><a href="/zhihui/shenghuozhenzhi/12859.html" target="_blank" title="生活处处有真知，还是留个心眼好。" rel="bookmark"> 生活处处有真知，还是留个心眼好。</a></h2><h6>浏览次数:<font class="yys">1097</font></h6></li>
+<li><h2><a href="/zhihui/miaoyanmiaoyu/12849.html" target="_blank" title="让你终身不发火的5个字" rel="bookmark"> 让你终身不发火的5个字</a></h2><h6>浏览次数:<font class="yys">1148</font></h6></li>
+<li><h2><a href="/zhihui/miaoyanmiaoyu/12835.html" target="_blank" title="人生最重要的一天，永远是今天！" rel="bookmark"> 人生最重要的一天，永远是今天！</a></h2><h6>浏览次数:<font class="yys">1167</font></h6></li>
+<li><h2><a href="/zhihui/miaoyanmiaoyu/12833.html" target="_blank" title="一句话，让你一生不生气" rel="bookmark"> 一句话，让你一生不生气</a></h2><h6>浏览次数:<font class="yys">1408</font></h6></li>
+<li><h2><a href="/zhihui/jiaoziliren/12819.html" target="_blank" title="李嘉诚教育子女观" rel="bookmark"> 李嘉诚教育子女观</a></h2><h6>浏览次数:<font class="yys">1067</font></h6></li>
+<li><h2><a href="/zhihui/zheli/12818.html" target="_blank" title="聪明不等于智慧" rel="bookmark"> 聪明不等于智慧</a></h2><h6>浏览次数:<font class="yys">1154</font></h6></li>
+	
+</ul>
+</div>
+</div>
+<!--2结束--->
+
+
+<!--开始2--->
+<div class="w720 m_10">
+<div class="w355 ">
+<div class="w355_h"><h2>短信笑话</h2><span class="dmore f333"><a href="/xiaohua/duanxin/">更多</a></span></div>
+<ul>
+    <li><h2><a href="/xiaohua/duanxin/8549.html" target="_blank" title="回复骗子的搞笑短信" rel="bookmark"> 回复骗子的搞笑短信</a></h2><h6>浏览次数:<font class="yys">2700</font></h6></li>
+<li><h2><a href="/xiaohua/duanxin/8708.html" target="_blank" title="情人节短信笑话" rel="bookmark"> 情人节短信笑话</a></h2><h6>浏览次数:<font class="yys">2588</font></h6></li>
+<li><h2><a href="/xiaohua/duanxin/8765.html" target="_blank" title="回此搞笑回复骗子的短信" rel="bookmark"> 回此搞笑回复骗子的短信</a></h2><h6>浏览次数:<font class="yys">1827</font></h6></li>
+<li><h2><a href="/xiaohua/duanxin/8796.html" target="_blank" title="数钱数到手抽筋的笑话" rel="bookmark"> 数钱数到手抽筋的笑话</a></h2><h6>浏览次数:<font class="yys">2251</font></h6></li>
+<li><h2><a href="/xiaohua/duanxin/6095.html" target="_blank" title="搞笑折磨人的短信笑话" rel="bookmark"> 搞笑折磨人的短信笑话</a></h2><h6>浏览次数:<font class="yys">2240</font></h6></li>
+<li><h2><a href="/xiaohua/duanxin/8931.html" target="_blank" title="骚扰短信笑话" rel="bookmark"> 骚扰短信笑话</a></h2><h6>浏览次数:<font class="yys">2339</font></h6></li>
+<li><h2><a href="/xiaohua/duanxin/3807.html" target="_blank" title="幽默逗人的元旦祝福短信" rel="bookmark"> 幽默逗人的元旦祝福短信</a></h2><h6>浏览次数:<font class="yys">2870</font></h6></li>
+<li><h2><a href="/xiaohua/duanxin/3820.html" target="_blank" title="8条幽默的短信趣语" rel="bookmark"> 8条幽默的短信趣语</a></h2><h6>浏览次数:<font class="yys">1750</font></h6></li>
+<li><h2><a href="/xiaohua/duanxin/3811.html" target="_blank" title="万圣节幽默搞笑短信" rel="bookmark"> 万圣节幽默搞笑短信</a></h2><h6>浏览次数:<font class="yys">1277</font></h6></li>
+<li><h2><a href="/xiaohua/duanxin/3914.html" target="_blank" title="2013年黄金周愉快，国庆祝福短信" rel="bookmark"> 2013年黄金周愉快，国庆祝福短信</a></h2><h6>浏览次数:<font class="yys">1145</font></h6></li>
+<li><h2><a href="/xiaohua/duanxin/3979.html" target="_blank" title="幽默搞笑国庆节短信祝福语大全" rel="bookmark"> 幽默搞笑国庆节短信祝福语大全</a></h2><h6>浏览次数:<font class="yys">1232</font></h6></li>
+	
+</ul>
+</div>
+<div class="w355 m_left10">
+<div class="w355_h"><h2>搞笑绕口令</h2><span class="dmore f333"><a href="/zonghe/raokouling/">更多</a></span></div>
+<ul>
+    <li><h2><a href="/zonghe/raokouling/12183.html" target="_blank" title="俩编导" rel="bookmark"> 俩编导</a></h2><h6>浏览次数:<font class="yys">2559</font></h6></li>
+<li><h2><a href="/zonghe/raokouling/12161.html" target="_blank" title="原创“绕口令”！" rel="bookmark"> 原创“绕口令”！</a></h2><h6>浏览次数:<font class="yys">2638</font></h6></li>
+<li><h2><a href="/zonghe/raokouling/5217.html" target="_blank" title="最难的中英文绕口令" rel="bookmark"> 最难的中英文绕口令</a></h2><h6>浏览次数:<font class="yys">1975</font></h6></li>
+<li><h2><a href="/zonghe/raokouling/5188.html" target="_blank" title="经典的数字绕口令" rel="bookmark"> 经典的数字绕口令</a></h2><h6>浏览次数:<font class="yys">2766</font></h6></li>
+<li><h2><a href="/zonghe/raokouling/5201.html" target="_blank" title="之最英文绕口令大全" rel="bookmark"> 之最英文绕口令大全</a></h2><h6>浏览次数:<font class="yys">2032</font></h6></li>
+<li><h2><a href="/zonghe/raokouling/5216.html" target="_blank" title="英语绕口令" rel="bookmark"> 英语绕口令</a></h2><h6>浏览次数:<font class="yys">2563</font></h6></li>
+<li><h2><a href="/zonghe/raokouling/5187.html" target="_blank" title="绕口令报菜名让人都快听疯了" rel="bookmark"> 绕口令报菜名让人都快听疯了</a></h2><h6>浏览次数:<font class="yys">2143</font></h6></li>
+<li><h2><a href="/zonghe/raokouling/5249.html" target="_blank" title="三个搞笑有趣的绕口令" rel="bookmark"> 三个搞笑有趣的绕口令</a></h2><h6>浏览次数:<font class="yys">2993</font></h6></li>
+<li><h2><a href="/zonghe/raokouling/5209.html" target="_blank" title="超难的英语绕口令" rel="bookmark"> 超难的英语绕口令</a></h2><h6>浏览次数:<font class="yys">2021</font></h6></li>
+<li><h2><a href="/zonghe/raokouling/5221.html" target="_blank" title="练习普通话最好的绕口令" rel="bookmark"> 练习普通话最好的绕口令</a></h2><h6>浏览次数:<font class="yys">2648</font></h6></li>
+<li><h2><a href="/zonghe/raokouling/5213.html" target="_blank" title="三个简短的饶口令" rel="bookmark"> 三个简短的饶口令</a></h2><h6>浏览次数:<font class="yys">1220</font></h6></li>
+	
+</ul>
+</div>
+</div>
+<!--2结束--->
+
+</div>
+
+<div class="w268"><!--右边开始-->
+
+<div class="hot_r border4 m_8">
+<div class="arc_forcus">
+<div id="hotpic">
+<div id="NewsPic">
+<a target="_blank" href="/gaoxiao/meitu/11503.html" style="visibility: visible; display: block;">
+<img src="/dyimg/bimg/1407/1-140GG5353c51-lp.jpg" width="270" height="305" class="Picture"  alt="海边的漂亮女孩图片"/>
+</a>
+
+<a style="visibility: hidden; display: none;" target="_blank" href="/gaoxiao/meitu/11502.html">
+<img class="Picture"  src="/dyimg/bimg/1407/1-140GG53021602-lp.jpg" width="270" height="305" alt="女神细思时的美丽" />
+</a>
+<a style="visibility: hidden; display: none;" target="_blank" href="/gaoxiao/meitu/11500.html">
+<img class="Picture"  src="/dyimg/bimg/1407/1-140GG52309423.jpg" width="270" height="305" alt="夏季女神的图片" />
+</a>
+<a style="visibility: hidden; display: none;" target="_blank" href="/gaoxiao/meitu/10970.html">
+<img class="Picture"  src="/dyimg/bimg/1405/1-14052Q12304120-lp.jpg" width="270" height="305" alt="好身材的美女图" />
+</a>
+
+
+<div class="Nav">
+<span class="Normal">4</span>
+<span class="Normal">3</span>
+<span class="Normal">2</span>
+<span class="Cur">1</span>
+</div>
+</div>
+</div>
+</div>
+<script>$('#hotpic').liteNav(2000);</script>
+</div>
+
+<div class="hot_r border4 m_8">
+<div class="w268h fwhite fbold f14"><span class="w268z">笑话集锦</span>   <span class="morey fmore">更多>></span></div><!--右二开始-->
+<dl>
+<dt><a href="/xiaohua/" class="tlink alink"  title="笑话大全">笑话大全</a></dt>
+
+<dd><a href="/xiaohua/baoxiao/" title="爆笑笑话">爆笑笑话</a></dd>
+<dd><a href="/xiaohua/nannv/" title="男女笑话">男女笑话</a></dd>
+<dd><a href="/xiaohua/lianai/" title="恋爱必读">恋爱必读</a></dd>
+<dd><a href="/xiaohua/fuqi/" title="夫妻笑话">夫妻笑话</a></dd>
+<dd><a href="/xiaohua/ertong/" title="儿童笑话">儿童笑话</a></dd>
+<dd><a href="/xiaohua/jiating/" title="家庭笑话">家庭笑话</a></dd>
+<dd><a href="/xiaohua/zhichang/" title="职场笑话">职场笑话</a></dd>
+<dd><a href="/xiaohua/xiaoyuan/" title="校园笑话">校园笑话</a></dd>
+<dd><a href="/xiaohua/sifa/" title="司法笑话">司法笑话</a></dd>
+<dd><a href="/xiaohua/jiaotong/" title="交通笑话">交通笑话</a></dd>
+<dd><a href="/xiaohua/tiyu/" title="体育笑话">体育笑话</a></dd>
+<dd><a href="/xiaohua/wangluo/" title="网络笑话">网络笑话</a></dd>
+<dd><a href="/xiaohua/wenyi/" title="文艺笑话">文艺笑话</a></dd>
+<dd><a href="/xiaohua/zongjiao/" title="宗教笑话">宗教笑话</a></dd>
+<dd><a href="/xiaohua/minjian/" title="民间笑话">民间笑话</a></dd>
+<dd><a href="/xiaohua/yuren/" title="愚人笑话">愚人笑话</a></dd>
+<dd><a href="/xiaohua/yiliao/" title="医疗笑话">医疗笑话</a></dd>
+<dd><a href="/xiaohua/yingyu/" title="英语笑话">英语笑话</a></dd>
+<dd><a href="/xiaohua/yuanchuan/" title="原创笑话">原创笑话</a></dd>
+<dd><a href="/xiaohua/qiuaimiji/" title="求爱秘籍">求爱秘籍</a></dd>
+<dd><a href="/xiaohua/dongwu/" title="动物笑话">动物笑话</a></dd>
+<dd><a href="/xiaohua/duanxin/" title="短信笑话">短信笑话</a></dd>
+<dd><a href="/xiaohua/exin/" title="恶心笑话">恶心笑话</a></dd>
+<dd><a href="/xiaohua/mingren/" title="名人笑话">名人笑话</a></dd>
+<dd><a href="/xiaohua/skl/" title="顺口溜">顺口溜</a></dd>
+<dd><a href="/xiaohua/gudai/" title="古代笑话">古代笑话</a></dd>
+<dd><a href="/xiaohua/jingying/" title="经营笑话">经营笑话</a></dd>
+<dd><a href="/xiaohua/jieri/" title="节日笑话">节日笑话</a></dd>
+<dd><a href="/xiaohua/guoji/" title="国际笑话">国际笑话</a></dd>
+<dd><a href="/xiaohua/junshi/" title="军事笑话">军事笑话</a></dd>
+<dd><a href="/xiaohua/xiaoxiaohua/" title="小笑话">小笑话</a></dd>
+<dd><a href="/xiaohua/lingxiaohua/" title="冷笑话">冷笑话</a></dd>
+<dd><a href="/xiaohua/chuanshuo/" title="传说笑话">传说笑话</a></dd>
+<dd><a href="/xiaohua/qita/" title="其它笑话">其它笑话</a></dd>
+<dd><a href="/xiaohua/weixin/" title="微信笑话">微信笑话</a></dd>
+ </dl><dl>
+<dt><a href="/gaoxiao/" class="tlink alink"  title="搞笑图片">搞笑图片</a></dt>
+
+<dd><a href="/gaoxiao/egaotu/" title="恶搞图">恶搞图</a></dd>
+<dd><a href="/gaoxiao/nahantu/" title="内涵图">内涵图</a></dd>
+<dd><a href="/gaoxiao/meitu/" title="美图">美图</a></dd>
+<dd><a href="/gaoxiao/baixiao/" title="爆笑图片">爆笑图片</a></dd>
+<dd><a href="/gaoxiao/mengtu/" title="萌图">萌图</a></dd>
+<dd><a href="/gaoxiao/qunzhu/" title="群主搞笑图">群主搞笑图</a></dd>
+ </dl><dl>
+<dt><a href="/baoxiao/" class="tlink alink"  title="爆笑故事">爆笑故事</a></dt>
+
+<dd><a href="/baoxiao/youmo/" title="幽默故事">幽默故事</a></dd>
+<dd><a href="/baoxiao/kongbu/" title="恐怖故事">恐怖故事</a></dd>
+<dd><a href="/baoxiao/haoxiao/" title="好笑故事">好笑故事</a></dd>
+ </dl><dl>
+<dt><a href="/zonghe/" class="tlink alink"  title="综合情趣">综合情趣</a></dt>
+
+<dd><a href="/zonghe/raokouling/" title="绕口令">绕口令</a></dd>
+<dd><a href="/zonghe/zaoju/" title="搞笑造句">搞笑造句</a></dd>
+<dd><a href="/zonghe/xiehouyu/" title="歇后语">歇后语</a></dd>
+<dd><a href="/zonghe/miyu/" title="谜语笑话">谜语笑话</a></dd>
+<dd><a href="/zonghe/qiaopihua/" title="俏皮话">俏皮话</a></dd>
+<dd><a href="/zonghe/naojin/" title="脑筋急转弯">脑筋急转弯</a></dd>
+<dd><a href="/zonghe/mingren/" title="名人趣事">名人趣事</a></dd>
+ </dl><dl>
+<dt><a href="/zhihui/" class="tlink alink"  title="智慧故事">智慧故事</a></dt>
+
+<dd><a href="/zhihui/zheli/" title="哲理智慧">哲理智慧</a></dd>
+<dd><a href="/zhihui/lixiang/" title="理想事业">理想事业</a></dd>
+<dd><a href="/zhihui/youyi/" title="情感天地">情感天地</a></dd>
+<dd><a href="/zhihui/jiaoziliren/" title="教子立人">教子立人</a></dd>
+<dd><a href="/zhihui/qingcao/" title="道德情操">道德情操</a></dd>
+<dd><a href="/zhihui/shenghuozhenzhi/" title="生活真知">生活真知</a></dd>
+<dd><a href="/zhihui/miaoyanmiaoyu/" title="妙言妙语">妙言妙语</a></dd>
+ </dl><dl>
+<dt><a href="/lizhi/" class="tlink alink"  title="励志大全">励志大全</a></dt>
+
+<dd><a href="/lizhi/mingyan/" title="励志名言">励志名言</a></dd>
+<dd><a href="/lizhi/wenzhang/" title="励志文章">励志文章</a></dd>
+<dd><a href="/lizhi/gushi/" title="励志故事">励志故事</a></dd>
+<dd><a href="/lizhi/weiren/" title="为人处世">为人处世</a></dd>
+<dd><a href="/lizhi/zhichang/" title="职场励志">职场励志</a></dd>
+<dd><a href="/lizhi/chenggong/" title="成功励志">成功励志</a></dd>
+<dd><a href="/lizhi/yanjiang/" title="励志演讲">励志演讲</a></dd>
+<dd><a href="/lizhi/yulu/" title="经典语录">经典语录</a></dd>
+<dd><a href="/lizhi/taici/" title="经典台词">经典台词</a></dd>
+<dd><a href="/lizhi/gaosan/" title="高三励志">高三励志</a></dd>
+ </dl><dl>
+<dt><a href="/zhufu/" class="tlink alink"  title="祝福短信">祝福短信</a></dt>
+
+<dd><a href="/zhufu/chunjie/" title="春节祝福">春节祝福</a></dd>
+<dd><a href="/zhufu/yuandan/" title="元旦祝福">元旦祝福</a></dd>
+<dd><a href="/zhufu/yuanxiao/" title="元宵祝福">元宵祝福</a></dd>
+<dd><a href="/zhufu/sanba/" title="三八祝福语">三八祝福语</a></dd>
+<dd><a href="/zhufu/qingren/" title="情人节祝福">情人节祝福</a></dd>
+<dd><a href="/zhufu/duanwu/" title="端午节祝福">端午节祝福</a></dd>
+<dd><a href="/zhufu/wuyi/" title="五一节祝福">五一节祝福</a></dd>
+<dd><a href="/zhufu/liuyi/" title="六一祝福">六一祝福</a></dd>
+<dd><a href="/zhufu/zhongqiu/" title="中秋祝福">中秋祝福</a></dd>
+<dd><a href="/zhufu/shengri/" title="生日祝福">生日祝福</a></dd>
+<dd><a href="/zhufu/guoqing/" title="国庆祝福">国庆祝福</a></dd>
+ </dl>    
+</div><!--jytd结束-->
+<div class="hot_r border4 m_8" style="padding-left:10px;">
+<script>gg("250x250x1");</script>
+</div>
+<!--最热门的笑话-->
+<div class="hot_r border4 m_8">
+<div class="w268h fbold f14"><span class="w268z">最好笑的笑话</span>   <span class="morey">更多>></span></div>
+<ul  class="hotpx1">
+<li target="_blank"><a href="/zonghe/raokouling/5214.html">简单绕口令大全</a> </li>
+<li target="_blank"><a href="/xiaohua/baoxiao/12245.html">你骗了我，没想到你这么小都是挤出来的！</a> </li>
+<li target="_blank"><a href="/xiaohua/nannv/4060.html">短一点的笑死人的男女笑话</a> </li>
+<li target="_blank"><a href="/xiaohua/baoxiao/8447.html">超搞笑的提问</a> </li>
+<li target="_blank"><a href="/xiaohua/jieri/3871.html">领导中秋节发错短信的笑话</a> </li>
+<li target="_blank"><a href="/xiaohua/nannv/4077.html">搞笑男女的对话笑话</a> </li>
+<li target="_blank"><a href="/xiaohua/baoxiao/12148.html">现在的女孩太不像话了,都是低腰裤,一蹲下就全走光</a> </li>
+<li target="_blank"><a href="/xiaohua/baoxiao/8643.html">世界上最可怜的人</a> </li>
+<li target="_blank"><a href="/gaoxiao/meitu/10055.html">修长细腿超级性感美女图</a> </li>
+<li target="_blank"><a href="/xiaohua/jieri/12396.html">低龄孩子也适合听的中秋节故事《月娘的故事》</a> </li>
+
+</ul>
+</div>
+
+<!--最热门的笑话-->
+<div class="hot_r border4 m_8">
+<div class="w268h fbold f14"><span class="w268z">冷笑话</span>   <span class="morey">更多>></span></div>
+<ul  class="hotpx1">
+<li target="_blank"><a href="/xiaohua/lingxiaohua/12912.html" title="我喜欢一个叫卧槽的人" rel="bookmark">我喜欢一个叫卧槽的人</a> </li>
+<li target="_blank"><a href="/xiaohua/lingxiaohua/12847.html" title="冷笑话：糗到凌乱笑到爆,乐喷了" rel="bookmark">冷笑话：糗到凌乱笑到爆,乐喷了</a> </li>
+<li target="_blank"><a href="/xiaohua/lingxiaohua/12784.html" title="经典男女爆笑冷幽默" rel="bookmark">经典男女爆笑冷幽默</a> </li>
+<li target="_blank"><a href="/xiaohua/lingxiaohua/12766.html" title="当逗比小明来到工地，项目经理阵亡了……" rel="bookmark">当逗比小明来到工地，项目经理阵亡了……</a> </li>
+<li target="_blank"><a href="/xiaohua/lingxiaohua/12716.html" title="两闺蜜结伴去庙里烧香" rel="bookmark">两闺蜜结伴去庙里烧香</a> </li>
+
+</ul>
+</div>
+
+</div><!--右边结束-->
+
+<!--爆笑图片-->
+<div class="yqlink border4 fbold f14">
+<ul class="link_ul">
+<li><a href="/gaoxiao/">爆笑图片</a></li>
+</ul>
+</div>
+<div class="yylink border4">
+<div class="rongyu_body rongyu_body1 ">
+<ul class="yysbul sss" id="Aequipment1">
+<li><a href="/gaoxiao/meitu/12925.html" target="_blank" title="美女少妇图片" rel="bookmark"><img src="/dyimg/bimg/1605/718-1605100045403H-lp.jpg" alt="美女少妇图片" width="165" height="120"/><br/>美女少妇图片</a></li>
+<li><a href="/gaoxiao/egaotu/12919.html" target="_blank" title="大妈，功夫好了的" rel="bookmark"><img src="/dyimg/bimg/1512/717-1512161146312K-lp.jpg" alt="大妈，功夫好了的" width="165" height="120"/><br/>大妈，功夫好了的</a></li>
+<li><a href="/gaoxiao/egaotu/12918.html" target="_blank" title="妈，再矮一点，够不着" rel="bookmark"><img src="/dyimg/bimg/1512/717-15121611455MQ-lp.jpg" alt="妈，再矮一点，够不着" width="165" height="120"/><br/>妈，再矮一点，够不着</a></li>
+<li><a href="/gaoxiao/egaotu/12787.html" target="_blank" title="请告诉我你是怎么穿上的" rel="bookmark"><img src="/dyimg/bimg/1511/717-151116112120964-lp.jpg" alt="请告诉我你是怎么穿上的" width="165" height="120"/><br/>请告诉我你是怎么穿上的</a></li>
+<li><a href="/gaoxiao/qunzhu/12700.html" target="_blank" title="单身狗连吃饭都要被恶意袭击" rel="bookmark"><img src="/dyimg/bimg/1510/717-151029134132N2-lp.jpg" alt="单身狗连吃饭都要被恶意袭击" width="165" height="120"/><br/>单身狗连吃饭都要被恶意袭击</a></li>
+<li><a href="/gaoxiao/nahantu/12693.html" target="_blank" title="有实力的胸器，让多少少女自" rel="bookmark"><img src="/dyimg/bimg/1510/1-15102H3221A55-lp.png" alt="有实力的胸器，让多少少女自" width="165" height="120"/><br/>有实力的胸器，让多少少女自</a></li>
+<li><a href="/gaoxiao/baixiao/12655.html" target="_blank" title="2到这种程度，真是无语……" rel="bookmark"><img src="/dyimg/bimg/1510/717-151019115306122-lp.gif" alt="2到这种程度，真是无语……" width="165" height="120"/><br/>2到这种程度，真是无语……</a></li>
+<li><a href="/gaoxiao/mengtu/12459.html" target="_blank" title="小主人你真的好重..." rel="bookmark"><img src="/dyimg/bimg/1509/717-15093013463Y20-lp.gif" alt="小主人你真的好重..." width="165" height="120"/><br/>小主人你真的好重...</a></li>
+<li><a href="/gaoxiao/mengtu/12412.html" target="_blank" title="大哥，我走错地盘了，马上走" rel="bookmark"><img src="/dyimg/bimg/1509/717-150925115R91N-lp.jpg" alt="大哥，我走错地盘了，马上走" width="165" height="120"/><br/>大哥，我走错地盘了，马上走</a></li>
+<li><a href="/gaoxiao/egaotu/12296.html" target="_blank" title="测试下最近有没有人暗恋你，" rel="bookmark"><img src="/dyimg/bimg/1509/717-150914134TY46-lp.jpg" alt="测试下最近有没有人暗恋你，" width="165" height="120"/><br/>测试下最近有没有人暗恋你，</a></li>
+ 
+</ul>
+</div>
+</div>
+<div class="yqlink border4 fbold f14">
+<ul class="link_ul">
+<li name="2"><a href="/" rel="nofollow">友情链接</a></li>
+</ul>
+</div>
+<div class="yylink border4">
+<div class="rongyu_body rongyu_body2">
+<a href='http://www.dyxiaohua.com/' target='_blank'>好笑的笑话</a> <a href='http://www.xiaobuqi.com/' target='_blank'>笑不起笑话</a> <a href='http://www.xiaolinsi.com/' target='_blank'>笑林寺</a> <a href='http://www.39yss.com/' target='_blank'>时尚网</a> <a href='http://www.bxxh.net/' target='_blank'>笑话大全</a> <a href='http://www.tucaoo.com/' target='_blank'>李毅吧</a> <a href='http://www.ya08.com/' target='_blank'>雨爱文章网</a> <a href='http://www.gushi8.net/' target='_blank'>故事吧</a> <a href='http://www.haotijin.com/' target='_blank'>冷笑话大全</a> <a href='http://mh.quhua.com/' target='_blank'>漫画</a> <a href='http://www.67ge.com/' target='_blank'>笑话大全爆笑</a>  
+</div>
+</div>
+<!--爆笑图片-end-->
+</div><!--w1000-->
+
+<div class="d100">
+<div class="bbottom f14  fwhite ">
+
+<a href="/">网站首页 </a> | 
+<a href="/xiaohua/baoxiao/">爆笑笑话</a> |
+<a href="/xiaohua/nannv/">男女笑话</a> |
+<a href="/xiaohua/qiuaimiji/">求爱秘籍</a> |
+<a href="/zonghe/">综合情趣</a> |
+<a href="/xiaohua/jieri/">节日笑话</a> |
+<a href="/xiaohua/zhichang/">职场笑话</a> |
+<a href="/xiaohua/ertong/">儿童笑话</a> |
+<a href="/zhihui/">智慧故事</a> |
+<a href="/sitemap.xml">谷歌地图</a>  | 
+<a href="/sitemap.html">百度地图</a>
+
+</div>
+<div class="dbxx fwhite">
+<p><img src="/img/xiaohua.png" /></p>
+<p>第一笑话旨在提供最好笑的笑话，搞笑图片，儿童笑话，夫妻笑话，恋爱必读，求爱秘籍等搞笑的笑话大全,希望大家每日一笑</p>
+<p>通过右侧分类可以查看对应的笑话栏目,如果网站笑话内容侵犯到您的权益,请联系我们,我们会在24小时内删除;QQ:756687299</p>
+<!-- Baidu Button END -->
+<p>Copyright@ <a href="http://www.dyxiaohua.com/">第一笑话</a> www.dyxiaohua.com Rights Reserved 粤ICP备13023273号-1 <script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_5731698'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "s17.cnzz.com/stat.php%3Fid%3D5731698' type='text/javascript'%3E%3C/script%3E"));</script> </p>
+
+</div>
+</div>
+<script>gg("130x270p1");</script>
+</body>
+</html>
+

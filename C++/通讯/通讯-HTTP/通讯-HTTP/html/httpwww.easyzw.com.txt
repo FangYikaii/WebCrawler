@@ -1,0 +1,774 @@
+HTTP/1.1 200 OK
+Server: DnionOS/1.11.2.3
+Date: Sat, 25 Mar 2017 04:35:09 GMT
+Content-Type: text/html; charset=gb2312
+Content-Length: 49820
+Connection: close
+Vary: Accept-Encoding
+X-Powered-By: PHP/5.4.45
+Age: 712
+Via: CT-CNC-ZJFY-P-6-100 (DLC-3.0), CT-FJQZ-C-223-187 (DLC-3.0)
+Server-Info: DnionATS
+
+<!DOCTYPE html PUBliC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<meta name="applicable-device" content="pc" />
+<meta http-equiv="Cache-Control" content="no-transform" />
+<meta http-equiv="Cache-Control" content="no-siteapp" />
+<title>作文大全_小学作文_作文网_作文网小学</title>
+<meta name="description" content="作文大全,作文网,作文网小学,小学生作文大全,好作文大全,小学作文,星火作文网,作文大全网,小学作文大全,作文网站大全,小学生作文,小学作文网,小学生作文网,征文大全,小作文,优美作文大全" />
+<meta name="mobile-agent" content="format=xhtml;url=http://m.easyzw.com/">
+<link rel="stylesheet" href="/css/pub.css?02" type="text/css"/>
+<script type="text/javascript" src="/jump.php?01"></script>
+<script type="text/javascript" src="/js/pub.js?01"></script>
+<script type="text/javascript" src="/js/yh_zhuce.js?04"></script>
+<script type="text/javascript" src="/js/jquery-1.7.2.min.js?04"></script>
+<script type="text/javascript" src="/js/focus.js?04"></script>
+<script type="text/javascript" src="/include/dedeajax2.js?01"></script>
+<!--script type="text/javascript" src="/js/easyzw_ajax2.js"></script-->
+<script src="http://public.1985t.com/js/uaredirect.js" type="text/javascript"></script>
+<script type="text/javascript">uaredirect("http://m.easyzw.com/");</script>
+<script type="text/javascript" src="/js/pcgg.js"></script>
+
+<meta name="shenma-site-verification" content="d9e4803c7379a6b6b851a2fa5c340931_1443407970">
+<script language="javascript" type="text/javascript">	
+	$(function(){
+		var username = $('.welcome').find('strong').text();
+		if(username){
+			$('.fbwz').hide();
+			$('.tougao_login').show();
+		}else{
+			$('.fbwz').show();
+			$('.tougao_login').hide();
+		}
+	});
+</script>
+</head>
+
+<body class="body">
+<script language="javascript" type="text/javascript">
+	function CheckLogin(){
+	  var taget_obj = document.getElementById('_userlogin');
+	  myajax = new DedeAjax(taget_obj,false,false,'','','');
+	  myajax.SendGet2("/member/ajax_loginsta.php");
+	  DedeXHTTP = null;
+	}
+</script>
+<div class="weizhi">
+  <div class="left">星火作文网，小学生作文，初中作文，高中作文，优秀作文大全！<span>马上参加作文投稿:<a href="/about/tougaoxuzhi.html" class="c-f60">在线作文投稿</a></span></div>
+  <div class="right" id="userinfo">
+	<div id="_userlogin">
+      <div class="userlogin">
+		<a href="/member/reg_new.php" >用户注册</a> | <a href="/member/login.php">登陆</a> | <a href="/qqLogin/index.php" class="qq_login"></a>
+      </div>
+     </div>
+     <!-- /userlogin -->
+     <script language="javascript" type="text/javascript">CheckLogin();</script>
+  </div>
+</div>
+
+<div class="top">
+  <div class="logo_tu">
+    <div class="logo"><a title="星火作文网" href="/"><img src="/img/logo.gif"/></a></div>
+    <div class="ibox_auto">
+<!-- 广告位：xh_468*60 -->
+<script type="text/javascript">easyzw_A_D('pc_easyzw_11');</script>
+</div>
+    <div class="login">
+      <div class="header-mobile" title="手机访问星火作文网">http://m.easyzw.com/</div>
+      <div class="search">
+	  
+	  <form action="/plus/search.php" id="search" name="form">
+	  <p><input type="text" name="q" class="sea_txt" value="想找什么，输入名称试试" onblur="if(this.value=='')this.value='想找什么，输入名称试试';" onfocus="if(this.value=='想找什么，输入名称试试')this.value='';"></p>
+	  <input class="sub" type="submit" value="">
+	  </form>
+	  
+	  </div>
+    </div>
+  </div>
+
+  <div class="nva">
+    <div class="nva_1">
+      <div class="nva_2"><a href="/html/xiaoxuezuowen/" title="小学作文"><img src="/img/nva1.jpg" border="0"/></a></div>
+      <div class="nva_3">
+        <ul>
+          <li><a href="/html/yinianji/">一年级作文</a></li>
+          <li>|</li>
+          <li><a href="/html/ernianji/">二年级作文</a></li>
+          <li>|</li>
+          <li><a href="/html/sannianji/">三年级作文</a></li>
+          <li><a href="/html/sinianji/">四年级作文</a></li>
+          <li>|</li>
+          <li><a href="/html/wunianji/">五年级作文</a></li>
+          <li>|</li>
+          <li><a href="/html/liunianji/">六年级作文</a></li>
+        </ul>
+      </div>
+      <div class="nva_2"><a href="/html/chuzhongzuowen/" title="初中作文"><img src="/img/nva2.jpg" border="0"/></a></div>
+      <div class="nva_4">
+        <ul>
+          <li><a href="/html/chuyizuowen/">初一作文</a></li>
+          <li>|</li>
+          <li><a href="/html/chuerzuowen/">初二作文</a></li>
+          <li><a href="/html/chusanzuowen/">初三作文</a></li>
+          <li>|</li>
+          <li><a href="/html/zhongkaozuowen/">中考作文</a></li>
+        </ul>
+      </div>
+      <div class="nva_2"><a href="/html/gaozhongzuowen/" title="高中作文"><img src="/img/nva3.jpg" border="0"/></a></div>
+      <div class="nva_4">
+        <ul>
+          <li><a href="/html/gaoyi/">高一作文</a></li>
+          <li>|</li>
+          <li><a href="/html/gaoer/">高二作文</a></li>
+          <li><a href="/html/gaosan/">高三作文</a></li>
+          <li>|</li>
+          <li><a href="/html/gaokaozuowen/">高考作文</a></li>
+        </ul>
+      </div>
+      <div class="nva_2"><a href="/html/zuowenticai/" title="作文题材"><img src="/img/nva4.jpg" border="0"/></a></div>
+      <div class="nva_5">
+        <ul>
+          <li><a href="/html/xieren/">写人</a></li>
+          <li>|</li>
+          <li><a href="/html/xiejing/">写景</a></li>
+          <li>|</li>
+
+          <li><a href="/html/xiangxiang/">想象</a></li>
+          <li>|</li>
+          <li><a href="/html/dongwuzuowen/">动物</a></li>
+          <li>|</li>
+          <li><a href="/html/zhouji/">周记</a></li>
+          <li>|</li>
+          <li><a href="/html/duhougan/">读后感</a></li>
+          <br />
+
+
+          <li><a href="/html/yingyuzuowen/">英语</a></li>
+          <li>|</li>
+          <li><a href="/html/huanbaozuowen/">环保</a></li>
+          <li>|</li>
+          <li><a href="/html/xinqing/">心情</a></li>
+          <li>|</li>
+          <li><a href="/html/zhuangwuzuowen/">状物</a></li>
+          <li>|</li>
+          <li><a href="/html/riji/">日记</a></li>
+          <li>|</li>
+          <li><a href="/html/yilunwen/">议论文</a></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+  
+</div>
+<!--结束头部-->
+
+<div class="infldh">
+  <div class="inlfnav_box">
+    <ul>
+        <li class="noborder">
+      	<b>人物类</b> 
+        	<a href="/zt/baba.html" >我的爸爸作文</a>
+        	<a href="/zt/wodemama.html" >我的妈妈作文</a>
+        	<a href="/zt/yeye.html" >爷爷作文</a>
+        	<a href="/zt/nainai.html" >奶奶作文</a>
+        	<a href="/zt/waigong.html" >外公作文</a>
+        	<a href="/zt/waipo.html" >外婆作文</a>
+        	<a href="/zt/shushu.html" >叔叔作文</a>
+        	<a href="/zt/ayi.html" >阿姨作文</a>
+		<a href="/zt/didi.html" >弟弟作文</a>
+        	<a href="/zt/meimei.html" >妹妹作文</a>
+		<a href="/zt/gege.html" >哥哥作文</a>
+		<a href="/zt/jiejie.html" >姐姐作文</a>
+		<a href="/zt/tongxue.html" >同学作文</a>
+		<a href="/zt/bobo.html" >伯伯作文</a>
+	</li>
+    	<li class="noborder">
+      	<b>节日类</b> 
+		<a href="/zt/chunjie.html" >春节作文</a>
+		<a href="/zt/yuanxiaojie.html" >元宵节作文</a>
+        	<a href="/zt/zhishujie.html" >植树节作文</a>
+        	<a href="/zt/qingmingjie.html" >清明节作文</a>
+		<a href="/zt/laodongjie.html" >劳动节作文</a>
+		<a href="/zt/duanwujie.html" >端午节作文</a>
+		<a href="/zt/liuyiertongjie.html" >六一儿童节作文</a>
+		<a href="/zt/jianjunjie.html" >建军节作文</a>
+		<a href="/zt/jiaoshijie.html" >教师节作文</a>
+        	<a href="/zt/guoqingjie.html" >国庆节作文</a>
+        	<a href="/zt/zhongqiujie.html" >中秋节作文</a>
+		<a href="/zt/chongyangjie.html" >重阳节作文</a>
+	</li>
+		<li class="noborder">
+      	<b>自然类</b> 
+		<a href="/zt/chuntian.html" >春天作文</a>
+		<a href="/zt/xiatian.html" >夏天作文</a>
+		<a href="/zt/qiutian.html" >秋天作文</a>
+		<a href="/zt/dongtian.html" >冬天作文</a>
+        	<a href="/zt/richu.html" >日出作文</a>
+        	<a href="/zt/riluo.html" >日落作文</a>
+        	<a href="/zt/yangguang.html" >阳光作文</a>
+		<a href="/zt/xiyang.html" >夕阳作文</a>
+		<a href="/zt/dizhen.html" >地震作文</a>
+		<a href="/zt/liuxingyu.html" >流星雨作文</a>
+		<a href="/zt/yueliang.html" >月亮作文</a>
+		<a href="/zt/tianqi.html" >天气作文</a>
+		<a href="/zt/yu.html" >雨作文</a>
+		<a href="/zt/caihong.html" >彩虹作文</a>
+		<a href="/zt/pubu.html" >瀑布作文</a>
+	</li>
+    	<li class="noborder">
+      	<b>风景类</b> 
+		<a href="/zt/changcheng.html" >长城作文</a>
+        	<a href="/zt/taishan.html" >泰山作文</a>
+        	<a href="/zt/xihu.html" >西湖作文</a>
+        	<a href="/zt/dahai.html" >大海作文</a>
+        	<a href="/zt/sanya.html" >三亚作文</a>
+		<a href="/zt/changbaishan.html" >长白山作文</a>	
+	        <a href="/zt/xiaoyuanfengjing.html" >校园作文</a>
+        	<a href="/zt/huangshan.html" >黄山作文</a>
+        	<a href="/zt/xuejing.html" >雪景作文</a>
+        	<a href="/zt/zhouzhuang.html" >周庄作文</a>
+        	<a href="/zt/daziran.html" >大自然作文</a>
+		<a href="/zt/tianye.html" >田野作文</a>	
+        	<a href="/zt/lushan.html" >庐山作文</a>
+        	<a href="/zt/lijiang.html" >丽江作文</a>
+			
+	</li>
+	    <li class="noborder">
+      	<b>动物类</b> 
+        	<a href="/zt/xiaogou.html" >小狗作文</a>
+        	<a href="/zt/xiaoji.html" >小鸡作文</a>
+		<a href="/zt/xiaomao.html" >小猫作文</a>
+        	<a href="/zt/tuzi.html" >兔子作文</a>
+        	<a href="/zt/wuya.html" >乌鸦作文</a>
+        	<a href="/zt/mayi.html" >蚂蚁作文</a>
+        	<a href="/zt/jinyu.html" >金鱼作文</a>
+        	<a href="/zt/wugui.html" >乌龟作文</a>
+		<a href="/zt/xiaoya.html" >小鸭作文</a>
+        	<a href="/zt/huli.html" >狐狸作文</a>
+		<a href="/zt/laohu.html" >老虎作文</a>
+        	<a href="/zt/xiongmao.html" >熊猫作文</a>
+        	<a href="/zt/zhizhu.html" >蜘蛛作文</a>
+        	<a href="/zt/yingwu.html" >鹦鹉作文</a>
+        	<a href="/zt/mifeng.html" >蜜蜂作文</a>
+	</li>
+	    <li class="noborder">
+      	<b>运动类</b> 
+        	<a href="/zt/fengzheng.html" >放风筝作文</a>
+        	<a href="/zt/yumaoqiu.html" >羽毛球作文</a>
+        	<a href="/zt/shuaijiao.html" >摔跤作文</a>
+        	<a href="/zt/qiche.html" >骑车作文</a>
+        	<a href="/zt/lanqiu.html" >篮球作文</a>
+        	<a href="/zt/zuqiu.html" >足球作文</a>
+        	<a href="/zt/xiaqi.html" >下棋作文</a>
+		<a href="/zt/youyong.html" >游泳作文</a>
+		<a href="/zt/diaoyu.html" >钓鱼作文</a>
+        	<a href="/zt/tiaogao.html" >跳高作文</a>
+        	<a href="/zt/ticao.html" >体操作文</a>
+        	<a href="/zt/dengshan.html" >登山作文</a>
+		<a href="/zt/tiaoshui.html" >跳水作文</a>
+		<a href="/zt/paiqiu.html" >排球作文</a>
+	</li>
+		<li class="noborder">
+      	<b>励志类</b> 
+        	<a href="/zt/huiyi.html" >回忆作文</a>
+        	<a href="/zt/lizhi.html" >励志作文</a>
+        	<a href="/zt/yonggan.html" >勇敢作文</a>
+        	<a href="/zt/jianqiang.html" >坚强作文</a>
+        	<a href="/zt/qingchun.html" >青春作文</a>
+        	<a href="/zt/xinnian.html" >信念作文</a>
+        	<a href="/zt/zunyan.html" >尊严作文</a>
+		<a href="/zt/guanxin.html" >关心作文</a>
+		<a href="/zt/tiyan.html" >体验作文</a>
+		<a href="/zt/pinbo.html" >拼搏作文</a>
+		<a href="/zt/xintai.html" >心态作文</a>
+		<a href="/zt/jili.html" >激励作文</a>
+		<a href="/zt/maoxian.html" >冒险作文</a>
+	        <a href="/zt/rennai.html" >忍耐作文</a>
+		<a href="/zt/chongshi.html" >充实作文</a>
+	</li>		
+		<li class="noborder">
+      	<b>事件类</b> 
+        	<a href="/zt/qiqishibian.html" >七七事变作文</a>
+        	<a href="/zt/kangzhan70.html" >抗战70周年作文</a>
+        	<a href="/zt/aoyunhui.html" >奥运会作文</a>
+        	<a href="/zt/yundonghui.html" >运动会作文</a>
+       	        <a href="/zt/lianhuanhui.html" >联欢会作文</a>
+        	<a href="/zt/bianlunsai.html" >辩论赛作文</a>
+		<a href="/zt/guangmiaohui.html" >逛庙会作文</a>
+        	<a href="/zt/yuebing.html" >阅兵作文</a>
+        	<a href="/zt/nanjingdatusha.html" >南京大屠杀作文</a>
+       		<a href="/zt/shengqi.html" >升国旗作文</a>
+        	<a href="/zt/jizu.html" >祭祖作文</a>
+        	<a href="/zt/saomu.html" >扫墓作文</a>
+	</li>
+	<li class="noborder">
+      	<b>按字数</b> 
+        	<a href="/zishu/100zi/" >作文100字</a>
+        	<a href="/zishu/200zi/" >作文200字</a>
+        	<a href="/zishu/300zi/" >作文300字</a>
+        	<a href="/zishu/400zi/" >作文400字</a>
+       	        <a href="/zishu/500zi/" >作文500字</a>
+        	<a href="/zishu/600zi/" >作文600字</a>
+		<a href="/zishu/700zi/" >作文700字</a>
+        	<a href="/zishu/800zi/" >作文800字</a>
+        	<a href="/zishu/900zi/" >作文900字</a>
+       		<a href="/zishu/1000zi/" >作文1000字</a>
+        	<a href="/zishu/1100zi/" >作文1100字</a>
+        	<a href="/zishu/1200zi/" >作文1200字</a>
+        	<a href="/zishu/1300zi/" >作文1300字</a>
+	</li>
+	</li>
+    </ul>
+  </div>
+</div>
+
+<div class="ad970">
+<!-- 广告位：xh_970*90_gg -->
+<script type="text/javascript">easyzw_A_D('pc_easyzw_1');</script>
+</div>
+
+<div class="main">
+  <div class="tu_goggao">
+    <div class="tu_new">
+      <div class="tu_new1">
+        <div class="zuixin"><a href="/tougao/index.html">最新投稿</a></div>
+        <div class="tu_new2">
+		<div class="focus">
+                <ul class="rslides f426x240">
+                	<li><a href="/zt/wodelixiang.html" ><img src="/uploads/170317/27416-1F31GFZ2295.jpg" alt="我的理想作文,我的理想作文600字"  width="486" height="230" /></a></li>
+<li><a href="/zt/dzrdqs.html" ><img src="/uploads/170321/27416-1F3211A02S56.jpg" alt="大自然的启示作文,大自然的启示"  width="486" height="230" /></a></li>
+<li><a href="/zt/zhejiushiwo.html" ><img src="/uploads/170321/27416-1F3211A12BD.jpg" alt="这就是我作文,这就是我作文300字"  width="486" height="230" /></a></li>
+<li><a href="/zt/wodefaxian.html" ><img src="/uploads/170324/27416-1F3241624434A.jpg" alt="我的发现作文,我的发现作文400字"  width="486" height="230" /></a></li>
+<li><a href="/zt/jingxuangao.html" ><img src="/uploads/170321/27416-1F3211A059104.jpg" alt="竞选稿,学习委员竞选稿,学生会竞"  width="486" height="230" /></a></li>
+                
+                </ul>
+            </div>
+
+		</div>
+        <div class="tu_new3">
+          <ul>
+			<li> <span class="lei">[<a href="/html/sannianji/ ">三年级</a>]</span><a href="/html/sannianji/2017/0323/220410.html" >善良的小狗</a></li>
+<li> <span class="lei">[<a href="/html/liunianji/ ">六年级</a>]</span><a href="/html/liunianji/2017/0313/219601.html" >我是一匹狼</a></li>
+<li> <span class="lei">[<a href="/html/chuzhongzuowen/ ">初中作文</a>]</span><a href="/html/chuzhongzuowen/2017/0305/219194.html" >序言</a></li>
+<li> <span class="lei">[<a href="/html/chusanzuowen/ ">初三作文</a>]</span><a href="/html/chusanzuowen/2017/0110/216112.html" >最是难忘那表情</a></li>
+<li> <span class="lei">[<a href="/html/chusanzuowen/ ">初三作文</a>]</span><a href="/html/chusanzuowen/2017/0110/216111.html" >我的初三生活</a></li>
+<li> <span class="lei">[<a href="/html/chuerzuowen/ ">初二作文</a>]</span><a href="/html/chuerzuowen/2017/0101/215186.html" >青春，不回头</a></li>
+<li> <span class="lei">[<a href="/html/chuerzuowen/ ">初二作文</a>]</span><a href="/html/chuerzuowen/2016/1224/214499.html" >凝视生活</a></li>
+            
+          </ul>
+        </div>
+      </div>
+    </div>
+    <div class="goggao">
+      <div id="idx_uinfo" class="goggao3">
+          <div class="title">作文专题</div>
+               <ul>    
+               <li><a href="/zt/kuajiaxiang.html" >夸家乡作文,夸家乡的作文,二年级</a></li>
+<li><a href="/zt/wofaxianle.html" >我发现了什么作文,我发现了蚂蚁</a></li>
+<li><a href="/zt/huiyinayike.html" >回忆那一刻作文,回忆那一刻作文5</a></li>
+<li><a href="/zt/fanka.html" >凡卡续写,凡卡读后感,续写凡卡</a></li>
+                 
+                       
+              </ul>
+              <div class="fbwz" style="display:none;"> 
+				<a href="/member/article_add.php" class="btn_tougao" ></a>
+				<a href="/member/login.php" class="btn_login" ></a>
+				<a href="/qqLogin/index.php" class="qq_login" ></a>
+		</div>
+               <div class="tougao_login" style="display:none;"> 
+			<a href="/member/article_add.php" class="btn_tougao" ></a>
+		 </div>
+          </div>
+    </div>
+  </div>
+
+  
+  <!--小学作文-->
+  <div class="hanggao2"></div>  
+  <div class="xiaoxue_rem">
+    <div class="xiaoxue">
+      <div class="xiaoxue_title">      	
+        <ul>
+          <li><a href="/html/liunianji/">六年级作文</a></li>
+          <li>|</li>
+          <li><a href="/html/wunianji/">五年级作文</a></li>
+          <li>|</li>
+          <li><a href="/html/sinianji/">四年级作文</a></li>
+          <li>|</li>
+          <li><a href="/html/sannianji/">三年级作文</a></li>
+          <li>|</li>
+          <li><a href="/html/ernianji/">二年级作文</a></li>
+          <li>|</li>
+          <li><a href="/html/yinianji/">一年级作文</a></li>
+
+        </ul>
+        <span>小学生作文</span>
+      </div>
+      <div class="xiaoxue_b">
+        <ul>
+		  <li><span class="lei">[六年级]</span><span class="lei_tit"><a href="/html/liunianji/2017/0325/220556.html">一日游作文600字 我的寻访故事</a></span><span class="riqi">03-25</span></li>
+<li><span class="lei">[六年级]</span><span class="lei_tit"><a href="/html/liunianji/2017/0325/220555.html">爱心作文400字 心的呼唤，爱的奉</a></span><span class="riqi">03-25</span></li>
+<li><span class="lei">[六年级]</span><span class="lei_tit"><a href="/html/liunianji/2017/0325/220553.html">过年作文900字 我家幸福年</a></span><span class="riqi">03-25</span></li>
+<li><span class="lei">[六年级]</span><span class="lei_tit"><a href="/html/liunianji/2017/0325/220552.html">春天作文1100字 关于春天的作文</a></span><span class="riqi">03-25</span></li>
+<li><span class="lei">[六年级]</span><span class="lei_tit"><a href="/html/liunianji/2017/0324/220549.html">国庆作文500字 漫话国庆</a></span><span class="riqi">03-24</span></li>
+<li><span class="lei">[三年级]</span><span class="lei_tit"><a href="/html/sannianji/2017/0122/217047.html">三年级作文介绍自己500字 这就是</a></span><span class="riqi">03-24</span></li>
+<li><span class="lei">[五年级]</span><span class="lei_tit"><a href="/html/wunianji/2016/1126/211226.html">生活中的发现作文 我的发现</a></span><span class="riqi">03-24</span></li>
+<li><span class="lei">[六年级]</span><span class="lei_tit"><a href="/html/liunianji/2017/0324/220548.html">中秋节作文500字 中秋游同里</a></span><span class="riqi">03-24</span></li>
+<li><span class="lei">[六年级]</span><span class="lei_tit"><a href="/html/liunianji/2017/0324/220547.html">传统节日作文600字 快乐中秋</a></span><span class="riqi">03-24</span></li>
+<li><span class="lei">[五年级]</span><span class="lei_tit"><a href="/html/wunianji/2017/0324/220546.html">保护动物作文600字 猫口脱险</a></span><span class="riqi">03-24</span></li>
+<li><span class="lei">[四年级]</span><span class="lei_tit"><a href="/html/sinianji/2017/0324/220542.html">我家的小狗作文400字 点点轶事</a></span><span class="riqi">03-24</span></li>
+<li><span class="lei">[六年级]</span><span class="lei_tit"><a href="/html/liunianji/2017/0324/220540.html">在尝试中成长作文600字 这是一次</a></span><span class="riqi">03-24</span></li>
+<li><span class="lei">[六年级]</span><span class="lei_tit"><a href="/html/liunianji/2017/0324/220538.html">关于中国传统文化的作文 700字 </a></span><span class="riqi">03-24</span></li>
+<li><span class="lei">[六年级]</span><span class="lei_tit"><a href="/html/liunianji/2017/0324/220537.html">泡温泉作文600字 温泉之旅</a></span><span class="riqi">03-24</span></li>
+<li><span class="lei">[六年级]</span><span class="lei_tit"><a href="/html/liunianji/2017/0324/220532.html">我学会了 作文600字 妈妈教我学</a></span><span class="riqi">03-24</span></li>
+<li><span class="lei">[六年级]</span><span class="lei_tit"><a href="/html/liunianji/2017/0324/220530.html">描写春雨的作文400字 春雨，我的</a></span><span class="riqi">03-24</span></li>
+<li><span class="lei">[六年级]</span><span class="lei_tit"><a href="/html/liunianji/2017/0324/220528.html">我爱读书作文500字 我的读书生活</a></span><span class="riqi">03-24</span></li>
+<li><span class="lei">[六年级]</span><span class="lei_tit"><a href="/html/liunianji/2017/0324/220526.html">采访作文500字 一次特殊的采访</a></span><span class="riqi">03-24</span></li>
+<li><span class="lei">[六年级]</span><span class="lei_tit"><a href="/html/liunianji/2017/0324/220525.html">小学生优秀作文600字 校园晨练</a></span><span class="riqi">03-24</span></li>
+<li><span class="lei">[六年级]</span><span class="lei_tit"><a href="/html/liunianji/2017/0324/220523.html">小学生写作文500字 晨练</a></span><span class="riqi">03-24</span></li>
+          
+        </ul>
+      </div>
+    </div>
+    <div class="remen">
+      <div class="title">小学作文排行</div>
+      <ul>
+		  <li><a href="/html/sinianji/2009/1013/42241.html"><font color='#990000'>妈妈，请原谅我偷偷拿了您的钱</font></a></li>
+<li><a href="/html/wunianji/2009/0910/41150.html">喜羊羊与灰太狼之美人计</a></li>
+<li><a href="/html/sinianji/2010/0114/48139.html">母爱作文600字</a></li>
+<li><a href="/html/wunianji/2009/0910/41152.html">喜洋洋错怪了灰太狼</a></li>
+<li><a href="/html/sinianji/2010/0203/50385.html">童话故事作文400字</a></li>
+<li><a href="/html/wunianji/2010/1105/83925.html">我和书的故事</a></li>
+<li><a href="/html/sannianji/2009/0618/21730.html">当孙悟空爱上白雪公主</a></li>
+<li><a href="/html/wunianji/2010/1026/82207.html">我长大了作文600字</a></li>
+<li><a href="/html/ernianji/2012/0306/136693.html">给老师的一封信400字</a></li>
+<li><a href="/html/sinianji/2009/0812/40947.html">喜羊羊与灰太狼续写（4）</a></li>
+          
+        </ul>
+    </div>
+  </div>
+  
+  <!--初中作文-->
+  <div class="hanggao2"></div>
+  <div class="chuzhong_rem">
+    <div class="chuzhong">
+      <div class="chuzhong_title">      	
+        <ul>
+          <li><a href="/html/zhongkaozuowen/">中考作文</a></li>
+          <li>|</li>       
+          <li><a href="/html/chusanzuowen/">初三作文</a></li>
+          <li>|</li>
+          <li><a href="/html/chuerzuowen/">初二作文</a></li>
+          <li>|</li>
+          <li><a href="/html/chuyizuowen/">初一作文</a></li>
+ 
+        </ul>
+        <span>初中生作文</span>
+      </div>
+      <div class="chuzhong_b">
+        <ul>
+          <li><span class="lei">[初二作文]</span><span class="lei_tit"><a href="/html/chuerzuowen/2017/0324/220531.html">史记读后感1000字 好书伴我成长</a></span><span class="riqi">03-24</span></li>
+<li><span class="lei">[初三作文]</span><span class="lei_tit"><a href="/html/chusanzuowen/2017/0324/220452.html">古尔邦节作文两篇</a></span><span class="riqi">03-24</span></li>
+<li><span class="lei">[初二作文]</span><span class="lei_tit"><a href="/html/chuerzuowen/2017/0323/220439.html">写猫的作文800字 一个真实的故事</a></span><span class="riqi">03-23</span></li>
+<li><span class="lei">[初二作文]</span><span class="lei_tit"><a href="/html/chuerzuowen/2017/0323/220418.html">地震作文900字 《震不垮的爱》</a></span><span class="riqi">03-23</span></li>
+<li><span class="lei">[初二作文]</span><span class="lei_tit"><a href="/html/chuerzuowen/2017/0322/220323.html">学习心得作文1000字 我心中的教</a></span><span class="riqi">03-23</span></li>
+<li><span class="lei">[初二作文]</span><span class="lei_tit"><a href="/html/chuerzuowen/2017/0323/220350.html">那一种温暖作文7篇</a></span><span class="riqi">03-23</span></li>
+<li><span class="lei">[初一作文]</span><span class="lei_tit"><a href="/html/chuyizuowen/2017/0323/220348.html">那一种温暖作文两篇</a></span><span class="riqi">03-23</span></li>
+<li><span class="lei">[初二作文]</span><span class="lei_tit"><a href="/html/chuerzuowen/2017/0323/220345.html">吃一堑长一智作文两篇</a></span><span class="riqi">03-23</span></li>
+<li><span class="lei">[初一作文]</span><span class="lei_tit"><a href="/html/chuyizuowen/2017/0322/220275.html">在我心中你最美作文6篇</a></span><span class="riqi">03-22</span></li>
+<li><span class="lei">[初一作文]</span><span class="lei_tit"><a href="/html/chuyizuowen/2016/0812/200410.html">初一作文 我的理想（8篇）</a></span><span class="riqi">03-18</span></li>
+<li><span class="lei">[初一作文]</span><span class="lei_tit"><a href="/html/chuyizuowen/2016/0918/203690.html">家乡美景作文 初一作文（7篇）</a></span><span class="riqi">03-18</span></li>
+<li><span class="lei">[初二作文]</span><span class="lei_tit"><a href="/html/chuerzuowen/2017/0318/220016.html"> 这个世界需要你作文800字  这个</a></span><span class="riqi">03-18</span></li>
+<li><span class="lei">[初一作文]</span><span class="lei_tit"><a href="/html/chuyizuowen/2017/0314/219664.html">关于友情作文800字  友情，不会</a></span><span class="riqi">03-14</span></li>
+<li><span class="lei">[初中作文]</span><span class="lei_tit"><a href="/html/chuzhongzuowen/2017/0305/219194.html">序言</a></span><span class="riqi">03-06</span></li>
+<li><span class="lei">[初二作文]</span><span class="lei_tit"><a href="/html/chuerzuowen/2016/0719/198150.html">学雷锋作文600字 丰碑</a></span><span class="riqi">03-04</span></li>
+<li><span class="lei">[初三作文]</span><span class="lei_tit"><a href="/html/chusanzuowen/2017/0301/218940.html">叙事性散文2000字 有一种爱叫做</a></span><span class="riqi">03-01</span></li>
+<li><span class="lei">[初一作文]</span><span class="lei_tit"><a href="/html/chuyizuowen/2017/0224/218695.html">中学生作文400字 我最欣赏的人</a></span><span class="riqi">02-24</span></li>
+<li><span class="lei">[初三作文]</span><span class="lei_tit"><a href="/html/chusanzuowen/2017/0223/218632.html">致童年作文1200字 致我远逝的童</a></span><span class="riqi">02-23</span></li>
+<li><span class="lei">[初二作文]</span><span class="lei_tit"><a href="/html/chuerzuowen/2017/0222/218578.html">沟通的乐趣作文900字 感悟沟通</a></span><span class="riqi">02-22</span></li>
+<li><span class="lei">[初一作文]</span><span class="lei_tit"><a href="/html/chuyizuowen/2017/0222/218577.html">沟通的乐趣作文600字 交流的乐趣</a></span><span class="riqi">02-22</span></li>
+
+        </ul>
+      </div>
+    </div>
+    <div class="remen">
+      <div class="remen_title">
+        <div class="title">初中作文排行</div>
+      </div>
+      <div class="remen_b">
+        <ul>
+          <li><a href="/html/chuerzuowen/2010/1009/79880.html">让世界充满爱</a></li>
+<li><a href="/html/chuyizuowen/2012/0831/140654.html">我的梦想作文600字</a></li>
+<li><a href="/html/chuerzuowen/2013/0105/143476.html">爱在细微处作文600字</a></li>
+<li><a href="/html/chuyizuowen/2011/0616/127270.html">我与书的故事作文500字</a></li>
+<li><a href="/html/chuyizuowen/2012/1230/143344.html">幸福的滋味作文600字</a></li>
+<li><a href="/html/chuerzuowen/2012/0901/140677.html">幸福的滋味</a></li>
+<li><a href="/html/chuerzuowen/2012/0501/137936.html">生活需要宽容</a></li>
+<li><a href="/html/chuyizuowen/2013/0920/148209.html">向困难挑战</a></li>
+<li><a href="/html/chusanzuowen/2012/1116/142371.html">那时那微笑</a></li>
+<li><a href="/html/chuerzuowen/2012/0403/137305.html">陪伴作文600字</a></li>
+
+        </ul>
+      </div>
+    </div>
+  </div>
+  
+  
+  <div class="hanggao2"></div>
+  <div class="gaozhong_rem">
+    <div class="gaozhong">
+      <div class="gaozhong_title">      	
+        <ul>
+          <li><a href="/html/gaokaozuowen/">高考作文</a></li>
+          <li>|</li>
+          <li><a href="/html/gaosan/">高三作文</a></li>
+          <li>|</li>
+          <li><a href="/html/gaoer/">高二作文</a></li>
+          <li>|</li>     
+          <li><a href="/html/gaoyi/">高一作文</a></li>    
+        </ul>
+        <span>高中生作文</span>
+      </div>
+      <div class="gaozhong_b">
+        <ul>
+          <li><span class="lei">[高二作文]</span><span class="lei_tit"><a href="/html/gaoer/2017/0227/218821.html">高中生抒情散文900字 我和语文</a></span><span class="riqi">02-27</span></li>
+<li><span class="lei">[高考作文]</span><span class="lei_tit"><a href="/html/gaokaozuowen/2017/0227/218814.html">2012高考满分作文800字 甩掉多余</a></span><span class="riqi">02-27</span></li>
+<li><span class="lei">[高一作文]</span><span class="lei_tit"><a href="/html/gaoyi/2017/0224/218688.html">高考议论文作文800字 吃亏是福</a></span><span class="riqi">02-24</span></li>
+<li><span class="lei">[高二作文]</span><span class="lei_tit"><a href="/html/gaoer/2017/0224/218687.html">吃亏是福作文1000字 阿Q精神</a></span><span class="riqi">02-24</span></li>
+<li><span class="lei">[高三作文]</span><span class="lei_tit"><a href="/html/gaosan/2017/0222/218574.html">班门弄斧议论文900字 小议“班门</a></span><span class="riqi">02-22</span></li>
+<li><span class="lei">[高一作文]</span><span class="lei_tit"><a href="/html/gaoyi/2017/0222/218570.html">高中议论文范文600字 站直了做人</a></span><span class="riqi">02-22</span></li>
+<li><span class="lei">[高二作文]</span><span class="lei_tit"><a href="/html/gaoer/2017/0222/218569.html">站直了做人作文700字 高中生议论</a></span><span class="riqi">02-22</span></li>
+<li><span class="lei">[高考作文]</span><span class="lei_tit"><a href="/html/gaokaozuowen/2017/0221/218507.html">2012年江苏省高考零分作文1300字</a></span><span class="riqi">02-21</span></li>
+<li><span class="lei">[高一作文]</span><span class="lei_tit"><a href="/html/gaoyi/2017/0221/218503.html">关于路的作文700字 远方的路</a></span><span class="riqi">02-21</span></li>
+<li><span class="lei">[高二作文]</span><span class="lei_tit"><a href="/html/gaoer/2017/0221/218502.html">关于路的作文800字 走，一直在路</a></span><span class="riqi">02-21</span></li>
+<li><span class="lei">[高三作文]</span><span class="lei_tit"><a href="/html/gaosan/2017/0221/218501.html">关于路的作文1000字 在路上</a></span><span class="riqi">02-21</span></li>
+<li><span class="lei">[高二作文]</span><span class="lei_tit"><a href="/html/gaoer/2017/0221/218500.html">关于借物喻人的作文700字 不走寻</a></span><span class="riqi">02-21</span></li>
+<li><span class="lei">[高三作文]</span><span class="lei_tit"><a href="/html/gaosan/2017/0221/218498.html">借物抒情的作文800字 不走寻常路</a></span><span class="riqi">02-21</span></li>
+<li><span class="lei">[高一作文]</span><span class="lei_tit"><a href="/html/gaoyi/2017/0220/218441.html">多走一步作文600字 人生如棋</a></span><span class="riqi">02-20</span></li>
+<li><span class="lei">[高三作文]</span><span class="lei_tit"><a href="/html/gaosan/2017/0220/218440.html">坚持作文800字 多走一步</a></span><span class="riqi">02-20</span></li>
+<li><span class="lei">[高二作文]</span><span class="lei_tit"><a href="/html/gaoer/2017/0220/218439.html">关于坚持的作文700字 多走一步</a></span><span class="riqi">02-20</span></li>
+<li><span class="lei">[高一作文]</span><span class="lei_tit"><a href="/html/gaoyi/2017/0220/218437.html">议论文勤能补拙700字 勤能补拙</a></span><span class="riqi">02-20</span></li>
+<li><span class="lei">[高一作文]</span><span class="lei_tit"><a href="/html/gaoyi/2017/0218/218363.html">青春的作文800字 享受青春</a></span><span class="riqi">02-18</span></li>
+<li><span class="lei">[高一作文]</span><span class="lei_tit"><a href="/html/gaoyi/2017/0217/218293.html">高中叙事作文800字 还有下一次</a></span><span class="riqi">02-17</span></li>
+<li><span class="lei">[高二作文]</span><span class="lei_tit"><a href="/html/gaoer/2017/0217/218277.html">高中优秀作文700字 风的味道</a></span><span class="riqi">02-17</span></li>
+
+        </ul>
+      </div>
+    </div>
+    <div class="remen">
+      <div class="remen_title">
+        <div class="title">高中作文排行</div>
+      </div>
+      <div class="remen_b">
+        <ul>
+          <li><a href="/html/gaokaozuowen/2015/0722/165054.html">2014年湖北高考满分作文：山顶的</a></li>
+<li><a href="/html/gaokaozuowen/2015/0722/165053.html">2014年天津高考满分作文：不做“</a></li>
+<li><a href="/html/gaokaozuowen/2015/0918/168489.html">花 开 有 声</a></li>
+<li><a href="/html/gaokaozuowen/2015/0922/168813.html">向左转，向右走</a></li>
+<li><a href="/html/gaokaozuowen/2015/0722/165052.html">2014年浙江高考满分作文：启门一</a></li>
+<li><a href="/html/gaoer/2015/0725/165208.html">青春是一纸微忧的遗书</a></li>
+<li><a href="/html/gaokaozuowen/2015/0912/167696.html">拥抱丝路，此岸花开</a></li>
+<li><a href="/html/gaoer/2015/0715/164699.html">写给一具蚊尸</a></li>
+<li><a href="/html/gaokaozuowen/2015/0722/165051.html">2014年浙江高考满分作文：我的路</a></li>
+<li><a href="/html/gaoyi/2015/0923/168932.html">温暖的回忆</a></li>
+
+        </ul>
+      </div>
+    </div>
+  </div>
+  
+  <div class="hanggao2"></div>
+  <div class="zwtc">
+    <div class="zwtc_title">
+      <ul>
+        <li><a href="/html/xieren/">写人</a></li>
+        <li>|</li>
+        <li><a href="/html/xiejing/">写景</a></li>
+        <li>|</li>
+        <li><a href="/html/xushi/">叙事</a></li>
+        <li>|</li>
+        <li><a href="/html/riji/">日记</a></li>
+        <li>|</li>
+        <li><a href="/html/zhuangwuzuowen/">状物</a></li>
+        <li>|</li>
+        <li><a href="/html/dongwuzuowen/">动物</a></li>
+        <li>|</li>
+        <li><a href="/html/shuxin/">书信</a></li>
+        <li>|</li>
+        <li><a href="/html/xinqing/">心情</a></li>
+        <li>|</li>
+        <li><a href="/html/xiangxiang/">想象</a></li>
+        <li>|</li>
+        <li><a href="/html/youji/">游记</a></li>
+        <li>|</li>
+        <li><a href="/html/jixuwen/">记叙文</a></li>
+        <li>|</li>
+        <li><a href="/html/duhougan/">读后感</a></li>
+        <li>|</li>
+        <li><a href="/html/yilunwen/">议论文</a></li>
+      </ul>
+      <span>作文题材</span>
+    </div>
+    <div class="zwtc_b">
+      <ul>
+		<li><span class="lei">[优秀作文]</span><span class="lei_tit"><a href="/html/youxiuzuowen/2017/0325/220569.html">温故而知新作文500字（三篇）</a></span><span class="riqi">03-25</span></li>
+<li><span class="lei">[记叙文]</span><span class="lei_tit"><a href="/html/jixuwen/2017/0325/220567.html">意料之外作文五篇</a></span><span class="riqi">03-25</span></li>
+<li><span class="lei">[记叙文]</span><span class="lei_tit"><a href="/html/jixuwen/2017/0325/220564.html">享受人生，享受生活作文两篇</a></span><span class="riqi">03-25</span></li>
+<li><span class="lei">[优秀作文]</span><span class="lei_tit"><a href="/html/youxiuzuowen/2017/0325/220565.html">享受作文三篇 享受人生</a></span><span class="riqi">03-25</span></li>
+<li><span class="lei">[优秀作文]</span><span class="lei_tit"><a href="/html/youxiuzuowen/2017/0325/220562.html">此时无声胜有声作文6篇</a></span><span class="riqi">03-25</span></li>
+<li><span class="lei">[优秀作文]</span><span class="lei_tit"><a href="/html/youxiuzuowen/2017/0325/220561.html">优秀作文两篇  此时无声胜有声</a></span><span class="riqi">03-25</span></li>
+<li><span class="lei">[优秀作文]</span><span class="lei_tit"><a href="/html/youxiuzuowen/2017/0325/220559.html">生命的意义作文500字 人生的意义</a></span><span class="riqi">03-25</span></li>
+<li><span class="lei">[优秀作文]</span><span class="lei_tit"><a href="/html/youxiuzuowen/2017/0325/220558.html">散文作文400字 一树花的记忆</a></span><span class="riqi">03-25</span></li>
+<li><span class="lei">[读后感]</span><span class="lei_tit"><a href="/html/duhougan/2017/0325/220557.html">读后感作文500字 童年不同样</a></span><span class="riqi">03-25</span></li>
+<li><span class="lei">[读后感]</span><span class="lei_tit"><a href="/html/duhougan/2017/0325/220554.html">读书作文600字 好书伴我成长</a></span><span class="riqi">03-25</span></li>
+<li><span class="lei">[游记]</span><span class="lei_tit"><a href="/html/youji/2017/0324/220551.html">小学生游记作文600字 我的“书城</a></span><span class="riqi">03-24</span></li>
+<li><span class="lei">[书信]</span><span class="lei_tit"><a href="/html/shuxin/2017/0324/220550.html">书信作文500字 给姐姐的一封信</a></span><span class="riqi">03-24</span></li>
+<li><span class="lei">[优秀作文]</span><span class="lei_tit"><a href="/html/youxiuzuowen/2017/0324/220544.html">节约作文1000字 理财小“秘密”</a></span><span class="riqi">03-24</span></li>
+<li><span class="lei">[读后感]</span><span class="lei_tit"><a href="/html/duhougan/2017/0324/220543.html">名著读后感500字 读《红楼梦》有</a></span><span class="riqi">03-24</span></li>
+<li><span class="lei">[书信]</span><span class="lei_tit"><a href="/html/shuxin/2017/0324/220541.html">写给自己的信600字 一封来自我灵</a></span><span class="riqi">03-24</span></li>
+<li><span class="lei">[记叙文]</span><span class="lei_tit"><a href="/html/jixuwen/2017/0324/220539.html">身边的好人好事作文500字 生活需</a></span><span class="riqi">03-24</span></li>
+<li><span class="lei">[游记]</span><span class="lei_tit"><a href="/html/youji/2017/0324/220535.html">关于旅游的作文600字 鹜源游记</a></span><span class="riqi">03-24</span></li>
+<li><span class="lei">[记叙文]</span><span class="lei_tit"><a href="/html/jixuwen/2017/0324/220536.html">关于低碳环保的作文900字 我是低</a></span><span class="riqi">03-24</span></li>
+<li><span class="lei">[写景]</span><span class="lei_tit"><a href="/html/xiejing/2017/0324/220533.html">描写公园景色的作文600字 游青枫</a></span><span class="riqi">03-24</span></li>
+<li><span class="lei">[读后感]</span><span class="lei_tit"><a href="/html/duhougan/2017/0324/220534.html">名著读后感600字 读《羊脂球》有</a></span><span class="riqi">03-24</span></li>
+<li><span class="lei">[游记]</span><span class="lei_tit"><a href="/html/youji/2017/0324/220529.html">青岛游记作文500字 与沙滩共舞</a></span><span class="riqi">03-24</span></li>
+<li><span class="lei">[读后感]</span><span class="lei_tit"><a href="/html/duhougan/2017/0324/220527.html">读西游记有感600字 《西游记》读</a></span><span class="riqi">03-24</span></li>
+<li><span class="lei">[游记]</span><span class="lei_tit"><a href="/html/youji/2017/0324/220524.html">世博会作文500字 精彩的世博会</a></span><span class="riqi">03-24</span></li>
+<li><span class="lei">[叙事]</span><span class="lei_tit"><a href="/html/xushi/2017/0324/220521.html">学游泳作文400字 游泳随感</a></span><span class="riqi">03-24</span></li>
+<li><span class="lei">[想象]</span><span class="lei_tit"><a href="/html/xiangxiang/2017/0324/220518.html">关于未来的作文700字 畅想未来</a></span><span class="riqi">03-24</span></li>
+<li><span class="lei">[想象]</span><span class="lei_tit"><a href="/html/xiangxiang/2017/0324/220516.html">未来作文500字 未来的一天</a></span><span class="riqi">03-24</span></li>
+<li><span class="lei">[叙事]</span><span class="lei_tit"><a href="/html/xushi/2017/0324/220510.html">记一件事作文400字 我从“宅女”</a></span><span class="riqi">03-24</span></li>
+<li><span class="lei">[读后感]</span><span class="lei_tit"><a href="/html/duhougan/2017/0324/220507.html">文学作品读后感1000字 读《草房</a></span><span class="riqi">03-24</span></li>
+<li><span class="lei">[动物作文]</span><span class="lei_tit"><a href="/html/dongwuzuowen/2017/0324/220506.html">关于狗的作文500字 可怜的小狗</a></span><span class="riqi">03-24</span></li>
+<li><span class="lei">[读后感]</span><span class="lei_tit"><a href="/html/duhougan/2017/0324/220502.html">智慧背囊读后感作文500字 《智慧</a></span><span class="riqi">03-24</span></li>
+        
+      </ul>
+    </div>
+  </div>
+  
+  <div class="hanggao2"></div>
+  <div class="zwtc">
+    <div class="zwtc_title">
+      <ul>
+        <li><a href="/html/yuyangushi/">寓言故事</a></li>
+        <li>|</li>
+        <li><a href="/html/chuanqigushi/">传奇故事</a></li>
+        <li>|</li>
+        <li><a href="/html/lizhigushi/">励志故事</a></li>
+        <li>|</li>
+        <li><a href="/html/gelintonghua/">格林童话</a></li>
+        <li>|</li>
+        <li><a href="/html/ertonggushi/">儿童故事</a></li>
+        <li>|</li>
+        <li><a href="/html/minjiangushi/">民间故事</a></li>
+        <li>|</li>
+        <li><a href="/html/chengyugushi/">成语故事</a></li>        
+      </ul>
+      <span>故事大全</span>
+    </div>
+    <div class="zwtc_b">
+      <ul>
+        <li><span class="lei">[名人故事]</span><span class="lei_tit"><a href="/html/mingrengushi/2017/0324/220545.html">名人故事作文1600字 名人学习故</a></span><span class="riqi">03-24</span></li>
+<li><span class="lei">[名人故事]</span><span class="lei_tit"><a href="/html/mingrengushi/2017/0324/220499.html">名人故事8600字 华罗庚的故事</a></span><span class="riqi">03-24</span></li>
+<li><span class="lei">[名人故事]</span><span class="lei_tit"><a href="/html/mingrengushi/2017/0324/220497.html">名人故事作文1000字 勤奋学习的</a></span><span class="riqi">03-24</span></li>
+<li><span class="lei">[神话故事]</span><span class="lei_tit"><a href="/html/shenhuagushi/2017/0324/220483.html">黑夜女神</a></span><span class="riqi">03-24</span></li>
+<li><span class="lei">[神话故事]</span><span class="lei_tit"><a href="/html/shenhuagushi/2017/0324/220484.html">红星星的来历</a></span><span class="riqi">03-24</span></li>
+<li><span class="lei">[名人故事]</span><span class="lei_tit"><a href="/html/mingrengushi/2017/0324/220481.html">家电业的牛根生</a></span><span class="riqi">03-24</span></li>
+<li><span class="lei">[名人故事]</span><span class="lei_tit"><a href="/html/mingrengushi/2017/0324/220482.html">没有人能阻止你出人头地</a></span><span class="riqi">03-24</span></li>
+<li><span class="lei">[成语故事]</span><span class="lei_tit"><a href="/html/chengyugushi/2017/0324/220479.html">善贾而沽</a></span><span class="riqi">03-24</span></li>
+<li><span class="lei">[谜语大全]</span><span class="lei_tit"><a href="/html/miyudaquan/2017/0324/220478.html">那些与历史典故相关的谜语</a></span><span class="riqi">03-24</span></li>
+<li><span class="lei">[成语故事]</span><span class="lei_tit"><a href="/html/chengyugushi/2017/0324/220480.html">食宿相兼</a></span><span class="riqi">03-24</span></li>
+<li><span class="lei">[谜语大全]</span><span class="lei_tit"><a href="/html/miyudaquan/2017/0324/220477.html">关于青蛙的谜语</a></span><span class="riqi">03-24</span></li>
+<li><span class="lei">[民间故事]</span><span class="lei_tit"><a href="/html/minjiangushi/2017/0324/220475.html">爱好吃人</a></span><span class="riqi">03-24</span></li>
+<li><span class="lei">[民间故事]</span><span class="lei_tit"><a href="/html/minjiangushi/2017/0324/220476.html">钱乙自治的故事</a></span><span class="riqi">03-24</span></li>
+<li><span class="lei">[儿童故事]</span><span class="lei_tit"><a href="/html/ertonggushi/2017/0324/220473.html">熊伯伯送新年礼物</a></span><span class="riqi">03-24</span></li>
+<li><span class="lei">[儿童故事]</span><span class="lei_tit"><a href="/html/ertonggushi/2017/0324/220474.html">外星人彩电</a></span><span class="riqi">03-24</span></li>
+<li><span class="lei">[励志故事]</span><span class="lei_tit"><a href="/html/lizhigushi/2017/0324/220471.html">一场24条腿的足球比赛</a></span><span class="riqi">03-24</span></li>
+<li><span class="lei">[励志故事]</span><span class="lei_tit"><a href="/html/lizhigushi/2017/0324/220472.html">只有左脚照样写出生命精彩</a></span><span class="riqi">03-24</span></li>
+<li><span class="lei">[爱情故事]</span><span class="lei_tit"><a href="/html/aiqinggushi/2017/0324/220469.html">我的爱、灵魂的重量</a></span><span class="riqi">03-24</span></li>
+<li><span class="lei">[爱情故事]</span><span class="lei_tit"><a href="/html/aiqinggushi/2017/0324/220470.html">悠悠醉月情、滴滴无殇泪</a></span><span class="riqi">03-24</span></li>
+<li><span class="lei">[笑话大全]</span><span class="lei_tit"><a href="/html/xiaohuadaquan/2017/0324/220467.html">会逗笑的爸妈最惹人爱</a></span><span class="riqi">03-24</span></li>
+<li><span class="lei">[笑话大全]</span><span class="lei_tit"><a href="/html/xiaohuadaquan/2017/0324/220468.html">趣侃男女滴幽默小句段</a></span><span class="riqi">03-24</span></li>
+<li><span class="lei">[鬼故事]</span><span class="lei_tit"><a href="/html/guigushi/2017/0324/220465.html">钉咒</a></span><span class="riqi">03-24</span></li>
+<li><span class="lei">[鬼故事]</span><span class="lei_tit"><a href="/html/guigushi/2017/0324/220466.html">K线</a></span><span class="riqi">03-24</span></li>
+<li><span class="lei">[传奇故事]</span><span class="lei_tit"><a href="/html/chuanqigushi/2017/0324/220462.html">非常艳遇</a></span><span class="riqi">03-24</span></li>
+<li><span class="lei">[传奇故事]</span><span class="lei_tit"><a href="/html/chuanqigushi/2017/0324/220464.html">再晚几天</a></span><span class="riqi">03-24</span></li>
+<li><span class="lei">[哲理故事]</span><span class="lei_tit"><a href="/html/zheligushi/2017/0324/220459.html">别把梯子毁掉</a></span><span class="riqi">03-24</span></li>
+<li><span class="lei">[哲理故事]</span><span class="lei_tit"><a href="/html/zheligushi/2017/0324/220460.html">观念的较量</a></span><span class="riqi">03-24</span></li>
+<li><span class="lei">[寓言故事]</span><span class="lei_tit"><a href="/html/yuyangushi/2017/0324/220457.html">小刺猬家的电话</a></span><span class="riqi">03-24</span></li>
+<li><span class="lei">[寓言故事]</span><span class="lei_tit"><a href="/html/yuyangushi/2017/0324/220458.html">楚庄王的宽容大度</a></span><span class="riqi">03-24</span></li>
+<li><span class="lei">[神话故事]</span><span class="lei_tit"><a href="/html/shenhuagushi/2017/0323/220379.html">日月神</a></span><span class="riqi">03-23</span></li>
+
+      </ul>
+    </div>
+  </div>
+  
+</div>
+<div class="hanggao2"></div>
+<div class="foot">
+  <div class="foot_link">友情链接123：  <a href='http://www.easyzw.com/zt/2015gaokao.html' target='_blank'>2017高考作文</a>   <a href='http://www.ys8.com/' target='_blank'>养生吧</a>   <a href='http://www.4493.com/' target='_blank'>美女图片</a>   <a href='http://www.duanwenxue.com/' target='_blank'>短篇原创文学</a>   <a href='http://www.wmpic.me/' target='_blank'>唯美图片</a>   <a href='http://www.juxia.com/' target='_blank'>聚侠网页游戏</a>   <a href='http://www.3234.com/' target='_blank'>3234单机游戏</a>   <a href='http://www.2cto.com/' target='_blank'>红黑联盟</a>   <a href='http://www.99zuowen.com' target='_blank'>初中作文</a>   <a href='http://www.jqr5.com' target='_blank'>机器人</a>   <a href='http://www.suibi8.com' target='_blank'>随笔作文</a>   <a href='http://www.chinazhaokao.com' target='_blank'>招生考试网</a>   <a href='http://www.2280.com' target='_blank'>周公解梦</a>   <a href='http://www.45575.com' target='_blank'>双人小游戏</a>   <a href='http://www.6681.com' target='_blank'>6681养生网</a>   <a href='http://www.91zhongkao.com/' target='_blank'>中考成绩查询</a>   <a href='http://www.fwsir.com/' target='_blank'>范文</a>   <a href='http://www.027art.com/' target='_blank'>武汉美术网</a>   <a href='http://www.61ertong.com' target='_blank'>儿童网</a>   <a href='http://www.0s.net.cn' target='_blank'>日记</a>   <a href='http://www.263y.com' target='_blank'>作文大全</a>   <a href='http://www.01hn.com/' target='_blank'>范文网</a>  </div>
+  
+  <div class="foot1"> CopyRight  <a href="/">星火作文网</a> 2008-2015 <a href="/about/about.html">关于我们</a> <a href="/about/shengming.html">免责声明</a> <a href="/about/copyright.html">版权声明</a> <a href="/about/job.html">诚聘英才</a> <br /> <a target="_blank"  rel="nofollow" href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=36110202000054"><img src="http://www.beian.gov.cn/img/ghs.png" class="ga" />赣公网安备 36110202000054号</a>  ICP证：赣B2-20150090  赣ICP备12001941号-37</div>
+  <div class="hidemt">   </div>
+  </div>
+<!-- 广告位：xh_120*300 -->
+<script type="text/javascript">easyzw_A_D('pc_easyzw_10');</script>
+
+<div id="gBtn" class="gbtn">
+  <a title="在线投稿" class="btn help" href="/member/article_add.php"><i class="iconfont">?</i><span>在线投稿</span></a>
+    
+  <a href="/app_down.html"><div class="gewm" id="gEwm" style="display:block;"><span class="close"></span></div></a>
+  <a title="微信关注"  id="gEwm-a" class="btn weixin" href="###" style="display: none;"><i class="iconfont">?</i>微信关注</a>
+  
+  <div class="gesa bdsharebuttonbox" id="gEsa">
+  	<ul>
+    	<li class="head">分享星火作文网</li>
+    	<li><a href="#" class="qzone" data-cmd="qzone">QQ空间</a></li>
+    	<li><a href="#" class="weixin" data-cmd="weixin">微信</a></li>
+    	<li><a href="#" class="sina" data-cmd="tsina">新浪微博</a></li>
+    	<li><a href="#" class="qqwb" data-cmd="tqq">腾讯微博</a></li>
+    </ul>
+  	<span class="close"></span></div>
+  <a title="在线分享"  id="gEsa-a" class="btn zx_fenxiang" href="###" style="display: block;"><i class="iconfont">?</i>在线分享</a>
+  
+  <a title="返回顶部" class="btn ttop" href="#" ><i class="iconfont">?</i>返回顶部</a>
+</div>
+<div style="display:none"><script src="/js/tj.js"></script></div>
+<script>
+    $(function(){
+       $("#gBtn>a.btn").hover(function(){
+          if(!$(this).is(":animated")){
+              $(this).animate({width:"85px",left:"-68px"}, 100); 
+          }
+       },function(){
+           if(!$(this).is(":animated")){
+               $(this).animate({width:"17px",left:"0px"}, 100); 
+           }
+       });
+	   $("#gEwm .close").click(function(){
+			$("#gEwm").hide();
+			$("#gEwm-a").show();
+		});
+		$("#gEwm-a").click(function(){
+			$("#gEwm-a").hide();
+			$("#gEwm").show();
+		});
+		
+		$("#gEsa .close").click(function(){
+			$("#gEsa").hide();
+			$("#gEsa-a").show();
+		});
+		$("#gEsa-a").click(function(e){
+			e.preventDefault();
+			$("#gEsa-a").hide();
+			$("#gEsa").show();
+		});
+    });
+</script>
+<script>window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"-1","bdSize":"32"},"share":{}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];
+</script>
+</body>
+</html>

@@ -1,0 +1,528 @@
+HTTP/1.1 200 OK
+Date: Sat, 25 Mar 2017 04:32:56 GMT
+Content-Type: text/html
+Transfer-Encoding: chunked
+Connection: close
+Set-Cookie: __cfduid=db2a3e3b1f9778452fac4efbf8ca402421490416376; expires=Sun, 25-Mar-18 04:32:56 GMT; path=/; domain=.jinshi.tv; HttpOnly
+Vary: Accept-Encoding
+Set-Cookie: yunsuo_session_verify=eeec52cae51ac96d3450a1812f0c19d4; expires=Tue, 28-Mar-17 12:32:56 GMT; path=/; HttpOnly
+Set-Cookie: yunsuo_session_verify=eeec52cae51ac96d3450a1812f0c19d4; expires=Tue, 28-Mar-17 12:32:56 GMT; path=/; HttpOnly
+Last-Modified: Tue, 28 Feb 2017 01:42:36 GMT
+Server: yunjiasu-nginx
+CF-RAY: 344f263227fc44eb-XIY
+
+9a37
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<HTML xmlns="http://www.w3.org/1999/xhtml">
+<HEAD>
+<META content="text/html; charset=gb2312" http-equiv="Content-Type">
+<TITLE>金视在线 - 江西城市在线 江西新媒体</TITLE>
+<META name="description" content="金视在线以江西新闻和生活资讯为主的地方门户网站.包含了南昌,九江,上饶,抚州,宜春等城市最新新闻。拥有要闻,江西,网事,生活,娱乐等20个频道">
+<META name="keywords" content="金视在线,金视新闻,金视城市群,南昌新闻,女性,南昌,九江,上饶,抚州,宜春,新媒体,时尚,汽车,南昌新闻,江西天气">
+<LINK rel="stylesheet" type="text/css" href="http://www.jinshi.tv/statics/roll/style.css">
+<LINK rel="stylesheet" type="text/css" href="http://www.jinshi.tv/statics/roll/base.css">
+<link rel="shortcut icon" href="/favicon.ico" />
+<SCRIPT type="text/javascript" src="http://www.jinshi.tv/statics/roll/jquery-1.10.1.min.js"></SCRIPT>
+<SCRIPT type="text/javascript" src="http://www.jinshi.tv/statics/roll/public.js"></SCRIPT>
+<SCRIPT type="text/javascript" src="http://www.jinshi.tv/statics/roll/jquery.bxslider.min.js"></SCRIPT>
+<script type="text/javascript" src="http://cbjs.baidu.com/js/m.js"></script>
+<script src="http://siteapp.baidu.com/static/webappservice/uaredirect.js" type="text/javascript"></script>
+<script type="text/javascript">uaredirect("http://m.jinshi.tv","http://www.jinshi.tv");</script>
+<SCRIPT type="text/javascript">
+	$(function(){
+		showDateTime();	
+	    for (var i = 0; i < 5; i++) {
+	        $(".inner > li:eq(i)").css("z-index", (4 - i));
+	    }
+		lun();
+		$('.bxslider').bxSlider({captions: true,auto: true,pager:false});
+		$('.tab a').mouseover(function(){
+			var index = $(this).index();
+			$(this).addClass('cur').siblings().removeClass('cur');
+			$(".tab-box .tab-box-item").eq(index).show().siblings().hide();		
+		})
+		$(".tp_list>li>p").on({
+			"mouseenter" : function(){
+				$(this).prev().addClass("yellow");
+			},
+			"mouseleave" : function(){
+				$(this).prev().removeClass("yellow");
+			}
+		})
+	}) 
+	function lun() {
+	    var len = $(".rubycon_ul > li").length;
+	    var index = 0;
+	    var adTimer;
+	    $(".rubycon_ul li").mouseover(function() {
+	        index = $(".rubycon_ul li").index(this);
+	        showImg(index);
+	    }).eq(0).mouseover();
+	    $('#rubycon').hover(function() {
+	        	clearInterval(adTimer);
+	    	},
+	   		 function() {
+	        	adTimer = setInterval(function() {
+		            index++;
+		            if (index == len) {
+		                index = 0;
+		            }
+		            showImg(index)
+		        },
+		        3000);
+	    }).trigger("mouseleave");
+	}
+	function showImg(index) {
+	    var adWidth = $("#rubycon").width();
+	    $(".inner").stop(true, false)
+		$(".inner li").fadeOut('600').eq(index).fadeIn('600')
+		$(".rubycon_ul li").removeClass("rub_cuta").eq(index).addClass("rub_cuta");
+	}
+</SCRIPT>
+<META name="GENERATOR" content="MSHTML 9.00.8112.16526">
+</HEAD>
+<BODY>
+
+<DIV class="top">
+<DIV class="main">
+<DIV id="datetime" class="top-col1"></DIV>
+<DIV class="top-col2">邮�<a class="__cf_email__" href="/cdn-cgi/l/email-protection" data-cfemail="9b7f3821f6fefff2faf2f5f8f3f2f5fadbf1f2f5e8f3f2b5efed">[email&#160;protected]</a><script data-cfhash='f9e31' type="text/javascript">/* <![CDATA[ */!function(t,e,r,n,c,a,p){try{t=document.currentScript||function(){for(t=document.getElementsByTagName('script'),e=t.length;e--;)if(t[e].getAttribute('data-cfhash'))return t[e]}();if(t&&(c=t.previousSibling)){p=t.parentNode;if(a=c.getAttribute('data-cfemail')){for(e='',r='0x'+a.substr(0,2)|0,n=2;a.length-n;n+=2)e+='%'+('0'+('0x'+a.substr(n,2)^r).toString(16)).slice(-2);p.replaceChild(document.createTextNode(decodeURIComponent(e)),c)}p.removeChild(t)}}catch(u){}}()/* ]]> */</script><A onClick="SetHome(this,'http://www.jinshi.tv/');" 
+href="javascript:void(0);">设为首页</A><A onClick="AddFavorite('金视在线',location.href)" 
+href="javascript:void(0);">收藏我们</A><A href="http://www.jinshi.tv/html/about/contactus/">联系我们</A></DIV></DIV></DIV>
+<DIV class="main"><A class="logo" herf="http://www.jinshi.tv"></A>
+<DIV class="ad">
+<SCRIPT type="text/javascript" src="http://www.jinshi.tv/statics/roll/thea8.js"></SCRIPT>
+</DIV>
+<DIV class="search">
+<SCRIPT language="javascript">
+                function g(formname)	{
+                    var url = "http://www.baidu.com/baidu";
+                    if (formname.s[1].checked) {
+                        formname.ct.value = "2097152";
+                    }
+                    else {
+                        formname.ct.value = "0";
+                    }
+                    formname.action = url;
+                    return true;
+                }
+             </SCRIPT>
+<FORM onSubmit="return g(this)" name="f1">
+<TABLE style="font-size: 9pt;" bgColor="#ffffff">
+  <TBODY>
+  <TR height="60">
+    <TD><INPUT name="word" maxLength="100" size="30"><INPUT value="百度搜索" type="submit"><BR><INPUT 
+      name="tn" value="bds" type="hidden"><INPUT name="cl" value="3" type="hidden"><INPUT 
+      name="ct" type="hidden"><INPUT name="si" value="www.jinshi.tv" type="hidden"><INPUT 
+      name="s" type="radio"> 互联网                            <INPUT name="s" 
+      CHECKED="" type="radio"> www.jinshi.tv                        
+  </TD></TR></TBODY></TABLE></FORM></DIV></DIV>
+<DIV class="h10"></DIV>
+<DIV class="main menu"><A href="http://www.jinshi.tv/">首页</A>
+<A href="http://www.jinshi.tv/zixun/jiangxi">江西</A>
+<A href="http://www.jinshi.tv/top/">社会</A>
+<A href="http://www.jinshi.tv/local/">民生</A>
+<A href="http://www.jinshi.tv/zixun/">生活</A>
+<A href="http://www.jinshi.tv/zixun/15list/">女性</A>
+<A href="http://www.jinshi.tv/zixun/11show/">娱乐</A>
+<A href="http://www.jinshi.tv/local/finance/">经济</A>
+<A href="http://www.jinshi.tv/local/industry/">行业</A>
+<A href="http://m.jinshi.tv/">掌上江西</A></DIV><DIV class="h10"></DIV>
+
+
+<DIV class="w_960">
+<DIV class="blank10"></DIV>
+<DIV class="w_650 left">
+<DIV class="tt01 slider-p"><SPAN>本地 / 焦点</SPAN><EM><A href="http://www.jinshi.tv/zixun/" 
+target="_blank">江西新闻</A>|<A href="http://www.jinshi.tv/zixun/" target="_blank">社会万象</A></EM></DIV>
+<DIV class="w_380 left">
+<DIV class="blank10"></DIV>
+<UL class="news_list f14 c_333">
+<LI class="li_1st"><A title="身份证遗失被人在深圳注册了23家公司" href="http://www.jinshi.tv/zixun/jiangxi/20170228/28092.html" target="_blank">身份证遗失被人在深圳注册了23家公司</A></LI>
+<LI ><A title="江西13日至23日新增H7N9病例2例  全省H7N9疫情趋于稳定" href="http://www.jinshi.tv/zixun/jiangxi/20170228/28091.html" target="_blank">江西13日至23日新增H7N9病例2例  全省</A></LI>
+<LI ><A title="江西省检察院介入南昌"致10人死"火灾事故调查" href="http://www.jinshi.tv/zixun/jiangxi/20170228/28090.html" target="_blank">江西省检察院介入南昌&quot;致10人死&quot;火灾事</A></LI>
+ 
+ </UL>
+<DIV style="border-bottom-color: rgb(204, 204, 204); border-bottom-width: 1px; border-bottom-style: dashed;" 
+class="blank10"></DIV>
+<DIV class="blank10"></DIV>
+<UL class="news_list f14 c_333">
+<LI><A title="江西女学生失踪 南昌瑶湖派出所已介入调查" href="http://www.jinshi.tv/zixun/jiangxi/20160905/28052.html" target="_blank">江西女学生失踪 南昌瑶湖派出所已介入调查</A></LI>
+<LI><A title="杭瑞高速江西境内发生一起大客车追尾货车的交通事故" href="http://www.jinshi.tv/zixun/jiangxi/20160827/28048.html" target="_blank">杭瑞高速江西境内发生一起大客车追尾货车的交通事故</A></LI>
+<LI><A title="江西学生信息泄露渠道多 防不胜防" href="http://www.jinshi.tv/zixun/jiangxi/20160827/28047.html" target="_blank">江西学生信息泄露渠道多 防不胜防</A></LI>
+<LI><A title="江西农业大学宿舍楼下空地上垃圾成堆（图）" href="http://www.jinshi.tv/zixun/jiangxi/20160401/27468.html" target="_blank">江西农业大学宿舍楼下空地上垃圾成堆（图）</A></LI>
+<LI><A title="赣粤“雷霆1209”收网行动  缴获假币半成品7188.6万元" href="http://www.jinshi.tv/zixun/jiangxi/20160401/27467.html" target="_blank">赣粤“雷霆1209”收网行动  缴获假币半成品7188.6万元</A></LI>
+<LI><A title="江西转移救助大鹏村、赤溪村受灾被困群众千余人" href="http://www.jinshi.tv/zixun/jiangxi/20160326/27447.html" target="_blank">江西转移救助大鹏村、赤溪村受灾被困群众千余人</A></LI>
+ 
+</UL>
+<DIV class="blank10"></DIV></DIV>
+<DIV class="w_250 right">
+<DIV class="tt_ws"><SPAN>经济</SPAN><A href="http://www.jinshi.tv/roll/finance/" 
+target="_blank"><EM>点击进入栏目</EM></A></DIV>
+<DIV class="blank10"></DIV>
+<DIV class="pic01_news">
+<DIV class="left">
+ <A title="南昌城区取消农业户口 6月之前集中更换户" href="http://www.jinshi.tv/local/finance/2016-03-26/3460.html" 
+target="_blank"><IMG title="南昌城区取消农业户口 6月之前集中更换户" alt="南昌城区取消农业户口 6月之前集中更换户" src="http://newpic.jxnews.com.cn/0/12/37/94/12379472_526950.jpg" 
+width="100" height="65"></A></DIV>
+<P>　3月30日记者获悉，南昌市《关于进一步深化户籍制度改革的<A style="color: rgb(57, 88, 135);" href="http://www.jinshi.tv/local/finance/2016-03-26/3460.html" 
+target="_blank">[详情]</A></P>
+ 
+</DIV>
+<DIV class="blank20"></DIV>
+<UL class="news_list f12 c_333">
+ <LI><A title="南昌扩大“三公”经费预算公开试点" href="http://www.jinshi.tv/local/finance/2016-03-26/3459.html" target="_blank">南昌扩大“三公”经费预算公开试点</A></LI>
+  <LI><A title="南昌城区取消农业户口 6月之前集中更换户口簿" href="http://www.jinshi.tv/local/finance/2016-03-26/3460.html" target="_blank">南昌城区取消农业户口 6月之前集中更换</A></LI>
+  <LI><A title="江西:拒绝或拖延尸检将担责 医院内拉条幅将受罚" href="http://www.jinshi.tv/local/finance/2016-03-26/3461.html" target="_blank">江西:拒绝或拖延尸检将担责 医院内拉条</A></LI>
+  <LI><A title="江西：一季度经济增长9.3% 位居全国第8位" href="http://www.jinshi.tv/local/finance/2016-03-26/3596.html" target="_blank">江西：一季度经济增长9.3% 位居全国第8位</A></LI>
+  <LI><A title="江西：招商1季度引进5千万以上项目资金近千亿元" href="http://www.jinshi.tv/local/finance/2016-03-26/3597.html" target="_blank">江西：招商1季度引进5千万以上项目资金近</A></LI>
+   </UL>
+<DIV style="width: 100%; height: 10px; border-bottom-color: rgb(230, 230, 230); border-bottom-width: 1px; border-bottom-style: solid;"></DIV>
+<DIV style="display: none;" class="blank10"></DIV>
+<DIV style="display: none;" class="link01"><A href="http://www.jinshi.tv/local/finance/" 
+target="_blank">理财</A><A href="http://www.jinshi.tv/local/finance/" target="_blank">财智</A><A 
+href="http://www.jinshi.tv/local/financ/" target="_blank">经济</A></DIV>
+<DIV style="display: none;" class="blank10"></DIV></DIV></DIV>
+<DIV class="w_275 right">
+<DIV style='background: url("/skin/2013new/images/tt01_bg.gif") repeat-x left bottom;' 
+class="tt_yl"><SPAN>行业</SPAN><A href="/local/industry/" 
+target="_blank"><EM>更多&gt;&gt;</EM></A></DIV>
+<DIV class="blank10"></DIV>
+<DIV class="pic02_news">
+<DIV class="left">
+<DIV class="left">
+ <A title="跳跳鱼配红酒 让海鲜&ldquo;伟哥&rdquo;更" href="http://www.jinshi.tv/roll/industry/2014-04-10/6890.html" 
+target="_blank"><IMG title="跳跳鱼配红酒 让海鲜&ldquo;伟哥&rdquo;更" alt="跳跳鱼配红酒 让海鲜&ldquo;伟哥&rdquo;更" src="http://newpic.jxnews.com.cn/0/12/40/58/12405865_074820.jpg" 
+width="100" height="65"></A></DIV>
+<H4><A title="跳跳鱼配红酒 让海鲜&ldquo;伟哥&rdquo;更" href="http://www.jinshi.tv/local/industry/2016-03-26/3462.html" 
+target="_blank">跳跳鱼配红酒 让海鲜&ldquo;伟</A></H4>
+<P>4月18日晚，在万众期待中《舌尖上的中国》第二季终于拉<A style="color: rgb(57, 88, 135);" href="http://www.jinshi.tv/local/industry/2016-03-26/3462.html" 
+target="_blank">[详情]</A></P>
+</P>
+  </DIV>
+<DIV class="blank10"></DIV>
+<UL class="news_list f12 c_888">
+ <LI><A title="百年灵腕表背光阴之完美功能" href="http://www.jinshi.tv/local/industry/2017-01-22/28075.html" target="_blank">百年灵腕表背光阴之完美功能</A></LI>
+  <LI><A title="寨卡病毒来袭，我们怎么办？" href="http://www.jinshi.tv/local/industry/2016-03-30/27452.html" target="_blank">寨卡病毒来袭，我们怎么办？</A></LI>
+  <LI><A title="中国主要类型研究咨询业务经营发展规模" href="http://www.jinshi.tv/local/industry/2016-01-22/26897.html" target="_blank">中国主要类型研究咨询业务经营发展规模</A></LI>
+  <LI><A title="汴禧集团D女郎凝胶有什么作用？怎么代理加盟？" href="http://www.jinshi.tv/local/industry/2015-11-17/25482.html" target="_blank">汴禧集团D女郎凝胶有什么作用？怎么代理加盟</A></LI>
+  <LI><A title="议论文的基本写法" href="http://www.jinshi.tv/local/industry/2015-10-22/24837.html" target="_blank">议论文的基本写法</A></LI>
+  <LI><A title="索尼PXW-X70真人秀火爆利器，偶像们美美哒全靠它" href="http://www.jinshi.tv/local/industry/2015-10-08/24547.html" target="_blank">索尼PXW-X70真人秀火爆利器，偶像们美美哒全</A></LI>
+  <LI><A title=" The One团队徐州汇百佳网络科技有限公司向全国招代理" href="http://www.jinshi.tv/local/industry/2015-08-28/23770.html" target="_blank"> The One团队徐州汇百佳网络科技有限公司向</A></LI>
+    </UL>
+<DIV class="blank10"></DIV></DIV></DIV>
+
+<DIV class="w_960">
+<DIV class="w_380 right"><SPAN class="scroll-title">滚动：</SPAN>
+<DIV class="scroll-list">
+<UL id="scroll" class="scroll-news-list">
+    <li><a href="http://www.jinshi.tv/zixun/jiangxi/20140623/6926.html">江西高考本一批文524分 理526分</a></li>
+      <li><a href="http://www.jinshi.tv/zixun/jiangxi/20140623/6927.html">江西文理科状元出炉 文分数为654分理分数为698分</a></li>
+      <li><a href="http://www.jinshi.tv/zixun/jiangxi/20140623/6928.html">江西贵溪救援现场怕湿鞋被背干部被免职（图）</a></li>
+      <li><a href="http://www.jinshi.tv/zixun/jiangxi/20140623/6929.html">江西强降雨造成11亿元的损失 703个乡镇站点出现暴雨</a></li>
+      <li><a href="http://www.jinshi.tv/zixun/jiangxi/20140624/6972.html">江西2014年高招录取工作将分7个批次进行</a></li>
+      <li><a href="http://www.jinshi.tv/local/life/20150405/18185.html">乐尔康豪华按摩椅怎么样，沙发好吗</a></li>
+      <li><a href="http://www.jinshi.tv/yule/bagua/20160824/28044.html">江西将通过建设22条跨省高速公路通道、构建城际轨道交通网</a></li>
+      <li><a href="http://www.jinshi.tv/yule/bagua/20160827/28046.html">江西学生大多表示曾接到过诈骗电话</a></li>
+      </UL>
+<SCRIPT type="text/javascript">var _wrap=$('#scroll');//定义滚动区域
+					var _interval=5000;//定义滚动间隙时间
+					var _moving;//需要清除的动画
+					_wrap.hover(function(){
+						clearInterval(_moving);//当鼠标在滚动区域中时,停止滚动
+					},function(){
+						_moving=setInterval(function(){
+							var _field=_wrap.find('li:first');//此变量不可放置于函数起始处,li:first取值是变化的
+							var _h=_field.height();//取得每次滚动高度(多行滚动情况下,此变量不可置于开始处,否则会有间隔时长延时)
+							_field.animate({marginTop:"-25px"},600,function(){//通过取负margin值,隐藏第一行
+								_field.css('marginTop',0).appendTo(_wrap);//隐藏后,将该行的margin值置零,并插入到最后,实现无缝滚动
+							})
+						},_interval)//滚动间隔时间取决于_interval
+					}).trigger('mouseleave');//函数载入时,模拟执行mouseleave,即自动滚动
+</SCRIPT>
+</DIV>
+<DIV class="news_1st slider-p">
+<H3>
+<A title="江西13日至23日新增H7N9病例2例  全省H7N9疫情趋于稳定" href="http://www.jinshi.tv/zixun/jiangxi/20170228/28091.html" 
+target="_blank">江西13日至23日新增H7N9病例2例  全省H7</A></H3>
+<P>中国江西网南昌讯记者王雳蓓报道：24日，江西省卫计委官网通报，1月1日至2月23日，全省报告H7N9病例30例，死亡10人。...<A style="color: rgb(57, 88, 135);" 
+href="http://www.jinshi.tv/zixun/jiangxi/20170228/28091.html" 
+target="_blank">[详情]</A></P>
+ 
+</DIV>
+<DIV class="blank10"></DIV>
+<UL class="news_list f14 c_333">
+<LI><A title="第八届亚洲冬季运动会闭幕 中国12金14银9铜35奖落后日韩" href="http://www.jinshi.tv/top/20170227/28084.html" target="_blank">第八届亚洲冬季运动会闭幕 中国12金14银9铜35奖落后日</A></LI>
+<LI><A title="北京朝阳区旧货市场大火现场出动46部消防车9个消防中队" href="http://www.jinshi.tv/top/20170227/28083.html" target="_blank">北京朝阳区旧货市场大火现场出动46部消防车9个消防中队</A></LI>
+<LI><A title="二月二龙抬头理发技巧盘点" href="http://www.jinshi.tv/top/20170227/28081.html" target="_blank">二月二龙抬头理发技巧盘点</A></LI>
+<LI><A title="江苏女主播直播10层跳楼秀 女子系重庆人精神失常已送精神病医院" href="http://www.jinshi.tv/top/20170227/28080.html" target="_blank">江苏女主播直播10层跳楼秀 女子系重庆人精神失常已送</A></LI>
+ 
+  </UL>
+<DIV class="blank10"></DIV>
+<DIV class="words_hot slider-p"><SPAN><IMG 
+src="http://www.jinshi.tv/statics/roll/hot.jpg"></SPAN><EM><A href="http://www.jinshi.tv/roll/" 
+target="_blank">江西城市群</A><A href="http://www.jinshi.tv/top/" target="_blank">南昌</A><A 
+href="http://www.jinshi.tv/" target="_blank">川南</A><A href="http://www.jinshi.tv/#" 
+target="_blank">江西</A></EM></DIV>
+<DIV class="blank1"></DIV>
+<UL class="news_list f14 c_333">
+<LI class="sc_1st"><A title="江西省检察院介入南昌"致10人死"火灾事故调查" href="http://www.jinshi.tv/zixun/jiangxi/20170228/28090.html" target="_blank">江西省检察院介入南昌&quot;致10人死&quot;火灾事故</A></LI>
+ 
+<LI><A title="郭佳佳 为救父冲进火场烧伤75%面临截肢组图" href="http://www.jinshi.tv/top/20161205/28068.html" target="_blank">郭佳佳 为救父冲进火场烧伤75%面临截肢组图</A></LI>
+<LI><A title="男子直播宜家过夜视频热传 直播平台房间ID曝光 " href="http://www.jinshi.tv/top/20161205/28066.html" target="_blank">男子直播宜家过夜视频热传 直播平台房间ID曝光 </A></LI>
+<LI><A title="华裔教授美国被刺身亡 嫌犯资料杀人动机揭秘" href="http://www.jinshi.tv/top/20161205/28063.html" target="_blank">华裔教授美国被刺身亡 嫌犯资料杀人动机揭秘</A></LI>
+<LI><A title="借贷宝10G裸照资源压缩包.rar百度网盘资源下载" href="http://www.jinshi.tv/top/20161205/28060.html" target="_blank">借贷宝10G裸照资源压缩包.rar百度网盘资源下载</A></LI>
+<LI><A title="济南出租车醉驾被破胎" href="http://www.jinshi.tv/top/20161026/28056.html" target="_blank">济南出租车醉驾被破胎</A></LI>
+<LI><A title="里约乒乓女团中国3：0新加坡晋级高清视频观看 中德金牌之争再打响" href="http://www.jinshi.tv/top/20160816/28042.html" target="_blank">里约乒乓女团中国3：0新加坡晋级高清视频观看 中德金</A></LI>
+ 
+  </UL>
+<DIV class="blank10"></DIV></DIV>
+<DIV class="w_560 left">
+<DIV class="pdf">
+<DIV class="focus-box">
+<DIV id="rubycon" class="focus">
+<UL id="rubycon_ul" class="rubycon_ul">
+  <LI></LI>
+  <LI></LI>
+  <LI class="rub_cuta"></LI></UL>
+<UL class="inner">
+   <LI style="display: none;"><A title="杭瑞高速江西境内发生一起大客车追尾货车的交通事故" href="http://www.jinshi.tv/zixun/jiangxi/20160827/28048.html" 
+  target="_blank"><IMG alt="杭瑞高速江西境内发生一起大客车追尾货车的交通事故" src="http://n.sinaimg.cn/translate/20160825/F0yg-fxvixer7186032.jpg"></A><SPAN></SPAN><A 
+  class="span_a" title="杭瑞高速江西境内发生一起大客车追尾货车的交通事故" href="http://www.jinshi.tv/zixun/jiangxi/20160827/28048.html" 
+  target="_blank">杭瑞高速江西境内发生一起大客车追尾货...</A></LI>
+  <LI style="display: none;"><A title="江西：跨江上班族反对八一大桥单双号限行" href="http://www.jinshi.tv/zixun/jiangxi/20140619/3538.html" 
+  target="_blank"><IMG alt="江西：跨江上班族反对八一大桥单双号限行" src="http://www.jinshi.tv/uploadfile/2014/0426/20140426084445773.jpg"></A><SPAN></SPAN><A 
+  class="span_a" title="江西：跨江上班族反对八一大桥单双号限行" href="http://www.jinshi.tv/zixun/jiangxi/20140619/3538.html" 
+  target="_blank">江西：跨江上班族反对八一大桥单双号限行</A></LI>
+  <LI style="display: none;"><A title="江西：在景德镇感受千年陶瓷文化" href="http://www.jinshi.tv/zixun/jiangxi/20160326/3525.html" 
+  target="_blank"><IMG alt="江西：在景德镇感受千年陶瓷文化" src="http://www.jinshi.tv/uploadfile/2014/0426/20140426082556315.jpg"></A><SPAN></SPAN><A 
+  class="span_a" title="江西：在景德镇感受千年陶瓷文化" href="http://www.jinshi.tv/zixun/jiangxi/20160326/3525.html" 
+  target="_blank">江西：在景德镇感受千年陶瓷文化</A></LI>
+  <LI style="display: none;"><A title="江西：“篁岭晒秋”入选最美的中国符号" href="http://www.jinshi.tv/zixun/jiangxi/20160326/3513.html" 
+  target="_blank"><IMG alt="江西：“篁岭晒秋”入选最美的中国符号" src="http://www.jinshi.tv/uploadfile/2014/0426/20140426081408927.jpg"></A><SPAN></SPAN><A 
+  class="span_a" title="江西：“篁岭晒秋”入选最美的中国符号" href="http://www.jinshi.tv/zixun/jiangxi/20160326/3513.html" 
+  target="_blank">江西：“篁岭晒秋”入选最美的中国符号</A></LI>
+ 
+  </UL></DIV></DIV></DIV>
+<DIV class="blank1"></DIV>
+<DIV class="w_250 left">
+<DIV class="tt_ws"><SPAN>网事</SPAN><A href="http://www.jinshi.tv/zixun/" 
+target="_blank"><EM>点击进入栏目</EM></A></DIV>
+<UL class="news_list f12 c_333">
+<LI><A title="第八届亚洲冬季运动会闭幕 中国12金14银9铜35奖落后日韩" href="http://www.jinshi.tv/top/20170227/28084.html" target="_blank">第八届亚洲冬季运动会闭幕 中国12金14</A></LI>
+<LI><A title="北京朝阳区旧货市场大火现场出动46部消防车9个消防中队" href="http://www.jinshi.tv/top/20170227/28083.html" target="_blank">北京朝阳区旧货市场大火现场出动46部消</A></LI>
+<LI><A title="二月二龙抬头理发技巧盘点" href="http://www.jinshi.tv/top/20170227/28081.html" target="_blank">二月二龙抬头理发技巧盘点</A></LI>
+<LI><A title="江苏女主播直播10层跳楼秀 女子系重庆人精神失常已送精神病医院" href="http://www.jinshi.tv/top/20170227/28080.html" target="_blank">江苏女主播直播10层跳楼秀 女子系重庆</A></LI>
+<LI><A title="郭佳佳 为救父冲进火场烧伤75%面临截肢组图" href="http://www.jinshi.tv/top/20161205/28068.html" target="_blank">郭佳佳 为救父冲进火场烧伤75%面临截肢</A></LI>
+<LI><A title="男子直播宜家过夜视频热传 直播平台房间ID曝光 " href="http://www.jinshi.tv/top/20161205/28066.html" target="_blank">男子直播宜家过夜视频热传 直播平台房</A></LI>
+ 
+  </UL>
+<DIV class="blank10"></DIV></DIV>
+<DIV class="w_275 right">
+<DIV class="tt_yl"><SPAN>杂谈</SPAN><A href="http://www.jinshi.tv/local/life/" 
+target="_blank"><EM>更多&gt;&gt;</EM></A></DIV>
+<UL class="news_list f12 c_888">
+<LI><A title="代代花枳的包包质量怎么样" href="http://www.jinshi.tv/local/life/20150406/18209.html" target="_blank">代代花枳的包包质量怎么样</A></LI>
+<LI><A title="狄尼亚的包怎么样， 质量好不好吗" href="http://www.jinshi.tv/local/life/20150406/18207.html" target="_blank">狄尼亚的包怎么样， 质量好不好吗</A></LI>
+<LI><A title="优胜者箱包质量怎么样，真实网友点评！" href="http://www.jinshi.tv/local/life/20150406/18206.html" target="_blank">优胜者箱包质量怎么样，真实网友点评！</A></LI>
+<LI><A title="55ya包包怎么样，质量好不好吗" href="http://www.jinshi.tv/local/life/20150406/18205.html" target="_blank">55ya包包怎么样，质量好不好吗</A></LI>
+<LI><A title="卢森吉他r135怎么样，卢森民谣吉他质量好吗" href="http://www.jinshi.tv/local/life/20150405/18188.html" target="_blank">卢森吉他r135怎么样，卢森民谣吉他质量好</A></LI>
+<LI><A title="卢森吉他质量怎么样" href="http://www.jinshi.tv/local/life/20150405/18187.html" target="_blank">卢森吉他质量怎么样</A></LI>
+ 
+
+  </UL>
+<DIV class="blank10"></DIV></DIV></DIV></DIV>
+
+<DIV class="w_960">
+<DIV class="blank10"></DIV>
+<DIV class="w_650 left">
+<DIV class="tt01 slider-p"><SPAN>经济 / 生活 </SPAN><EM><A href="http://www.jinshi.tv/local/finance/" 
+target="_blank">出行天气</A>|<A href="http://www.jinshi.tv/local/finance/" target="_blank">经济</A></EM></DIV>
+<DIV class="w_380 left">
+<DIV class="blank10"></DIV>
+<UL class="news_list f14 c_333">
+<LI class="li_1st"><A title="http://www.jinshi.tv/local/finance/2015-12-10/26393.html" href="http://www.jinshi.tv/local/finance/2015-12-10/26393.html" target="_blank">做微来购的店主不仅可以赚钱养家还可以美貌如花</A></LI>
+<LI ><A title="http://www.jinshi.tv/local/finance/2015-12-10/26392.html" href="http://www.jinshi.tv/local/finance/2015-12-10/26392.html" target="_blank">全国唯一24小时防水的雪地靴招代理、厂家直销</A></LI>
+<LI ><A title="http://www.jinshi.tv/local/finance/2015-12-10/26390.html" href="http://www.jinshi.tv/local/finance/2015-12-10/26390.html" target="_blank">传奇今生红樱桃健康唇膏好不好用？怎么代理？</A></LI>
+<LI ><A title="http://www.jinshi.tv/local/finance/2015-12-10/26388.html" href="http://www.jinshi.tv/local/finance/2015-12-10/26388.html" target="_blank">甜蜜工坊千层蛋糕、奶牛生乳卷，全国招代理，一件代</A></LI>
+<LI ><A title="http://www.jinshi.tv/local/finance/2015-12-10/26357.html" href="http://www.jinshi.tv/local/finance/2015-12-10/26357.html" target="_blank">上千家厂家女装男装一手货源微信号、一件代发</A></LI>
+<LI ><A title="http://www.jinshi.tv/local/finance/2015-12-10/26355.html" href="http://www.jinshi.tv/local/finance/2015-12-10/26355.html" target="_blank">闺美女性私护植物凝胶效果怎么样？怎么代理</A></LI>
+<LI ><A title="http://www.jinshi.tv/local/finance/2015-12-10/26353.html" href="http://www.jinshi.tv/local/finance/2015-12-10/26353.html" target="_blank">洛洛商城种类繁多、让生活更丰富、让快乐更精彩</A></LI>
+<LI ><A title="http://www.jinshi.tv/local/finance/2015-12-10/26351.html" href="http://www.jinshi.tv/local/finance/2015-12-10/26351.html" target="_blank">微来购是什么？产品支持一件代发</A></LI>
+<LI ><A title="http://www.jinshi.tv/local/finance/2015-12-10/26349.html" href="http://www.jinshi.tv/local/finance/2015-12-10/26349.html" target="_blank">真皮皮草、手表、包包一手货源批发零售，一件代发</A></LI>
+ 
+  </UL>
+<DIV class="blank10"></DIV></DIV>
+<DIV class="w_250 right">
+<DIV class="tt_ws"><SPAN>图说生活</SPAN></DIV>
+<DIV class="pic-list">
+<UL class="bxslider">
+   <LI><A title="杭瑞高速江西境内发生一起大客车追尾货车的交通事故" href="http://www.jinshi.tv/zixun/jiangxi/20160827/28048.html" 
+  target="_blank"><IMG alt="杭瑞高速江西境内发生一起大客车追尾货车的交通事故" src="http://n.sinaimg.cn/translate/20160825/F0yg-fxvixer7186032.jpg"></A></LI>
+  <LI><A title="江西：跨江上班族反对八一大桥单双号限行" href="http://www.jinshi.tv/zixun/jiangxi/20140619/3538.html" 
+  target="_blank"><IMG alt="江西：跨江上班族反对八一大桥单双号限行" src="http://www.jinshi.tv/uploadfile/2014/0426/thumb_250_200_20140426084445773.jpg"></A></LI>
+  <LI><A title="江西：在景德镇感受千年陶瓷文化" href="http://www.jinshi.tv/zixun/jiangxi/20160326/3525.html" 
+  target="_blank"><IMG alt="江西：在景德镇感受千年陶瓷文化" src="http://www.jinshi.tv/uploadfile/2014/0426/thumb_250_200_20140426082556315.jpg"></A></LI>
+ 
+  </UL></DIV></DIV></DIV>
+<DIV class="w_275 right">
+<DIV style='background: url("/skin/2013new/images/tt01_bg.gif") repeat-x left bottom;' 
+class="tt_yl"><SPAN>女性</SPAN><A href="http://www.jinshi.tv/zixun/15list/" 
+target="_blank"><EM>更多&gt;&gt;</EM></A></DIV>
+<DIV class="blank10"></DIV>
+<UL class="news_list f12 c_888">
+ <LI><A title="减肥最大误区：女子减肥每天吃蔬菜瘦掉了40斤却得了脂肪肝" href="http://www.jinshi.tv/zixun/15list/2017-02-27/28088.html" target="_blank">减肥最大误区：女子减肥每天吃蔬菜瘦掉了4</A></LI>
+  <LI><A title="杭州张妇人照片资料介绍丧女再生子61岁搏命诞男婴" href="http://www.jinshi.tv/zixun/15list/2016-07-06/28032.html" target="_blank">杭州张妇人照片资料介绍丧女再生子61岁搏命</A></LI>
+  <LI><A title="百年灵银河29腕表（Galactic 29）" href="http://www.jinshi.tv/zixun/15list/2016-06-21/28028.html" target="_blank">百年灵银河29腕表（Galactic 29）</A></LI>
+  <LI><A title="2016超级红人节papi酱首次正式露面完胜其他网红组图" href="http://www.jinshi.tv/zixun/15list/2016-06-17/28024.html" target="_blank">2016超级红人节papi酱首次正式露面完胜其他</A></LI>
+  <LI><A title="阙太瑛照片微博介绍60岁身材似20岁少女组图传授保养秘笈" href="http://www.jinshi.tv/zixun/15list/2016-06-16/28014.html" target="_blank">阙太瑛照片微博介绍60岁身材似20岁少女组图</A></LI>
+  <LI><A title="方祺媛资料露点私照曝光被人问是否卖淫公开其电话号码" href="http://www.jinshi.tv/zixun/15list/2016-06-16/28001.html" target="_blank">方祺媛资料露点私照曝光被人问是否卖淫公开</A></LI>
+  <LI><A title="准空姐高强度军事训练组图炼就空中霸王花" href="http://www.jinshi.tv/zixun/15list/2016-06-14/27990.html" target="_blank">准空姐高强度军事训练组图炼就空中霸王花</A></LI>
+  <LI><A title="苏大校花旗袍热舞视频曝光旗袍女神资料微博介绍" href="http://www.jinshi.tv/zixun/15list/2016-06-14/27976.html" target="_blank">苏大校花旗袍热舞视频曝光旗袍女神资料微博</A></LI>
+  <LI><A title="抗癌女孩周琳照片个人资料家庭背景抗癌经历介绍公布抗癌日记内容" href="http://www.jinshi.tv/zixun/15list/2016-05-16/27954.html" target="_blank">抗癌女孩周琳照片个人资料家庭背景抗癌经历</A></LI>
+    </UL>
+<DIV class="blank10"></DIV></DIV></DIV>
+<DIV class="w_960">
+<DIV class="blank10"></DIV>
+<DIV class="w_650 left">
+<DIV class="tt01 slider-p"><SPAN>文化 / 娱乐</SPAN><EM><A href="http://www.jinshi.tv/zixun/16show/" 
+target="_blank">明星</A>|<A href="http://www.jinshi.tv/zixun/12show/" target="_blank">剧情</A></EM></DIV>
+<DIV class="w_340 left">
+<DIV class="blank10"></DIV>
+<UL class="news_list f14 c_333">
+ <LI class="li_1st"><A title="http://www.jinshi.tv/zixun/11show/20170227/28079.html" href="http://www.jinshi.tv/zixun/11show/20170227/28079.html" target="_blank">2017第89届奥斯卡完整获奖名单曝光 月</A></LI>
+<LI ><A title="http://www.jinshi.tv/zixun/11show/20161205/28072.html" href="http://www.jinshi.tv/zixun/11show/20161205/28072.html" target="_blank">爸爸去哪儿安吉教蔡国庆长法语歌 完整翻译</A></LI>
+<LI ><A title="http://www.jinshi.tv/zixun/11show/20161205/28061.html" href="http://www.jinshi.tv/zixun/11show/20161205/28061.html" target="_blank">韩雪TED15分钟英文演讲视频在线 分享乐观</A></LI>
+<LI ><A title="http://www.jinshi.tv/zixun/11show/20161205/28059.html" href="http://www.jinshi.tv/zixun/11show/20161205/28059.html" target="_blank">T.O.恋情公布 女友Asia Chow照片资料热搜</A></LI>
+ </UL>
+<DIV style="border-bottom-color: rgb(204, 204, 204); border-bottom-width: 1px; border-bottom-style: dashed;" 
+class="blank10"></DIV>
+<DIV class="blank10"></DIV>
+<UL class="news_list f14 c_333">
+ <LI><A title="女儿帮离婚爸爸还贷款父亲一句话让女儿伤透了心" href="http://www.jinshi.tv/zixun/16show/2017-02-27/28087.html" target="_blank">女儿帮离婚爸爸还贷款父亲一句话让女儿伤透了</A></LI>
+<LI><A title="元代画家任仁发资料著作介绍 水利专家画作值千金" href="http://www.jinshi.tv/zixun/16show/2016-12-05/28071.html" target="_blank">元代画家任仁发资料著作介绍 水利专家画作值</A></LI>
+<LI><A title="罗尔诈捐采访视频 房子留给儿子不能卖女儿网友养" href="http://www.jinshi.tv/zixun/16show/2016-12-05/28069.html" target="_blank">罗尔诈捐采访视频 房子留给儿子不能卖女儿网</A></LI>
+<LI><A title="韩国6岁网红Eun-chae照片热搜 父母资料家庭背景介绍 " href="http://www.jinshi.tv/zixun/16show/2016-12-05/28065.html" target="_blank">韩国6岁网红Eun-chae照片热搜 父母资料家庭</A></LI>
+ </UL>
+<DIV class="blank10"></DIV></DIV>
+<DIV class="w_305 right">
+<DIV class="tt_ws"><SPAN>图片</SPAN><A href="http://www.jinshi.tv/pic/" 
+target="_blank"><EM>点击进入栏目</EM></A></DIV>
+<DIV class="blank5"></DIV>
+<UL class="tp_list">
+   <LI><A title="天津卫视《非你莫属》经全新改版后在昨晚重磅推出" href="http://www.jinshi.tv/zixun/11show/20140623/3634.html" 
+  target="_blank"><IMG alt="天津卫视《非你莫属》经全新改版后在昨晚重磅推出" src="http://www.jinshi.tv/uploadfile/2014/0428/thumb_140_95_20140428090906820.jpg"></A><div class="tbg" style="left:5px;"></div><P style="left: 5px;"><A title="天津卫视《非你莫属》经全新改版后在昨晚重磅推出" href="http://www.jinshi.tv/zixun/11show/20140623/3634.html" 
+  target="_blank">天津卫视《非你莫属》经全新改版后在昨晚重磅推出</A></P></LI>
+  <LI><A title="林宥嘉新恋情曝光暗示主动分手林宥嘉女友丁文琪kik..." href="http://www.jinshi.tv/zixun/11show/20160326/3610.html" 
+  target="_blank"><IMG alt="林宥嘉新恋情曝光暗示主动分手林宥嘉女友丁文琪kik..." src="http://www.jinshi.tv/uploadfile/2014/0428/thumb_140_95_20140428081614669.jpg"></A><div class="tbg" style="left:5px;"></div><P style="left: 5px;"><A title="林宥嘉新恋情曝光暗示主动分手林宥嘉女友丁文琪kik..." href="http://www.jinshi.tv/zixun/11show/20160326/3610.html" 
+  target="_blank">林宥嘉新恋情曝光暗示主动分手林宥嘉女友丁文琪kik...</A></P></LI>
+  <LI><A title="黎姿的老公为什么残疾黎姿老公个人资料介绍" href="http://www.jinshi.tv/zixun/11show/20160326/3602.html" 
+  target="_blank"><IMG alt="黎姿的老公为什么残疾黎姿老公个人资料介绍" src="http://photo.icxo.com/20123/20123235840lizi.jpg"></A><div class="tbg" style="left:5px;"></div><P style="left: 5px;"><A title="黎姿的老公为什么残疾黎姿老公个人资料介绍" href="http://www.jinshi.tv/zixun/11show/20160326/3602.html" 
+  target="_blank">黎姿的老公为什么残疾黎姿老公个人资料介绍</A></P></LI>
+  <LI><A title="爆女星凯琳劳里16岁堕胎 凯琳劳里资料照片受关注" href="http://www.jinshi.tv/zixun/11show/20160326/3567.html" 
+  target="_blank"><IMG alt="爆女星凯琳劳里16岁堕胎 凯琳劳里资料照片受关注" src="http://www.wed114.cn/jiehun/uploads/allimg/140425/36_140425113658_1.jpg"></A><div class="tbg" style="left:5px;"></div><P style="left: 5px;"><A title="爆女星凯琳劳里16岁堕胎 凯琳劳里资料照片受关注" href="http://www.jinshi.tv/zixun/11show/20160326/3567.html" 
+  target="_blank">爆女星凯琳劳里16岁堕胎 凯琳劳里资料照片受关注</A></P></LI>
+ 
+</UL>
+<DIV class="blank10"></DIV></DIV></DIV>
+<DIV class="w_275 right">
+<DIV style='background: url("/skin/2013new/images/tt01_bg.gif") repeat-x left bottom;' 
+class="tt_yl"><SPAN>48小时新闻点击排行榜</SPAN></DIV>
+<DIV class="blank5"></DIV>
+<UL class="phb_list f12 c_888">
+<LI><A title="强降雨使遂川发生地质灾害导致6人死亡1人失踪" href="http://www.jinshi.tv/zixun/jiangxi/20140813/10183.html" target="_blank">强降雨使遂川发生地质灾害导致6人死亡1人</A></LI>
+<LI><A title="江西省遂川县山体滑坡最新消息：5人遇难2人失踪" href="http://www.jinshi.tv/zixun/jiangxi/20140813/10185.html" target="_blank">江西省遂川县山体滑坡最新消息：5人遇难2</A></LI>
+<LI><A title="江西南昌县一村８名村干部因侵吞国家安置房７人贪污罪获刑" href="http://www.jinshi.tv/zixun/jiangxi/20140814/10191.html" target="_blank">江西南昌县一村８名村干部因侵吞国家安置</A></LI>
+<LI><A title="江西：南昌八一大道整治行人攀爬护栏" href="http://www.jinshi.tv/zixun/jiangxi/20140815/10195.html" target="_blank">江西：南昌八一大道整治行人攀爬护栏</A></LI>
+<LI><A title="荣兴纸品厂因盗窃罪被判处无期徒刑" href="http://www.jinshi.tv/zixun/jiangxi/20140902/10380.html" target="_blank">荣兴纸品厂因盗窃罪被判处无期徒刑</A></LI>
+</UL>
+<DIV style='background: url("/skin/2013new/images/tt01_bg.gif") repeat-x left bottom;' 
+class="tt_yl"><SPAN>本网动态</SPAN><A href="http://www.jinshi.tv/zixun/" 
+target="_blank"><EM>更多&gt;&gt;</EM></A></DIV>
+<DIV class="blank5"></DIV>
+<UL class="news_list f12 c_888">
+  <LI><A title="搜狐网关注金视在线 称其有核心优势" href="http://www.jinshi.tv/" 
+  target="_blank">搜狐网关注金视在线 称其有核心优势</A></LI>
+  <LI><A title="江西在线推出2014全国两会专题" href="http://www.jinshi.tv/" 
+  target="_blank">江西在线推出2014全国两会专题</A></LI>
+  <LI><A title="掌上川南 手机上的川南城市在线" href="http://m.jinshi.tv/" 
+  target="_blank">掌上江西 手机上的江西城市在线</A></LI></UL>
+<DIV class="blank10"></DIV></DIV></DIV>
+<DIV class="h10"></DIV>
+<DIV class="main">
+<DIV class="tab"><A class="cur" href="javascript:;">城市网链</A><A href="javascript:;">合作网站</A><A 
+href="javascript:;">友情链接</A></DIV>
+<DIV class="tab-box">
+<DIV class="tab-box-item"  style="display: block;">  <a href="http://www.jiangxi.gov.cn/" target="_blank" rel="nofollow">中国江西省人民政府</a>
+<a href="http://epaper.jxnews.com.cn/jxrb" target="_blank" rel="nofollow">江西日报</a>
+<a href="http://www.jxnews.com.cn/" target="_blank" rel="nofollow">中国江西</a>
+<a href="http://www.jxntv.cn/" target="_blank" rel="nofollow">江西网络电视台</a>
+<a href="http://www.775855.com/" target="_blank" rel="nofollow">江西新闻网</a>
+<a href="http://www.jxta.gov.cn/" target="_blank" rel="nofollow">江西旅游网</a>
+<a href="http://www.jxgdw.com/" target="_blank" rel="nofollow">今视网</a>
+<a href="http://www.jxcn.cn/" target="_blank" rel="nofollow">大江网</a>
+</DIV>
+<DIV class="tab-box-item">  <a href="http://www.jxmhw.com" target="_blank">江西门户网</a>
+<a href="http://www.7tyy.com" target="_blank">最新电影</a>
+<a href="http://www.dingbbs.com" target="_blank">新鲜事</a>
+<a href="http://www.43yl.com" target="_blank">时尚娱乐网</a>
+</DIV>
+<DIV class="tab-box-item">
+  <a href="http://qingdao.youbian.com" target="_blank">青岛市邮编</a>
+<a href="http://www.ikandian.com " target="_blank">看点网</a>
+<a href="http://www.ys001.com" target="_blank">第一养生网</a>
+<a href="http://www.haotijin.com" target="_blank">冷笑话大全</a>
+<a href="http://www.028y.com" target="_blank">女性网</a>
+<a href="http://news.qiyue.com" target="_blank">最新新闻</a>
+<a href="http://jzwcom.com/" target="_blank">记者</a>
+<a href="http://jn.fang.com/" target="_blank">济南房产网</a>
+<a href="http://ty.focus.cn/" target="_blank">太原房产</a>
+<a href="http://www.123xa.com" target="_blank">123娱乐网 </a>
+</DIV>
+</DIV>
+<DIV class="tg"><SPAN>投稿</SPAN><BR>邮�<a class="__cf_email__" href="/cdn-cgi/l/email-protection" data-cfemail="8c682f36e1e9e8e5ede5e2efe4e5e2edcce6e5e2ffe4e5a2f8fa">[email&#160;protected]</a><script data-cfhash='f9e31' type="text/javascript">/* <![CDATA[ */!function(t,e,r,n,c,a,p){try{t=document.currentScript||function(){for(t=document.getElementsByTagName('script'),e=t.length;e--;)if(t[e].getAttribute('data-cfhash'))return t[e]}();if(t&&(c=t.previousSibling)){p=t.parentNode;if(a=c.getAttribute('data-cfemail')){for(e='',r='0x'+a.substr(0,2)|0,n=2;a.length-n;n+=2)e+='%'+('0'+('0x'+a.substr(n,2)^r).toString(16)).slice(-2);p.replaceChild(document.createTextNode(decodeURIComponent(e)),c)}p.removeChild(t)}}catch(u){}}()/* ]]> */</script></DIV></DIV>
+<DIV class="h20"></DIV>
+<DIV style="position: relative;" class="main">
+<DIV class="foot">																			<A href="http://www.jinshi.tv/html/about/aboutus/" target="_blank">关于我们</A>
+<A href="http://www.jinshi.tv/html/about/contactus/" target="_blank">联系我们</A>
+<A href="http://www.jinshi.tv/html/about/copyright/" target="_blank">网站律师</A>
+<A href="http://www.jinshi.tv/html/about/editor/" target="_blank">编辑名单</A>
+<A href="http://www.jinshi.tv/html/about/copyright/" target="_blank">版权声明</A>
+<A href="http://www.jinshi.tv/site.xml" target="_blank">Sitemap</A></DIV>
+<A class="goto-top" href="http://www.jinshi.tv/#top"></A></DIV>
+<DIV class="main">
+<DIV class="copyright">Copyright &copy;2000-2014 JINSHI NETWORK MEDIA DEVELOPMENT CO., 
+LTD. All rights reserved<BR>网站所刊登的新闻、信息等内容, 均为版权所有;未经授权,谢绝转载;已经授权转载请注明新闻来源：金视在线  
+<BR>			江西城市群综合门户网站 | 江西新媒体 | 江西旅游 | 江西天气 | 江西城市在线  <BR>			中华人民共和国工业和信息化部 
+赣ICP备12001566号　 请IE6以上浏览本网站 
+</DIV>
+<UL class="foot_pic">
+  <LI><A href="http://59.52.97.234:8100/infoCategoryListAction.do?act=init" target="_blank" rel="nofollow"><IMG border="0" src="http://www.jinshi.tv/statics/roll/foot_1.gif"></A></LI>
+  <LI><A href="http://www.jinshi.tv/#" target="_blank"><IMG border="0" src="http://www.jinshi.tv/statics/roll/foot_2.gif"></A></LI>
+  <LI><A href="http://www.jinshi.tv/#" target="_blank"><IMG border="0" src="http://www.jinshi.tv/statics/roll/foot_3.gif"></A></LI>
+  <LI><A href="http://www.jinshi.tv/#" target="_blank"><IMG border="0" src="http://www.jinshi.tv/statics/roll/foot_4.gif"></A></LI>
+  <LI><A href="http://www.jinshi.tv/#" target="_blank"><IMG border="0" src="http://www.jinshi.tv/statics/roll/foot_5.gif"></A></LI></UL></DIV></DIV>
+<div style="display:none">
+<script src="http://s15.cnzz.com/stat.php?id=5194272&web_id=5194272" language="JavaScript"></script>
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F8bac22e89039d0d10a7c6bb514cf259a' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</div>
+<!--BAIDU_YUNTU_START-->
+<script>
+(function(d, t) {
+    var r = d.createElement(t), s = d.getElementsByTagName(t)[0];
+    r.async = 1;
+    r.src = '//rp.baidu.com/rp3w/3w.js?sid=6007905821151045317&t=' + Math.ceil(new Date/3600000);
+    s.parentNode.insertBefore(r, s);
+})(document, 'script');
+</script>
+<!--BAIDU_YUNTU_END-->
+</BODY></HTML>
+
+
+0
+
+

@@ -1,0 +1,871 @@
+HTTP/1.1 200 OK
+Content-Length: 46793
+Content-Type: text/html
+Content-Location: http://www.exiaoba.com/index.html
+Last-Modified: Thu, 23 Mar 2017 01:06:32 GMT
+Accept-Ranges: bytes
+ETag: "fbd2c6b571a3d21:1a26"
+Server: Microsoft-IIS/6.0
+X-Powered-By: ASP.NET
+Date: Sat, 25 Mar 2017 04:32:30 GMT
+Connection: close
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>搞笑视频,笑话网,搞笑图片,易笑吧</title>
+<meta name="description" content="幽默,搞笑,笑话,搞怪图片,搞笑视频,搞笑图片,笑话网,二人转搞笑,十万个冷笑话,奇闻趣事,笑话大全,幽默笑话,易笑吧,笑话吧,笑话集." />
+<meta name="keywords" content="易笑吧_糗事百科,捧腹,笑话大全,漫画图片,搞笑视频,恶搞视频,趣味图片,奇闻轶事,夫妻笑话,校园笑话,职场笑话,糗事,内涵图,屌丝,美女幽默,搞笑,笑话,搞怪图片,奇闻趣事" />
+<meta HTTP-EQUIV="pragma" CONTENT="no-cache">
+<meta HTTP-EQUIV="Cache-Control" CONTENT="no-cache, must-revalidate">
+<meta HTTP-EQUIV="expires" CONTENT="0">
+<SCRIPT language=javascript>
+<!--
+window.onerror=function(){return true;}
+// -->
+</SCRIPT> 
+<script type="text/javascript"  src="/plus/check_wap.php" ></script>
+<link href="/templets/exiaoba/css/base.css" rel="stylesheet" type="text/css" />
+<script language="javascript" type="text/javascript" src="/templets/exiaoba/js/jquery-1.7.2.min.js"></script>
+<script language="javascript" type="text/javascript" src="/include/dedeajax2.js"></script>
+<script language="javascript" type="text/javascript" src="/templets/exiaoba/js/post.js"></script>
+<script type="text/javascript" src="/templets/exiaoba/js/jquery.lazyload.mini.js"></script>
+<script type="text/javascript">
+var jq=jQuery.noConflict();jq(function(){jq("img").lazyload({placeholder:"grey.gif"});});
+</script>
+
+</head>
+
+<body style="position:relative;">
+<a name="topbox" id="topbox"></a>
+<div class="db">
+	<div class="header">
+	<div class="logo fleft"><a href="/"><img src="http://www.exiaoba.com/templets/exiaoba/images/logo.gif" width="433px" height="87px" /></a></div>
+<!--
+	<div class="logo fright"><script type="text/javascript">
+     document.write('<a style="display:none!important" id="tanx-a-mm_35104753_3468367_13192488"></a>');
+     tanx_s = document.createElement("script");
+     tanx_s.type = "text/javascript";
+     tanx_s.charset = "gbk";
+     tanx_s.id = "tanx-s-mm_35104753_3468367_13192488";
+     tanx_s.async = true;
+     tanx_s.src = "http://p.tanx.com/ex?i=mm_35104753_3468367_13192488";
+     tanx_h = document.getElementsByTagName("head")[0];
+     if(tanx_h)tanx_h.insertBefore(tanx_s,tanx_h.firstChild);
+</script></div>
+
+-->
+
+<!-- close
+	<div class="logo fright"><a href="http://m.exiaoba.com/"><img src="/images/erweima.gif" width="252px" height="72px" /></a></div>
+-->
+
+<!--
+	<div id="_userlogin">
+		<div class="dl fright"><a href="/member/index.php" target="_blank">登录</a><a href="/member/index_do.php?fmdo=user&dopost=regnew" target="_blank">注册</a></div>
+-->
+ 
+
+    </div>
+	</div>
+</div>
+<script language="javascript" type="text/javascript">CheckLogin();</script>
+<div class="nav c">
+	<div id="dh">
+		<ul>
+			<li  class='current'><a href="/" target="_blank">首 页</a></li>
+			<li><a href="/tuijian/" target="_blank">每日推荐</a></li>
+			
+			<li><a href='http://www.exiaoba.com/qiwenyishi/' >奇闻轶事</a></li>
+			
+			<li><a href='http://www.exiaoba.com/wenzixiaohua/' >文字笑话</a></li>
+			
+			<li><a href='http://www.exiaoba.com/quweitupian/' >趣味图片</a></li>
+			
+			<li><a href='http://www.exiaoba.com/gaoxiaoshipin/' >搞笑视频</a></li>
+			
+
+		</ul>
+<!--
+		<a href="/member/article_add.php" target="_blank" class="xh" title="笑话上传">笑话上传</a>
+
+		<a href="/exiaoba.rar" target="_blank" class="xh" title="易笑吧桌面版">易笑吧桌面版</a>
+-->	
+</div>
+</div>
+
+<!--
+<center><a href="http://www.taobao.com/go/chn/tbk_channel/lady.php?pid=mm_35104753_3468367_14452808" target="_blank" ><img src="http://www.exiaoba.com/images/tmall_960.jpg" border="0"/></a></center>
+
+
+
+<center><a href="http://s.click.taobao.com/t?e=m%3D2%26s%3DPfvRI7ezsOIcQipKwQzePCperVdZeJviEViQ0P1Vf2kguMN8XjClAuHFKm1kQuaqijtHFr48nJW9YYb2mqdkS3siGo%2FzRRCUEpNS8qFxBOujvUhn0qqMleo0BcZWWIRYYA%2FDpPH01wK9AmARIwX9K%2BAjBDXvuqoU47FHjfsActmiZ%2BQMlGz6FQ%3D%3D" target="_blank" ><img src="http://www.exiaoba.com/images/tmall_960.jpg" border="0"/></a></center>
+-->
+<!--
+<center>
+<iframe src="http://rcm-cn.amazon-adsystem.com/e/cm?t=exiaobaamazon-23&o=28&p=285&l=ez&f=ifr&f=ifr" width="950" height="80" scrolling="no" marginwidth="0" marginheight="0" border="0" frameborder="0" style="border:none;"></iframe>
+</center>
+-->
+<!--
+<center>
+<script type="text/javascript">var jd_union_pid="224018073";var jd_union_euid="";</script><script type="text/javascript" src="http://ads.union.jd.com/static/js/union.js"></script>
+</center>
+-->
+
+
+
+<div class="main">
+  <div class="leftbox">
+    <div class="px">
+      <div class="nr"> <a href="/day/" target="_blank" class="px01on">24小时</a> <a href="/week/" target="_blank" class="px02">最近一周</a> <a href="/month/" target="_blank" class="px03">最近一月</a>
+<!--
+<a target=_blank href="http://s.click.taobao.com/t?e=m%3D2%26s%3DPfvRI7ezsOIcQipKwQzePCperVdZeJviEViQ0P1Vf2kguMN8XjClAuHFKm1kQuaqijtHFr48nJW9YYb2mqdkS3siGo%2FzRRCUEpNS8qFxBOujvUhn0qqMleo0BcZWWIRYYA%2FDpPH01wK9AmARIwX9K%2BAjBDXvuqoU47FHjfsActmiZ%2BQMlGz6FQ%3D%3D"><img src="/templets/exiaoba/images/jhs.gif"></a>
+-->
+
+<!--
+<a target=_blank href="http://s.click.taobao.com/t?e=m%3D2%26s%3DPfvRI7ezsOIcQipKwQzePCperVdZeJviEViQ0P1Vf2kguMN8XjClAuHFKm1kQuaqijtHFr48nJW9YYb2mqdkS3siGo%2FzRRCUEpNS8qFxBOujvUhn0qqMleo0BcZWWIRYYA%2FDpPH01wK9AmARIwX9K%2BAjBDXvuqoU47FHjfsActmiZ%2BQMlGz6FQ%3D%3D"><img src="/templets/exiaoba/images/jhs2.jpg"></a>
+-->
+
+
+<a target=_blank href="http://temai.taobao.com?pid=mm_35104753_3468367_30270732"><img src="/templets/exiaoba/images/jhs2.jpg"></a>
+
+
+</div>
+
+
+ <div class="f"></div>
+<ul class="list03">
+        <H3 style="display：none;text-decoration: none;color:#005F95"><B>推荐趣图</B></H3>
+        <li><a href="http://www.exiaoba.com/quweitupian/2017/0323/81797.html" target="_blank"><img src="http://www.exiaoba.com/uploads/allimg/170323/22-1F3230K635G3-lp.jpg" width="120" height="80" alt="这车就真的很厉害了！！！"/></a>
+          <p><a href="http://www.exiaoba.com/quweitupian/2017/0323/81797.html" target="_blank" title="这车就真的很厉害了！！！">这车就真的很厉害了！！！...</a></p>
+        </li>
+<li><a href="http://www.exiaoba.com/quweitupian/2017/0323/81793.html" target="_blank"><img src="http://www.exiaoba.com/uploads/allimg/170323/22-1F3230K41KP-lp.jpg" width="120" height="80" alt="我勒个擦……"/></a>
+          <p><a href="http://www.exiaoba.com/quweitupian/2017/0323/81793.html" target="_blank" title="我勒个擦……">我勒个擦……...</a></p>
+        </li>
+<li><a href="http://www.exiaoba.com/quweitupian/2017/0323/81785.html" target="_blank"><img src="http://www.exiaoba.com/uploads/allimg/170323/22-1F3230J44c45-lp.jpg" width="120" height="80" alt="我去你妈的纹身师！！！"/></a>
+          <p><a href="http://www.exiaoba.com/quweitupian/2017/0323/81785.html" target="_blank" title="我去你妈的纹身师！！！">我去你妈的纹身师！！！...</a></p>
+        </li>
+<li><a href="http://www.exiaoba.com/quweitupian/2017/0323/81781.html" target="_blank"><img src="http://www.exiaoba.com/uploads/allimg/170323/22-1F3230J11QA-lp.jpg" width="120" height="80" alt="没想到妹纸们这么重口味"/></a>
+          <p><a href="http://www.exiaoba.com/quweitupian/2017/0323/81781.html" target="_blank" title="没想到妹纸们这么重口味">没想到妹纸们这么重口味...</a></p>
+        </li>
+<li><a href="http://www.exiaoba.com/quweitupian/2017/0323/81779.html" target="_blank"><img src="http://www.exiaoba.com/uploads/allimg/170323/22-1F3230I942P6-lp.jpg" width="120" height="80" alt="单身狗与朋友们。。。"/></a>
+          <p><a href="http://www.exiaoba.com/quweitupian/2017/0323/81779.html" target="_blank" title="单身狗与朋友们。。。">单身狗与朋友们。。。...</a></p>
+        </li>
+
+</ul>
+
+<!--
+<a target=_blank href="http://s.click.taobao.com/t?e=m%3D2%26s%3DPfvRI7ezsOIcQipKwQzePCperVdZeJviEViQ0P1Vf2kguMN8XjClAuHFKm1kQuaqijtHFr48nJW9YYb2mqdkS3siGo%2FzRRCUEpNS8qFxBOujvUhn0qqMleo0BcZWWIRYYA%2FDpPH01wK9AmARIwX9K%2BAjBDXvuqoU47FHjfsActmiZ%2BQMlGz6FQ%3D%3D" class="yq"><img src="/templets/exiaoba/images/0120huodong.jpg"></a>
+
+-->
+<!--
+      <div class="f"></div>
+
+   <script type="text/javascript">
+     /*exiaoba_自定义标签云_时间下面，创建于2013-11-17*/
+     var cpro_id = "u1413332";
+    </script>
+    <script src="http://cpro.baidustatic.com/cpro/ui/c.js" type="text/javascript"></script>
+
+     <div class="f"></div>
+-->
+
+   </div>
+
+
+
+    <div class="list">
+      <div class="nr"> <a href='/member/index.php?uid=you'><img src='/member/templets/images/dfboy.png' alt="牛哥传奇"  class="hy"/></a>
+        <div class="tit">
+          <h2><a href="http://www.exiaoba.com/quweitupian/2017/0323/81797.html" target="_blank" title="<b>这车就真的很厉害了！！！</b>"><b>这车就真的很厉害了！！！</b></a></h2>
+          <div class="bq"><em>标签：</em><a href='/tags.php?/%B6%F1%B8%E3/'>恶搞</a> <a href='/tags.php?/%C1%C1%B5%E3/'>亮点</a> <a href='/tags.php?/%B0%D4%C6%F8/'>霸气</a> </div>
+        </div>
+        <div class="box">
+          <div class="xhnr">
+          <div>
+	<img alt="这车就真的很厉害了！！！" src="/uploads/allimg/170323/22-1F3230K635G3.jpg" style="width: 400px; height: 222px;" title="这车就真的很厉害了！！！" /></div>
+
+            </div>
+    </div>
+       <div class="time"><p>2017-03-23 07:58</p></div>
+      </div>
+      <div class="pl">
+        <div class="discuz">
+          <div id="newdigg81797" class="digg"> </div>
+
+          <div class="fx">分享<div class="share">
+
+<div class="bdsharebuttonbox"><a href="#" class="bds_more" data-cmd="more"></a><a href="#" class="bds_weixin" data-cmd="weixin" title="分享到微信"></a><a href="#" class="bds_qzone" data-cmd="qzone" title="分享到QQ空间"></a><a href="#" class="bds_sqq" data-cmd="sqq" title="分享到QQ好友"></a><a href="#" class="bds_tsina" data-cmd="tsina" title="分享到新浪微博"></a></div>
+<script>window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"1","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"share":{},"image":{"viewList":["weixin","qzone","sqq","tsina"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["weixin","qzone","sqq","tsina"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</div>
+</div>
+
+      <script language="javascript" type="text/javascript">getDigg(81797);</script>
+	 	 <input name="" type="button"  value="我要评论"  id="btn81797" onclick="btn81797()"  style=" margin-left:150px;cursor:pointer;">
+		  <span class="ds-thread-count" data-thread-key="81797"  id="btn81797" onclick="btn81797()"  style="cursor:pointer;"></span>
+		  </div>
+		 <div id="box81797" class="yypl" style="display:none;">
+			
+			<!-- 多说评论框 start -->
+			<div class="ds-thread" data-thread-key="81797" data-title="<b>这车就真的很厉害了！！！</b>" data-url="http://www.exiaoba.com/quweitupian/2017/0323/81797.html"></div>
+			<!-- 多说评论框 end -->
+			
+			
+		</div>
+		<script type="text/javascript">
+        var btn181797=document.getElementById('btn81797');
+        var box181797=document.getElementById('box81797');
+        function btn81797(){ if(btn181797.value=="我要评论"){box181797.style.display='';btn181797.value="隐藏评论";
+            }else{box181797.style.display='none';btn181797.value="我要评论";
+        }
+        }
+        </script>
+
+
+
+   
+  </div>
+  
+  </div>
+ 
+<div class="shadow"></div><div class="list">
+      <div class="nr"> <a href='/member/index.php?uid=you'><img src='/member/templets/images/dfboy.png' alt="黄蓉"  class="hy"/></a>
+        <div class="tit">
+          <h2><a href="http://www.exiaoba.com/wenzixiaohua/2017/0323/81798.html" target="_blank" title="<b>这智商随谁？</b>"><b>这智商随谁？</b></a></h2>
+          <div class="bq"><em>标签：</em><a href='/tags.php?/%B6%F1%B8%E3/'>恶搞</a> </div>
+        </div>
+        <div class="box">
+          <div class="xhnr">
+          <div>
+	<span style="font-size:14px;">今晚吃火锅时出了件大事。我姐的女儿7岁了，忽然就把手向锅伸去&hellip;哄她不哭以后问她为啥？她说想看看手涮了是啥样&hellip;我就急了：啥样？羊肉生的进去熟的出来！土豆硬的进去绵的出来！金针菇直的进去卷的出来！你说啥样？她带着哭音喊：那筷子进去咋出来还是筷子？愁人&hellip;这智商随谁？</span></div>
+
+            </div>
+    </div>
+       <div class="time"><p>2017-03-23 07:58</p></div>
+      </div>
+      <div class="pl">
+        <div class="discuz">
+          <div id="newdigg81798" class="digg"> </div>
+
+          <div class="fx">分享<div class="share">
+
+<div class="bdsharebuttonbox"><a href="#" class="bds_more" data-cmd="more"></a><a href="#" class="bds_weixin" data-cmd="weixin" title="分享到微信"></a><a href="#" class="bds_qzone" data-cmd="qzone" title="分享到QQ空间"></a><a href="#" class="bds_sqq" data-cmd="sqq" title="分享到QQ好友"></a><a href="#" class="bds_tsina" data-cmd="tsina" title="分享到新浪微博"></a></div>
+<script>window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"1","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"share":{},"image":{"viewList":["weixin","qzone","sqq","tsina"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["weixin","qzone","sqq","tsina"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</div>
+</div>
+
+      <script language="javascript" type="text/javascript">getDigg(81798);</script>
+	 	 <input name="" type="button"  value="我要评论"  id="btn81798" onclick="btn81798()"  style=" margin-left:150px;cursor:pointer;">
+		  <span class="ds-thread-count" data-thread-key="81798"  id="btn81798" onclick="btn81798()"  style="cursor:pointer;"></span>
+		  </div>
+		 <div id="box81798" class="yypl" style="display:none;">
+			
+			<!-- 多说评论框 start -->
+			<div class="ds-thread" data-thread-key="81798" data-title="<b>这智商随谁？</b>" data-url="http://www.exiaoba.com/wenzixiaohua/2017/0323/81798.html"></div>
+			<!-- 多说评论框 end -->
+			
+			
+		</div>
+		<script type="text/javascript">
+        var btn181798=document.getElementById('btn81798');
+        var box181798=document.getElementById('box81798');
+        function btn81798(){ if(btn181798.value=="我要评论"){box181798.style.display='';btn181798.value="隐藏评论";
+            }else{box181798.style.display='none';btn181798.value="我要评论";
+        }
+        }
+        </script>
+
+
+
+   
+  </div>
+  
+  </div>
+ 
+<div class="shadow"></div><div class="list">
+      <div class="nr"> <a href='/member/index.php?uid=you'><img src='/member/templets/images/dfboy.png' alt="牛哥传奇"  class="hy"/></a>
+        <div class="tit">
+          <h2><a href="http://www.exiaoba.com/quweitupian/2017/0323/81793.html" target="_blank" title="<b>我勒个擦……</b>"><b>我勒个擦……</b></a></h2>
+          <div class="bq"><em>标签：</em><a href='/tags.php?/%B6%F1%B8%E3/'>恶搞</a> <a href='/tags.php?/%C1%C1%B5%E3/'>亮点</a> <a href='/tags.php?/%B0%D4%C6%F8/'>霸气</a> </div>
+        </div>
+        <div class="box">
+          <div class="xhnr">
+          <div>
+	<img alt="我勒个擦……" src="/uploads/allimg/170323/22-1F3230K41KP.jpg" style="width: 400px; height: 390px;" title="我勒个擦……" /></div>
+
+            </div>
+    </div>
+       <div class="time"><p>2017-03-23 07:57</p></div>
+      </div>
+      <div class="pl">
+        <div class="discuz">
+          <div id="newdigg81793" class="digg"> </div>
+
+          <div class="fx">分享<div class="share">
+
+<div class="bdsharebuttonbox"><a href="#" class="bds_more" data-cmd="more"></a><a href="#" class="bds_weixin" data-cmd="weixin" title="分享到微信"></a><a href="#" class="bds_qzone" data-cmd="qzone" title="分享到QQ空间"></a><a href="#" class="bds_sqq" data-cmd="sqq" title="分享到QQ好友"></a><a href="#" class="bds_tsina" data-cmd="tsina" title="分享到新浪微博"></a></div>
+<script>window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"1","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"share":{},"image":{"viewList":["weixin","qzone","sqq","tsina"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["weixin","qzone","sqq","tsina"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</div>
+</div>
+
+      <script language="javascript" type="text/javascript">getDigg(81793);</script>
+	 	 <input name="" type="button"  value="我要评论"  id="btn81793" onclick="btn81793()"  style=" margin-left:150px;cursor:pointer;">
+		  <span class="ds-thread-count" data-thread-key="81793"  id="btn81793" onclick="btn81793()"  style="cursor:pointer;"></span>
+		  </div>
+		 <div id="box81793" class="yypl" style="display:none;">
+			
+			<!-- 多说评论框 start -->
+			<div class="ds-thread" data-thread-key="81793" data-title="<b>我勒个擦……</b>" data-url="http://www.exiaoba.com/quweitupian/2017/0323/81793.html"></div>
+			<!-- 多说评论框 end -->
+			
+			
+		</div>
+		<script type="text/javascript">
+        var btn181793=document.getElementById('btn81793');
+        var box181793=document.getElementById('box81793');
+        function btn81793(){ if(btn181793.value=="我要评论"){box181793.style.display='';btn181793.value="隐藏评论";
+            }else{box181793.style.display='none';btn181793.value="我要评论";
+        }
+        }
+        </script>
+
+
+
+   
+  </div>
+  
+  </div>
+ 
+<div class="shadow"></div><div class="list">
+      <div class="nr"> <a href='/member/index.php?uid=you'><img src='/member/templets/images/dfboy.png' alt="易笑"  class="hy"/></a>
+        <div class="tit">
+          <h2><a href="http://www.exiaoba.com/quweitupian/2017/0323/81785.html" target="_blank" title="<b>我去你妈的纹身师！！！</b>"><b>我去你妈的纹身师！！！</b></a></h2>
+          <div class="bq"><em>标签：</em><a href='/tags.php?/%B6%F1%B8%E3/'>恶搞</a> <a href='/tags.php?/%C1%C1%B5%E3/'>亮点</a> <a href='/tags.php?/%B0%D4%C6%F8/'>霸气</a> </div>
+        </div>
+        <div class="box">
+          <div class="xhnr">
+          <div>
+	<img alt="我去你妈的纹身师！！！" src="/uploads/allimg/170323/22-1F3230J44c45.jpg" style="width: 400px; height: 394px;" title="我去你妈的纹身师！！！" /></div>
+
+            </div>
+    </div>
+       <div class="time"><p>2017-03-23 07:57</p></div>
+      </div>
+      <div class="pl">
+        <div class="discuz">
+          <div id="newdigg81785" class="digg"> </div>
+
+          <div class="fx">分享<div class="share">
+
+<div class="bdsharebuttonbox"><a href="#" class="bds_more" data-cmd="more"></a><a href="#" class="bds_weixin" data-cmd="weixin" title="分享到微信"></a><a href="#" class="bds_qzone" data-cmd="qzone" title="分享到QQ空间"></a><a href="#" class="bds_sqq" data-cmd="sqq" title="分享到QQ好友"></a><a href="#" class="bds_tsina" data-cmd="tsina" title="分享到新浪微博"></a></div>
+<script>window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"1","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"share":{},"image":{"viewList":["weixin","qzone","sqq","tsina"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["weixin","qzone","sqq","tsina"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</div>
+</div>
+
+      <script language="javascript" type="text/javascript">getDigg(81785);</script>
+	 	 <input name="" type="button"  value="我要评论"  id="btn81785" onclick="btn81785()"  style=" margin-left:150px;cursor:pointer;">
+		  <span class="ds-thread-count" data-thread-key="81785"  id="btn81785" onclick="btn81785()"  style="cursor:pointer;"></span>
+		  </div>
+		 <div id="box81785" class="yypl" style="display:none;">
+			
+			<!-- 多说评论框 start -->
+			<div class="ds-thread" data-thread-key="81785" data-title="<b>我去你妈的纹身师！！！</b>" data-url="http://www.exiaoba.com/quweitupian/2017/0323/81785.html"></div>
+			<!-- 多说评论框 end -->
+			
+			
+		</div>
+		<script type="text/javascript">
+        var btn181785=document.getElementById('btn81785');
+        var box181785=document.getElementById('box81785');
+        function btn81785(){ if(btn181785.value=="我要评论"){box181785.style.display='';btn181785.value="隐藏评论";
+            }else{box181785.style.display='none';btn181785.value="我要评论";
+        }
+        }
+        </script>
+
+
+
+   
+  </div>
+  
+  </div>
+ 
+<div class="shadow"></div><div class="list">
+      <div class="nr"> <a href='/member/index.php?uid=you'><img src='/member/templets/images/dfboy.png' alt="潇洒人生"  class="hy"/></a>
+        <div class="tit">
+          <h2><a href="http://www.exiaoba.com/quweitupian/2017/0323/81781.html" target="_blank" title="<b>没想到妹纸们这么重口味</b>"><b>没想到妹纸们这么重口味</b></a></h2>
+          <div class="bq"><em>标签：</em><a href='/tags.php?/%B6%F1%B8%E3/'>恶搞</a> <a href='/tags.php?/%C1%C1%B5%E3/'>亮点</a> <a href='/tags.php?/%B0%D4%C6%F8/'>霸气</a> </div>
+        </div>
+        <div class="box">
+          <div class="xhnr">
+          <div>
+	<img alt="没想到妹纸们这么重口味" src="/uploads/allimg/170323/22-1F3230J11QA.jpg" style="width: 400px; height: 365px;" title="没想到妹纸们这么重口味" /></div>
+
+            </div>
+    </div>
+       <div class="time"><p>2017-03-23 07:57</p></div>
+      </div>
+      <div class="pl">
+        <div class="discuz">
+          <div id="newdigg81781" class="digg"> </div>
+
+          <div class="fx">分享<div class="share">
+
+<div class="bdsharebuttonbox"><a href="#" class="bds_more" data-cmd="more"></a><a href="#" class="bds_weixin" data-cmd="weixin" title="分享到微信"></a><a href="#" class="bds_qzone" data-cmd="qzone" title="分享到QQ空间"></a><a href="#" class="bds_sqq" data-cmd="sqq" title="分享到QQ好友"></a><a href="#" class="bds_tsina" data-cmd="tsina" title="分享到新浪微博"></a></div>
+<script>window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"1","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"share":{},"image":{"viewList":["weixin","qzone","sqq","tsina"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["weixin","qzone","sqq","tsina"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</div>
+</div>
+
+      <script language="javascript" type="text/javascript">getDigg(81781);</script>
+	 	 <input name="" type="button"  value="我要评论"  id="btn81781" onclick="btn81781()"  style=" margin-left:150px;cursor:pointer;">
+		  <span class="ds-thread-count" data-thread-key="81781"  id="btn81781" onclick="btn81781()"  style="cursor:pointer;"></span>
+		  </div>
+		 <div id="box81781" class="yypl" style="display:none;">
+			
+			<!-- 多说评论框 start -->
+			<div class="ds-thread" data-thread-key="81781" data-title="<b>没想到妹纸们这么重口味</b>" data-url="http://www.exiaoba.com/quweitupian/2017/0323/81781.html"></div>
+			<!-- 多说评论框 end -->
+			
+			
+		</div>
+		<script type="text/javascript">
+        var btn181781=document.getElementById('btn81781');
+        var box181781=document.getElementById('box81781');
+        function btn81781(){ if(btn181781.value=="我要评论"){box181781.style.display='';btn181781.value="隐藏评论";
+            }else{box181781.style.display='none';btn181781.value="我要评论";
+        }
+        }
+        </script>
+
+
+
+   
+  </div>
+  
+  </div>
+ 
+<div class="shadow"></div><div class="list">
+      <div class="nr"> <a href='/member/index.php?uid=you'><img src='/member/templets/images/dfboy.png' alt="混世魔王"  class="hy"/></a>
+        <div class="tit">
+          <h2><a href="http://www.exiaoba.com/quweitupian/2017/0323/81779.html" target="_blank" title="<b>单身狗与朋友们。。。</b>"><b>单身狗与朋友们。。。</b></a></h2>
+          <div class="bq"><em>标签：</em><a href='/tags.php?/%B6%F1%B8%E3/'>恶搞</a> <a href='/tags.php?/%C1%C1%B5%E3/'>亮点</a> <a href='/tags.php?/%B0%D4%C6%F8/'>霸气</a> </div>
+        </div>
+        <div class="box">
+          <div class="xhnr">
+          <div>
+	<img alt="单身狗与朋友们。。。" src="/uploads/allimg/170323/22-1F3230I942P6.jpg" style="width: 400px; height: 379px;" title="单身狗与朋友们。。。" /></div>
+
+            </div>
+    </div>
+       <div class="time"><p>2017-03-23 07:57</p></div>
+      </div>
+      <div class="pl">
+        <div class="discuz">
+          <div id="newdigg81779" class="digg"> </div>
+
+          <div class="fx">分享<div class="share">
+
+<div class="bdsharebuttonbox"><a href="#" class="bds_more" data-cmd="more"></a><a href="#" class="bds_weixin" data-cmd="weixin" title="分享到微信"></a><a href="#" class="bds_qzone" data-cmd="qzone" title="分享到QQ空间"></a><a href="#" class="bds_sqq" data-cmd="sqq" title="分享到QQ好友"></a><a href="#" class="bds_tsina" data-cmd="tsina" title="分享到新浪微博"></a></div>
+<script>window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"1","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"share":{},"image":{"viewList":["weixin","qzone","sqq","tsina"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["weixin","qzone","sqq","tsina"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</div>
+</div>
+
+      <script language="javascript" type="text/javascript">getDigg(81779);</script>
+	 	 <input name="" type="button"  value="我要评论"  id="btn81779" onclick="btn81779()"  style=" margin-left:150px;cursor:pointer;">
+		  <span class="ds-thread-count" data-thread-key="81779"  id="btn81779" onclick="btn81779()"  style="cursor:pointer;"></span>
+		  </div>
+		 <div id="box81779" class="yypl" style="display:none;">
+			
+			<!-- 多说评论框 start -->
+			<div class="ds-thread" data-thread-key="81779" data-title="<b>单身狗与朋友们。。。</b>" data-url="http://www.exiaoba.com/quweitupian/2017/0323/81779.html"></div>
+			<!-- 多说评论框 end -->
+			
+			
+		</div>
+		<script type="text/javascript">
+        var btn181779=document.getElementById('btn81779');
+        var box181779=document.getElementById('box81779');
+        function btn81779(){ if(btn181779.value=="我要评论"){box181779.style.display='';btn181779.value="隐藏评论";
+            }else{box181779.style.display='none';btn181779.value="我要评论";
+        }
+        }
+        </script>
+
+
+
+   
+  </div>
+  
+  </div>
+ 
+<div class="shadow"></div><div class="list">
+      <div class="nr"> <a href='/member/index.php?uid=you'><img src='/member/templets/images/dfboy.png' alt="黄蓉"  class="hy"/></a>
+        <div class="tit">
+          <h2><a href="http://www.exiaoba.com/wenzixiaohua/2017/0323/81796.html" target="_blank" title="拆快递累死你">拆快递累死你</a></h2>
+          <div class="bq"><em>标签：</em><a href='/tags.php?/%B6%F1%B8%E3/'>恶搞</a> </div>
+        </div>
+        <div class="box">
+          <div class="xhnr">
+          <div>
+	<span style="font-size:14px;">昨天二姐不开心回家了，可是二姐夫尾随而来，求着二姐回去。二姐不给他面子坚决不回去。二姐夫凶狠的说&ldquo;和我回家，不然让你死信不信？&rdquo;二姐:呦呦呦，就不回，看你咋弄死我？二姐夫掏出手机说:我现在就清空你的购物车，到时拆快递累死你&hellip;&hellip;。</span></div>
+
+            </div>
+    </div>
+       <div class="time"><p>2017-03-23 07:55</p></div>
+      </div>
+      <div class="pl">
+        <div class="discuz">
+          <div id="newdigg81796" class="digg"> </div>
+
+          <div class="fx">分享<div class="share">
+
+<div class="bdsharebuttonbox"><a href="#" class="bds_more" data-cmd="more"></a><a href="#" class="bds_weixin" data-cmd="weixin" title="分享到微信"></a><a href="#" class="bds_qzone" data-cmd="qzone" title="分享到QQ空间"></a><a href="#" class="bds_sqq" data-cmd="sqq" title="分享到QQ好友"></a><a href="#" class="bds_tsina" data-cmd="tsina" title="分享到新浪微博"></a></div>
+<script>window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"1","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"share":{},"image":{"viewList":["weixin","qzone","sqq","tsina"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["weixin","qzone","sqq","tsina"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</div>
+</div>
+
+      <script language="javascript" type="text/javascript">getDigg(81796);</script>
+	 	 <input name="" type="button"  value="我要评论"  id="btn81796" onclick="btn81796()"  style=" margin-left:150px;cursor:pointer;">
+		  <span class="ds-thread-count" data-thread-key="81796"  id="btn81796" onclick="btn81796()"  style="cursor:pointer;"></span>
+		  </div>
+		 <div id="box81796" class="yypl" style="display:none;">
+			
+			<!-- 多说评论框 start -->
+			<div class="ds-thread" data-thread-key="81796" data-title="拆快递累死你" data-url="http://www.exiaoba.com/wenzixiaohua/2017/0323/81796.html"></div>
+			<!-- 多说评论框 end -->
+			
+			
+		</div>
+		<script type="text/javascript">
+        var btn181796=document.getElementById('btn81796');
+        var box181796=document.getElementById('box81796');
+        function btn81796(){ if(btn181796.value=="我要评论"){box181796.style.display='';btn181796.value="隐藏评论";
+            }else{box181796.style.display='none';btn181796.value="我要评论";
+        }
+        }
+        </script>
+
+
+
+   
+  </div>
+  
+  </div>
+ 
+<div class="shadow"></div><div class="list">
+      <div class="nr"> <a href='/member/index.php?uid=you'><img src='/member/templets/images/dfboy.png' alt="牛哥传奇"  class="hy"/></a>
+        <div class="tit">
+          <h2><a href="http://www.exiaoba.com/quweitupian/2017/0323/81795.html" target="_blank" title="这是什么时尚！！！">这是什么时尚！！！</a></h2>
+          <div class="bq"><em>标签：</em><a href='/tags.php?/%B6%F1%B8%E3/'>恶搞</a> <a href='/tags.php?/%C1%C1%B5%E3/'>亮点</a> <a href='/tags.php?/%B0%D4%C6%F8/'>霸气</a> </div>
+        </div>
+        <div class="box">
+          <div class="xhnr">
+          <div>
+	<img alt="这是什么时尚！！！" src="/uploads/allimg/170323/22-1F3230K530646.jpg" style="width: 400px; height: 580px;" title="这是什么时尚！！！" /></div>
+
+            </div>
+    </div>
+       <div class="time"><p>2017-03-23 07:55</p></div>
+      </div>
+      <div class="pl">
+        <div class="discuz">
+          <div id="newdigg81795" class="digg"> </div>
+
+          <div class="fx">分享<div class="share">
+
+<div class="bdsharebuttonbox"><a href="#" class="bds_more" data-cmd="more"></a><a href="#" class="bds_weixin" data-cmd="weixin" title="分享到微信"></a><a href="#" class="bds_qzone" data-cmd="qzone" title="分享到QQ空间"></a><a href="#" class="bds_sqq" data-cmd="sqq" title="分享到QQ好友"></a><a href="#" class="bds_tsina" data-cmd="tsina" title="分享到新浪微博"></a></div>
+<script>window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"1","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"share":{},"image":{"viewList":["weixin","qzone","sqq","tsina"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["weixin","qzone","sqq","tsina"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</div>
+</div>
+
+      <script language="javascript" type="text/javascript">getDigg(81795);</script>
+	 	 <input name="" type="button"  value="我要评论"  id="btn81795" onclick="btn81795()"  style=" margin-left:150px;cursor:pointer;">
+		  <span class="ds-thread-count" data-thread-key="81795"  id="btn81795" onclick="btn81795()"  style="cursor:pointer;"></span>
+		  </div>
+		 <div id="box81795" class="yypl" style="display:none;">
+			
+			<!-- 多说评论框 start -->
+			<div class="ds-thread" data-thread-key="81795" data-title="这是什么时尚！！！" data-url="http://www.exiaoba.com/quweitupian/2017/0323/81795.html"></div>
+			<!-- 多说评论框 end -->
+			
+			
+		</div>
+		<script type="text/javascript">
+        var btn181795=document.getElementById('btn81795');
+        var box181795=document.getElementById('box81795');
+        function btn81795(){ if(btn181795.value=="我要评论"){box181795.style.display='';btn181795.value="隐藏评论";
+            }else{box181795.style.display='none';btn181795.value="我要评论";
+        }
+        }
+        </script>
+
+
+
+   
+  </div>
+  
+  </div>
+ 
+<div class="shadow"></div>
+<!-- 多说公共JS代码 start (一个网页只需插入一次) -->
+<script type="text/javascript">
+var duoshuoQuery = {short_name:"exiaoba"};
+	(function() {
+		var ds = document.createElement('script');
+		ds.type = 'text/javascript';ds.async = true;
+		ds.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') + '//static.duoshuo.com/embed.js';
+		ds.charset = 'UTF-8';
+		(document.getElementsByTagName('head')[0] 
+		 || document.getElementsByTagName('body')[0]).appendChild(ds);
+	})();
+	</script>
+<!-- 多说公共JS代码 end -->
+    <div class="page"><a>首页</a>
+<a class='now' href='index_1.html'>1</a>
+<a href='index_2.html'>2</a>
+<a href='index_3.html'>3</a>
+<a href='index_4.html'>4</a>
+<a href='index_5.html'>5</a>
+...<a href='index_30.html'>30</a>
+<a href='index_2.html'>下一页</a>
+<br><li>跳到<input name='beginPage' type='text' class='int2' id='page' />页<input type='submit' name='submit' value='GO' onclick='onCheckPage()'  class='btn1'/></li></div>
+<div class="shadow"></div>
+
+<!--
+
+<div class="banner">
+<script type="text/javascript">
+/*640*60_exiaoba_主页及栏目最下面_主题，创建于2013-10-23*/
+var cpro_id = "u1393802";
+</script>
+<script src="http://cpro.baidustatic.com/cpro/ui/c.js" type="text/javascript"></script>
+</div>
+
+-->
+
+<div class="shadow"></div>
+
+
+</div>
+  <div class="rightbox">
+
+<div class="m10">
+
+
+<script type="text/javascript">
+    /*300*250 创建于 2016年8月3日*/
+    var cpro_id = "u2722467";
+</script>
+<script type="text/javascript" src="http://cpro.baidustatic.com/cpro/ui/c.js"></script>
+
+
+
+<!--
+<div class="m10" style="text-align:left;"><a target=_blank href="http://temai.taobao.com?pid=mm_35104753_3468367_30270732"><img src="/images/Tmall1111.jpg"></a></div>
+-->
+
+
+
+<div class="m10">
+ <ul class="list02 m10">
+    <li><a href="http://www.exiaoba.com/quweitupian/2015/0109/63322.html" target="_blank" title="这表情，要不要那么销魂？"><img src="http://www.exiaoba.com/uploads/allimg/150109/22-15010Z61S2517-lp.jpg" width="130" height="80" alt="这表情，要不要那么销魂？" /></a>
+      <p><a href="http://www.exiaoba.com/quweitupian/2015/0109/63322.html" target="_blank" title="这表情，要不要那么销魂？">这表情，要不要那么销魂？...</a></p>
+    </li>
+<li><a href="http://www.exiaoba.com/quweitupian/2014/0430/54094.html" target="_blank" title="乘凉不留一处死角"><img src="http://www.exiaoba.com/uploads/allimg/140430/12-140430091550I7-lp.jpg" width="130" height="80" alt="乘凉不留一处死角" /></a>
+      <p><a href="http://www.exiaoba.com/quweitupian/2014/0430/54094.html" target="_blank" title="乘凉不留一处死角">乘凉不留一处死角...</a></p>
+    </li>
+<li><a href="http://www.exiaoba.com/quweitupian/2013/0214/31497.html" target="_blank" title="和尚和尼姑都离婚了，我再也不相"><img src="http://www.exiaoba.com/uploads/allimg/130214/12-130214164500X5.jpg" width="130" height="80" alt="和尚和尼姑都离婚了，我再也不相" /></a>
+      <p><a href="http://www.exiaoba.com/quweitupian/2013/0214/31497.html" target="_blank" title="和尚和尼姑都离婚了，我再也不相">和尚和尼姑都离婚了，我再也不相...</a></p>
+    </li>
+<li><a href="http://www.exiaoba.com/qiwenyishi/2013/0817/42020.html" target="_blank" title="这绿帽子戴的，太给劲了！"><img src="http://www.exiaoba.com/uploads/allimg/130817/22-130QG04KAH-lp.jpg" width="130" height="80" alt="这绿帽子戴的，太给劲了！" /></a>
+      <p><a href="http://www.exiaoba.com/qiwenyishi/2013/0817/42020.html" target="_blank" title="这绿帽子戴的，太给劲了！">这绿帽子戴的，太给劲了！...</a></p>
+    </li>
+
+  </ul>
+</div>
+
+  <div class="m10">
+
+<script type="text/javascript">
+     document.write('<a style="display:none!important" id="tanx-a-mm_35104753_3468367_14578111"></a>');
+     tanx_s = document.createElement("script");
+     tanx_s.type = "text/javascript";
+     tanx_s.charset = "gbk";
+     tanx_s.id = "tanx-s-mm_35104753_3468367_14578111";
+     tanx_s.async = true;
+     tanx_s.src = "http://p.tanx.com/ex?i=mm_35104753_3468367_14578111";
+     tanx_h = document.getElementsByTagName("head")[0];
+     if(tanx_h)tanx_h.insertBefore(tanx_s,tanx_h.firstChild);
+</script>
+
+
+</div>
+
+<!--
+<div class="m10">
+
+
+<script type="text/javascript">
+var cpro_id="u1973692";
+(window["cproStyleApi"] = window["cproStyleApi"] || {})[cpro_id]={at:"3",rsi0:"300",rsi1:"250",pat:"6",tn:"baiduCustNativeAD",rss1:"#FFFFFF",conBW:"1",adp:"1",ptt:"0",titFF:"%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91",titFS:"14",rss2:"#000000",titSU:"0",ptbg:"70",piw:"0",pih:"0",ptp:"0"}
+</script>
+<script src="http://cpro.baidustatic.com/cpro/ui/c.js" type="text/javascript"></script>
+
+
+</div>
+
+-->
+
+
+<!--
+
+<div class="m10">
+<script type="text/javascript">
+    /*300*250 创建于 2014-10-07替换right sogou*/
+    var cpro_id = "u1746687";
+</script>
+<script src="http://cpro.baidustatic.com/cpro/ui/c.js" type="text/javascript"></script>
+</div>
+-->
+
+
+<!--
+<script type="text/javascript">var jd_union_pid="224013086";var jd_union_euid="";</script><script type="text/javascript" src="http://ads.union.jd.com/static/js/union.js"></script>
+-->
+
+
+   <div class="list01 m10">
+    <h5>推荐笑点</h5>
+    <div class="nr"><a href="/tags.php?/奇闻/" target="_blank" class="xd01">奇闻</a><a href="/tags.php?/恶搞/" target="_blank">恶搞</a><a href="/tags.php?/儿童/" target="_blank">儿童</a><a href="/tags.php?/糗事/" target="_blank">糗事</a><a href="/tags.php?/轻松一刻/" target="_blank" class="xd02">轻松一刻</a><a href="/tags.php?/恶心/" target="_blank">恶心</a><a href="/tags.php?/冷笑话/" target="_blank">冷笑话</a><a href="/tags.php?/夫妻/" target="_blank">夫妻</a><a href="/tags.php?/美女/" target="_blank" class="xd01">美女</a><a href="/tags.php?/屌丝/" target="_blank">屌丝</a><a href="/tags.php?/办公室/" target="_blank">办公室</a><a href="/tags.php?/内涵/" target="_blank" class="xd02">内涵</a><a href="/tags.php?/情感/" target="_blank">情感</a><a href="/tags.php?/校园/" target="_blank">校园</a><a href="/tags.php?/恐怖/" target="_blank">恐怖</a><a href="/tags.php?/牛人/" target="_blank">牛人</a><a href="/tags.php?/易笑原创/" target="_blank" class="xd01">易笑原创</a><a href="/tags.php?/男女/" target="_blank">男女</a><a href="/tags.php?/家庭/" target="_blank">家庭</a><a href="/tags.php?/动漫/" target="_blank">动漫</a><a href="/tags.php?/创意/" target="_blank">创意</a><a href="/tags.php?/正能量/" target="_blank">正能量</a><a href="/tags.php?/重口味/" target="_blank">重口味</a><a href="/tags.php?/亮点/" target="_blank" class="xd02">亮点</a><a href="/tags.php?/霸气/" target="_blank">霸气</a><a href="/tags.php?/轶事/" target="_blank">轶事</a><a href="/tags.php?/动物/" target="_blank">动物</a><a href="/tags.php?/神回复/" target="_blank" class="xd01">神回复</a><a href="/tags.php?/动态图/" target="_blank">动态图</a><a href="/tags.php?/节操/" target="_blank">节操</a>
+      <form action="/plus/search.php" method="post">
+        <input name="keyword" type="text" placeholder="找笑话？在这里输入关键字" class="int3"/>
+        <input type="submit" value="" class="btn2" />
+      </form>
+    </div>
+  </div>
+
+
+ <div class="m10"> 
+<script type="text/javascript">
+    /*300*250——悬浮 创建于 2016年8月3日*/
+    var cpro_id = "u2722474";
+</script>
+<script type="text/javascript" src="http://cpro.baidustatic.com/cpro/ui/c.js"></script>
+
+</div>
+
+
+</div> 
+</div>
+
+ <div class="c"></div>
+  <div class="link">
+    <h4>友情链接</h4>
+    <div class="box"><ul><li><a href='http://www.exiaoba.com' target='_blank'>开心笑话</a> </li><li><a href='http://www.xiaohua.com' target='_blank'>笑话网</a> </li><li><a href='http://m.mbaobao.com' target='_blank'>包包</a> </li><li><a href='http://nvbao.mbaobao.com/' target='_blank'>女包</a> </li><li><a href='http://www.karryhome.com' target='_blank'>笑话大全</a> </li><li><a href='http://www.jokeparks.com/' target='_blank'>经典小笑话</a> </li><li><a href='http://www.360ik.com' target='_blank'>360开心网</a> </li><li><a href='http://www.joke98.com/' target='_blank'>搞笑酒吧</a> </li><li><a href='http://www.haotijin.com' target='_blank'>好提劲笑话</a> </li><li><a href='http://www.1tong.com' target='_blank'>桌面壁纸</a> </li><li><a href='http://www.yiledao.com' target='_blank'>搞笑视频网</a> </li><li><a href='http://www.jiongteng.com' target='_blank'>囧腾网</a> </li><li><a href='http://www.gxo.cc' target='_blank'>搞笑</a> </li></ul></div>
+  </div>
+
+<div class="fudong"> <a href="#topbox" class="db">顶部</a> <a href="javascript:window.external.AddFavorite('http://www.exiaoba.com','易笑吧---搞笑,糗事,新鲜事分享!')" class="sc">收藏</a> <a href="/" class="sy">首页</a> </div>
+
+
+
+<div class="c">
+</div>
+
+<div class="footer">
+<div style='text-align:center;'>
+<!--
+<script type="text/javascript">
+     document.write('<a style="display:none!important" id="tanx-a-mm_35104753_3468367_15962192"></a>');
+     tanx_s = document.createElement("script");
+     tanx_s.type = "text/javascript";
+     tanx_s.charset = "gbk";
+     tanx_s.id = "tanx-s-mm_35104753_3468367_15962192";
+     tanx_s.async = true;
+     tanx_s.src = "http://p.tanx.com/ex?i=mm_35104753_3468367_15962192";
+     tanx_h = document.getElementsByTagName("head")[0];
+     if(tanx_h)tanx_h.insertBefore(tanx_s,tanx_h.firstChild);
+</script>
+-->
+<!--
+<script type="text/javascript">var jd_union_pid="224018073";var jd_union_euid="";</script><script type="text/javascript" src="http://ads.union.jd.com/static/js/union.js"></script>
+-->
+
+</div>
+  <p><a href="mailto:1686507799@qq.com">联系邮箱</a><!--/<a href="http://www.exiaoba.com/plus/guestbook.php">在线留言</a>--><!--/<a style="color:#ff0000" href="http://www.exiaoba.com/exiaoba.rar">易笑吧PC版客户端</a>--></p>
+  <p>内容版权所有 Copyright 2015 by exiaoba.com 网站合作及友情链接请联系QQ:1686507799 <a href="http://www.miitbeian.gov.cn">粤ICP备13002806号-2</a></p>
+
+<center><a href="http://union.click.jd.com/jdc?e=&p=AyIBZRprFDJWWA1FBCVbV0IUEEULRFRBSkAOClBMW0srUk95cmMzfi11f2xmVhoAUgdlVAFyOxkOIgBQHV8SCxYGZRlTHAAWB1QbayVjYDdl&t=W1dCFBBFC0RUQUpADgpQTFtL" target="_blank" ><img src="http://www.exiaoba.com/images/jd.jpg" border="0"/></a></center>
+
+<div style="display:none"><script src="http://s21.cnzz.com/stat.php?id=4990889&web_id=4990889" language="JavaScript"></script>
+
+</div>
+<script type="text/javascript">
+    /*120*270—对联 创建于 2016年8月3日*/
+    var cpro_id = "u2722448";
+</script>
+<script type="text/javascript" src="http://cpro.baidustatic.com/cpro/ui/f.js"></script>
+
+<script type="text/javascript">
+    /*PC图+ 创建于 2016年8月3日*/
+    var cpro_id = "u2722439";
+</script>
+<script type="text/javascript" src="http://cpro.baidustatic.com/cpro/ui/i.js"></script>
+
+
+<!--
+<script>
+    _kenid = 'RTUwNzlFOTU4NTE2OUUw_'+Math.random();
+    document.writeln('<span id="'+_kenid+'"></span>');
+    var _kexchange = _kexchange || [];
+    _dmid='RkIzMUIyQjNDQjZFMzM1';
+    _kexchange.push(['_setAccount', _dmid]);
+    (function() {
+        var da = document.createElement('script'); da.type = 'text/javascript'; da.async = true;
+            da.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'cmarket.kejet.net/exchange.js?a='+_dmid;
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(da, s);
+    })();
+    _kexchange.push(['_addSlot',_kenid,'200','200','5','5']);
+</script>
+-->
+
+<!--淘宝淘点金关联代码-->
+<!-- 
+closescript type="text/javascript">
+    (function(win,doc){
+        var s = doc.createElement("script"), h = doc.getElementsByTagName("head")[0];
+        if (!win.alimamatk_show) {
+            s.charset = "gbk";
+            s.async = true;
+            s.src = "http://a.alimama.cn/tkapi.js";
+            h.insertBefore(s, h.firstChild);
+        };
+        var o = {
+            pid: "mm_35104753_3468367_14564101",/*推广单元ID，用于区分不同的推广渠道*/
+            appkey: "",/*通过TOP平台申请的appkey，设置后引导成交会关联appkey*/
+            unid: ""/*自定义统计字段*/
+        };
+        win.alimamatk_onload = win.alimamatk_onload || [];
+        win.alimamatk_onload.push(o);
+    })(window,document);
+</script>
+-->
+<!--
+
+<script type="text/javascript">
+	document.getElementById("bdshell_js").src = "http://bdimg.share.baidu.com/static/js/shell_v2.js?cdnversion=" + Math.ceil(new Date()/3600000)
+</script> 
+
+
+<div class="bdsharebuttonbox"><a href="#" class="bds_more" data-cmd="more"></a><a href="#" class="bds_weixin" data-cmd="weixin" title="分享到微信"></a><a href="#" class="bds_qzone" data-cmd="qzone" title="分享到QQ空间"></a><a href="#" class="bds_tsina" data-cmd="tsina" title="分享到新浪微博"></a><a href="#" class="bds_sqq" data-cmd="sqq" title="分享到QQ好友"></a><a href="#" class="bds_copy" data-cmd="copy" title="分享到复制网址"></a></div>
+<script>window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"1","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"share":{},"image":{"viewList":["weixin","qzone","tsina","sqq","copy"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["weixin","qzone","tsina","sqq","copy"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+
+-->
+
+
+
+
+
+
+</body>
+</html>

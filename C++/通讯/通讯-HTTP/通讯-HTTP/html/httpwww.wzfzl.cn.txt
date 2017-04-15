@@ -1,0 +1,18 @@
+HTTP/1.1 301 Moved Permanently
+Server: Tengine/1.5.2
+Date: Sat, 25 Mar 2017 04:39:16 GMT
+Content-Type: text/html
+Content-Length: 284
+Connection: close
+Location: https://www.wzfzl.cn/
+X-site:: http://ymate.me
+
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html>
+<head><title>301 Moved Permanently</title></head>
+<body bgcolor="white">
+<h1>301 Moved Permanently</h1>
+<p>The requested resource has been assigned a new permanent URI.</p>
+<hr/>Powered by Tengine/1.5.2</body>
+</html>
+

@@ -1,0 +1,608 @@
+HTTP/1.1 200 OK
+Date: Sat, 25 Mar 2017 04:40:23 GMT
+Content-Type: text/html
+Last-Modified: Sat, 25 Mar 2017 02:51:27 GMT
+Accept-Ranges: bytes
+ETag: "8f7d2b212a5d21:0"
+Server: Microsoft-IIS/7.5
+X-Powered-By: ASP.NET
+Content-Length: 41650
+X-Via: 1.1 hxin42:0 (Cdn Cache Server V2.0), 1.1 fzh37:10 (Cdn Cache Server V2.0)
+Connection: close
+
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>字体,字体下载,PS字体下载,字体设计,字体库,字体下载大全免费_font.chinaz.com</title>
+<meta name="Keywords" content="字体,字体下载,字体设计,英文字体,中文字体,书法字体" />
+<meta name="description" content="字体库提供,中文字体下载,英文字体下载,书法字体下载,繁体字体下载,艺术字体下载,广告字体下载,方正字体下载,草书字体下载,毛笔字体下载,字体设计下载,书法字体下载,字体库,等字体免费下载。" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="x-ua-compatible" content="ie=7" />
+<link href="/style/zi_all.css" type="text/css" rel="stylesheet" />
+<link href="http://img.chinaz.com/max-templates/passport/styles/topbar.css" type="text/css" rel="Stylesheet" />
+<link rel="shortcut icon" type="image/ico" href="/favicon.ico">
+<script type="text/javascript" src="/style/js/jquery-1.2.pack.js"></script>
+<script type="text/javascript" src="/style/js/jquery.cookie.js"></script>
+<script type="text/javascript" src="/style/js/LeeSelect.js"></script>
+<script type="text/javascript" src="/style/js/mainutf8.js"></script>
+</head>
+<body>
+<div class="toolbar">
+    <div class="clearfix toolbar-inner">
+        <div class="quicklink">
+            <ul id="chinaz_website_links" class="accesslink">
+                <li><a href="http://www.chinaz.com"><span>站长之家</span></a></li>
+                <li onmouseover="chinazTopBarMenu.create(this,'chinaz_website_menu_1');" onmouseout="chinazTopBarMenu.clear(this);"><a class="item-expand" href="http://bbs.chinaz.com" target="_blank"><span>站长论坛</span></a></li>
+                <li onmouseover="chinazTopBarMenu.create(this,'chinaz_website_menu_2');" onmouseout="chinazTopBarMenu.clear(this);"><a class="item-expand" href="http://tool.chinaz.com" target="_blank"><span>站长工具</span></a></li>
+                <li><a href="http://down.chinaz.com" target="_blank"><span>源码下载</span></a></li>
+                <li onmouseover="chinazTopBarMenu.create(this,'chinaz_website_menu_3');" onmouseout="chinazTopBarMenu.clear(this);"><a class="item-expand" href="http://sc.chinaz.com" target="_blank"><span>站长素材</span></a></li>
+                <li><a href="http://font.chinaz.com/" target="_blank"><span>字体下载</span></a></li>
+                <li onmouseover="chinazTopBarMenu.create(this,'chinaz_website_menu_4');" onmouseout="chinazTopBarMenu.clear(this);"><a class="item-expand" href="http://desk.chinaz.com" target="_blank"><span>电脑壁纸</span></a></li>
+                <li onmouseover="chinazTopBarMenu.create(this,'chinaz_website_menu_5');" onmouseout="chinazTopBarMenu.clear(this);"><a class="item-expand" href="http://top.chinaz.com" target="_blank"><span>网站排行榜</span></a></li>
+            </ul>
+            <div id="chinaz_website_menu_1" class="topbar-hiddencontents">
+                <a href="http://bbs.chinaz.com/forum-51-1.html" target="_blank">站长俱乐部</a>
+                <a href="http://bbs.chinaz.com/forum-140-1.html" target="_blank">站长问答</a>
+                <a href="http://bbs.chinaz.com/forum-165-1.html" target="_blank">网站建设资源</a>
+                <a href="http://bbs.chinaz.com/forum-167-1.html" target="_blank">站长交易赚钱</a> 
+            </div>
+            <div id="chinaz_website_menu_2" class="topbar-hiddencontents">
+                <a href="http://alexa.chinaz.com" target="_blank">ALEXA排名查询</a>
+                <a href="http://rank.chinaz.com/" target="_blank">百度权重查询</a>
+                <a href="http://seo.chinaz.com" target="_blank">SEO概况查询</a>
+                <a href="http://link.chinaz.com" target="_blank">友情链接查询</a>
+                <a href="http://pr.chinaz.com" target="_blank">Google PR查询</a>
+                <a href="http://whois.chinaz.com" target="_blank">Whois信息查询</a>
+                <a href="http://icp.chinaz.com/" target="_blank">域名备案查询</a>
+            </div>
+            <div id="chinaz_website_menu_3" class="topbar-hiddencontents">
+                <a href="http://sc.chinaz.com/tupian/" target="_blank">高清图片</a>
+                <a href="http://sc.chinaz.com/shiliang/" target="_blank">矢量素材</a>
+                <a href="http://sc.chinaz.com/jianli/" target="_blank">简历模板</a>
+                <a href="http://sc.chinaz.com/ppt/" target="_blank">PPT模板</a>
+                <a href="http://sc.chinaz.com/psd/" target="_blank">PSD素材</a>
+            </div>
+            <div id="chinaz_website_menu_4" class="topbar-hiddencontents">
+               <a href="http://desk.chinaz.com/shouji" target="_blank">手机壁纸</a>
+               <a href="http://desk.chinaz.com/ipad/" target="_blank">Ipad壁纸</a>
+               <a href="http://desk.chinaz.com/zhutixiazai/xpzhuti.html" target="_blank">XP主题</a>
+               <a href="http://desk.chinaz.com/zhutixiazai/win7zhuti.html" target="_blank">WIN7主题</a>
+            </div>
+            <div id="chinaz_website_menu_5" class="topbar-hiddencontents">
+                <a href="http://top.chinaz.com/hangye/" target="_blank">行业网站排名</a>
+                <a href="http://top.chinaz.com/diqu/" target="_blank">地区网站排名</a>
+            </div>
+        </div>
+        <div id="chinaz_topbar"></div>
+        </div>
+        </div>
+        <div class="all_wrap">
+        <div class="banner">
+        	 <div class="logo">
+                <a href='http://sc.chinaz.com'><span>站长素材</span></a>
+             </div>
+            <div class="gg1" style="margin-left: 130px">
+<script type="text/javascript">
+    var cpro_id = "u2312314";
+</script>
+<script src="http://cpro.baidustatic.com/cpro/ui/c.js" type="text/javascript"></script>
+            </div>
+        </div>
+        <div class="nav">
+        	<ul>
+            	<li class="index_list">
+                    <a href="http://sc.chinaz.com/" target="_blank">素材首页</a>
+                </li>
+                <li class="nos">
+                    <a href="http://sc.chinaz.com/shiliang/" target="_blank">矢量</a>
+                    <a href="http://sc.chinaz.com/tupian/" target="_blank">高清图片</a>
+                    <a href="http://sc.chinaz.com/tubiao/" target="_blank">图标</a>
+                    <a href="http://sc.chinaz.com/psd/" target="_blank">PSD素材</a>
+                </li>
+                 <li class="nos no2">
+                    <a href="http://font.chinaz.com/" target="_blank">字体</a>
+                    <a href="http://font.chinaz.com/zhongwenziti.html" target="_blank">中文字体</a>
+                    <a href="http://font.chinaz.com/yingwenziti.html" target="_blank">英文字体</a>
+                    <a href="http://sc.chinaz.com/yinxiao/" target="_blank">音效</a>
+                    <a href="http://sc.chinaz.com/donghua/" target="_blank">Flash动画</a>
+                    <a href="http://sc.chinaz.com/biaoqing/" target="_blank">QQ表情 </a>
+                </li>
+                 <li class="nos no3">
+                    <a href="http://sc.chinaz.com/moban/" target="_blank">网页模板</a>
+                    <a href="http://sc.chinaz.com/3D/" target="_blank">3D模型</a>
+                    <a href="http://sc.chinaz.com/ppt/" target="_blank">PPT模板</a>
+					<a href="http://sc.chinaz.com/jianli/" target="_blank">简历模板</a>
+                    <a href="http://sc.chinaz.com/jiaoben/" target="_blank">脚本代码</a>
+                    <a href="http://sc.chinaz.com/tag_jiaoben/jquery.html" target="_blank">JQuery </a>
+                </li>
+                 <li class="nos no4">  
+                   <a style="" href="http://sc.chinaz.com/ppt/gerenjianlipptmoban.html" target="_blank">个人简历PPT</a>
+					<a style="color:#ff6622;font-weight:bold;margin-top:-3px;" href="http://tu.chinaz.com/" target="_blank">商用图片<i style="font-style:normal;font-size:14px;">↓</i></a>
+                    <a style="" href="http://sc.chinaz.com/ppt/zongjie.html" target="_blank">工作总结PPT</a>
+					<a style="" href="http://sc.chinaz.com/jianli/shangye.html" target="_blank">商业简历</a>
+                </li>
+                 <li class="nos no5">
+                    <a href="http://sc.chinaz.com/info/" target="_blank">素材资讯</a>
+                	<a href="http://sc.chinaz.com/kuzhan/" target="_blank">酷站欣赏</a>
+                	<a href="http://sc.chinaz.com/zhuanti/" target="_blank">节日专题</a>
+                    <a href="http://desk.chinaz.com/" target="_blank">壁纸主题</a>
+                    <a href="http://sc.chinaz.com/hezuo.html" target="_blank">商务合作</a>
+                    <a href="http://sc.chinaz.com/new/" target="_blank">最新更新</a>
+                </li>
+            </ul>
+        </div>        
+        <div class="new_search">
+        	<div class="left">
+           	<span>快速导航</span>
+                <a href="http://sc.chinaz.com/3D/" class="max" target="_blank"><span>3d</span></a>
+            	<a href="http://sc.chinaz.com/tupian/" class="jpg" target="_blank"><span class="active">jpg</span></a>
+                <a href="http://sc.chinaz.com/psd/" class="psd" target="_blank"><span>psd</span></a>
+                <a href="http://sc.chinaz.com/shiliang/" class="ai" target="_blank"><span>ai</span></a>
+                <a href="http://sc.chinaz.com/shiliang/" class="eps" target="_blank"><span>eps</span></a>
+                <a href="http://sc.chinaz.com/shiliang/" class="cdr" target="_blank"><span>cdr</span></a>
+                <a href="http://sc.chinaz.com/ppt/" class="ppt" target="_blank"><span>ppt</span></a>
+                <a href="http://font.chinaz.com/" class="ttf" target="_blank"><span>ttf</span></a>
+                <a href="http://sc.chinaz.com/moban/" class="htmls" target="_blank"><span>html</span></a>
+                <a href="http://sc.chinaz.com/tubiao/" class="png" target="_blank"><span>png</span></a>
+                <a href="http://sc.chinaz.com/yinxiao/" class="mp3" target="_blank"><span>mp3</span></a>
+                <a href="http://sc.chinaz.com/donghua/" class="fla" target="_blank"><span>fla</span></a>
+                <a href="http://sc.chinaz.com/donghua/" class="swf" target="_blank"><span>swf</span></a>
+                <a href="http://sc.chinaz.com/biaoqing/" class="gif" target="_blank"><span>gif</span></a>
+            </div>
+            <div class="right">
+                <form id="searchform" name="searchform" method="get" action="http://aspx.sc.chinaz.com/query.aspx" target="_blank" onsubmit="return checkForm(this);">
+                <input name="keyword" type="text" value="" class="text" />
+                <input name="classID" type="hidden" id="classID" value="13" />
+                <input name="" type="submit" class="btn" value="" />
+                </form>
+            </div>
+        </div>
+        <div class="advert" style=" margin-top:5PX">
+<script type="text/javascript">
+    var cpro_id = "u2312508";
+</script>
+<script src="http://cpro.baidustatic.com/cpro/ui/c.js" type="text/javascript"></script>
+<script type="text/javascript">var jd_union_unid="350267405",jd_ad_ids="1354:6",jd_union_pid="CMGlt+e5KhCN0IKnARoAIP+WyMEBKgA=";var jd_width=960;var jd_height=90;var jd_union_euid=""; var p="ABYOXRhYFwQXN1Eaa0pGT1plRB9IXyJDB1oJJV1WWggrHHUHagAzYRx1ewgGD08HQAJ2ASB9KxkOIgVRGF4RCxIPVytZEQMRAFMeWhEyImYnKxB7CiJYEUYGJQIXA1wcWBIEFwNUGFIlAw%3D%3D";</script><script type="text/javascript" charset="utf-8" src="//static.360buyimg.com/jzt/temp/js/cpc.js"></script>
+        	</div>   
+          <div class="active_dq">
+           <p>您当前位置：<a href="http://sc.chinaz.com/">站长素材</a> >><a href="http://font.chinaz.com/">字体</a></p>
+            <a target="_blank" class="shengcheng" href="/diy/">字体在线生成</a>
+        </div>  
+        <div class="put_in">
+        	<div class="left">
+        	<form action="#" id="preview_form" name="preview_form" onkeydown="if(event.keyCode==13){return false;}">
+            	<div class="in_text">
+                	<p class="up">
+                    	<textarea name="text" id="text" cols="" rows=""></textarea>
+                    </p>
+                    <p class="aware">
+                    	部分字体中英文无法同时显示
+                    </p>
+                </div>                
+                <div class="two_btn">
+                	<div class="yulan">
+                    	<a href="#"  id="btyl"><span>预览</span></a>	
+                    </div>
+                    <div class="chex">
+                   		 <a href="#"  class="del_cooki"><span>撤销</span></a>	
+                    </div>
+                </div>
+            </form>
+            </div>
+            <div class="right">
+            	<ul>
+<li><a href="/tag_font/KaiTi.html" target="_blank">楷体</a></li>
+<li><a href="/heitiziti.html" target="_blank">黑体</a></li>
+<li><a href="/xingkai.html" target="_blank">行楷</a></li>
+<li><a href="/zhuantiziti.html" target="_blank">篆体</a></li>
+<li><a href="/tag_font/YuanTi.html" target="_blank">圆体</a></li>
+<li><a href="/tag_font/YanTi.html" target="_blank">颜体</a></li>
+<li><a href="/geteziti.html" target="_blank">哥特</a></li>                   
+<li><a href="/huatiziti.html" target="_blank">花体</a></li>
+<li><a href="/xingshuziti.html" target="_blank">行书</a></li>
+<li><a href="/ShuZiZiTi.html" target="_blank">数字</a></li>
+<li><a href="/caoshuziti.html" target="_blank">草书</a></li>
+<li><a href="/songtiziti.html" target="_blank">宋体</a></li>
+<li><a href="/fangsongziti.html" target="_blank">仿宋</a></li>
+<li><a href="/yegenyouziti.html" target="_blank"><strong>叶根友字体</strong></a></li>
+                </ul>
+            </div>
+        </div>
+	<div class="newzi_block">
+		<div class="left imgload">
+        <div class="yegenyou" style="height:60px; display:block;margin-bottom:5px;"><a target="_blank" href="http://sc.chinaz.com/zt/ygyfont/"><img alt="叶根友字体" src="http://sc.chinaz.com/Files/pic/indexpic/yegenyou.jpg" ></a></div>
+        <div class="yegenyou" style="height:60px; display:block;margin-bottom:5px;"><a target="_blank" href="http://sc.chinaz.com/zt/yiqi/"><img alt="叶根友字体" src="http://sc.chinaz.com/Files/pic/indexpic/yiqi.jpg" ></a></div>
+		<div class="yegenyou" style="height:60px; display:block;margin-bottom:5px;"><a target="_blank" href="http://sc.chinaz.com/zt/hanyi/"><img alt="叶根友字体" src="http://sc.chinaz.com/Files/pic/indexpic/hanyi.jpg" ></a></div>
+
+		<div class="zi_block font" id="/Files/DownLoad/font3/font456.TTF"><div class="zinew"></div>
+		<div class="zi_left">
+		<a href="http://font.chinaz.com/170325509560.htm"  target="_blank">
+		<div id="imgurl"><img src="http://pic2.sc.chinaz.com/Files/pic/font4/201703/font456_s.jpg"></div></a></div>
+		<div class="zi_edit">
+		<p><a href="http://font.chinaz.com/170325509560.htm" class="cutout" title="Sketch Fine Serif字体" target="_blank">Sketch Fine Serif字体</a></p>
+		<p><span>更新时间:2017-03-25</span></p><p><a href="http://font.chinaz.com/170325509560.htm" target="_blank" class="preview"><span>预览字体</span></a>
+		<a href="http://font.chinaz.com/Font_Preview.aspx?downloadid=52017104050113    " target="_blank" class="down"><span>字体下载</span></a></p></div>
+		<div class="clear"></div>
+		</div>
+
+		<div class="zi_block font" id="/Files/DownLoad/font3/font463.TTF"><div ></div>
+		<div class="zi_left">
+		<a href="http://font.chinaz.com/170324235870.htm"  target="_blank">
+		<div id="imgurl"><img src="http://pic2.sc.chinaz.com/Files/pic/font4/201703/font463_s.jpg"></div></a></div>
+		<div class="zi_edit">
+		<p><a href="http://font.chinaz.com/170324235870.htm" class="cutout" title="腾祥嘉丽粗黑繁字体" target="_blank">腾祥嘉丽粗黑繁字体</a></p>
+		<p><span>更新时间:2017-03-24</span></p><p><a href="http://font.chinaz.com/170324235870.htm" target="_blank" class="preview"><span>预览字体</span></a>
+		<a href="http://font.chinaz.com/Font_Preview.aspx?downloadid=42017100423986    " target="_blank" class="down"><span>字体下载</span></a></p></div>
+		<div class="clear"></div>
+		</div>
+
+		<div class="zi_block font" id="/Files/DownLoad/font3/font452.TTF"><div ></div>
+		<div class="zi_left">
+		<a href="http://font.chinaz.com/170323281340.htm"  target="_blank">
+		<div id="imgurl"><img src="http://pic2.sc.chinaz.com/Files/pic/font4/201703/font452_s.jpg"></div></a></div>
+		<div class="zi_edit">
+		<p><a href="http://font.chinaz.com/170323281340.htm" class="cutout" title="Rayna字体" target="_blank">Rayna字体</a></p>
+		<p><span>更新时间:2017-03-23</span></p><p><a href="http://font.chinaz.com/170323281340.htm" target="_blank" class="preview"><span>预览字体</span></a>
+		<a href="http://font.chinaz.com/Font_Preview.aspx?downloadid=3201750628403     " target="_blank" class="down"><span>字体下载</span></a></p></div>
+		<div class="clear"></div>
+		</div>
+
+		<div class="zi_block font" id="/Files/DownLoad/font3/font455.TTF"><div ></div>
+		<div class="zi_left">
+		<a href="http://font.chinaz.com/170323518630.htm"  target="_blank">
+		<div id="imgurl"><img src="http://pic2.sc.chinaz.com/Files/pic/font4/201703/font455_s.jpg"></div></a></div>
+		<div class="zi_edit">
+		<p><a href="http://font.chinaz.com/170323518630.htm" class="cutout" title="Self Righteousness字体" target="_blank">Self Righteousness字体</a></p>
+		<p><span>更新时间:2017-03-23</span></p><p><a href="http://font.chinaz.com/170323518630.htm" target="_blank" class="preview"><span>预览字体</span></a>
+		<a href="http://font.chinaz.com/Font_Preview.aspx?downloadid=3201720251111     " target="_blank" class="down"><span>字体下载</span></a></p></div>
+		<div class="clear"></div>
+		</div>
+
+		<div class="zi_block font" id="/Files/DownLoad/font3/hanyi146.TTF"><div ></div>
+		<div class="zi_left">
+		<a href="http://font.chinaz.com/170323577370.htm"  target="_blank">
+		<div id="imgurl"><img src="http://pic1.sc.chinaz.com/Files/pic/font4/201703/hanyi146_s.jpg"></div></a></div>
+		<div class="zi_edit">
+		<p><a href="http://font.chinaz.com/170323577370.htm" class="cutout" title="汉仪中宋S字体" target="_blank">汉仪中宋S字体</a></p>
+		<p><span>更新时间:2017-03-23</span></p><p><a href="http://font.chinaz.com/170323577370.htm" target="_blank" class="preview"><span>预览字体</span></a>
+		<a href="http://font.chinaz.com/Font_Preview.aspx?downloadid=32017100657392    " target="_blank" class="down"><span>字体下载</span></a></p></div>
+		<div class="clear"></div>
+		</div>
+
+		<div class="zi_block font" id="/Files/DownLoad/font3/font462.TTF"><div ></div>
+		<div class="zi_left">
+		<a href="http://font.chinaz.com/170323086730.htm"  target="_blank">
+		<div id="imgurl"><img src="http://pic1.sc.chinaz.com/Files/pic/font4/201703/font462_s.jpg"></div></a></div>
+		<div class="zi_edit">
+		<p><a href="http://font.chinaz.com/170323086730.htm" class="cutout" title="腾祥嘉丽超细圆字体" target="_blank">腾祥嘉丽超细圆字体</a></p>
+		<p><span>更新时间:2017-03-23</span></p><p><a href="http://font.chinaz.com/170323086730.htm" target="_blank" class="preview"><span>预览字体</span></a>
+		<a href="http://font.chinaz.com/Font_Preview.aspx?downloadid=32017100308742    " target="_blank" class="down"><span>字体下载</span></a></p></div>
+		<div class="clear"></div>
+		</div>
+
+		<div class="zi_block font" id="/Files/DownLoad/font3/font451.TTF"><div ></div>
+		<div class="zi_left">
+		<a href="http://font.chinaz.com/170322167710.htm"  target="_blank">
+		<div id="imgurl"><img src="http://pic1.sc.chinaz.com/Files/pic/font4/201703/font451_s.jpg"></div></a></div>
+		<div class="zi_edit">
+		<p><a href="http://font.chinaz.com/170322167710.htm" class="cutout" title="PARaDOS字体" target="_blank">PARaDOS字体</a></p>
+		<p><span>更新时间:2017-03-22</span></p><p><a href="http://font.chinaz.com/170322167710.htm" target="_blank" class="preview"><span>预览字体</span></a>
+		<a href="http://font.chinaz.com/Font_Preview.aspx?downloadid=2201720116134     " target="_blank" class="down"><span>字体下载</span></a></p></div>
+		<div class="clear"></div>
+		</div>
+
+		<div class="zi_block font" id="/Files/DownLoad/font3/font450.TTF"><div ></div>
+		<div class="zi_left">
+		<a href="http://font.chinaz.com/170322116270.htm"  target="_blank">
+		<div id="imgurl"><img src="http://pic1.sc.chinaz.com/Files/pic/font4/201703/font450_s.jpg"></div></a></div>
+		<div class="zi_edit">
+		<p><a href="http://font.chinaz.com/170322116270.htm" class="cutout" title="Mithril字体" target="_blank">Mithril字体</a></p>
+		<p><span>更新时间:2017-03-22</span></p><p><a href="http://font.chinaz.com/170322116270.htm" target="_blank" class="preview"><span>预览字体</span></a>
+		<a href="http://font.chinaz.com/Font_Preview.aspx?downloadid=22017101011965    " target="_blank" class="down"><span>字体下载</span></a></p></div>
+		<div class="clear"></div>
+		</div>
+
+		<div class="zi_block font" id="/Files/DownLoad/font3/font461.TTF"><div ></div>
+		<div class="zi_left">
+		<a href="http://font.chinaz.com/170322144240.htm"  target="_blank">
+		<div id="imgurl"><img src="http://pic1.sc.chinaz.com/Files/pic/font4/201703/font461_s.jpg"></div></a></div>
+		<div class="zi_edit">
+		<p><a href="http://font.chinaz.com/170322144240.htm" class="cutout" title="腾祥伯当行楷繁字体" target="_blank">腾祥伯当行楷繁字体</a></p>
+		<p><span>更新时间:2017-03-22</span></p><p><a href="http://font.chinaz.com/170322144240.htm" target="_blank" class="preview"><span>预览字体</span></a>
+		<a href="http://font.chinaz.com/Font_Preview.aspx?downloadid=22017100614343    " target="_blank" class="down"><span>字体下载</span></a></p></div>
+		<div class="clear"></div>
+		</div>
+
+		<div class="zi_block font" id="/Files/DownLoad/font3/font449.TTF"><div ></div>
+		<div class="zi_left">
+		<a href="http://font.chinaz.com/170321485970.htm"  target="_blank">
+		<div id="imgurl"><img src="http://pic1.sc.chinaz.com/Files/pic/font4/201703/font449_s.jpg"></div></a></div>
+		<div class="zi_edit">
+		<p><a href="http://font.chinaz.com/170321485970.htm" class="cutout" title="Basileia字体" target="_blank">Basileia字体</a></p>
+		<p><span>更新时间:2017-03-21</span></p><p><a href="http://font.chinaz.com/170321485970.htm" target="_blank" class="preview"><span>预览字体</span></a>
+		<a href="http://font.chinaz.com/Font_Preview.aspx?downloadid=1201750048694     " target="_blank" class="down"><span>字体下载</span></a></p></div>
+		<div class="clear"></div>
+		</div>
+
+		</div>
+		<div class="right">
+			<div class="zi_tjbk">
+				<div class="zi_tj">
+					<div class="tj_text">
+<a href="/hanyiziti.html" target="_blank" class="w fon16 orange">汉仪字体</a>
+<a href="/tengxiangziti.html" target="_blank">腾祥字体</a>
+<a href="/shufaziti.html" target="_blank" class="w fon14">书法字体</a>
+<a href="/haibaoziti.html" target="_blank" class="orange">海报字体</a>
+<a href="/gangbiziti.html" target="_blank" class="w fon16 orange">钢笔字体</a>
+<a href="/songtiziti.html"  target="_blank">宋体字体</a>
+<a href="/piliziti.html"  target="_blank">霹雳字体</a>
+<a href="/wawaziti.html" target="_blank">娃娃字体</a>
+<a href="/heitiziti.html" target="_blank">黑体字体</a>
+<a href="/maobiziti.html" class=" black w" target="_blank">毛笔字体</a>
+<a href="/caoshuziti.html" target="_blank">草书字体</a>
+<a href="/zhuantiziti.html" target="_blank">篆体字体</a>
+<a href="/shaonvziti.html" target="_blank">少女字体</a>
+<a href="/xingshuziti.html" target="_blank">行书字体</a>
+<a href="/lvshuziti.html" target="_blank" class="fon14 black">隶书字体</a>
+<a href="/guanggaoziti.html" target="_blank" class="black">广告字体</a>
+<a href="/kongxinziti.html" target="_blank">空心字体</a>
+<a href="/shoujiziti.html" target="_blank">手机字体</a>
+<a href="/yushuziti.html" class="fon16 w black" target="_blank" >艺术字体</a>
+<a href="/shouxieziti.html" target="_blank">手写字体</a>
+<a href="/shejiziti.html" target="_blank" class="orange fon14" >设计字体</a>
+<a href="/keaiziti.html" target="_blank">可爱字体</a>
+<a href="/xingkaiziti.html" target="_blank">行楷字体</a>
+<a href="/1448127261.htm" target="_blank" class="orange w">徐静蕾字体</a>
+<a href="/yegenyouziti.html" target="_blank">叶根友字体</a>
+<a href="/feizhuliuziti.html" target="_blank">非主流字体</a>
+<a href="/zaozigongfang.html" target="_blank" class="w fon16 orange">造字工房字体</a>
+<a href="/shangyeziti.html" target="_blank">商业字体</a>
+<a href="/dongmanziti.html" target="_blank" class="fon16 w black">动漫字体</a>
+<a href="/geteziti.html" target="_blank">哥特字体</a>
+<a href="/dianyingziti.html" target="_blank">电影字体</a>
+<a href="/XiangSuZiTi.html" target="_blank" class="black fon16">像素字体</a>
+<a href="/1046001170.htm" target="_blank" class="black fon16">时尚中黑简体</a>
+<a href="/yuantiziti.html" target="_blank" class="black fon16">圆体字体</a>
+<a href="/161115157630.htm" target="_blank" class="black fon16">义启心宽体字体</a>
+<a href="/161114257780.htm" target="_blank" class="black fon16">义启彰显个性系列字体</a>
+<a href="/161108559950.htm" target="_blank" class="black fon16">义启动漫体字体</a>
+<a href="/161207298550.htm" target="_blank" class="black fon16">汉仪雅酷黑字体</a>
+<a href="/161207593893.htm" target="_blank" class="black fon16">汉仪尚巍手书字体</a>
+<a href="/170122165810.htm" target="_blank"  class="fon16 w black">南构唐宝楷字体</a>
+<a href="/weibeiziti.html" target="_blank">魏碑字体</a>
+<a href="/fangsongziti.html" target="_blank">仿宋字体</a>
+<a href="/161213117620.htm" target="_blank" class="black fon16">叶根友飘逸行书</a>
+<a href="/160321575280.htm" target="_blank"  class="w fon16 orange">叶根友古刻体</a>
+
+					</div>
+				</div>
+			</div>
+			<div class="ziright_list">
+				<div class="title"><a href="/zhongwenziti.html" target="_blank">中文字体</a></div>
+				<div class="list_body">
+				<ul>
+<li><a href="/hanyiziti.html" target="_blank">汉仪字体</a></li>
+<li><a href="/tengxiangziti.html" target="_blank">腾祥字体</a></li>
+<li><a href="/HuaWenZiTi.html" target="_blank">华文字体</a></li>
+<li><a href="/ChangChengZiTi.html" target="_blank">长城字体</a></li>
+<li><a href="/ChuangYiZiTi.html" target="_blank">创艺字体</a></li>
+<li><a href="/HanDingZiTi.html" target="_blank">汉鼎字体</a></li>
+<li><a href="/yafangmeigongziti.html" target="_blank">雅坊美工字体</a></li>
+<li><a href="/WeiRuanZiTi.html" target="_blank">微软字体</a></li>
+<li><a href="/JingDianZiTi.html" target="_blank">经典字体</a></li>
+<li><a href="/miniziti.html" target="_blank">迷你字体</a></li>
+<li><a href="/ShuFaJiaZiTi.html" target="_blank">书法家字体</a></li>
+<li><a href="/SiTongLiFang.html" target="_blank">四通利方字体</a></li>
+<li><a href="/WangHanZongZiTi.html" target="_blank">王汉宗字体</a></li>
+<li><a href="/GuFengZiTi.html" target="_blank">古风字体</a></li>
+<li><a href="/ChaoShiJiZiTi.html" target="_blank">超世纪字体</a></li>
+<li><a href="/JinQiaoZiTi.html" target="_blank">金桥字体</a></li>
+<li><a href="/yegenyouziti.html" target="_blank">叶根友字体</a></li>
+<li><a href="/zhongqiziti.html" target="_blank">钟齐字体</a></li>
+<li><a href="/QiTaZiTi.html" target="_blank">其它字体</a></li>
+<li><a href="/yiqiziti.html" target="_blank">义启字体</a></li>
+<li><a href="/JinMeiZiTi.html" target="_blank">金梅字体</a></li>
+					<div class="clear"></div>
+				</ul>
+				</div>
+			</div>
+			<div class="ziright_list">
+				<div class="title"><a href="/yingwenziti.html" target="_blank">英文字体</a></div>
+				<div class="list_body">
+				<ul>				
+					<li><a href="/929234710.htm" target="_blank">Consolas</a></li>
+					<li><a href="/1001093381.htm" target="_blank">Futura</a></li>
+					<li><a href="/120308013581.htm " target="_blank">Arial</a></li>
+					<li><a href="/1536358918.htm" target="_blank">Arial Black</a></li>
+					<li><a href="/120530295110.htm" target="_blank">Arial Narrow</a></li>
+					<li><a href="/120528557161.htm" target="_blank">Arial unicode ms</a></li>
+					<li><a href="/120215539660.htm" target="_blank">Calibri</a></li>
+					<li><a href="/1532236141.htm" target="_blank">04b08</a></li>
+					<li><a href="/1005559241.htm" target="_blank">Helvetica</a></li>
+					<li><a href="/120217404411.htm" target="_blank">Helvetica Neue</a></li>
+					<li><a href="/105257757.htm" target="_blank">Times</a></li>
+					<li><a href="/120509323811.htm" target="_blank">Ms mincho </a></li>
+					<li><a href="/120503454451.htm" target="_blank">Gotham</a></li>
+					<li><a href="/1009498560.htm" target="_blank">Impact</a></li>
+					<li><a href="/120417062451.htm" target="_blank">Transformers</a></li>
+					<li><a href="/1409456930.htm" target="_blank">AvantGarde</a></li>
+					<li><a href="/120207209881.htm" target="_blank">Didot</a></li>
+					<li><a href="/120215539660.htm" target="_blank">Calibri</a></li>
+					<li><a href="/120614019190.htm" target="_blank">Curlz mt </a></li>
+					<li><a href="/1552542400.htm" target="_blank">Tahoma</a></li>
+					<li><a href="/120613297310.htm" target="_blank">Myriad Pro</a></li>
+				  <li><a href="/1554012890.htm" target="_blank">Verdana</a></li>
+					<li><a href="/120614006761.htm" target="_blank">Times new roman</a></li>
+				</ul>
+				<div class="clear"></div>
+                <p class="english_num">
+                	<span>
+                	<a href="/yingwenziti.html" target="_blank">英文字体:</a>
+                  </span>
+                    <a href="/YingWenZiTiA.html" target="_blank">A</a>
+                    <a href="/YingWenZiTiB.html" target="_blank">B</a>
+                    <a href="/YingWenZiTiC.html" target="_blank">C</a>
+                    <a href="/YingWenZiTiD.html" target="_blank">D</a>
+                    <a href="/YingWenZiTiE.html" target="_blank">E</a>
+                    <a href="/YingWenZiTiF.html" target="_blank">F</a>
+                    <a href="/YingWenZiTiG.html" target="_blank">G</a>
+                    <a href="/YingWenZiTiH.html" target="_blank">H</a>
+                    <a href="/YingWenZiTiI.html" target="_blank">I</a>
+                    <a href="/YingWenZiTiJ.html" target="_blank">J</a>
+                    <a href="/YingWenZiTiK.html" target="_blank">K</a>
+                    <a href="/YingWenZiTiL.html" target="_blank">L</a>
+                    <a href="/YingWenZiTiM.html" target="_blank">M</a>
+                    <a href="/YingWenZiTiN.html" target="_blank">N</a>
+                    <a href="/YingWenZiTiO.html" target="_blank">O</a>
+                    <a href="/YingWenZiTiP.html" target="_blank">P</a>
+                    <a href="/YingWenZiTiQ.html" target="_blank">Q</a>
+                    <a href="/YingWenZiTiR.html" target="_blank">R</a>
+                    <a href="/YingWenZiTiS.html" target="_blank">S</a>
+                    <a href="/YingWenZiTiT.html" target="_blank">T</a>
+                    <a href="/YingWenZiTiU.html" target="_blank">U</a>
+                    <a href="/YingWenZiTiV.html" target="_blank">V</a>
+                    <a href="/YingWenZiTiW.html" target="_blank">W</a>
+                    <a href="/YingWenZiTiX.html" target="_blank">X</a>
+                    <a href="/YingWenZiTiY.html" target="_blank">Y</a>
+                    <a href="/YingWenZiTiZ.html" target="_blank">Z</a>
+                </p>
+				</div>
+			</div>	
+			<div class="ziright_list">
+				<div class="title">专题字体</div>
+				<div class="list_body">
+				<ul>
+                <li><a href="/maotiziti.html" target="_blank">毛体字体</a></li>
+<li><a href="/kongxinziti.html" target="_blank">空心字体</a></li>
+<li><a href="/shouxieziti.html" target="_blank">手写字体</a></li>
+<li><a href="/guanggaoziti.html" target="_blank">广告字体</a></li>
+<li><a href="/yushuziti.html" target="_blank">艺术字体</a></li>
+<li><a href="/shoujiziti.html" target="_blank">手机字体</a></li>
+<li><a href="/shejiziti.html" target="_blank">设计字体</a></li>
+<li><a href="/dongwuziti.html" target="_blank">动物字体</a></li>
+<li><a href="/keaiziti.html" target="_blank">可爱字体</a></li>
+<li><a href="/qianmingziti.html" target="_blank">签名字体</a></li>
+<li><a href="/dayinziti.html" target="_blank">打印字体</a></li>
+<li><a href="/fangxingziti.html" target="_blank">方形字体</a></li>
+<li><a href="/yinyingziti.html" target="_blank">阴影字体</a></li>					
+<li><a href="/yegenyouziti.html" target="_blank">叶根友字体</a></li>
+<li><a href="/bolangziti.html" target="_blank">波浪字体</a></li>
+<li><a href="/katongziti.html" target="_blank">卡通字体</a></li>					
+<li><a href="/xingshuziti.html" target="_blank">行书字体</a></li>
+<li><a href="/caoshuziti.html" target="_blank">草书字体</a></li>
+<li><a href="/lvshuziti.html" target="_blank">隶书字体</a></li>
+<li><a href="/maobiziti.html" target="_blank">毛笔字体</a></li>
+<li><a href="/gangbiziti.html" target="_blank">钢笔字体</a></li>
+<li><a href="/tag_font/jiantiziti.html" target="_blank">简体字体</a></li>
+<li><a href="/tag_font/fantiziti.html" target="_blank">繁体字体</a></li>
+<li><a href="/qingrenjieziti.html" target="_blank">情人节字体</a></li>
+<li><a href="/shengdanziti.html" target="_blank">圣诞节字体</a></li>
+<li><a href="/feizhuliuziti.html" target="_blank">非主流字体</a></li>
+<li><a href="/ShuZiZiTi.html" target="_blank">数字字体</a></li>
+<li><a href="/XiangSuZiTi.html" target="_blank">像素字体</a></li>
+<li><a href="/EGuoZiTi.html" target="_blank">俄国字体</a></li>
+<li><a href="/XiLaLuoMa.html" target="_blank">希腊罗马</a></li>
+<li><a href="/ALaBoZiTi.html" target="_blank">阿拉伯字体</a> </li>
+<li><a href="/TiaoXingMaZiTi.html" target="_blank">条形码字体</a></li>
+<li><a href="/TuXingSheJiZiTi.html" target="_blank">图形设计字体</a></li>
+<li><a href="/geteziti.html" target="_blank">哥特字体</a></li>
+<li><a href="/LingLeiZiTi.html" target="_blank">另类字体</a></li>
+				<div class="clear"></div>
+				</ul>
+				</div>
+			</div>			
+			<div class="ziright_list">
+				<div class="title"><a href="/mingrenziti.html" target="_blank">名人字体</a></div>
+				<div class="list_body">
+				<ul>
+                <li><a href="/940144340.htm" target="_blank">微软雅黑字体</a></li>
+<li><a href="/1033235405.htm" target="_blank">毛泽东草书字体</a></li>
+<li><a href="/1448127261.htm" target="_blank">徐静蕾字体</a></li>
+<li><a href="/1116586930.htm" target="_blank">金潮折东远字体</a></li>
+<li><a href="/1002355510.htm" target="_blank">叶根友仿刘德华字体</a></li>
+<li><a href="/1001595220.htm" target="_blank">王羲之行书体</a></li>
+<li><a href="/1002337880.htm" target="_blank">张海山锐线字体</a></li>
+<li><a href="/1003015870.htm" target="_blank">德彪钢笔行书</a></li>
+<li><a href="/1002316220.htm" target="_blank">苏新诗鼠标行书</a></li>
+<li><a href="/1016379420.htm" target="_blank">陈代明硬笔</a></li>
+<li><a href="/1052172150.htm" target="_blank">孙过庭书谱字体</a></li>
+<li><a href="/1052178601.htm" target="_blank">八大山人字体</a></li>
+<li><a href="/1006522220.htm" target="_blank">刘炳森字体</a></li>
+<li><a href="/120409353210.htm" target="_blank">书体仿米芾字体</a></li>
+<li><a href="/1109298730.htm" target="_blank">薛文轩钢笔楷字体</a></li>
+<li><a href="/120315201790.htm" target="_blank">韩绍杰邯郸体字体</a></li>
+<li><a href="/120402571540.htm" target="_blank">赵九江钢笔行书字体</a></li>
+<li><a href="/1003467940.htm" target="_blank">叶根友刀锋黑草字体</a></li>
+<li><a href="/1002249270.htm" target="_blank">苏新诗卵石体字体</a></li>
+<li><a href="/160321575280.htm" target="_blank">叶根友古刻体字体</a></li>
+<li><a href="/160407103000.htm" target="_blank">字心坊哥特体字体</a></li>
+<li><a href="/160302375150.htm" target="_blank">胡敬礼毛笔粗行字体</a></li>
+<li><a href="/160130061490.htm" target="_blank">井柏然手写体字体</a></li>
+<li><a href="/160106422750.htm" target="_blank">范文强燕赵字体</a></li>
+<li><a href="/151204581980.htm" target="_blank">李豪手迹字体</a></li>
+<li><a href="/160907501840.htm" target="_blank">于洪亮钢笔楷书字体</a></li>
+<li><a href="/160805175770.htm" target="_blank">段宁硬笔行书字体</a></li>
+<li><a href="/160625478100.htm" target="_blank">叶立群几何字体</a></li>
+
+				<div class="clear"></div>
+				</ul>
+				</div>
+			</div>
+		</div>
+		<div class="clear"></div>
+		<div style="width:948px;">
+		<div class="fybg">
+		<div class="fenye">
+<a class="backpage grey">上一页</a><a href="javascript:;" class='active'><b>1</b></a> <a href="index_2.html"><b>2</b></a><a href="index_3.html"><b>3</b></a><a href="index_4.html"><b>4</b></a><a href="index_5.html"><b>5</b></a><a href="index_6.html" class="shenlue">...</a><a href="index_919.html"><b>919</b></a><a href="index_2.html" class="nextpage">下一页</a>转到第 <input name="tbpage" id="tbpage" type="text" onkeydown="if(event.keyCode==13){ event.keyCode=9; document.getElementById('btngo').click();}" size="3"> 页 <input type="submit" id="btngo" onclick="return btngoUrl('tbpage','index','919')" value="跳转">
+		</div>
+		<div class="clear"></div>
+		</div>
+		</div>
+	</div>
+        <div class="lanm" style=" margin-bottom:10px; padding-bottom:5px">
+            <div class="title">
+                <div class="bt"><a href="http://sc.chinaz.com/link.html" target="_blank">友情链接</a></div><div class="list">合作/友情链接QQ:168660460</div><div class="clear"></div>
+            </div>
+            <div class="pic_text">
+<a href="http://font.chinaz.com/" target="_blank">字体</a> 
+<a href="http://font.chinaz.com/" target="_blank">字体下载</a> 
+<a href="http://www.ivsky.com" target="_blank">图片网</a>  
+<a href="http://www.uzzf.com" target="_blank">东坡下载</a> 
+<a href="http://www.17font.com/" target="_blank">义启字库</a> 
+<a href="http://desk.chinaz.com" target="_blank">高清壁纸</a>
+<a href="http://desk.chinaz.com" target="_blank">壁纸下载</a>
+<a href="http://www.redocn.com/" target="_blank">红动中国</a>
+<a href="http://www.kuaihou.com/" target="_blank">快猴软件</a>
+<a href="http://www.bkill.com" target="_blank">比克尔</a>
+<a href="http://www.wmpic.me" target="_blank">唯美图片</a>
+<a href="http://www.hackhome.com/" target="_blank">网侠软件站</a>
+<a href="http://www.zhongqifont.com/" target="_blank">钟齐字库</a>
+<a href="http://sc.chinaz.com/ppt/pptbeijing.html" target="_blank">PPT背景图片</a>
+<a href="http://www.yy138.com/" target="_blank">应用下载</a>
+<a href="http://www.qqyewu.com/" target="_blank">QQ乐园</a>
+     		</div>
+  		</div>                
+    </div>
+<div class="foodte">
+        <div class="bot_dh">
+               <a href="http://www.chinaz.com/aboutus/index.html" class="hui333" target="_blank">关于站长之家</a> - 
+               <a href="http://ww.chinaz.com/aboutus/contact.php?from=sc" class="hui333" target="_blank">联系我们(电话)</a> - 
+               <a href="http://www.chinaz.com/aboutus/ad.html" class="hui333" target="_blank">广告服务</a> - 
+               <a href="http://www.chinaz.com/aboutus/announce.html" class="hui333" target="_blank">版权声明</a> - 
+               <a href="http://sc.chinaz.com/link.html" class="hui333" target="_blank">友情链接</a> - 
+               <a href="http://sc.chinaz.com/ditu.html" class="hui333" target="_blank">栏目地图</a> - 
+               <a href="http://sc.chinaz.com/bangzhu.html" class="hui333" target="_blank">帮助说明</a>
+        </div>
+        <div class="banquan">		
+			  <p>&copy; CopyRight 2002-2017, <a href="http://www.chinaz.com">CHINAZ.COM</a>, Inc.All Rights Reserved. <script src="http://s4.cnzz.com/stat.php?id=300636&web_id=300636" language="JavaScript"></script></p>	
+		    </div>
+        </div>
+        <script type="text/javascript" src="http://stats.chinaz.com/sc_images/sc_font.js"></script>
+        <script type="text/javascript" src="http://my.chinaz.com/js/uc.js" charset="utf-8"></script>
+
+<script>window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"left","bdTop":"2"}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+<div style="display:none">
+<script src="http://s15.cnzz.com/stat.php?id=4164921&web_id=4164921" language="JavaScript"></script>
+</div>
+</body>
+</html>

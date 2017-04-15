@@ -1,0 +1,1126 @@
+HTTP/1.1 200 OK
+Date: Fri, 24 Mar 2017 15:49:01 GMT
+Content-Type: text/html
+Last-Modified: Fri, 24 Mar 2017 07:16:16 GMT
+Accept-Ranges: bytes
+ETag: "7e1c1876ea4d21:0"
+Server: Microsoft-IIS/7.5
+X-Powered-By: ASP.NET
+Content-Length: 96908
+Age: 45808
+X-Via: 1.1 hxin42:0 (Cdn Cache Server V2.0), 1.1 fuzhoudianxin63:6 (Cdn Cache Server V2.0)
+Connection: close
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>猎奇网 _ 猎奇天下奇闻之谜,UFO灵异事件探秘</title>
+<meta name="description" content="猎奇网天下奇闻异事一网猎尽，汇集全球UFO事件、灵异事件、女尸图片、谜案追踪、军情解码、考古发现。精选热门奇异图片垒砌庞大的猎奇图库，为您带来无尽的视觉盛宴。" />
+<meta name="keywords" content="猎奇网,猎奇天下,奇闻异事,世界未解之谜,猎奇谜,ufo" />
+<meta name="360-site-verification" content="be70ee29fa856948a6f72f8cdd4fc3f7" />
+<meta http-equiv="Cache-Control" content="no-transform" />
+<meta http-equiv="Cache-Control" content="no-siteapp" />
+<script type="text/javascript" src="/qi/js/uaredirect.js"></script>
+<script type="text/javascript">uaredirect("http://m.lieqi.me/");</script>
+<link href="http://www.lieqi.me/qi/css/base.css" rel="stylesheet" media="screen" type="text/css" />
+<link href="http://www.lieqi.me/qi/css/qi.css" rel="stylesheet" media="screen" type="text/css" />
+<script language="javascript" type="text/javascript" src="http://www.lieqi.me/qi/js/tab.js"></script>
+<script language="javascript" type="text/javascript" src="http://www.lieqi.me/qi/js/home.js"></script>
+<script language="javascript" type="text/javascript" src="http://www.lieqi.me/qi/js/iad.js"></script>
+</head>
+<body>
+<div class="qheader">
+	<div class="qhtop center"><span><a href="javascript:void(0);" onclick="MyHome(this,window.location)" target="_top" title="设为首页">设为首页</a>&#160;&#160;&#160;&#160;<a href="javascript:window.external.AddFavorite('http://www.lieqi.me','猎奇网');" title="收藏本站">收藏本站</a>&#160;&#160;</span>&#160;&#160;猎奇网 - 这是一个新、奇、特的秘密世界！</div>
+	<div class="qhcore center">
+		<div class="qhcorel le"><a href="http://www.lieqi.me" title="猎奇网"><img src="http://www.lieqi.me/qi/images/logo.png" alt="猎奇网" /></a></div>
+		<div class="qhcorer ri">
+			<div class="qhcorerl le"></div>
+			<div class="qhcorerr le">
+				<table border="0" cellpadding="0" cellspacing="0">
+					<form  name="formsearch" action="http://www.lieqi.me/search.php">
+					<tr>
+					  <td height="10"></td>
+					  <td></td>
+					  <td></td>
+					  <td></td>
+					</tr>
+					<tr>
+						<td width="10" height="24"></td>
+						<td width="420" align="left" valign="top"><input name="keyword" type="text" class="search-keyword" id="search-keyword" value="搜索热点猎奇资讯，时刻保持一颗好奇的心..." onfocus="if(this.value=='搜索热点猎奇资讯，时刻保持一颗好奇的心...'){this.value='';}"  onblur="if(this.value==''){this.value='搜索热点猎奇资讯，时刻保持一颗好奇的心...';}" /></td>
+						<td width="10"></td>
+						<td width="50" align="left" valign="top"><button type="submit" class="search-submit">&#160;&#160;</button></td>
+					</tr>
+					</form>
+			  </table>
+			</div>
+		</div>
+	</div>
+</div>
+<div class="qshmenu center">
+	<ul>
+		<li class="big_title"><a href="http://www.lieqi.me/lishizhenxiang/" title="历史真相">历史</a>&#160;&#160;</li>
+		<li>丨</li>
+		<li><a href="http://www.lieqi.me/lishizhenxiang/kaogu/" title="考古发现">考古发现</a>&#160;&#160;&#160;<a href="http://www.lieqi.me/lishizhenxiang/mingren/" title="名人奇事">名人奇事</a>&#160;&#160;&#160;<a href="http://www.lieqi.me/lishizhenxiang/yeshiqiwen/" title="野史奇闻">野史奇闻</a>&#160;&#160;&#160;<a href="http://www.lieqi.me/lishizhenxiang/laozhaopian/" title="历史旧照">历史旧照</a></li>
+		<li>丨</li>
+		<li class="big_title">&#160;&#160;<a href="http://www.lieqi.me/junshijiemi/" title="军事揭秘">军事</a>&#160;&#160;</li>
+		<li>丨</li>
+		<li><a href="http://www.lieqi.me/junshijiemi/junqing/" title="军情解码">军情解码</a>&#160;&#160;&#160;<a href="http://www.lieqi.me/junshijiemi/zhanzheng/" title="战争谜题">战争谜题</a>&#160;&#160;&#160;<a href="http://www.lieqi.me/junshijiemi/zhanchangqiwen/" title="战场奇闻">战场奇闻</a>&#160;&#160;&#160;<a href="http://www.lieqi.me/junshijiemi/mingrenjunchuan/" title="名人军传">名人军传</a></li>
+		<li>丨</li>
+		<li class="big_title">&#160;&#160;<a href="http://www.lieqi.me/kexuetansuo/" title="科学探索">科学</a>&#160;&#160;</li>
+		<li>丨</li>
+		<li><a href="http://www.lieqi.me/kexuetansuo/renwenhangtian/" title="人文航天">人文航天</a>&#160;&#160;&#160;<a href="http://www.lieqi.me/kexuetansuo/yuzhou/" title="宇宙奥秘">宇宙奥秘</a>&#160;&#160;&#160;<a href="http://www.lieqi.me/kexuetansuo/kexue/" title="科技前沿">科技前沿</a>&#160;&#160;&#160;<a href="http://www.lieqi.me/kexuetansuo/UFO/" title="UFO外星人">UFO外星人</a></li>
+	</ul>
+	<ul class="too">
+		<li class="big_title"><a href="http://www.lieqi.me/shehuiredian/" title="社会热点">社会</a>&#160;&#160;</li>
+		<li>丨</li>
+		<li><a href="http://www.lieqi.me/shehuiredian/qiushi/" title="糗事囧人">糗事囧人</a>&#160;&#160;&#160;<a href="http://www.lieqi.me/shehuiredian/qiwen/" title="灵异奇闻">灵异奇闻</a>&#160;&#160;&#160;<a href="http://www.lieqi.me/shehuiredian/wanxiang/" title="社会万象">社会万象</a>&#160;&#160;&#160;<a href="http://www.lieqi.me/shehuiredian/yulebagua/" title="娱乐八卦">娱乐八卦</a></li>
+		<li>丨</li>
+		<li class="big_title">&#160;&#160;<a href="http://www.lieqi.me/ziranchuanqi/" title="奇异探索">探索</a>&#160;&#160;</li>
+		<li>丨</li>
+		<li><a href="http://www.lieqi.me/ziranchuanqi/dongwu/" title="奇异生物">奇异生物</a>&#160;&#160;&#160;<a href="http://www.lieqi.me/ziranchuanqi/ziran/" title="自然奇观">自然奇观</a>&#160;&#160;&#160;<a href="http://www.lieqi.me/miantanmi/" title="谜案探秘">谜案探秘</a>&#160;&#160;&#160;<a href="http://www.lieqi.me/shehuiredian/qipafengsu/" title="奇风异俗">奇风异俗</a></li>
+		<li>丨</li>
+		<li class="big_title">&#160;&#160;<a href="http://www.lieqi.me/lieqishipin/" title="猎奇视频">视频</a>&#160;&#160;</li>
+		<li>丨</li>
+		<li><a href="http://www.lieqi.me/lishijilu/" title="历史记录">历史记录</a>&#160;&#160;&#160;<a href="http://www.lieqi.me/tansuojiemi/" title="探索解密">探索解密</a>&#160;&#160;&#160;<a href="http://www.lieqi.me/qipashipin/" title="奇葩视频">奇葩视频</a>&#160;&#160;&#160;<a href="http://www.lieqi.me/egaoshipin/" title="恶搞视频">恶搞视频</a></li>
+	</ul>
+</div>
+<!-- /header -->
+
+
+<div class="qcont center">
+
+	<div class="addi960"><script type="text/javascript">i1_bd960x90();</script></div>
+
+	<div class="qcboxA">
+		<div class="qcboxAl le">
+			<div class="qcboxAlslidelist">
+				<ul>
+					<li id="t1" onmouseover="setTabs01('t','f',1,6);clearTtop();" onmouseout="init(2,6);" class="currentA6" style=" width:43px;border-left:#e5e5e5 solid 1px;">历史</li>
+					<li id="t2" onmouseover="setTabs01('t','f',2,6);clearTtop();" onmouseout="init(3,6);">科技</li>
+					<li id="t3" onmouseover="setTabs01('t','f',3,6);clearTtop();" onmouseout="init(4,6);">军事</li>
+					<li id="t4" onmouseover="setTabs01('t','f',4,6);clearTtop();" onmouseout="init(5,6);">自然</li>
+					<li id="t5" onmouseover="setTabs01('t','f',5,6);clearTtop();" onmouseout="init(6,6);">社会</li>
+					<li id="t6" onmouseover="setTabs01('t','f',6,6);clearTtop();" onmouseout="init(1,6);">谜案</li>
+
+				</ul>
+			</div>
+			<div class="qcboxAlslidearrow" id="arrowA6"></div>
+			<div class="qcboxAlslide" id="f1" onmouseover="clearTtop();" onmouseout="init(2,6);">
+				<a href="http://www.lieqi.me/lishizhenxiang/yeshiqiwen/20161214/19829.html" target="_blank" title="她用自杀告诉你，南京大屠杀和我们有什么关系"><img alt="她用自杀告诉你，南京大屠杀和我们有什么关系" data-original="http://www.lieqi.me/pics/20161214/4-161214100611-lp.png" width="270" height="205" /></a>
+				<span><a href="http://www.lieqi.me/lishizhenxiang/yeshiqiwen/20161214/19829.html" target="_blank" title="她用自杀告诉你，南京大屠杀和我们有什么关系">她用自杀告诉你，南京大屠杀和我</a></span>
+
+			</div>
+			<div class="qcboxAlslide" id="f2" style="display:none;" onmouseover="clearTtop();" onmouseout="init(3,6);">
+				<a href="http://www.lieqi.me/kexuetansuo/yuzhou/20151029/8343.html" target="_blank" title="地球死亡周期2600万年的真相"><img alt="地球死亡周期2600万年的真相" data-original="http://www.lieqi.me/pics/20151104/2-151104144JC50.jpg" width="270" height="205" /></a>
+				<span><a href="http://www.lieqi.me/kexuetansuo/yuzhou/20151029/8343.html" target="_blank" title="地球死亡周期2600万年的真相">地球死亡周期2600万年的真相</a></span>
+
+			</div>
+			<div class="qcboxAlslide" id="f3" style="display:none;" onmouseover="clearTtop();" onmouseout="init(4,6);">
+				<a href="http://www.lieqi.me/junshijiemi/zhanchangqiwen/20151123/8857.html" target="_blank" title="中国古代逃兵下场竟如此惨"><img alt="中国古代逃兵下场竟如此惨" data-original="http://www.lieqi.me/pics/20151123/2-151123164443W7.gif" width="270" height="205" /></a>
+				<span><a href="http://www.lieqi.me/junshijiemi/zhanchangqiwen/20151123/8857.html" target="_blank" title="中国古代逃兵下场竟如此惨">中国古代逃兵下场竟如此惨</a></span>
+
+			</div>
+			<div class="qcboxAlslide" id="f4" style="display:none;" onmouseover="clearTtop();" onmouseout="init(5,6);">
+				<a href="http://www.lieqi.me/ziranchuanqi/dongwu/20161208/19706.html" target="_blank" title="母猪生下“猴崽” 猪身猴脸吓人"><img alt="母猪生下“猴崽” 猪身猴脸吓人" data-original="http://www.lieqi.me/pics/20161208/2-16120Q05033-50-lp.jpg" width="270" height="205" /></a>
+				<span><a href="http://www.lieqi.me/ziranchuanqi/dongwu/20161208/19706.html" target="_blank" title="母猪生下“猴崽” 猪身猴脸吓人">母猪生下“猴崽” 猪身猴脸吓人</a></span>
+
+			</div>
+			<div class="qcboxAlslide" id="f5" style="display:none;" onmouseover="clearTtop();" onmouseout="init(6,6);">
+				<a href="http://www.lieqi.me/shehuiredian/wanxiang/20161203/19602.html" target="_blank" title="女子野外发现被吓直冒冷汗"><img alt="女子野外发现被吓直冒冷汗" data-original="http://www.lieqi.me/pics/20161203/2_120311163J0Z.jpg" width="270" height="205" /></a>
+				<span><a href="http://www.lieqi.me/shehuiredian/wanxiang/20161203/19602.html" target="_blank" title="女子野外发现被吓直冒冷汗">女子野外发现被吓直冒冷汗</a></span>
+
+			</div>
+			<div class="qcboxAlslide" id="f6" style="display:none;" onmouseover="clearTtop();" onmouseout="init(1,6);">
+				<a href="http://www.lieqi.me/miantanmi/20141027/969.html" target="_blank" title="世界十大未了结的凶杀迷案"><img alt="世界十大未了结的凶杀迷案" data-original="http://www.lieqi.me/pics/20141027/20141128/2-14112Q3561UB.jpg" width="270" height="205" /></a>
+				<span><a href="http://www.lieqi.me/miantanmi/20141027/969.html" target="_blank" title="世界十大未了结的凶杀迷案">世界十大未了结的凶杀迷案</a></span>
+
+			</div>
+			<div class="qcboxAltitle ico1">社会热点</div>
+			<div class="qcboxAllist1">
+				<ul>
+					<li><div class="lidiv01l le"><a href="http://www.lieqi.me/shehuiredian/wanxiang/20170214/20973.html" target="_blank" title="私人影院：配沙发床 可看限制级影片" class="bigpic"><img data-original="http://www.lieqi.me/pics/20170214/2-1F214155442-lp.jpg" alt="私人影院：配沙发床 可看限制级影片" /></a></div><div class="lidiv01r le"><a href="http://www.lieqi.me/shehuiredian/wanxiang/20170214/20973.html" target="_blank" title="私人影院：配沙发床 可看限制级影片"><strong>私人影院：配沙发床</strong></a><br /><a href="http://www.lieqi.me/shehuiredian/wanxiang/20170214/20973.html" target="_blank" title="私人影院：配沙发床 可看限制级影片">【导读】这些私人影院，不仅环境私密、令人遐想连连...</a><a href="http://www.lieqi.me/shehuiredian/wanxiang/20170214/20973.html" target="_blank" title="查看详情"><img src="/qi/images/arrow1.png" alt="查看详情" /></a></div></li>
+<li><div class="lidiv01l le"><a href="http://www.lieqi.me/shehuiredian/qiwen/20170213/20968.html" target="_blank" title="无语！国外流行和死者拍照之风" class="bigpic"><img data-original="http://www.lieqi.me/pics/20170213/2-1F2131A250-lp.jpg" alt="无语！国外流行和死者拍照之风" /></a></div><div class="lidiv01r le"><a href="http://www.lieqi.me/shehuiredian/qiwen/20170213/20968.html" target="_blank" title="无语！国外流行和死者拍照之风"><strong>无语！国外流行和死</strong></a><br /><a href="http://www.lieqi.me/shehuiredian/qiwen/20170213/20968.html" target="_blank" title="无语！国外流行和死者拍照之风">据英国《每日邮报》报道，近日，网络上流行起了一股...</a><a href="http://www.lieqi.me/shehuiredian/qiwen/20170213/20968.html" target="_blank" title="查看详情"><img src="/qi/images/arrow1.png" alt="查看详情" /></a></div></li>
+
+				</ul>
+			</div>
+			<div class="qcboxAltitle ico2">爆料角</div>
+			<div class="qcboxAlpw">
+				<div class="lidiv01l le"><a href="http://www.lieqi.me/miantanmi/20141013/266.html" target="_blank" title="“守宫砂”引发的一个宋朝有名冤案" class="bigpic"><img data-original="http://www.lieqi.me/pics/20141013/2_1013161515a56.jpg" alt="“守宫砂”引发的一个宋朝有名冤案" /></a></div><div class="lidiv02r le"><a href="http://www.lieqi.me/miantanmi/20141013/266.html" target="_blank" title="“守宫砂”引发的一个宋朝有名冤案"><strong>“守宫砂”引发的一个宋朝有名</strong></a><br /><a href="http://www.lieqi.me/miantanmi/20141013/266.html" target="_blank" title="“守宫砂”引发的一个宋朝有名冤案">在少女白藕般的手臂上点一颗鲜...</a><a href="http://www.lieqi.me/miantanmi/20141013/266.html" target="_blank" title="查看详情"><img src="/qi/images/arrow1.png" alt="查看详情" /></a></div>
+
+			</div>
+			<div class="qcboxAllist2">
+				<ul>
+					<li><a href="http://www.lieqi.me/miantanmi/20141013/264.html" target="_blank" title="东莞男子街头惨遭割喉 疑寻仇认错人">东莞男子街头惨遭割喉 疑寻仇认错人</a></li>
+<li><a href="http://www.lieqi.me/miantanmi/20141013/262.html" target="_blank" title="向母亲索钱未果 男子竟挖自家祖坟">向母亲索钱未果 男子竟挖自家祖坟</a></li>
+
+				</ul>
+			</div>
+		</div>
+		<div class="qcboxAc le">
+			<div class="qcboxAchot"><a href="http://www.lieqi.me/shehuiredian/wanxiang/20170214/20977.html" target="_blank" title="首位“裸条”放贷人被抓 胁迫2女子发生关系">首位“裸条”放贷人被抓 胁</a></div>
+			<div class="qcboxAchotinfo">【导读】去年12月，10G裸条借贷资料包惊现网络，拿裸照换借款的地下交易由此引发舆论震动，其中涉及的... <a href="http://www.lieqi.me/shehuiredian/wanxiang/20170214/20977.html" target="_blank" title="查看详情">[详细]</a></div>
+<div class="qcboxAchot"><a href="http://www.lieqi.me/shehuiredian/wanxiang/20170214/20974.html" target="_blank" title="女大学生春节兼职工作15小时 吐血身亡">女大学生春节兼职工作15小时</a></div>
+			<div class="qcboxAchotinfo">【导读】2月7日，网友@袁满gg微博曝料称，其妹妹为河北大学大三学生，寒假去天津某电子公司兼职。1月30... <a href="http://www.lieqi.me/shehuiredian/wanxiang/20170214/20974.html" target="_blank" title="查看详情">[详细]</a></div>
+<div class="qcboxAchot"><a href="http://www.lieqi.me/shehuiredian/yulebagua/20161226/20103.html" target="_blank" title="女屌丝网红是papi酱吗？落网名单中屌丝女网红到底是谁？">女屌丝网红是papi酱吗？落网</a></div>
+			<div class="qcboxAchotinfo">北京扫黄被抓某女屌丝网红是papi酱？papi酱回应:我住朝阳 12月26日，@平安北京发布消息称，北京警方依... <a href="http://www.lieqi.me/shehuiredian/yulebagua/20161226/20103.html" target="_blank" title="查看详情">[详细]</a></div>
+
+			<div class="qcboxAclist">
+				<ul>
+					<li><span>03-24</span><a href="http://www.lieqi.me/junshijiemi/mingrenjunchuan/20170324/21785.html" target="_blank" title="中国第一美女间谍：卫星导航之母">中国第一美女间谍：卫星导航之母</a></li>
+<li><span>03-24</span><a href="http://www.lieqi.me/shehuiredian/qiwen/20170324/21784.html" target="_blank" title="老汉走夜路撞鬼 专家看见一幕冷汗直流">老汉走夜路撞鬼 专家看见一幕冷汗直</a></li>
+<li><span>03-24</span><a href="http://www.lieqi.me/shehuiredian/wanxiang/20170324/21783.html" target="_blank" title="刚刚 央行紧急出手！房地产大风暴到来">刚刚 央行紧急出手！房地产大风暴到</a></li>
+<li><span>03-24</span><a href="http://www.lieqi.me/shehuiredian/wanxiang/20170324/21782.html" target="_blank" title="妻子上班脱裤子 丈夫探班看到崩溃">妻子上班脱裤子 丈夫探班看到崩溃</a></li>
+<li><span>03-24</span><a href="http://www.lieqi.me/shehuiredian/wanxiang/20170324/21781.html" target="_blank" title="家长下车办事 孩子把自家奥迪给烧了">家长下车办事 孩子把自家奥迪给烧了</a></li>
+<li><span>03-24</span><a href="http://www.lieqi.me/shehuiredian/wanxiang/20170324/21780.html" target="_blank" title="农村大叔杀猪，身边围了很多小朋友，原来是为了得到它">农村大叔杀猪，身边围了很多小朋友，</a></li>
+
+				</ul>
+			</div>
+			
+			<div class="qcboxAclist">
+				<ul>
+					<li><span>03-24</span><a href="http://www.lieqi.me/junshijiemi/zhanchangqiwen/20170324/21779.html" target="_blank" title="震惊！二战美军战俘被日活体解剖做实验">震惊！二战美军战俘被日活体解剖做实</a></li>
+<li><span>03-24</span><a href="http://www.lieqi.me/junshijiemi/junqing/20170324/21778.html" target="_blank" title="苏联冷战时期黑科技，袖珍潜艇仅三吨重">苏联冷战时期黑科技，袖珍潜艇仅三吨</a></li>
+<li><span>03-24</span><a href="http://www.lieqi.me/junshijiemi/zhanchangqiwen/20170324/21777.html" target="_blank" title="十恶不赦！日本靖国神社供奉十大战犯">十恶不赦！日本靖国神社供奉十大战犯</a></li>
+<li><span>03-24</span><a href="http://www.lieqi.me/lishizhenxiang/yeshiqiwen/20170324/21776.html" target="_blank" title="修长城的真正目的被误传千年，不止防御！">修长城的真正目的被误传千年，不止防</a></li>
+<li><span>03-24</span><a href="http://www.lieqi.me/junshijiemi/junqing/20170324/21775.html" target="_blank" title="中国维和军回国，拥吻妻子羡煞旁人">中国维和军回国，拥吻妻子羡煞旁人</a></li>
+<li><span>03-24</span><a href="http://www.lieqi.me/ziranchuanqi/dongwu/20170324/21774.html" target="_blank" title="罕见视频：老鹰生擒小猫将其抓上天">罕见视频：老鹰生擒小猫将其抓上天</a></li>
+
+				</ul>
+			</div>
+			
+		</div>
+		<div class="qcboxAr ri">
+			<div class="qcboxArtitle">独家解秘</div>
+			<div class="qcboxArtoppw">
+				<div class="qcboxArtoppwl le"><a href="http://www.lieqi.me/lishizhenxiang/mingren/20141206/1749.html" target="_blank" title="毛主席两个女儿现况曝光"><img class="lazy" data-original="http://www.lieqi.me/pics/20141206/2_1206133224a21.jpg" alt="毛主席两个女儿现况曝光" /></a></div>
+				<div class="qcboxArtoppwr ri"><a href="http://www.lieqi.me/lishizhenxiang/mingren/20141206/1749.html" target="_blank" title="毛主席两个女儿现况曝光"><strong>毛主席两个女儿现况曝光</strong></a><br /><a href="http://www.lieqi.me/lishizhenxiang/mingren/20141206/1749.html" target="_blank" title="毛主席两个女儿现况曝光">2003年，李敏李讷姐妹俩一起被当选为新一届全国政协委员。李讷1999年被特...</a></div>
+
+			</div>
+			<div class="qcboxArtoplist">
+				<ul>
+					<li><a href="http://www.lieqi.me/shehuiredian/wanxiang/20160617/15696.html" target="_blank" title="十二生肖智商高低排行：我倒数第二 看你第几">十二生肖智商高低排行：我倒数第二 看你第</a></li>
+<li><a href="http://www.lieqi.me/shehuiredian/qiwen/20141027/942.html" target="_blank" title="汶川地震灵异事件大揭秘 慎入">汶川地震灵异事件大揭秘 慎入</a></li>
+<li><a href="http://www.lieqi.me/shehuiredian/yulebagua/20151217/9447.html" target="_blank" title="前AKB48成员鬼头桃菜下海进军AV界 三上悠亚番号ed2k种子">前AKB48成员鬼头桃菜下海进军AV界 三上悠亚</a></li>
+<li><a href="http://www.lieqi.me/shehuiredian/yulebagua/20151130/9042.html" target="_blank" title="曝宋祖英已被调查内幕 因和他关系密切">曝宋祖英已被调查内幕 因和他关系密切</a></li>
+
+				</ul>
+			</div>
+			
+			<div class="qcboxArtitle">奇异荟萃</div>
+			
+			<div class="qcboxArtoplist2">
+				<ul>
+					<li><a href="http://www.lieqi.me/lishizhenxiang/laozhaopian/20170309/21439.html" target="_blank" title="老照片，80年代的中国，老百姓十分淳朴，生活压力没现在这么大">老照片，80年代的中国</a>&#160;
+<a href="http://www.lieqi.me/lishizhenxiang/laozhaopian/20170303/21296.html" target="_blank" title="我们都被骗了，17幅被篡改的历史照片">我们都被骗了，17幅被</a>&#160;
+</li>
+					<li><a href="http://www.lieqi.me/lishizhenxiang/laozhaopian/20170224/21135.html" target="_blank" title="日本士兵老照片,终于明白他们为何被叫小日本了">日本士兵老照片,终于明</a>&#160;
+<a href="http://www.lieqi.me/lishizhenxiang/laozhaopian/20170220/21039.html" target="_blank" title="文化大革命时期外国媒体上的中国新闻照">文化大革命时期外国媒</a>&#160;
+</li>
+					<li><a href="http://www.lieqi.me/lishizhenxiang/laozhaopian/20170125/20758.html" target="_blank" title="故宫珍藏的宫廷老照片，婉容卧室有浴缸，溥仪和皇后日常洗浴之处">故宫珍藏的宫廷老照片</a>&#160;
+<a href="http://www.lieqi.me/lishizhenxiang/laozhaopian/20170125/20757.html" target="_blank" title="镜头下：1945年的彩色中国">镜头下：1945年的彩色</a>&#160;
+</li>
+					<li><a href="http://www.lieqi.me/lishizhenxiang/laozhaopian/20170118/20599.html" target="_blank" title="抗战时期最真实的鬼子照片，和抗日神剧里面的天壤之别">抗战时期最真实的鬼子</a>&#160;
+<a href="http://www.lieqi.me/lishizhenxiang/laozhaopian/20170116/20542.html" target="_blank" title="罕见的照片 记录天安门广场改造前的模样">罕见的照片 记录天安门</a>&#160;
+</li>
+					<li><a href="http://www.lieqi.me/lishizhenxiang/laozhaopian/20170116/20541.html" target="_blank" title="珍贵照片直击前苏联上世纪二十年代大饥荒，尸横遍野满目疮痍">珍贵照片直击前苏联上</a>&#160;
+<a href="http://www.lieqi.me/lishizhenxiang/laozhaopian/20170110/20424.html" target="_blank" title="十一张民国老照片：此技艺已失传!">十一张民国老照片：此</a>&#160;
+</li>
+					<li><a href="http://www.lieqi.me/lishizhenxiang/laozhaopian/20170107/20359.html" target="_blank" title="外国人作死不是一两天，老照片为证！">外国人作死不是一两天</a>&#160;
+<a href="http://www.lieqi.me/lishizhenxiang/laozhaopian/20161206/19658.html" target="_blank" title="战争与和平：诺曼底登陆日旧照与现照对比">战争与和平：诺曼底登</a>&#160;
+</li>
+					<li><a href="http://www.lieqi.me/lishizhenxiang/laozhaopian/20161205/19617.html" target="_blank" title="看60年前的春节 这才是传统的北京过新年的样子">看60年前的春节 这才是</a>&#160;
+<a href="http://www.lieqi.me/lishizhenxiang/laozhaopian/20161203/19585.html" target="_blank" title="15张触动心扉的震撼照片 让人声泪俱下">15张触动心扉的震撼照</a>&#160;
+</li>
+					<li><a href="http://www.lieqi.me/lishizhenxiang/laozhaopian/20161130/19506.html" target="_blank" title="清末照片：慈禧墓被盗现场曝光">清末照片：慈禧墓被盗</a>&#160;
+<a href="http://www.lieqi.me/lishizhenxiang/laozhaopian/20161125/19406.html" target="_blank" title="这组照片揭露八国联军凌辱中国女性的暴行">这组照片揭露八国联军</a>&#160;
+</li>
+				</ul>
+			</div>
+			
+			<div class="qcboxArtitle">热门标签</div>
+			
+			<div class="qcboxArtoppic" id="tagscloud">
+            
+            <a href='/lieqizhuanti/UFO_460_1.html' class='tagc2'>UFO</a>
+            
+            <a href='/lieqizhuanti/nvjiaoshi_1787_1.html' class='tagc2'>女教师</a>
+            
+            <a href='/lieqizhuanti/qipa_88_1.html' class='tagc1'>奇葩</a>
+            
+            <a href='/lieqizhuanti/guojia_661_1.html' class='tagc2'>国家</a>
+            
+            <a href='/lieqizhuanti/zhenxiang_782_1.html' class='tagc2'>真相</a>
+            
+            <a href='/lieqizhuanti/cixi_520_1.html' class='tagc1'>慈禧</a>
+            
+            <a href='/lieqizhuanti/paixingbang_1434_1.html' class='tagc1'>排行榜</a>
+            
+            <a href='/lieqizhuanti/bingqi_1575_1.html' class='tagc2'>兵器</a>
+            
+            <a href='/lieqizhuanti/qinchao_1534_1.html' class='tagc2'>秦朝</a>
+            
+            <a href='/lieqizhuanti/nvren_637_1.html' class='tagc1'>女人</a>
+            
+            <a href='/lieqizhuanti/diwangmu_189_1.html' class='tagc1'>帝王墓</a>
+            
+            <a href='/lieqizhuanti/xingshenghuo_723_1.html' class='tagc1'>性生活</a>
+            
+            <a href='/lieqizhuanti/maozedong_266_1.html' class='tagc2'>毛泽东</a>
+            
+            <a href='/lieqizhuanti/laozhaopian_668_1.html' class='tagc2'>老照片</a>
+            
+            <a href='/lieqizhuanti/nvshi_591_1.html' class='tagc1'>女尸</a>
+            
+            <a href='/lieqizhuanti/qite_1443_1.html' class='tagc1'>奇特</a>
+            
+            <a href='/lieqizhuanti/waixingren_400_1.html' class='tagc1'>外星人</a>
+            
+            <a href='/lieqizhuanti/jiecao_699_1.html' class='tagc2'>节操</a>
+            
+            <a href='/lieqizhuanti/lishi_910_1.html' class='tagc2'>历史</a>
+            
+            <a href='/lieqizhuanti/mogu_740_1.html' class='tagc2'>蘑菇</a>
+            
+			</div>
+			<script src='qi/js/tagscloud.js' type="text/javascript"></script>
+			
+		</div>
+	</div>
+
+	<div class="addi960"></div>
+
+	<div class="qcboxB">
+		<div class="qcboxBname">
+			<div class="qcboxBnamec le">历史真相</div>
+			<div class="qcboxBnamel ri"><a href="http://www.lieqi.me/lishizhenxiang/kaogu/" target="_blank" title="考古发现">考古发现</a>　|　<a href="http://www.lieqi.me/lishizhenxiang/yeshiqiwen/" target="_blank" title="野史奇闻">野史奇闻</a></div>
+			<div class="qcboxBnamer ri"><a href="http://www.lieqi.me/lishizhenxiang/mingren/" target="_blank" title="名人奇事">名人奇事</a>　|　<a href="http://www.lieqi.me/lishizhenxiang/laozhaopian/" target="_blank" title="历史旧照">历史旧照</a>　|　</div>
+		</div>
+		<div class="qcboxBl le">
+			<div class="qcboxBlslide">
+				<div class="qcboxBlslidepw" id="fa1">
+				<a href="http://www.lieqi.me/lishizhenxiang/yeshiqiwen/20161214/19829.html" target="_blank" title="她用自杀告诉你，南京大屠杀和我们有什么关系"><img alt="她用自杀告诉你，南京大屠杀和我们有什么关系" data-original="http://www.lieqi.me/pics/20161214/4-161214100611-lp.png" /></a><span><a href="http://www.lieqi.me/lishizhenxiang/yeshiqiwen/20161214/19829.html" target="_blank" title="她用自杀告诉你，南京大屠杀和我们有什么关系">她用自杀告诉你，南京大屠杀和我</a></span>
+
+				</div>
+				<div class="qcboxBlslidepw" id="fa2" style="display:none;">
+				<a href="http://www.lieqi.me/lishizhenxiang/jintian/20150514/4928.html" target="_blank" title="历史上5月14号的今天：江青自杀"><img alt="历史上5月14号的今天：江青自杀" data-original="http://www.lieqi.me/pics/20150514/2-15051409221Xc-lp.jpg" /></a><span><a href="http://www.lieqi.me/lishizhenxiang/jintian/20150514/4928.html" target="_blank" title="历史上5月14号的今天：江青自杀">历史上5月14号的今天：江青自杀</a></span>
+
+				</div>
+				<div class="qcboxBlslidepw" id="fa3" style="display:none;">
+				<a href="http://www.lieqi.me/lishizhenxiang/jintian/20150509/4822.html" target="_blank" title="历史上5月9号的今天：印尼7.4级地震"><img alt="历史上5月9号的今天：印尼7.4级地震" data-original="http://www.lieqi.me/pics/20150509/2-15050916163DX-lp.jpg" /></a><span><a href="http://www.lieqi.me/lishizhenxiang/jintian/20150509/4822.html" target="_blank" title="历史上5月9号的今天：印尼7.4级地震">历史上5月9号的今天：印尼7.4级</a></span>
+
+				</div>
+				<div class="qcboxBlslidepw" id="fa4" style="display:none;">
+				<a href="http://www.lieqi.me/lishizhenxiang/jintian/20150508/4785.html" target="_blank" title="历史上5月8号的今天：邓丽君逝世"><img alt="历史上5月8号的今天：邓丽君逝世" data-original="http://www.lieqi.me/pics/20150508/2-15050Q14P5450-lp.jpg" /></a><span><a href="http://www.lieqi.me/lishizhenxiang/jintian/20150508/4785.html" target="_blank" title="历史上5月8号的今天：邓丽君逝世">历史上5月8号的今天：邓丽君逝世</a></span>
+
+				</div>
+				<div class="qcboxBlslidepw" id="fa5" style="display:none;">
+				<a href="http://www.lieqi.me/lishizhenxiang/jintian/20150507/4745.html" target="_blank" title="历史上5月7号的今天：普京就任俄总统"><img alt="历史上5月7号的今天：普京就任俄总统" data-original="http://www.lieqi.me/pics/20150507/2_050G10952D93.jpg" /></a><span><a href="http://www.lieqi.me/lishizhenxiang/jintian/20150507/4745.html" target="_blank" title="历史上5月7号的今天：普京就任俄总统">历史上5月7号的今天：普京就任俄</a></span>
+
+				</div>
+				<div class="qcboxBlslidepages">
+					<ul>
+						<li id="ta1" class="currentB5" onmouseover="setTabs02('ta','fa',1,5);clearTimea();" onmouseout="init02a(2);"></li>
+						<li id="ta2" onmouseover="setTabs02('ta','fa',2,5);clearTimea();" onmouseout="init02a(3);"></li>
+						<li id="ta3" onmouseover="setTabs02('ta','fa',3,5);clearTimea();" onmouseout="init02a(4);"></li>
+						<li id="ta4" onmouseover="setTabs02('ta','fa',4,5);clearTimea();" onmouseout="init02a(5);"></li>
+						<li id="ta5" onmouseover="setTabs02('ta','fa',5,5);clearTimea();" onmouseout="init02a(1);"></li>
+					</ul>
+				</div>
+			</div>
+			<div class="qcboxBlpics">
+				<ul>
+					<li><a href="http://www.lieqi.me/lishizhenxiang/mingren/20141206/1749.html" target="_blank" title="毛主席两个女儿现况曝光"><img data-original="http://www.lieqi.me/pics/20141206/2_1206133224a21.jpg" alt="毛主席两个女儿现况曝光" /><center>毛主席两个女儿现况曝</center></a></li>
+<li><a href="http://www.lieqi.me/lishizhenxiang/jintian/20150516/5007.html" target="_blank" title="历史上5月16号的今天：文化大革命开始"><img data-original="http://www.lieqi.me/pics/20150516/2-150516150442122-lp.jpg" alt="历史上5月16号的今天：文化大革命开始" /><center>历史上5月16号的今天</center></a></li>
+<li><a href="http://www.lieqi.me/lishizhenxiang/mingren/20150102/2234.html" target="_blank" title="蒋介石打败宋美龄初恋情人惊人手段"><img data-original="http://www.lieqi.me/pics/20150102/2-1501021I534-lp.jpg" alt="蒋介石打败宋美龄初恋情人惊人手段" /><center>蒋介石打败宋美龄初恋</center></a></li>
+<li><a href="http://www.lieqi.me/lishizhenxiang/yeshiqiwen/20141213/1875.html" target="_blank" title="流氓皇帝求风流 竟让儿媳妇轮流侍寝"><img data-original="http://www.lieqi.me/pics/20141213/2_1213155333B08.jpg" alt="流氓皇帝求风流 竟让儿媳妇轮流侍寝" /><center>流氓皇帝求风流 竟让</center></a></li>
+
+				</ul>
+			</div>
+			<div class="qcboxBltitle ico3">野史趣闻</div>
+			<div class="qcboxBllist">
+				<ul>
+					<li><a href="http://www.lieqi.me/lishizhenxiang/kaogu/20170323/21732.html" target="_blank" title="下水道内惊现棺材 打开轰动全城">下水道内惊现棺材 打开轰动全城</a></li>
+<li><a href="http://www.lieqi.me/lishizhenxiang/kaogu/20170322/21712.html" target="_blank" title="张献忠江口出文物2万件，实证沉银传说">张献忠江口出文物2万件，实证沉银传说</a></li>
+<li><a href="http://www.lieqi.me/lishizhenxiang/kaogu/20170321/21688.html" target="_blank" title="深山发现奇怪木门 里面的财宝惊人">深山发现奇怪木门 里面的财宝惊人</a></li>
+<li><a href="http://www.lieqi.me/lishizhenxiang/kaogu/20170320/21675.html" target="_blank" title="外星人曾在四川建国家：竟留下这些文物">外星人曾在四川建国家：竟留下这些文物</a></li>
+<li><a href="http://www.lieqi.me/lishizhenxiang/kaogu/20170317/21623.html" target="_blank" title="清朝第一太监李莲英墓被挖 专家吓一跳">清朝第一太监李莲英墓被挖 专家吓一跳</a></li>
+<li><a href="http://www.lieqi.me/lishizhenxiang/kaogu/20170316/21597.html" target="_blank" title="江苏挖出美艳女尸 现场工人腿都软了">江苏挖出美艳女尸 现场工人腿都软了</a></li>
+<li><a href="http://www.lieqi.me/lishizhenxiang/kaogu/20170314/21527.html" target="_blank" title="埃及现3000年巨型雕像，疑为法老二世">埃及现3000年巨型雕像，疑为法老二世</a></li>
+
+				</ul>
+			</div>
+		</div>
+		<div class="qcboxBc le">
+			<div class="qcboxBchot"><a href="http://www.lieqi.me/lishizhenxiang/yeshiqiwen/20160920/17981.html" target="_blank" title="除了南京大屠杀还有你不知道的北京大屠杀！">除了南京大屠杀还有你不知道</a></div>
+			<div class="qcboxBchotinfo">八国联军在北京仅三天时间内，就通过枪杀、刺死、绞刑、烧死、棍击、勒死、奸杀、肢解、活埋等手段杀死的中国人达数十万之众，无数妇女被污辱至死，仅... <a href="http://www.lieqi.me/lishizhenxiang/yeshiqiwen/20160920/17981.html" target="_blank" title="查看详情">[详细]</a></div>
+
+			<div class="qcboxBclist">
+				<ul>
+					<li><span>03-24</span><a href="http://www.lieqi.me/lishizhenxiang/yeshiqiwen/20170324/21776.html" target="_blank" title="修长城的真正目的被误传千年，不止防御！">修长城的真正目的被误传千年，不止防御！</a></li>
+<li><span>03-24</span><a href="http://www.lieqi.me/lishizhenxiang/yeshiqiwen/20170324/21760.html" target="_blank" title="古代四大美女也有生理缺陷!杨贵妃有狐臭?">古代四大美女也有生理缺陷!杨贵妃有狐臭?</a></li>
+<li><span>03-23</span><a href="http://www.lieqi.me/lishizhenxiang/mingren/20170323/21749.html" target="_blank" title="川岛芳子生死大揭秘：死刑后复活？">川岛芳子生死大揭秘：死刑后复活？</a></li>
+<li><span>03-23</span><a href="http://www.lieqi.me/lishizhenxiang/yeshiqiwen/20170323/21745.html" target="_blank" title="真有九尾狐吗?传说是从何而来?">真有九尾狐吗?传说是从何而来?</a></li>
+<li><span>03-23</span><a href="http://www.lieqi.me/lishizhenxiang/kaogu/20170323/21732.html" target="_blank" title="下水道内惊现棺材 打开轰动全城">下水道内惊现棺材 打开轰动全城</a></li>
+<li><span>03-23</span><a href="http://www.lieqi.me/lishizhenxiang/yeshiqiwen/20170323/21731.html" target="_blank" title="真实的美女与野兽，只是结局太残忍~">真实的美女与野兽，只是结局太残忍~</a></li>
+
+				</ul>
+			</div>
+			
+			<div class="qcboxBclist">
+				<ul>
+					<li><span>03-22</span><a href="http://www.lieqi.me/lishizhenxiang/kaogu/20170322/21712.html" target="_blank" title="张献忠江口出文物2万件，实证沉银传说">张献忠江口出文物2万件，实证沉银传说</a></li>
+<li><span>03-21</span><a href="http://www.lieqi.me/lishizhenxiang/kaogu/20170321/21688.html" target="_blank" title="深山发现奇怪木门 里面的财宝惊人">深山发现奇怪木门 里面的财宝惊人</a></li>
+<li><span>03-21</span><a href="http://www.lieqi.me/lishizhenxiang/yeshiqiwen/20170321/21682.html" target="_blank" title="美女街头坐路人大腿 下幕让人笑尿">美女街头坐路人大腿 下幕让人笑尿</a></li>
+<li><span>03-21</span><a href="http://www.lieqi.me/lishizhenxiang/yeshiqiwen/20170321/21681.html" target="_blank" title="你所不知道的太监冷知识!">你所不知道的太监冷知识!</a></li>
+<li><span>03-21</span><a href="http://www.lieqi.me/lishizhenxiang/yeshiqiwen/20170321/21679.html" target="_blank" title="世界最神秘的5个人，诡异到好像不存在">世界最神秘的5个人，诡异到好像不存在</a></li>
+<li><span>03-20</span><a href="http://www.lieqi.me/lishizhenxiang/yeshiqiwen/20170320/21676.html" target="_blank" title="春秋最风流美女：她一生克死九个男人">春秋最风流美女：她一生克死九个男人</a></li>
+
+				</ul>
+			</div>
+			
+			<div class="qcboxBctitle ico4">考古发现</div>
+			<div class="qcboxBcpics">
+				<ul>
+					<li><a href="http://www.lieqi.me/lishizhenxiang/kaogu/20141130/1657.html" target="_blank" title="古代日本惩罚女犯变态酷刑"><img data-original="http://www.lieqi.me/pics/20141130/3_1130223PT144.jpg" alt="古代日本惩罚女犯变态酷刑" /><center>古代日本惩罚女犯变态酷刑</center></a></li>
+<li><a href="http://www.lieqi.me/lishizhenxiang/kaogu/20141007/16.html" target="_blank" title="只有墓碑的墓地——“生基墓”"><img data-original="http://www.lieqi.me/pics/20141007/2_100GA6435622.jpg" alt="只有墓碑的墓地——“生基墓”" /><center>只有墓碑的墓地——“生基墓</center></a></li>
+
+				</ul>
+			</div>
+			
+			
+		
+		</div>
+		<div class="qcboxBr ri">
+			<div class="qcboxBrtitle">异域春秋</div>
+			
+			<div class="qcboxBrtophot">
+			<a href="http://www.lieqi.me/lishizhenxiang/laozhaopian/20150313/3431.html" target="_blank" title="史上十大灭绝人性的人体试验">史上十大灭绝人性的人体试验</a>
+</div>
+			
+			<div class="qcboxBrtoppw">
+				<a href="http://www.lieqi.me/lishizhenxiang/laozhaopian/20150313/3431.html" target="_blank" title="史上十大灭绝人性的人体试验"><img class="lazy" data-original="http://www.lieqi.me/pics/20150313/2_0313132031OH.jpg" alt="史上十大灭绝人性的人体试验" /></a>
+				<a href="http://www.lieqi.me/lishizhenxiang/laozhaopian/20150313/3431.html" target="_blank" title="史上十大灭绝人性的人体试验">斯坦福监禁实验研究的是人类对于被囚禁态的心理反应，以及其对囚犯和监狱管理人员产生的行为性...</a>
+
+			</div>
+			
+			<div class="qcboxBrtoplist">
+				<ul>
+					<li><a href="http://www.lieqi.me/lishizhenxiang/laozhaopian/20170309/21439.html" target="_blank" title="老照片，80年代的中国，老百姓十分淳朴，生活压力没现在这么大">老照片，80年代的中国，老百姓十分淳朴，生</a></li>
+<li><a href="http://www.lieqi.me/lishizhenxiang/laozhaopian/20170303/21296.html" target="_blank" title="我们都被骗了，17幅被篡改的历史照片">我们都被骗了，17幅被篡改的历史照片</a></li>
+<li><a href="http://www.lieqi.me/lishizhenxiang/laozhaopian/20170224/21135.html" target="_blank" title="日本士兵老照片,终于明白他们为何被叫小日本了">日本士兵老照片,终于明白他们为何被叫小日</a></li>
+<li><a href="http://www.lieqi.me/lishizhenxiang/laozhaopian/20170220/21039.html" target="_blank" title="文化大革命时期外国媒体上的中国新闻照">文化大革命时期外国媒体上的中国新闻照</a></li>
+
+				</ul>
+			</div>
+			
+			<div class="addi300"><script type="text/javascript">i1_bd300x250();</script></div>
+			
+			<div class="qcboxBrtitle">名人轶事</div>
+			<div class="qcboxBrtoppw2">
+				<a href="http://www.lieqi.me/lishizhenxiang/mingren/20141222/2085.html" target="_blank" title="千古罪人秦桧遗嘱惊天曝光"><img class="lazy" data-original="http://www.lieqi.me/pics/20141222/2-141222160313-lp.jpg" alt="千古罪人秦桧遗嘱惊天曝光" /></a>
+				<a href="http://www.lieqi.me/lishizhenxiang/mingren/20141222/2085.html" target="_blank" title="千古罪人秦桧遗嘱惊天曝光">中国考古界2006年的最大发现，终于随着引人争议的拆迁开发工程而诞生。在建设过程中发掘的一宋代古墓，...</a>
+
+				
+			</div>
+			<div class="qcboxBrtoplist2">
+				<ul>
+					<li><a href="http://www.lieqi.me/lishizhenxiang/mingren/20170323/21749.html" target="_blank" title="川岛芳子生死大揭秘：死刑后复活？">川岛芳子生死大揭秘：死刑后复活？</a></li>
+<li><a href="http://www.lieqi.me/lishizhenxiang/mingren/20170317/21606.html" target="_blank" title="作家4千万破悬案，开膛手杰克竟是他">作家4千万破悬案，开膛手杰克竟是他</a></li>
+
+				</ul>
+			</div>
+			
+		</div>
+
+	</div>
+	
+	<div class="addi960"><script type="text/javascript">i2_bd960x90();</script></div>
+	
+	<div class="qcboxC">
+		<div class="qcboxBname">
+			<div class="qcboxBnamec le">军事解密</div>
+			<div class="qcboxBnamel ri"><a href="http://www.lieqi.me/junshijiemi/junqing/" target="_blank" title="军情解码">军情解码</a>　|　<a href="http://www.lieqi.me/junshijiemi/zhanzheng/" target="_blank" title="战争谜题">战争谜题</a></div>
+			<div class="qcboxBnamer ri"><a href="http://www.lieqi.me/junshijiemi/zhanchangqiwen/" target="_blank" title="战场奇闻">战场奇闻</a>　|　<a href="http://www.lieqi.me/junshijiemi/mingrenjunchuan/" target="_blank" title="名人军传">名人军传</a>　|　</div>
+		</div>
+		<div class="qcboxBl le">
+			<div class="qcboxBlslide">
+				<div class="qcboxBlslidepw" id="fb1">
+				<a href="http://www.lieqi.me/junshijiemi/zhanchangqiwen/20151123/8857.html" target="_blank" title="中国古代逃兵下场竟如此惨"><img alt="中国古代逃兵下场竟如此惨" data-original="http://www.lieqi.me/pics/20151123/2-151123164443W7.gif" /></a><span><a href="http://www.lieqi.me/junshijiemi/zhanchangqiwen/20151123/8857.html" target="_blank" title="中国古代逃兵下场竟如此惨">中国古代逃兵下场竟如此惨</a></span>
+
+				</div>
+				<div class="qcboxBlslidepw" id="fb2" style="display:none;">
+				<a href="http://www.lieqi.me/junshijiemi/mingrenjunchuan/20141214/1900.html" target="_blank" title="邓小平选胡锦涛为接班人的历史真相"><img alt="邓小平选胡锦涛为接班人的历史真相" data-original="http://www.lieqi.me/pics/20141214/3_12141612442Y8.jpg" /></a><span><a href="http://www.lieqi.me/junshijiemi/mingrenjunchuan/20141214/1900.html" target="_blank" title="邓小平选胡锦涛为接班人的历史真相">邓小平选胡锦涛为接班人的历史真</a></span>
+
+				</div>
+				<div class="qcboxBlslidepw" id="fb3" style="display:none;">
+				<a href="http://www.lieqi.me/junshijiemi/zhanchangqiwen/20141223/2101.html" target="_blank" title="中国古代历史上十大变态军队"><img alt="中国古代历史上十大变态军队" data-original="http://www.lieqi.me/pics/20141223/2-141223131631-lp.jpg" /></a><span><a href="http://www.lieqi.me/junshijiemi/zhanchangqiwen/20141223/2101.html" target="_blank" title="中国古代历史上十大变态军队">中国古代历史上十大变态军队</a></span>
+
+				</div>
+				<div class="qcboxBlslidepw" id="fb4" style="display:none;">
+				<a href="http://www.lieqi.me/junshijiemi/zhanchangqiwen/20141222/2075.html" target="_blank" title="盘点世界历史上12大帝国"><img alt="盘点世界历史上12大帝国" data-original="http://www.lieqi.me/pics/20141222/2-141222140632-lp.jpg" /></a><span><a href="http://www.lieqi.me/junshijiemi/zhanchangqiwen/20141222/2075.html" target="_blank" title="盘点世界历史上12大帝国">盘点世界历史上12大帝国</a></span>
+
+				</div>
+				<div class="qcboxBlslidepw" id="fb5" style="display:none;">
+				<a href="http://www.lieqi.me/junshijiemi/zhanchangqiwen/20141222/2072.html" target="_blank" title="盘点世界上最荒唐的战争"><img alt="盘点世界上最荒唐的战争" data-original="http://www.lieqi.me/pics/20141222/2-141222135639-lp.jpg" /></a><span><a href="http://www.lieqi.me/junshijiemi/zhanchangqiwen/20141222/2072.html" target="_blank" title="盘点世界上最荒唐的战争">盘点世界上最荒唐的战争</a></span>
+
+				</div>
+				<div class="qcboxBlslidepages">
+					<ul>
+						<li id="tb1" class="currentB5" onmouseover="setTabs02('tb','fb',1,5);clearTimeb();" onmouseout="init02b(2);"></li>
+						<li id="tb2" onmouseover="setTabs02('tb','fb',2,5);clearTimeb();" onmouseout="init02b(3);"></li>
+						<li id="tb3" onmouseover="setTabs02('tb','fb',3,5);clearTimeb();" onmouseout="init02b(4);"></li>
+						<li id="tb4" onmouseover="setTabs02('tb','fb',4,5);clearTimeb();" onmouseout="init02b(5);"></li>
+						<li id="tb5" onmouseover="setTabs02('tb','fb',5,5);clearTimeb();" onmouseout="init02b(1);"></li>
+					</ul>
+				</div>
+			</div>
+			<div class="qcboxBlpics">
+				<ul>
+					<li><a href="http://www.lieqi.me/junshijiemi/zhanchangqiwen/20141226/2151.html" target="_blank" title="揭秘侵华日军战场如何填饱肚子"><img data-original="http://www.lieqi.me/pics/20141226/2_12261504061039.jpg" alt="揭秘侵华日军战场如何填饱肚子" /><center>揭秘侵华日军战场如何</center></a></li>
+<li><a href="http://www.lieqi.me/junshijiemi/zhanchangqiwen/20141226/2147.html" target="_blank" title="盘点31个惊骇世人的离奇场面"><img data-original="http://www.lieqi.me/pics/20141226/2_122614150A522.jpg" alt="盘点31个惊骇世人的离奇场面" /><center>盘点31个惊骇世人的离</center></a></li>
+<li><a href="http://www.lieqi.me/junshijiemi/mingrenjunchuan/20141214/1900.html" target="_blank" title="邓小平选胡锦涛为接班人的历史真相"><img data-original="http://www.lieqi.me/pics/20141214/3_12141612442Y8.jpg" alt="邓小平选胡锦涛为接班人的历史真相" /><center>邓小平选胡锦涛为接班</center></a></li>
+<li><a href="http://www.lieqi.me/junshijiemi/zhanchangqiwen/20141225/2136.html" target="_blank" title="美国中情局十大酷刑曝光！"><img data-original="http://www.lieqi.me/pics/141225/1H9104H0-35.jpg" alt="美国中情局十大酷刑曝光！" /><center>美国中情局十大酷刑曝</center></a></li>
+
+				</ul>
+			</div>
+			<div class="qcboxBltitle ico3">军情大转盘</div>
+			<div class="qcboxBllist">
+				<ul>
+					<li><a href="http://www.lieqi.me/junshijiemi/mingrenjunchuan/20170324/21785.html" target="_blank" title="中国第一美女间谍：卫星导航之母">中国第一美女间谍：卫星导航之母</a></li>
+<li><a href="http://www.lieqi.me/junshijiemi/zhanchangqiwen/20170324/21779.html" target="_blank" title="震惊！二战美军战俘被日活体解剖做实验">震惊！二战美军战俘被日活体解剖做实验</a></li>
+<li><a href="http://www.lieqi.me/junshijiemi/junqing/20170324/21778.html" target="_blank" title="苏联冷战时期黑科技，袖珍潜艇仅三吨重">苏联冷战时期黑科技，袖珍潜艇仅三吨重</a></li>
+<li><a href="http://www.lieqi.me/junshijiemi/zhanchangqiwen/20170324/21777.html" target="_blank" title="十恶不赦！日本靖国神社供奉十大战犯">十恶不赦！日本靖国神社供奉十大战犯</a></li>
+<li><a href="http://www.lieqi.me/junshijiemi/junqing/20170324/21775.html" target="_blank" title="中国维和军回国，拥吻妻子羡煞旁人">中国维和军回国，拥吻妻子羡煞旁人</a></li>
+<li><a href="http://www.lieqi.me/junshijiemi/junqing/20170323/21757.html" target="_blank" title="中国轰20有望于三年内首飞：国人振奋">中国轰20有望于三年内首飞：国人振奋</a></li>
+<li><a href="http://www.lieqi.me/junshijiemi/mingrenjunchuan/20170323/21751.html" target="_blank" title="冯玉祥爱兵如子曾为部下剪脚趾甲">冯玉祥爱兵如子曾为部下剪脚趾甲</a></li>
+
+				</ul>
+			</div>
+		</div>
+		<div class="qcboxBc le">
+			<div class="qcboxBchot"><a href="http://www.lieqi.me/junshijiemi/zhanchangqiwen/20161209/19731.html" target="_blank" title="珍珠港事件75周年:战场老照片">珍珠港事件75周年:战场老照</a></div>
+			<div class="qcboxBchotinfo">亦哇（EWA）海军陆战队航空站的海员用步枪进行反击（来源：网易综合） 分页标题 日军拍摄的福特岛西部。从左至右为：底特律号、莱利号、犹他号和丹吉... <a href="http://www.lieqi.me/junshijiemi/zhanchangqiwen/20161209/19731.html" target="_blank" title="查看详情">[详细]</a></div>
+
+			<div class="qcboxBclist">
+				<ul>
+					<li><span>03-24</span><a href="http://www.lieqi.me/junshijiemi/mingrenjunchuan/20170324/21785.html" target="_blank" title="中国第一美女间谍：卫星导航之母">中国第一美女间谍：卫星导航之母</a></li>
+<li><span>03-24</span><a href="http://www.lieqi.me/junshijiemi/zhanchangqiwen/20170324/21779.html" target="_blank" title="震惊！二战美军战俘被日活体解剖做实验">震惊！二战美军战俘被日活体解剖做实验</a></li>
+<li><span>03-24</span><a href="http://www.lieqi.me/junshijiemi/junqing/20170324/21778.html" target="_blank" title="苏联冷战时期黑科技，袖珍潜艇仅三吨重">苏联冷战时期黑科技，袖珍潜艇仅三吨重</a></li>
+<li><span>03-24</span><a href="http://www.lieqi.me/junshijiemi/zhanchangqiwen/20170324/21777.html" target="_blank" title="十恶不赦！日本靖国神社供奉十大战犯">十恶不赦！日本靖国神社供奉十大战犯</a></li>
+<li><span>03-24</span><a href="http://www.lieqi.me/junshijiemi/junqing/20170324/21775.html" target="_blank" title="中国维和军回国，拥吻妻子羡煞旁人">中国维和军回国，拥吻妻子羡煞旁人</a></li>
+<li><span>03-23</span><a href="http://www.lieqi.me/junshijiemi/junqing/20170323/21757.html" target="_blank" title="中国轰20有望于三年内首飞：国人振奋">中国轰20有望于三年内首飞：国人振奋</a></li>
+
+				</ul>
+			</div>
+			
+			<div class="qcboxBclist">
+				<ul>
+					<li><span>03-23</span><a href="http://www.lieqi.me/junshijiemi/mingrenjunchuan/20170323/21751.html" target="_blank" title="冯玉祥爱兵如子曾为部下剪脚趾甲">冯玉祥爱兵如子曾为部下剪脚趾甲</a></li>
+<li><span>03-22</span><a href="http://www.lieqi.me/junshijiemi/junqing/20170322/21728.html" target="_blank" title="定了！韩国下任总统出炉萨德入韩要黄">定了！韩国下任总统出炉萨德入韩要黄</a></li>
+<li><span>03-22</span><a href="http://www.lieqi.me/junshijiemi/junqing/20170322/21727.html" target="_blank" title="菲总统再怼奥巴马 你这个傻子快点下地狱吧">菲总统再怼奥巴马 你这个傻子快点下地狱吧</a></li>
+<li><span>03-22</span><a href="http://www.lieqi.me/junshijiemi/junqing/20170322/21726.html" target="_blank" title="中国造神秘定向能武器 可用激光打卫星">中国造神秘定向能武器 可用激光打卫星</a></li>
+<li><span>03-22</span><a href="http://www.lieqi.me/junshijiemi/junqing/20170322/21724.html" target="_blank" title="张召忠妙计解决萨德 美日韩集体抓狂">张召忠妙计解决萨德 美日韩集体抓狂</a></li>
+<li><span>03-22</span><a href="http://www.lieqi.me/junshijiemi/junqing/20170322/21706.html" target="_blank" title="灾难面前！看出中国兵哥哥和美国大兵的区别">灾难面前！看出中国兵哥哥和美国大兵的区别</a></li>
+
+				</ul>
+			</div>
+			
+			<div class="qcboxBctitle ico4">军事热点</div>
+			<div class="qcboxBcpics">
+				<ul>
+					<li><a href="http://www.lieqi.me/junshijiemi/junqing/20161010/18364.html" target="_blank" title="日女兵斜挎着小包竟是因为这"><img data-original="http://www.lieqi.me/pics/20161010/4_101010194N626.jpg" alt="日女兵斜挎着小包竟是因为这" /><center>日女兵斜挎着小包竟是因为这</center></a></li>
+<li><a href="http://www.lieqi.me/junshijiemi/junqing/20141104/1265.html" target="_blank" title="图解二战日军迫击炮反装甲及爆破火器用法"><img data-original="http://www.lieqi.me/pics/20141104/2_110416043432V.jpg" alt="图解二战日军迫击炮反装甲及爆破火器用法" /><center>图解二战日军迫击炮反装甲及</center></a></li>
+
+				</ul>
+			</div>
+			
+			
+		
+		</div>
+		<div class="qcboxBr ri">
+			<div class="qcboxBrtitle">军史秘闻</div>
+			<div class="qcboxBrtophot">
+			<a href="http://www.lieqi.me/junshijiemi/junqing/20160822/17368.html" target="_blank" title="美军食堂用百元矿泉水刷锅 解放军无需攀比">美军食堂用百元矿泉水刷锅 解放军无需攀比</a>
+
+			</div>
+			
+			<div class="qcboxBrtoppw">
+				<a href="http://www.lieqi.me/junshijiemi/junqing/20160822/17368.html" target="_blank" title="美军食堂用百元矿泉水刷锅 解放军无需攀比"><img class="lazy" data-original="http://www.lieqi.me/pics/20160822/4-160R2101S6-lp.jpg" alt="美军食堂用百元矿泉水刷锅 解放军无需攀比" /></a>
+				<a href="http://www.lieqi.me/junshijiemi/junqing/20160822/17368.html" target="_blank" title="美军食堂用百元矿泉水刷锅 解放军无需攀比">美国的军事装备有多先进这就不用说了，是不是针对俄罗斯也是仁者见仁。但是大家都知道打仗就是...</a>
+
+			</div>
+			
+			<div class="qcboxBrtoplist">
+				<ul>
+					<li><a href="http://www.lieqi.me/junshijiemi/junqing/20170324/21778.html" target="_blank" title="苏联冷战时期黑科技，袖珍潜艇仅三吨重">苏联冷战时期黑科技，袖珍潜艇仅三吨重</a></li>
+<li><a href="http://www.lieqi.me/junshijiemi/junqing/20170324/21775.html" target="_blank" title="中国维和军回国，拥吻妻子羡煞旁人">中国维和军回国，拥吻妻子羡煞旁人</a></li>
+<li><a href="http://www.lieqi.me/junshijiemi/junqing/20170323/21757.html" target="_blank" title="中国轰20有望于三年内首飞：国人振奋">中国轰20有望于三年内首飞：国人振奋</a></li>
+<li><a href="http://www.lieqi.me/junshijiemi/junqing/20170322/21728.html" target="_blank" title="定了！韩国下任总统出炉萨德入韩要黄">定了！韩国下任总统出炉萨德入韩要黄</a></li>
+
+				</ul>
+			</div>
+			
+			<div class="addi300"><script type="text/javascript">i2_bd300x250();</script></div>
+			
+			<div class="qcboxBrtitle">战争谜题</div>
+			<div class="qcboxBrtoppw2">
+				<a href="http://www.lieqi.me/junshijiemi/zhanzheng/20141012/221.html" target="_blank" title="解放战争前绝密飞行 其中3名共和国元帅"><img class="lazy" data-original="http://www.lieqi.me/pics/20141012/2_10121949101a7.jpg" alt="解放战争前绝密飞行 其中3名共和国元帅" /></a>
+				<a href="http://www.lieqi.me/junshijiemi/zhanzheng/20141012/221.html" target="_blank" title="解放战争前绝密飞行 其中3名共和国元帅">刘伯承、邓小平、陈毅、林彪、萧劲光、滕代远等党的高级领导人上机前合影。 1945年8月25日午后，一架美...</a>
+
+			</div>
+			<div class="qcboxBrtoplist2">
+				<ul>
+					<li><a href="http://www.lieqi.me/junshijiemi/zhanzheng/20170313/21504.html" target="_blank" title="日本靖国神社里供奉的十大战犯">日本靖国神社里供奉的十大战犯</a></li>
+<li><a href="http://www.lieqi.me/junshijiemi/zhanzheng/20151117/8737.html" target="_blank" title="侵华日本女兵不为人知的去向！">侵华日本女兵不为人知的去向！</a></li>
+
+				</ul>
+			</div>
+
+		</div>
+
+	</div>
+	
+	<div class="addi960"><script type="text/javascript">i1_sg960x90();</script></div>
+	
+	<div class="qcboxD">
+		<div class="qcboxBname">
+			<div class="qcboxBnamec le">科技探索</div>
+			<div class="qcboxBnamel ri"><a href="http://www.lieqi.me/kexuetansuo/UFO/" target="_blank" title="UFO探索">UFO探索</a>　|　<a href="http://www.lieqi.me/kexuetansuo/yuzhou/" target="_blank" title="宇宙奥秘">宇宙奥秘</a></div>
+			<div class="qcboxBnamer ri"><a href="http://www.lieqi.me/kexuetansuo/kexue/" target="_blank" title="科学前沿">科学前沿</a>　|　<a href="http://www.lieqi.me/kexuetansuo/renwenhangtian/" target="_blank" title="人文航天">人文航天</a>　|　</div>
+		</div>
+		<div class="qcboxBl le">
+			<div class="qcboxBlslide">
+				<div class="qcboxBlslidepw" id="fc1">
+				<a href="http://www.lieqi.me/kexuetansuo/yuzhou/20151029/8343.html" target="_blank" title="地球死亡周期2600万年的真相"><img alt="地球死亡周期2600万年的真相" data-original="http://www.lieqi.me/pics/20151104/2-151104144JC50.jpg" /></a><span><a href="http://www.lieqi.me/kexuetansuo/yuzhou/20151029/8343.html" target="_blank" title="地球死亡周期2600万年的真相">地球死亡周期2600万年的真相</a></span>
+
+				</div>
+				<div class="qcboxBlslidepw" id="fc2" style="display:none;">
+				<a href="http://www.lieqi.me/kexuetansuo/renwenhangtian/20141216/1972.html" target="_blank" title="美国公司明年测试充气式空间站"><img alt="美国公司明年测试充气式空间站" data-original="http://www.lieqi.me/pics/20141216/1-141216150036-lp.jpg" /></a><span><a href="http://www.lieqi.me/kexuetansuo/renwenhangtian/20141216/1972.html" target="_blank" title="美国公司明年测试充气式空间站">美国公司明年测试充气式空间站</a></span>
+
+				</div>
+				<div class="qcboxBlslidepw" id="fc3" style="display:none;">
+				<a href="http://www.lieqi.me/kexuetansuo/renwenhangtian/20141216/1970.html" target="_blank" title="科学家设想建造“星际雷达”扫描系外行星"><img alt="科学家设想建造“星际雷达”扫描系外行星" data-original="http://www.lieqi.me/pics/20141216/1-141216141526-50-lp.jpg" /></a><span><a href="http://www.lieqi.me/kexuetansuo/renwenhangtian/20141216/1970.html" target="_blank" title="科学家设想建造“星际雷达”扫描系外行星">科学家设想建造“星际雷达”扫描</a></span>
+
+				</div>
+				<div class="qcboxBlslidepw" id="fc4" style="display:none;">
+				<a href="http://www.lieqi.me/kexuetansuo/renwenhangtian/20141214/1893.html" target="_blank" title="科学家发现一颗如山大小的小行星对地球存在威胁"><img alt="科学家发现一颗如山大小的小行星对地球存在威胁" data-original="http://www.lieqi.me/pics/20141214/1-141214145459-lp.jpg" /></a><span><a href="http://www.lieqi.me/kexuetansuo/renwenhangtian/20141214/1893.html" target="_blank" title="科学家发现一颗如山大小的小行星对地球存在威胁">科学家发现一颗如山大小的小行星</a></span>
+
+				</div>
+				<div class="qcboxBlslidepw" id="fc5" style="display:none;">
+				<a href="http://www.lieqi.me/kexuetansuo/renwenhangtian/20141207/1764.html" target="_blank" title="SpaceX研发X翼飞船：灵感来自《星球大战》"><img alt="SpaceX研发X翼飞船：灵感来自《星球大战》" data-original="http://www.lieqi.me/pics/20141207/1-14120GH459-lp.jpg" /></a><span><a href="http://www.lieqi.me/kexuetansuo/renwenhangtian/20141207/1764.html" target="_blank" title="SpaceX研发X翼飞船：灵感来自《星球大战》">SpaceX研发X翼飞船：灵感来自《</a></span>
+
+				</div>
+				
+				<div class="qcboxBlslidepages">
+					<ul>
+						<li id="tc1" class="currentB5" onmouseover="setTabs02('tc','fc',1,5);clearTimec();" onmouseout="init02c(2);"></li>
+						<li id="tc2" onmouseover="setTabs02('tc','fc',2,5);clearTimec();" onmouseout="init02c(3);"></li>
+						<li id="tc3" onmouseover="setTabs02('tc','fc',3,5);clearTimec();" onmouseout="init02c(4);"></li>
+						<li id="tc4" onmouseover="setTabs02('tc','fc',4,5);clearTimec();" onmouseout="init02c(5);"></li>
+						<li id="tc5" onmouseover="setTabs02('tc','fc',5,5);clearTimec();" onmouseout="init02c(1);"></li>
+					</ul>
+				</div>
+			</div>
+			<div class="qcboxBlpics">
+				<ul>
+					<li><a href="http://www.lieqi.me/kexuetansuo/UFO/20150604/5485.html" target="_blank" title="长江客轮翻沉 揭开中国神秘北纬30度"><img data-original="http://www.lieqi.me/pics/20150604/4_06041032412639.jpg" alt="长江客轮翻沉 揭开中国神秘北纬30度" /><center>长江客轮翻沉 揭开中</center></a></li>
+<li><a href="http://www.lieqi.me/kexuetansuo/renwenhangtian/20141216/1964.html" target="_blank" title="澳公司计划20年内用激光消除部分轨道垃圾"><img data-original="http://www.lieqi.me/pics/20141216/1-141216120G3-lp.jpg" alt="澳公司计划20年内用激光消除部分轨道垃圾" /><center>澳公司计划20年内用激</center></a></li>
+<li><a href="http://www.lieqi.me/kexuetansuo/renwenhangtian/20141216/1953.html" target="_blank" title="如果发生全球灾难 人类可逃往这六个地方！"><img data-original="http://www.lieqi.me/pics/20141216/1-141216110248-lp.jpg" alt="如果发生全球灾难 人类可逃往这六个地方！" /><center>如果发生全球灾难 人</center></a></li>
+<li><a href="http://www.lieqi.me/kexuetansuo/renwenhangtian/20141215/1933.html" target="_blank" title="美国宇航局十大著名科学任务"><img data-original="http://www.lieqi.me/pics/20141215/2_12151602045920.jpg" alt="美国宇航局十大著名科学任务" /><center>美国宇航局十大著名科</center></a></li>
+
+				</ul>
+			</div>
+			<div class="qcboxBltitle ico3">UFO事件</div>
+			<div class="qcboxBllist">
+				<ul>
+					<li><a href="http://www.lieqi.me/kexuetansuo/UFO/20170320/21673.html" target="_blank" title="惊世界！巴西军方曾击落UFO 活捉外星人">惊世界！巴西军方曾击落UFO 活捉外星人</a></li>
+<li><a href="http://www.lieqi.me/kexuetansuo/UFO/20170313/21514.html" target="_blank" title="火星上再次发现“勺子”，那些人脸、蟾蜍、蜘蛛，都是错觉么？">火星上再次发现“勺子”，那些人脸、蟾蜍、</a></li>
+<li><a href="http://www.lieqi.me/kexuetansuo/UFO/20170309/21415.html" target="_blank" title="令人震惊!9000米高空现神秘人影引热议">令人震惊!9000米高空现神秘人影引热议</a></li>
+<li><a href="http://www.lieqi.me/kexuetansuo/UFO/20161226/20094.html" target="_blank" title="女孩称有外星人基因 还可星际旅行">女孩称有外星人基因 还可星际旅行</a></li>
+<li><a href="http://www.lieqi.me/kexuetansuo/UFO/20161223/20044.html" target="_blank" title="神秘飞行物将在2017年经过地球">神秘飞行物将在2017年经过地球</a></li>
+<li><a href="http://www.lieqi.me/kexuetansuo/UFO/20161215/19865.html" target="_blank" title="男子发现一巨碟状“石头”，近看后乐疯了">男子发现一巨碟状“石头”，近看后乐疯了</a></li>
+<li><a href="http://www.lieqi.me/kexuetansuo/UFO/20161215/19849.html" target="_blank" title="陕西村庄掉下不明物 砸大坑引起火">陕西村庄掉下不明物 砸大坑引起火</a></li>
+
+				</ul>
+			</div>
+		</div>
+		<div class="qcboxBc le">
+			<div class="qcboxBchot"><a href="http://www.lieqi.me/kexuetansuo/UFO/20150604/5485.html" target="_blank" title="长江客轮翻沉 揭开中国神秘北纬30度">长江客轮翻沉 揭开中国神秘</a></div>
+			<div class="qcboxBchotinfo">据国内媒体报道，6月1日约21时28分，一艘从南京驶往重庆的客船突遇龙卷风，在长江中游湖北荆州市监利县水域沉没，事发地的天气和地理劣势互相交叠，情... <a href="http://www.lieqi.me/kexuetansuo/UFO/20150604/5485.html" target="_blank" title="查看详情">[详细]</a></div>
+
+			<div class="qcboxBclist">
+				<ul>
+					<li><span>03-22</span><a href="http://www.lieqi.me/kexuetansuo/kexue/20170322/21730.html" target="_blank" title="世界之最：中国一箭20星技术独步全球">世界之最：中国一箭20星技术独步全球</a></li>
+<li><span>03-20</span><a href="http://www.lieqi.me/kexuetansuo/UFO/20170320/21673.html" target="_blank" title="惊世界！巴西军方曾击落UFO 活捉外星人">惊世界！巴西军方曾击落UFO 活捉外星人</a></li>
+<li><span>03-18</span><a href="http://www.lieqi.me/kexuetansuo/kexue/20170318/21641.html" target="_blank" title="泰坦尼克正被“吃光”可能20年没了">泰坦尼克正被“吃光”可能20年没了</a></li>
+<li><span>03-16</span><a href="http://www.lieqi.me/kexuetansuo/kexue/20170316/21598.html" target="_blank" title="厉害了！中国这款神器将首飞 可上天可下海">厉害了！中国这款神器将首飞 可上天可下海</a></li>
+<li><span>03-14</span><a href="http://www.lieqi.me/kexuetansuo/kexue/20170314/21528.html" target="_blank" title="男子在沙漠中倒下一瓶水 接下来现惊奇一幕！">男子在沙漠中倒下一瓶水 接下来现惊奇一幕</a></li>
+<li><span>03-13</span><a href="http://www.lieqi.me/kexuetansuo/UFO/20170313/21514.html" target="_blank" title="火星上再次发现“勺子”，那些人脸、蟾蜍、蜘蛛，都是错觉么？">火星上再次发现“勺子”，那些人脸、蟾蜍、</a></li>
+
+				</ul>
+			</div>
+			
+			<div class="qcboxBclist">
+				<ul>
+					<li><span>03-13</span><a href="http://www.lieqi.me/kexuetansuo/kexue/20170313/21496.html" target="_blank" title="神奇!“悬浮盆栽”令人惊叹">神奇!“悬浮盆栽”令人惊叹</a></li>
+<li><span>03-09</span><a href="http://www.lieqi.me/kexuetansuo/UFO/20170309/21415.html" target="_blank" title="令人震惊!9000米高空现神秘人影引热议">令人震惊!9000米高空现神秘人影引热议</a></li>
+<li><span>03-08</span><a href="http://www.lieqi.me/kexuetansuo/kexue/20170308/21406.html" target="_blank" title="国产水下滑翔机刷新纪录：下潜6329米">国产水下滑翔机刷新纪录：下潜6329米</a></li>
+<li><span>03-08</span><a href="http://www.lieqi.me/kexuetansuo/kexue/20170308/21402.html" target="_blank" title="印度人乘坐中国高铁 一句感叹震撼世界">印度人乘坐中国高铁 一句感叹震撼世界</a></li>
+<li><span>03-06</span><a href="http://www.lieqi.me/kexuetansuo/kexue/20170306/21344.html" target="_blank" title="真牛！中国卫星600公里高空直播飞机起降">真牛！中国卫星600公里高空直播飞机起降</a></li>
+<li><span>03-06</span><a href="http://www.lieqi.me/kexuetansuo/kexue/20170306/21343.html" target="_blank" title="南海4.2万吨海上巨兽亮相 堪称定海神针">南海4.2万吨海上巨兽亮相 堪称定海神针</a></li>
+
+				</ul>
+			</div>
+			
+			<div class="qcboxBctitle ico4">科技探索</div>
+			<div class="qcboxBcpics">
+				<ul>
+					<li><a href="http://www.lieqi.me/kexuetansuo/renwenhangtian/20141216/1962.html" target="_blank" title="独家解析“罗塞塔”太空探测器首次着陆彗星"><img data-original="http://www.lieqi.me/pics/20141216/1-141216115431943-lp.jpg" alt="独家解析“罗塞塔”太空探测器首次着陆彗星" /><center>独家解析“罗塞塔”太空探测</center></a></li>
+<li><a href="http://www.lieqi.me/kexuetansuo/renwenhangtian/20141216/1958.html" target="_blank" title="美国宇航局描绘2018年登陆小行星情景"><img data-original="http://www.lieqi.me/pics/20141216/1-141216113451-lp.jpg" alt="美国宇航局描绘2018年登陆小行星情景" /><center>美国宇航局描绘2018年登陆小</center></a></li>
+
+				</ul>
+			</div>
+			
+			
+		
+		</div>
+		<div class="qcboxBr ri">
+			<div class="qcboxBrtitle">科技前沿</div>
+			<div class="qcboxBrtophot">
+			<a href="http://www.lieqi.me/kexuetansuo/kexue/20141018/415.html" target="_blank" title="十个可能毁灭人类的超级灾难">十个可能毁灭人类的超级灾难</a>
+
+			</div>
+			
+			<div class="qcboxBrtoppw">
+				<a href="http://www.lieqi.me/kexuetansuo/kexue/20141018/415.html" target="_blank" title="十个可能毁灭人类的超级灾难"><img class="lazy" data-original="http://www.lieqi.me/pics/20141018/1_101Q42421C94.jpg" alt="十个可能毁灭人类的超级灾难" /></a>
+				<a href="http://www.lieqi.me/kexuetansuo/kexue/20141018/415.html" target="_blank" title="十个可能毁灭人类的超级灾难">导读： 现 在让我们面对现实吧！人类正在不遗余力地蹂躏地球，长此以往，我们会生活在这里会感...</a>
+
+			</div>
+			
+			<div class="qcboxBrtoplist">
+				<ul>
+					<li><a href="http://www.lieqi.me/kexuetansuo/kexue/20170322/21730.html" target="_blank" title="世界之最：中国一箭20星技术独步全球">世界之最：中国一箭20星技术独步全球</a></li>
+<li><a href="http://www.lieqi.me/kexuetansuo/kexue/20170318/21641.html" target="_blank" title="泰坦尼克正被“吃光”可能20年没了">泰坦尼克正被“吃光”可能20年没了</a></li>
+<li><a href="http://www.lieqi.me/kexuetansuo/kexue/20170316/21598.html" target="_blank" title="厉害了！中国这款神器将首飞 可上天可下海">厉害了！中国这款神器将首飞 可上天可下海</a></li>
+<li><a href="http://www.lieqi.me/kexuetansuo/kexue/20170314/21528.html" target="_blank" title="男子在沙漠中倒下一瓶水 接下来现惊奇一幕！">男子在沙漠中倒下一瓶水 接下来现惊奇一幕</a></li>
+
+				</ul>
+			</div>
+			
+			<div class="addi300"><script type="text/javascript">i3_bd300x250();</script></div>
+			
+			<div class="qcboxBrtitle">宇宙奥秘</div>
+			<div class="qcboxBrtoppw2">
+				<a href="http://www.lieqi.me/kexuetansuo/yuzhou/20141026/870.html" target="_blank" title="生命史上的最大悲剧 是什么原因造成的?"><img class="lazy" data-original="http://www.lieqi.me/pics/20141026/1_10261554029234.jpg" alt="生命史上的最大悲剧 是什么原因造成的?" /></a>
+				<a href="http://www.lieqi.me/kexuetansuo/yuzhou/20141026/870.html" target="_blank" title="生命史上的最大悲剧 是什么原因造成的?">导读： 我 们每天都能从报纸或电视上获知很多诸如某某动物只剩下数千只、某某植物濒临灭绝之类信息。这...</a>
+
+			</div>
+			<div class="qcboxBrtoplist2">
+				<ul>
+					<li><a href="http://www.lieqi.me/kexuetansuo/yuzhou/20170222/21079.html" target="_blank" title="NASA宇航员拍摄壮美“星空轨迹”">NASA宇航员拍摄壮美“星空轨迹”</a></li>
+<li><a href="http://www.lieqi.me/kexuetansuo/yuzhou/20170222/21078.html" target="_blank" title="印尼天降大量长毛怪物，政府警告村民迅速远离">印尼天降大量长毛怪物，政府警告村民迅速远</a></li>
+
+				</ul>
+			</div>
+
+		</div>
+
+	</div>
+	
+	
+	
+	<div class="qcboxE">
+		<div class="qcboxBname">
+			<div class="qcboxBnamec le">奇异探索</div>
+			<div class="qcboxBnamel ri"><a href="http://www.lieqi.me/ziranchuanqi/dongwu/" target="_blank" title="考古发现">奇异动物</a>　|　<a href="http://www.lieqi.me/ziranchuanqi/ziran/" target="_blank" title="野史奇闻">自然奇观</a></div>
+			<div class="qcboxBnamer ri"><a href="http://www.lieqi.me/miantanmi/" target="_blank" title="谜案探秘">谜案探秘</a>　|　<a href="http://www.lieqi.me/shehuiredian/qipafengsu/" target="_blank" title="奇风异俗">奇风异俗</a>　|　</div>
+		</div>
+		<div class="qcboxBl le">
+			<div class="qcboxBlslide">
+				<div class="qcboxBlslidepw" id="fe1">
+				<a href="http://www.lieqi.me/ziranchuanqi/dongwu/20161208/19706.html" target="_blank" title="母猪生下“猴崽” 猪身猴脸吓人"><img alt="母猪生下“猴崽” 猪身猴脸吓人" data-original="http://www.lieqi.me/pics/20161208/2-16120Q05033-50-lp.jpg" /></a><span><a href="http://www.lieqi.me/ziranchuanqi/dongwu/20161208/19706.html" target="_blank" title="母猪生下“猴崽” 猪身猴脸吓人">母猪生下“猴崽” 猪身猴脸吓人</a></span>
+
+				</div>
+				<div class="qcboxBlslidepw" id="fe2" style="display:none;">
+				<a href="http://www.lieqi.me/ziranchuanqi/dongwu/20141202/1700.html" target="_blank" title="盘点各类深海怪兽"><img alt="盘点各类深海怪兽" data-original="http://www.lieqi.me/pics/20141202/3_1202233U54007.jpg" /></a><span><a href="http://www.lieqi.me/ziranchuanqi/dongwu/20141202/1700.html" target="_blank" title="盘点各类深海怪兽">盘点各类深海怪兽</a></span>
+
+				</div>
+				<div class="qcboxBlslidepw" id="fe3" style="display:none;">
+				<a href="http://www.lieqi.me/ziranchuanqi/dongwu/20141121/1492.html" target="_blank" title="地球最早生物:5眼海蝎长相怪异"><img alt="地球最早生物:5眼海蝎长相怪异" data-original="http://www.lieqi.me/pics/20141121/2_11211535205403.jpg" /></a><span><a href="http://www.lieqi.me/ziranchuanqi/dongwu/20141121/1492.html" target="_blank" title="地球最早生物:5眼海蝎长相怪异">地球最早生物:5眼海蝎长相怪异</a></span>
+
+				</div>
+				<div class="qcboxBlslidepw" id="fe4" style="display:none;">
+				<a href="http://www.lieqi.me/ziranchuanqi/ziran/20141016/392.html" target="_blank" title="越南现世界上最复杂最大洞穴"><img alt="越南现世界上最复杂最大洞穴" data-original="http://www.lieqi.me/pics/20141016/2_1016163G421M.jpg" /></a><span><a href="http://www.lieqi.me/ziranchuanqi/ziran/20141016/392.html" target="_blank" title="越南现世界上最复杂最大洞穴">越南现世界上最复杂最大洞穴</a></span>
+
+				</div>
+				<div class="qcboxBlslidepw" id="fe5" style="display:none;">
+				<a href="http://www.lieqi.me/ziranchuanqi/ziran/20141016/390.html" target="_blank" title="地理奇观：自然的石林之美"><img alt="地理奇观：自然的石林之美" data-original="http://www.lieqi.me/pics/20141016/2_10161625456021.jpg" /></a><span><a href="http://www.lieqi.me/ziranchuanqi/ziran/20141016/390.html" target="_blank" title="地理奇观：自然的石林之美">地理奇观：自然的石林之美</a></span>
+
+				</div>
+				<div class="qcboxBlslidepages">
+					<ul>
+						<li id="te1" class="currentB5" onmouseover="setTabs02('te','fe',1,5);clearTimee();" onmouseout="init02e(2);"></li>
+						<li id="te2" onmouseover="setTabs02('te','fe',2,5);clearTimee();" onmouseout="init02e(3);"></li>
+						<li id="te3" onmouseover="setTabs02('te','fe',3,5);clearTimee();" onmouseout="init02e(4);"></li>
+						<li id="te4" onmouseover="setTabs02('te','fe',4,5);clearTimee();" onmouseout="init02e(5);"></li>
+						<li id="te5" onmouseover="setTabs02('te','fe',5,5);clearTimee();" onmouseout="init02e(1);"></li>
+					</ul>
+				</div>
+			</div>
+			<div class="qcboxBlpics">
+				<ul>
+					<li><a href="http://www.lieqi.me/ziranchuanqi/dongwu/20141110/1322.html" target="_blank" title="盘点：台风后惊现的不明生物"><img data-original="http://www.lieqi.me/pics/20141110/3_111022235159D.jpg" alt="盘点：台风后惊现的不明生物" /><center>盘点：台风后惊现的不</center></a></li>
+<li><a href="http://www.lieqi.me/ziranchuanqi/dongwu/20150112/2392.html" target="_blank" title="渔民海底发现30米巨人"><img data-original="http://www.lieqi.me/pics/20150112/3_0112014T4Z02-lp.jpg" alt="渔民海底发现30米巨人" /><center>渔民海底发现30米巨人</center></a></li>
+<li><a href="http://www.lieqi.me/ziranchuanqi/dongwu/20141205/1738.html" target="_blank" title="俄罗斯部队发现现神秘动物尸骸"><img data-original="http://www.lieqi.me/pics/20141205/3_12051251251934.jpg" alt="俄罗斯部队发现现神秘动物尸骸" /><center>俄罗斯部队发现现神秘</center></a></li>
+<li><a href="http://www.lieqi.me/ziranchuanqi/dongwu/20141126/1574.html" target="_blank" title="神奇的变异双头生物"><img data-original="http://www.lieqi.me/pics/20141126/2_112609451b348.jpg" alt="神奇的变异双头生物" /><center>神奇的变异双头生物</center></a></li>
+
+				</ul>
+			</div>
+			<div class="qcboxBltitle ico3">动物传奇</div>
+			<div class="qcboxBllist">
+				<ul>
+					<li><a href="http://www.lieqi.me/ziranchuanqi/dongwu/20170324/21774.html" target="_blank" title="罕见视频：老鹰生擒小猫将其抓上天">罕见视频：老鹰生擒小猫将其抓上天</a></li>
+<li><a href="http://www.lieqi.me/ziranchuanqi/dongwu/20170324/21766.html" target="_blank" title="4米长蟒蛇遇到人类 吓得吐出一整只羚羊">4米长蟒蛇遇到人类 吓得吐出一整只羚羊</a></li>
+<li><a href="http://www.lieqi.me/ziranchuanqi/dongwu/20170323/21756.html" target="_blank" title="母狮果然重口味，杀死斑马后不赶紧吃肉竟做起了这丢人事儿！">母狮果然重口味，杀死斑马后不赶紧吃肉竟做</a></li>
+<li><a href="http://www.lieqi.me/ziranchuanqi/dongwu/20170323/21753.html" target="_blank" title="老虎遇上熊：结果却落荒而逃">老虎遇上熊：结果却落荒而逃</a></li>
+<li><a href="http://www.lieqi.me/ziranchuanqi/dongwu/20170323/21744.html" target="_blank" title="动物们被吓到后的搞笑反应……">动物们被吓到后的搞笑反应……</a></li>
+<li><a href="http://www.lieqi.me/ziranchuanqi/dongwu/20170322/21716.html" target="_blank" title="5只腿的羊羔 农场主将其当作宠物">5只腿的羊羔 农场主将其当作宠物</a></li>
+<li><a href="http://www.lieqi.me/ziranchuanqi/dongwu/20170322/21711.html" target="_blank" title="村民修路竟意外挖出千年真龙 震惊全国">村民修路竟意外挖出千年真龙 震惊全国</a></li>
+
+				</ul>
+			</div>
+		</div>
+		<div class="qcboxBc le">
+			<div class="qcboxBchot"><a href="http://www.lieqi.me/ziranchuanqi/dongwu/20161118/19229.html" target="_blank" title="男子遇被困河豚 下一幕让人讶异">男子遇被困河豚 下一幕让人</a></div>
+			<div class="qcboxBchotinfo">男子游泳时看到这样一幕，一条河豚被渔网困... <a href="http://www.lieqi.me/ziranchuanqi/dongwu/20161118/19229.html" target="_blank" title="查看详情">[详细]</a></div>
+
+			<div class="qcboxBclist">
+				<ul>
+					<li><span>03-24</span><a href="http://www.lieqi.me/ziranchuanqi/dongwu/20170324/21774.html" target="_blank" title="罕见视频：老鹰生擒小猫将其抓上天">罕见视频：老鹰生擒小猫将其抓上天</a></li>
+<li><span>03-24</span><a href="http://www.lieqi.me/ziranchuanqi/dongwu/20170324/21766.html" target="_blank" title="4米长蟒蛇遇到人类 吓得吐出一整只羚羊">4米长蟒蛇遇到人类 吓得吐出一整只羚羊</a></li>
+<li><span>03-23</span><a href="http://www.lieqi.me/ziranchuanqi/dongwu/20170323/21756.html" target="_blank" title="母狮果然重口味，杀死斑马后不赶紧吃肉竟做起了这丢人事儿！">母狮果然重口味，杀死斑马后不赶紧吃肉竟做</a></li>
+<li><span>03-23</span><a href="http://www.lieqi.me/ziranchuanqi/dongwu/20170323/21753.html" target="_blank" title="老虎遇上熊：结果却落荒而逃">老虎遇上熊：结果却落荒而逃</a></li>
+<li><span>03-23</span><a href="http://www.lieqi.me/ziranchuanqi/dongwu/20170323/21744.html" target="_blank" title="动物们被吓到后的搞笑反应……">动物们被吓到后的搞笑反应……</a></li>
+<li><span>03-22</span><a href="http://www.lieqi.me/ziranchuanqi/dongwu/20170322/21716.html" target="_blank" title="5只腿的羊羔 农场主将其当作宠物">5只腿的羊羔 农场主将其当作宠物</a></li>
+
+				</ul>
+			</div>
+			
+			<div class="qcboxBclist">
+				<ul>
+					<li><span>03-22</span><a href="http://www.lieqi.me/ziranchuanqi/dongwu/20170322/21711.html" target="_blank" title="村民修路竟意外挖出千年真龙 震惊全国">村民修路竟意外挖出千年真龙 震惊全国</a></li>
+<li><span>03-21</span><a href="http://www.lieqi.me/ziranchuanqi/dongwu/20170321/21702.html" target="_blank" title="鳄鱼竟将牛羚拖入河 意外一幕突然发生">鳄鱼竟将牛羚拖入河 意外一幕突然发生</a></li>
+<li><span>03-21</span><a href="http://www.lieqi.me/ziranchuanqi/dongwu/20170321/21699.html" target="_blank" title="小伙在河边抓到瘫痪巨蟒 剖开后惊呆">小伙在河边抓到瘫痪巨蟒 剖开后惊呆</a></li>
+<li><span>03-21</span><a href="http://www.lieqi.me/ziranchuanqi/dongwu/20170321/21698.html" target="_blank" title="野猪妈妈单挑猎豹 激战一幕轰动世界">野猪妈妈单挑猎豹 激战一幕轰动世界</a></li>
+<li><span>03-21</span><a href="http://www.lieqi.me/ziranchuanqi/ziran/20170321/21685.html" target="_blank" title="盘点那些看着脚都软的人文景观">盘点那些看着脚都软的人文景观</a></li>
+<li><span>03-20</span><a href="http://www.lieqi.me/ziranchuanqi/ziran/20170320/21664.html" target="_blank" title="希腊“天空之城”为何独拒女性游客">希腊“天空之城”为何独拒女性游客</a></li>
+
+				</ul>
+			</div>
+			
+			<div class="qcboxBctitle ico4">奇幻地球</div>
+			<div class="qcboxBcpics">
+				<ul>
+					<li><a href="http://www.lieqi.me/ziranchuanqi/ziran/20141025/719.html" target="_blank" title="令人叹为观止的水下大瀑布"><img data-original="http://www.lieqi.me/pics/20141025/2_10251410009218.jpg" alt="令人叹为观止的水下大瀑布" /><center>令人叹为观止的水下大瀑布</center></a></li>
+<li><a href="http://www.lieqi.me/ziranchuanqi/ziran/20141025/725.html" target="_blank" title="大自然赐予人类的神秘礼物"><img data-original="http://www.lieqi.me/pics/20141025/2_102514103Sb3.jpg" alt="大自然赐予人类的神秘礼物" /><center>大自然赐予人类的神秘礼物</center></a></li>
+
+				</ul>
+			</div>
+			
+			
+		
+		</div>
+		<div class="qcboxBr ri">
+			<div class="qcboxBrtitle">奇异现象</div>
+			<div class="qcboxBrtophot">
+			<a href="http://www.lieqi.me/ziranchuanqi/ziran/20141025/719.html" target="_blank" title="令人叹为观止的水下大瀑布">令人叹为观止的水下大瀑布</a>
+
+			</div>
+			
+			<div class="qcboxBrtoppw">
+				<a href="http://www.lieqi.me/ziranchuanqi/ziran/20141025/719.html" target="_blank" title="令人叹为观止的水下大瀑布"><img class="lazy" data-original="http://www.lieqi.me/pics/20141025/2_10251410009218.jpg" alt="令人叹为观止的水下大瀑布" /></a>
+				<a href="http://www.lieqi.me/ziranchuanqi/ziran/20141025/719.html" target="_blank" title="令人叹为观止的水下大瀑布">我喜欢听这里海水冲击的声音，管它是海浪还是瀑布。Mike May 全世界每一个海洋对我（原文作者...</a>
+
+			</div>
+			
+			<div class="qcboxBrtoplist">
+				<ul>
+					<li><a href="http://www.lieqi.me/ziranchuanqi/dongwu/20170324/21774.html" target="_blank" title="罕见视频：老鹰生擒小猫将其抓上天">罕见视频：老鹰生擒小猫将其抓上天</a></li>
+<li><a href="http://www.lieqi.me/ziranchuanqi/dongwu/20170324/21766.html" target="_blank" title="4米长蟒蛇遇到人类 吓得吐出一整只羚羊">4米长蟒蛇遇到人类 吓得吐出一整只羚羊</a></li>
+<li><a href="http://www.lieqi.me/ziranchuanqi/dongwu/20170323/21756.html" target="_blank" title="母狮果然重口味，杀死斑马后不赶紧吃肉竟做起了这丢人事儿！">母狮果然重口味，杀死斑马后不赶紧吃肉竟做</a></li>
+<li><a href="http://www.lieqi.me/ziranchuanqi/dongwu/20170323/21753.html" target="_blank" title="老虎遇上熊：结果却落荒而逃">老虎遇上熊：结果却落荒而逃</a></li>
+
+				</ul>
+			</div>
+			
+			<div class="addi300"><script type="text/javascript">i4_bd300x250();</script></div>
+			
+			<div class="qcboxBrtitle">自然奇观</div>
+			<div class="qcboxBrtoppw2">
+				<a href="http://www.lieqi.me/ziranchuanqi/ziran/20141025/730.html" target="_blank" title="全球最迷人原野之地 美不胜收"><img class="lazy" data-original="http://www.lieqi.me/pics/20141025/2_102514112245U.jpg" alt="全球最迷人原野之地 美不胜收" /></a>
+				<a href="http://www.lieqi.me/ziranchuanqi/ziran/20141025/730.html" target="_blank" title="全球最迷人原野之地 美不胜收">卡卡杜国家公园，北领地，澳大利亚。澳大利亚北领地的卡卡杜国家公园是一片拥有着迷人景色的内陆原野。...</a>
+
+			</div>
+			<div class="qcboxBrtoplist2">
+				<ul>
+					<li><a href="http://www.lieqi.me/ziranchuanqi/ziran/20170321/21685.html" target="_blank" title="盘点那些看着脚都软的人文景观">盘点那些看着脚都软的人文景观</a></li>
+<li><a href="http://www.lieqi.me/ziranchuanqi/ziran/20170320/21664.html" target="_blank" title="希腊“天空之城”为何独拒女性游客">希腊“天空之城”为何独拒女性游客</a></li>
+
+				</ul>
+			</div>
+
+		</div>
+
+	</div>
+	
+	
+	<div class="qcboxF">
+		<div class="qcboxBname">
+			<div class="qcboxBnamec le">社会热点</div>
+			<div class="qcboxBnamel ri"><a href="http://www.lieqi.me/shehuiredian/yulebagua/" target="_blank" title="UFO探索">娱乐八卦</a>　|　<a href="http://www.lieqi.me/shehuiredian/wanxiang/" target="_blank" title="宇宙奥秘">社会万象</a></div>
+			<div class="qcboxBnamer ri"><a href="http://www.lieqi.me/shehuiredian/qiwen/" target="_blank" title="科学前沿">灵异奇闻</a>　|　<a href="http://www.lieqi.me/shehuiredian/qiushi/" target="_blank" title="人文航天">糗事囧人</a>　|　</div>
+		</div>
+		<div class="qcboxBl le">
+			<div class="qcboxBlslide">
+				<div class="qcboxBlslidepw" id="ff1">
+				<a href="http://www.lieqi.me/shehuiredian/wanxiang/20161203/19602.html" target="_blank" title="女子野外发现被吓直冒冷汗"><img alt="女子野外发现被吓直冒冷汗" data-original="http://www.lieqi.me/pics/20161203/2_120311163J0Z.jpg" /></a><span><a href="http://www.lieqi.me/shehuiredian/wanxiang/20161203/19602.html" target="_blank" title="女子野外发现被吓直冒冷汗">女子野外发现被吓直冒冷汗</a></span>
+
+				</div>
+				<div class="qcboxBlslidepw" id="ff2" style="display:none;">
+				<a href="http://www.lieqi.me/shehuiredian/wanxiang/20161202/19575.html" target="_blank" title="镜头下按摩女下班后私生活"><img alt="镜头下按摩女下班后私生活" data-original="http://www.lieqi.me/pics/20161202/2_12021116425a5.jpg" /></a><span><a href="http://www.lieqi.me/shehuiredian/wanxiang/20161202/19575.html" target="_blank" title="镜头下按摩女下班后私生活">镜头下按摩女下班后私生活</a></span>
+
+				</div>
+				<div class="qcboxBlslidepw" id="ff3" style="display:none;">
+				<a href="http://www.lieqi.me/shehuiredian/yulebagua/20141215/1941.html" target="_blank" title="海天盛筵嫩模斗艳内幕曝光"><img alt="海天盛筵嫩模斗艳内幕曝光" data-original="http://www.lieqi.me/pics/141215/1935455960-0-lp.png" /></a><span><a href="http://www.lieqi.me/shehuiredian/yulebagua/20141215/1941.html" target="_blank" title="海天盛筵嫩模斗艳内幕曝光">海天盛筵嫩模斗艳内幕曝光</a></span>
+
+				</div>
+				<div class="qcboxBlslidepw" id="ff4" style="display:none;">
+				<a href="http://www.lieqi.me/shehuiredian/qiwen/20141202/1699.html" target="_blank" title="中国最邪门的31大事件"><img alt="中国最邪门的31大事件" data-original="http://www.lieqi.me/pics/20141202/3_120223152c613.jpg" /></a><span><a href="http://www.lieqi.me/shehuiredian/qiwen/20141202/1699.html" target="_blank" title="中国最邪门的31大事件">中国最邪门的31大事件</a></span>
+
+				</div>
+				<div class="qcboxBlslidepw" id="ff5" style="display:none;">
+				<a href="http://www.lieqi.me/shehuiredian/qipafengsu/20150316/3483.html" target="_blank" title="以色列女子享受裸身“蛇式按摩”"><img alt="以色列女子享受裸身“蛇式按摩”" data-original="http://www.lieqi.me/pics/20150316/2-150316115156136-lp.jpg" /></a><span><a href="http://www.lieqi.me/shehuiredian/qipafengsu/20150316/3483.html" target="_blank" title="以色列女子享受裸身“蛇式按摩”">以色列女子享受裸身“蛇式按摩”</a></span>
+
+				</div>
+				<div class="qcboxBlslidepages">
+					<ul>
+						<li id="tf1" class="currentB5" onmouseover="setTabs02('tf','ff',1,5);clearTimef();" onmouseout="init02f(2);"></li>
+						<li id="tf2" onmouseover="setTabs02('tf','ff',2,5);clearTimef();" onmouseout="init02f(3);"></li>
+						<li id="tf3" onmouseover="setTabs02('tf','ff',3,5);clearTimef();" onmouseout="init02f(4);"></li>
+						<li id="tf4" onmouseover="setTabs02('tf','ff',4,5);clearTimef();" onmouseout="init02f(5);"></li>
+						<li id="tf5" onmouseover="setTabs02('tf','ff',5,5);clearTimef();" onmouseout="init02f(1);"></li>
+					</ul>
+				</div>
+			</div>
+			<div class="qcboxBlpics">
+				<ul>
+					<li><a href="http://www.lieqi.me/shehuiredian/wanxiang/20170214/20973.html" target="_blank" title="私人影院：配沙发床 可看限制级影片"><img data-original="http://www.lieqi.me/pics/20170214/2-1F214155442-lp.jpg" alt="私人影院：配沙发床 可看限制级影片" /><center>私人影院：配沙发床 </center></a></li>
+<li><a href="http://www.lieqi.me/shehuiredian/qiwen/20170213/20968.html" target="_blank" title="无语！国外流行和死者拍照之风"><img data-original="http://www.lieqi.me/pics/20170213/2-1F2131A250-lp.jpg" alt="无语！国外流行和死者拍照之风" /><center>无语！国外流行和死者</center></a></li>
+<li><a href="http://www.lieqi.me/shehuiredian/qiwen/20170213/20967.html" target="_blank" title="美女作家用这物做香水，没有男人不爱"><img data-original="http://www.lieqi.me/pics/20170213/2-1F213164943-lp.jpg" alt="美女作家用这物做香水，没有男人不爱" /><center>美女作家用这物做香水</center></a></li>
+<li><a href="http://www.lieqi.me/shehuiredian/yulebagua/20161123/19339.html" target="_blank" title="丝袜控小图妹，丝足作品欣赏"><img data-original="http://www.lieqi.me/pics/20161123/3-161123021IbV-lp.jpg" alt="丝袜控小图妹，丝足作品欣赏" /><center>丝袜控小图妹，丝足作</center></a></li>
+
+				</ul>
+			</div>
+			<div class="qcboxBltitle ico3">奇趣热点</div>
+			<div class="qcboxBllist">
+				<ul>
+					<li><a href="http://www.lieqi.me/shehuiredian/qiwen/20170324/21784.html" target="_blank" title="老汉走夜路撞鬼 专家看见一幕冷汗直流">老汉走夜路撞鬼 专家看见一幕冷汗直流</a></li>
+<li><a href="http://www.lieqi.me/shehuiredian/wanxiang/20170324/21783.html" target="_blank" title="刚刚 央行紧急出手！房地产大风暴到来">刚刚 央行紧急出手！房地产大风暴到来</a></li>
+<li><a href="http://www.lieqi.me/shehuiredian/wanxiang/20170324/21782.html" target="_blank" title="妻子上班脱裤子 丈夫探班看到崩溃">妻子上班脱裤子 丈夫探班看到崩溃</a></li>
+<li><a href="http://www.lieqi.me/shehuiredian/wanxiang/20170324/21781.html" target="_blank" title="家长下车办事 孩子把自家奥迪给烧了">家长下车办事 孩子把自家奥迪给烧了</a></li>
+<li><a href="http://www.lieqi.me/shehuiredian/wanxiang/20170324/21780.html" target="_blank" title="农村大叔杀猪，身边围了很多小朋友，原来是为了得到它">农村大叔杀猪，身边围了很多小朋友，原来是</a></li>
+<li><a href="http://www.lieqi.me/shehuiredian/wanxiang/20170324/21773.html" target="_blank" title="泪奔！直击史上戳中泪点的9个难忘瞬间">泪奔！直击史上戳中泪点的9个难忘瞬间</a></li>
+<li><a href="http://www.lieqi.me/shehuiredian/wanxiang/20170324/21772.html" target="_blank" title="大二女宿舍生产子 将男婴捅死后带回老家！">大二女宿舍生产子 将男婴捅死后带回老家！</a></li>
+
+				</ul>
+			</div>
+		</div>
+		<div class="qcboxBc le">
+			<div class="qcboxBchot"><a href="http://www.lieqi.me/shehuiredian/wanxiang/20170214/20977.html" target="_blank" title="首位“裸条”放贷人被抓 胁迫2女子发生关系">首位“裸条”放贷人被抓 胁</a></div>
+			<div class="qcboxBchotinfo">【导读】去年12月，10G裸条借贷资料包惊现网络，拿裸照换借款的地下交易由此引发舆论震动，其中涉及的借贷平台借贷宝随即设立了百万打裸基金。 1个月... <a href="http://www.lieqi.me/shehuiredian/wanxiang/20170214/20977.html" target="_blank" title="查看详情">[详细]</a></div>
+
+			
+			<div class="qcboxBclist">
+				<ul>
+					<li><span>03-24</span><a href="http://www.lieqi.me/shehuiredian/qiwen/20170324/21784.html" target="_blank" title="老汉走夜路撞鬼 专家看见一幕冷汗直流">老汉走夜路撞鬼 专家看见一幕冷汗直流</a></li>
+<li><span>03-24</span><a href="http://www.lieqi.me/shehuiredian/wanxiang/20170324/21783.html" target="_blank" title="刚刚 央行紧急出手！房地产大风暴到来">刚刚 央行紧急出手！房地产大风暴到来</a></li>
+<li><span>03-24</span><a href="http://www.lieqi.me/shehuiredian/wanxiang/20170324/21782.html" target="_blank" title="妻子上班脱裤子 丈夫探班看到崩溃">妻子上班脱裤子 丈夫探班看到崩溃</a></li>
+<li><span>03-24</span><a href="http://www.lieqi.me/shehuiredian/wanxiang/20170324/21781.html" target="_blank" title="家长下车办事 孩子把自家奥迪给烧了">家长下车办事 孩子把自家奥迪给烧了</a></li>
+<li><span>03-24</span><a href="http://www.lieqi.me/shehuiredian/wanxiang/20170324/21780.html" target="_blank" title="农村大叔杀猪，身边围了很多小朋友，原来是为了得到它">农村大叔杀猪，身边围了很多小朋友，原来是</a></li>
+<li><span>03-24</span><a href="http://www.lieqi.me/shehuiredian/wanxiang/20170324/21773.html" target="_blank" title="泪奔！直击史上戳中泪点的9个难忘瞬间">泪奔！直击史上戳中泪点的9个难忘瞬间</a></li>
+
+				</ul>
+			</div>
+			
+			<div class="qcboxBclist">
+				<ul>
+					<li><span>03-24</span><a href="http://www.lieqi.me/shehuiredian/wanxiang/20170324/21772.html" target="_blank" title="大二女宿舍生产子 将男婴捅死后带回老家！">大二女宿舍生产子 将男婴捅死后带回老家！</a></li>
+<li><span>03-24</span><a href="http://www.lieqi.me/shehuiredian/wanxiang/20170324/21771.html" target="_blank" title="小男孩为救兔子竟被困树洞2小时">小男孩为救兔子竟被困树洞2小时</a></li>
+<li><span>03-24</span><a href="http://www.lieqi.me/shehuiredian/yulebagua/20170324/21770.html" target="_blank" title="明星的餐饮店卫生堪忧！假血鼠患细思极恐！">明星的餐饮店卫生堪忧！假血鼠患细思极恐！</a></li>
+<li><span>03-24</span><a href="http://www.lieqi.me/shehuiredian/wanxiang/20170324/21769.html" target="_blank" title="上学迟到怎么办？老爸开直升机送啊">上学迟到怎么办？老爸开直升机送啊</a></li>
+<li><span>03-24</span><a href="http://www.lieqi.me/shehuiredian/wanxiang/20170324/21768.html" target="_blank" title="俄罗斯少年调戏美女，竟被其男友斩首">俄罗斯少年调戏美女，竟被其男友斩首</a></li>
+<li><span>03-24</span><a href="http://www.lieqi.me/shehuiredian/wanxiang/20170324/21767.html" target="_blank" title="少女遭性侵脸书直播，40网友观看全程">少女遭性侵脸书直播，40网友观看全程</a></li>
+
+				</ul>
+			</div>
+			
+			<div class="qcboxBctitle ico4">囧人囧事</div>
+			<div class="qcboxBcpics">
+				<ul>
+					<li><a href="http://www.lieqi.me/shehuiredian/qiushi/20141110/1323.html" target="_blank" title="各种挡车牌奇葩，卫生巾和情趣内裤，一个都不能少！"><img data-original="http://www.lieqi.me/pics/20141110/3_1110224U2I27.jpg" alt="各种挡车牌奇葩，卫生巾和情趣内裤，一个都不能少！" /><center>各种挡车牌奇葩，卫生巾和情</center></a></li>
+<li><a href="http://www.lieqi.me/shehuiredian/qiushi/20141008/121.html" target="_blank" title="女子网晒多张瑜伽照引热议"><img data-original="http://www.lieqi.me/pics/20141008/2_100R15SS604.jpg" alt="女子网晒多张瑜伽照引热议" /><center>女子网晒多张瑜伽照引热议</center></a></li>
+
+				</ul>
+			</div>
+			
+			
+		
+		</div>
+		<div class="qcboxBr ri">
+			<div class="qcboxBrtitle">奇异事件</div>
+			<div class="qcboxBrtophot">
+			<a href="http://www.lieqi.me/shehuiredian/qiwen/20170213/20968.html" target="_blank" title="无语！国外流行和死者拍照之风">无语！国外流行和死者拍照之风</a>
+
+			</div>
+			
+			<div class="qcboxBrtoppw">
+				<a href="http://www.lieqi.me/shehuiredian/qiwen/20170213/20968.html" target="_blank" title="无语！国外流行和死者拍照之风"><img class="lazy" data-original="http://www.lieqi.me/pics/20170213/2-1F2131A250-lp.jpg" alt="无语！国外流行和死者拍照之风" /></a>
+				<a href="http://www.lieqi.me/shehuiredian/qiwen/20170213/20968.html" target="_blank" title="无语！国外流行和死者拍照之风">据英国《每日邮报》报道，近日，网络上流行起了一股在葬礼现场和死者合照的不雅之风。 近日，...</a>
+
+			</div>
+			
+			<div class="qcboxBrtoplist">
+				<ul>
+					<li><a href="http://www.lieqi.me/shehuiredian/qiwen/20170324/21784.html" target="_blank" title="老汉走夜路撞鬼 专家看见一幕冷汗直流">老汉走夜路撞鬼 专家看见一幕冷汗直流</a></li>
+<li><a href="http://www.lieqi.me/shehuiredian/qiwen/20170323/21737.html" target="_blank" title="网上疯传的诡异照片！竟然无解">网上疯传的诡异照片！竟然无解</a></li>
+<li><a href="http://www.lieqi.me/shehuiredian/qiwen/20170318/21650.html" target="_blank" title="18个比鬼故事还恐怖的事件 胆小勿入">18个比鬼故事还恐怖的事件 胆小勿入</a></li>
+<li><a href="http://www.lieqi.me/shehuiredian/qiwen/20170316/21581.html" target="_blank" title="男子经常做恶梦 监控视频令人寒毛直竖">男子经常做恶梦 监控视频令人寒毛直竖</a></li>
+
+				</ul>
+			</div>
+			
+			<div class="addi300"><script type="text/javascript">i5_bd300x250();</script></div>
+			
+			<div class="qcboxBrtitle">糗事囧人</div>
+			<div class="qcboxBrtoppw2">
+				<a href="http://www.lieqi.me/shehuiredian/qiushi/20141028/1137.html" target="_blank" title="那些难以理解的街拍神人族"><img class="lazy" data-original="http://www.lieqi.me/pics/20141028/2_102QF05NL1.jpg" alt="那些难以理解的街拍神人族" /></a>
+				<a href="http://www.lieqi.me/shehuiredian/qiushi/20141028/1137.html" target="_blank" title="那些难以理解的街拍神人族">或许街头牛人已经让你惊叹过无数次了，可是他们总是一次有一次的超越自己，一起看看街拍神人的另类世界...</a>
+
+			</div>
+			<div class="qcboxBrtoplist2">
+				<ul>
+					<li><a href="http://www.lieqi.me/shehuiredian/qiushi/20161205/19618.html" target="_blank" title="看了这组图，瞬间明白为什么不让爸爸带孩子！千万个不放心啊！">看了这组图，瞬间明白为什么不让爸爸带孩子</a></li>
+<li><a href="http://www.lieqi.me/shehuiredian/qiushi/20141119/1445.html" target="_blank" title="美女实在是憋不住了">美女实在是憋不住了</a></li>
+
+				</ul>
+			</div>
+
+		</div>
+
+	</div>
+	
+	<div class="qcboxG"></div>
+	
+	<div class="qcboxH">
+		<div class="qcboxHname">猎奇图文</div>
+		<div class="qcboxHpics">
+			<ul>
+				<li>
+				<div class="lidiv05b"><a href="http://www.lieqi.me/shehuiredian/yulebagua/20150811/6953.html" target="_blank" title="曝赵本山惊人资产震撼中央"><img data-original="http://www.lieqi.me/pics/20150811/2-150Q1140551111-lp.jpg" alt="曝赵本山惊人资产震撼中央" /></a><span><a href="http://www.lieqi.me/shehuiredian/yulebagua/20150811/6953.html" target="_blank" title="曝赵本山惊人资产震撼中央">曝赵本山惊人资产震撼中央</a></span></div>
+
+				<div class="lidiv05b"><a href="http://www.lieqi.me/shehuiredian/wanxiang/20141215/1912.html" target="_blank" title="网曝美女死囚遭凌辱全过程"><img data-original="http://www.lieqi.me/pics/141215/11153B124-23-lp.jpg" alt="网曝美女死囚遭凌辱全过程" /></a><span><a href="http://www.lieqi.me/shehuiredian/wanxiang/20141215/1912.html" target="_blank" title="网曝美女死囚遭凌辱全过程">网曝美女死囚遭凌辱全过程</a></span></div>
+
+				</li>
+				
+				<li>
+				<div class="lidiv05b"><a href="http://www.lieqi.me/shehuiredian/wanxiang/20141124/1503.html" target="_blank" title="实拍最美女囚枪决全过程"><img data-original="http://www.lieqi.me/pics/20141124/2_11241416291T3.jpg" alt="实拍最美女囚枪决全过程" /></a><span><a href="http://www.lieqi.me/shehuiredian/wanxiang/20141124/1503.html" target="_blank" title="实拍最美女囚枪决全过程">实拍最美女囚枪决全过程</a></span></div>
+
+				<div class="lidiv05b"><a href="http://www.lieqi.me/shehuiredian/wanxiang/20141115/1385.html" target="_blank" title="巨型食人鱼体内发现惊人秘密"><img data-original="http://www.lieqi.me/pics/141115/150359E24-44-lp.jpg" alt="巨型食人鱼体内发现惊人秘密" /></a><span><a href="http://www.lieqi.me/shehuiredian/wanxiang/20141115/1385.html" target="_blank" title="巨型食人鱼体内发现惊人秘密">巨型食人鱼体内发现惊人秘密</a></span></div>
+
+				</li>
+				
+				<li>
+				<div class="lidiv05b"><a href="http://www.lieqi.me/shehuiredian/yulebagua/20150909/7416.html" target="_blank" title="杨钰莹惊人上位史：失身黑社会"><img data-original="http://www.lieqi.me/pics/20150909/2-150Z91AQ4N9-lp.jpg" alt="杨钰莹惊人上位史：失身黑社会" /></a><span><a href="http://www.lieqi.me/shehuiredian/yulebagua/20150909/7416.html" target="_blank" title="杨钰莹惊人上位史：失身黑社会">杨钰莹惊人上位史：失身黑社会</a></span></div>
+
+				<div class="lidiv05b"><a href="http://www.lieqi.me/shehuiredian/yulebagua/20150108/2338.html" target="_blank" title="赵本山才是真正的黑老大"><img data-original="http://www.lieqi.me/pics/20150108/3_010R305433P2.jpg" alt="赵本山才是真正的黑老大" /></a><span><a href="http://www.lieqi.me/shehuiredian/yulebagua/20150108/2338.html" target="_blank" title="赵本山才是真正的黑老大">赵本山才是真正的黑老大</a></span></div>
+
+				</li>
+				
+				<li>
+				<div class="lidiv05b"><a href="http://www.lieqi.me/shehuiredian/yulebagua/20160811/17100.html" target="_blank" title="是谁毁了毕福剑？幕后真相惊人"><img data-original="http://www.lieqi.me/pics/20160811/4-160Q1093049-lp.jpg" alt="是谁毁了毕福剑？幕后真相惊人" /></a><span><a href="http://www.lieqi.me/shehuiredian/yulebagua/20160811/17100.html" target="_blank" title="是谁毁了毕福剑？幕后真相惊人">是谁毁了毕福剑？幕后真相惊人</a></span></div>
+
+				<div class="lidiv05b"><a href="http://www.lieqi.me/shehuiredian/yulebagua/20150107/2298.html" target="_blank" title="赵本山被抓真实内幕曝光"><img data-original="http://www.lieqi.me/pics/150107/1102202Y3-15-lp.jpg" alt="赵本山被抓真实内幕曝光" /></a><span><a href="http://www.lieqi.me/shehuiredian/yulebagua/20150107/2298.html" target="_blank" title="赵本山被抓真实内幕曝光">赵本山被抓真实内幕曝光</a></span></div>
+
+				</li>
+				
+				<li>
+				<div class="lidiv05b"><a href="http://www.lieqi.me/ziranchuanqi/dongwu/20141114/1367.html" target="_blank" title="盘点全球“千年成精”的动物"><img data-original="http://www.lieqi.me/pics/20141114/2_1114144122U59.jpg" alt="盘点全球“千年成精”的动物" /></a><span><a href="http://www.lieqi.me/ziranchuanqi/dongwu/20141114/1367.html" target="_blank" title="盘点全球“千年成精”的动物">盘点全球“千年成精”的动物</a></span></div>
+
+				<div class="lidiv05b"><a href="http://www.lieqi.me/shehuiredian/yulebagua/20150512/4862.html" target="_blank" title="曝毕福剑私生活令人发指"><img data-original="http://www.lieqi.me/pics/20150512/2-150512101054R1-lp.jpg" alt="曝毕福剑私生活令人发指" /></a><span><a href="http://www.lieqi.me/shehuiredian/yulebagua/20150512/4862.html" target="_blank" title="曝毕福剑私生活令人发指">曝毕福剑私生活令人发指</a></span></div>
+
+				</li>
+			</ul>
+		</div>
+	</div>
+	
+	<div class="addi960"><script type="text/javascript">i1_sg960x90();</script></div>
+	
+
+
+</div>
+
+	<div class="qcboxI"><p>友情链接： <a href='http://www.juxia.com/' target='_blank'>聚侠网</a>  <a href='http://www.duanwenxue.com/' target='_blank'>短篇原创文学</a>  <a href='http://www.qcq123.com/' target='_blank'>青春期教育网</a>  <a href='http://www.lijixiao.com/' target='_blank'>立即笑</a>  <a href='http://www.xiaodaimeng.net/' target='_blank'>小呆萌图库</a>  <a href='http://www.haotijin.com/' target='_blank'>好提劲笑话</a>  <a href='http://www.ys8.com/' target='_blank'>养生吧</a>  <a href='http://www.4493.com/' target='_blank'>4493美图</a>  <a href='http://www.wmpic.me/' target='_blank'>唯美图库</a>  <a href='http://www.6681.com/' target='_blank'>6681养生</a>  <a href='http://bizhi.4493.com/' target='_blank'>桌面壁纸</a>  <a href='http://www.7zhan.com/' target='_blank'>奇站探索</a>  <a href='http://www.lieqi.me/lieqizhuanti/rentiyishu_1092_1.html' target='_blank'>人体艺术</a>  <a href='http://www.qqbizhi.com' target='_blank'>qq壁纸</a>  <a href='http://www.66wenshen.com/' target='_blank'>纹身图案</a>  <a href='http://www.4gbizhi.com' target='_blank'>手机壁纸</a>  <a href='http://www.jiqixing.com' target='_blank'>机器人</a>  <a href='http://www.3234.com/' target='_blank'>单机游戏</a>  <a href='http://www.uumnt.com/' target='_blank'>美女图片</a>  <a href='http://www.lszj.com' target='_blank'>历史之家</a>  <a href='http://www.hua666.net/' target='_blank'>飘花网</a>  <a href='http://www.lunanwang.com/' target='_blank'>鲁南网</a>  <a href='http://www.qiquting.com/' target='_blank'>奇趣亭</a>  <a href='http://www.tangedu.cn/' target='_blank'>名人网</a>  </p></div>
+
+
+<div class="qfooter">
+<p>本站部分内容收集于互联网，版权归原作者所有。若侵犯了您的版权，请即时联系我们删除。邮箱：wabing@126.com</p>
+<p>泰州市联云网络科技有限公司&#160;<a href="/about/about.html" target="_blank" title="关于我们">关于我们</a>&#160;Copyright &#169; 2014 lieqi.me. All Rights Reserved ICP备案：苏ICP备14035461号-4</p></div>
+
+
+<div style="display:none;"><script language="javascript" type="text/javascript" src="http://www.lieqi.me/qi/js/count.js"></script></div>
+</body>
+<script type="text/javascript">init(1,6);init02();</script>
+
+<script src="qi/js/jquery-1.6.1.min.js"></script>
+<script src="qi/js/jquery.lazyload.js"></script>
+<script type="text/javascript">
+  $(function() {
+
+      $("img").lazyload({effect:"fadeIn",skip_invisible:false});
+
+  });
+</script>
+<script type="text/javascript">
+  $(function() {
+
+      $("img.lazy").lazyload({effect: "fadeIn",skip_invisible:false});
+
+  });
+</script>
+<script src='qi/js/tagscloud.js' type="text/javascript"></script>
+<script type="text/javascript">
+	$(document).ready(function(){
+	//首先将#back-to-top隐藏
+	$("#back-to-top").hide();
+	//当滚动条的位置处于距顶部100像素以下时，跳转链接出现，否则消失
+	$(function () {
+		$(window).scroll(function(){
+		if ($(window).scrollTop()>100){
+		$("#back-to-top").fadeIn(1500);
+		}
+		else
+		{
+		$("#back-to-top").fadeOut(1500);
+		}
+		});
+		//当点击跳转链接后，回到页面顶部位置
+		$("#back-to-top").click(function(){
+		$('body,html').animate({scrollTop:0},1000);
+		return false;
+		});
+		});
+		});
+</script>
+<p id="back-to-top"><a href="#top"><span></span></a></p>
+</html>

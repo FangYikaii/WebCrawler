@@ -1,0 +1,1037 @@
+HTTP/1.1 200 OK
+Server: Tengine/2.1.2
+Date: Sat, 25 Mar 2017 04:32:55 GMT
+Content-Type: text/html
+Content-Length: 32106
+Connection: close
+Last-Modified: Fri, 24 Mar 2017 09:41:55 GMT
+ETag: "58d4e9e3-7d6a"
+Accept-Ranges: bytes
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+
+<meta name="baidu_union_verify" content="2e3deefc3319ca348f3384779753b1b4">
+
+<title>邪恶漫画官网_色系军团邪恶漫画_邪恶漫画色系图片</title>
+
+<meta name="description" content="邪恶漫画是全网最火的邪恶漫画网站，每天更新邪恶漫画色系图片，收集最全的邪恶漫画机械女仆，邪恶漫画不如火舞全集，看邪恶漫画就来邪恶漫画网吧！" />
+
+<meta name="keywords" content="邪恶漫画,色系军团,妖妖小精" />
+
+<link rel="shortcut icon" href="/favicon.ico" />
+
+<link href="/theme/css/style.css" rel="stylesheet" type="text/css" />
+
+<script type="text/javascript" src="/theme/js/jquery-1.10.1.min.js"></script>
+
+<script type="text/javascript" src="/theme/js/carousel.js"></script>
+
+<script type="text/javascript" src="/theme/js/common.js"></script>
+
+<script type="text/javascript" src="/theme/js/top.js"></script>
+
+
+
+<!--[if IE 6]>
+
+
+
+<script type="text/javascript" src="js/DD_belatedPNG.js" ></script>
+
+
+
+
+
+
+
+<script type="text/javascript">
+
+
+
+DD_belatedPNG.fix('div, ul, img, li, input, a,.home,.import_link,user_plate,.mask,.bnet,.account');
+
+
+
+</script>
+
+
+
+<![endif]-->
+
+<script type="text/javascript" src="/theme/js/slide.js"></script>
+
+</head>
+
+
+
+<body>
+
+
+
+<!--header-->
+
+
+
+<div class="container">
+
+  <div class="header">
+
+    <div class="top">
+
+      <div class="share"> 
+
+        
+
+        <!-- Baidu Button BEGIN -->
+
+        
+
+        <div id="bdshare" class="bdshare_t bds_tools_32 get-codes-bdshare"> <a class="bds_qzone"></a> <a class="bds_tsina"></a> <a class="bds_tqq"></a> <a class="bds_renren"></a> <a class="bds_t163"></a> <span class="bds_more"></span> <a class="shareCount"></a> </div>
+
+        <script type="text/javascript" id="bdshare_js" data="type=tools&uid=6855512" ></script> 
+
+        <script type="text/javascript" id="bdshell_js"></script> 
+
+        <script type="text/javascript">
+
+
+
+document.getElementById("bdshell_js").src = "http://bdimg.share.baidu.com/static/js/shell_v2.js?cdnversion=" + Math.ceil(new Date()/3600000)
+
+
+
+</script> 
+
+        
+
+        <!-- Baidu Button END --></div>
+
+      <div class="logo"><a href="http://www.xieemanhua.cc/"><img src="/theme/images/logo.jpg" /></a></div>
+
+    </div>
+
+    <div class="clear"></div>
+
+    <div class="menu">
+
+      <ul>
+
+        <li class="menu_hover"><a href="http://www.xieemanhua.cc/">首  页</a></li>
+
+        
+
+        <li ><a href="/xemh/" target="_blank">邪恶漫画</a></li>
+
+        
+
+        <li ><a href="/snmh/" target="_blank">少女漫画</a></li>
+
+        
+
+        <li ><a href="/sxjt/" target="_blank">色系军团</a></li>
+
+        
+
+        <li ><a href="/kalie/" target="_blank">卡列漫画</a></li>
+
+        
+
+        <li ><a href="/huanken/" target="_blank">幻啃漫画</a></li>
+
+        
+
+        <li ><a href="/a/xedtt/" target="_blank">邪恶动态图</a></li>
+
+         
+
+        <script type="text/javascript"> 
+	document.writeln("        <li><a href=\"http://jk.99guimi.com/?site=xiee\" target=\"_blank\">美女艳照</a></li>");</script>
+
+      </ul>
+
+    </div>
+
+  </div>
+
+  <div class="clear"></div>
+
+</div>
+
+
+
+<!--header end--> 
+
+
+
+<!--main-->
+
+
+
+<div class="container">
+
+  <div class="main_body">
+
+    <div class="love1" id="index_01"></div>
+
+    <div class="clear"></div>
+
+    <div class="banner">
+
+      <div class="banner_con js-carousel">
+
+        <div class="latest_list carousel-inner">
+
+          <ul class="carousel-item">
+
+            <li>
+
+              <div class="latest_tu"><a href="/snmh/2954.html" target='_blank' ><img src="http://img.xieemanhua.cc:808/170104/18-1F104141I9631.jpg" width='228' height='347' /></a></div>
+
+              <div class="latest_zi"><a href="/snmh/2954.html" target='_blank' >少女漫画之妹妹的任务</a></div>
+
+            </li>
+<li>
+
+              <div class="latest_tu"><a href="/snmh/2953.html" target='_blank' ><img src="http://img.xieemanhua.cc:808/170104/18-1F10414115X93.jpg" width='228' height='347' /></a></div>
+
+              <div class="latest_zi"><a href="/snmh/2953.html" target='_blank' >少女漫画之Blue Lemo</a></div>
+
+            </li>
+<li>
+
+              <div class="latest_tu"><a href="/snmh/2928.html" target='_blank' ><img src="http://img.xieemanhua.cc:808/161220/18-1612201002053J.jpg" width='228' height='347' /></a></div>
+
+              <div class="latest_zi"><a href="/snmh/2928.html" target='_blank' >少女漫画之CWndSlider</a></div>
+
+            </li>
+
+
+            
+
+            <li class="last">
+
+              <div class="latest_tu"><a href="/snmh/2927.html" target='_blank' ><img src="http://img.xieemanhua.cc:808/161220/18-161220095232103.jpg" /></a></div>
+
+              <div class="latest_zi"><a href="/snmh/2927.html" target='_blank' >少女漫画之圣Gloriana品尝党</a></div>
+
+            </li>
+
+
+          </ul>
+
+          <ul class="carousel-item">
+
+            <li>
+
+              <div class="latest_tu"><a href="/snmh/2926.html" target='_blank' ><img src="http://img.xieemanhua.cc:808/161219/18-16121ZT412206.jpg" /></a></div>
+
+              <div class="latest_zi"><a href="/snmh/2926.html" target='_blank' >少女漫画之始幻想</a></div>
+
+            </li>
+<li>
+
+              <div class="latest_tu"><a href="/snmh/2925.html" target='_blank' ><img src="http://img.xieemanhua.cc:808/161216/18-16121614091E55.jpg" /></a></div>
+
+              <div class="latest_zi"><a href="/snmh/2925.html" target='_blank' >少女漫画之反叛的鲁鲁修同人</a></div>
+
+            </li>
+<li>
+
+              <div class="latest_tu"><a href="/snmh/2924.html" target='_blank' ><img src="http://img.xieemanhua.cc:808/161216/18-16121613511DB.jpg" /></a></div>
+
+              <div class="latest_zi"><a href="/snmh/2924.html" target='_blank' >少女漫画之炮姐同人</a></div>
+
+            </li>
+
+
+            
+
+            <li class="last">
+
+              <div class="latest_tu"><a href="/snmh/2922.html" target='_blank' ><img src="http://img.xieemanhua.cc:808/161215/18-161215102P2429.jpg" /></a></div>
+
+              <div class="latest_zi"><a href="/snmh/2922.html" target='_blank' >少女漫画之女生小犬丸</a></div>
+
+            </li>
+
+
+          </ul>
+
+          <ul class="carousel-item">
+
+            <li>
+
+              <div class="latest_tu"><a href="/snmh/2921.html" target='_blank' ><img src="http://img.xieemanhua.cc:808/161214/18-16121414360Y10.jpg" /></a></div>
+
+              <div class="latest_zi"><a href="/snmh/2921.html" target='_blank' >少女漫画之妹控</a></div>
+
+            </li>
+<li>
+
+              <div class="latest_tu"><a href="/snmh/2920.html" target='_blank' ><img src="http://img.xieemanhua.cc:808/161214/18-161214142635263.jpg" /></a></div>
+
+              <div class="latest_zi"><a href="/snmh/2920.html" target='_blank' >少女漫画之Girls Selection</a></div>
+
+            </li>
+<li>
+
+              <div class="latest_tu"><a href="/snmh/2918.html" target='_blank' ><img src="http://img.xieemanhua.cc:808/161213/18-1612131421255Z.jpg" /></a></div>
+
+              <div class="latest_zi"><a href="/snmh/2918.html" target='_blank' >少女漫画之梦想竟然成真了</a></div>
+
+            </li>
+
+
+            
+
+            <li class="last">
+
+              <div class="latest_tu"><a href="/snmh/2919.html" target='_blank' ><img src="http://img.xieemanhua.cc:808/161213/18-161213142624J7.jpg" /></a></div>
+
+              <div class="latest_zi"><a href="/snmh/2919.html" target='_blank' >少女漫画之美女新娘</a></div>
+
+            </li>
+
+
+          </ul>
+
+          <ul class="carousel-item">
+
+            <li>
+
+              <div class="latest_tu"><a href="/snmh/2912.html" target='_blank'><img src="http://img.xieemanhua.cc:808/161212/18-161212100J2I9.jpg" width='228' height='347' /></a></div>
+
+              <div class="latest_zi"><a href="/snmh/2912.html" target='_blank' >少女漫画之七龙珠h版全彩</a></div>
+
+            </li>
+<li>
+
+              <div class="latest_tu"><a href="/snmh/2911.html" target='_blank'><img src="http://img.xieemanhua.cc:808/161212/18-16121210001T59.jpg" width='228' height='347' /></a></div>
+
+              <div class="latest_zi"><a href="/snmh/2911.html" target='_blank' >少女漫画之老师的爱</a></div>
+
+            </li>
+<li>
+
+              <div class="latest_tu"><a href="/snmh/2910.html" target='_blank'><img src="http://img.xieemanhua.cc:808/161209/18-161209114509D5.jpg" width='228' height='347' /></a></div>
+
+              <div class="latest_zi"><a href="/snmh/2910.html" target='_blank' >少女漫画之可爱的俺妹</a></div>
+
+            </li>
+
+
+            
+
+            <li class="last">
+
+              <div class="latest_tu"><a href="/snmh/2909.html" target='_blank' ><img src="http://img.xieemanhua.cc:808/161209/18-16120911413E93.jpg" /></a></div>
+
+              <div class="latest_zi"><a href="/snmh/2909.html" target='_blank' >少女漫画之好困扰</a></div>
+
+            </li>
+
+
+          </ul>
+
+        </div>
+
+      </div>
+
+      <div class="carousel-control"> <a href="#" class="banner_left prev"></a> <a href="#" class="banner_right next"></a> </div>
+
+      <div class="banner_bot carousel-indicators"><a class="carousel-indicator active" href="javascript:;"></a><a class="carousel-indicator" href="javascript:;"></a><a class="carousel-indicator" href="javascript:;"></a><a class="carousel-indicator" href="javascript:;"></a></div>
+
+    </div>
+
+    <div class="clear"></div>
+
+    <div class="latest">
+
+      <div class="latest_con">
+
+        <div class="latest_header">最新更新<span>LATEST</span></div>
+
+        <div class="latest_list">
+
+          <ul>
+
+            <li>
+
+              <div class="latest_tu"><a href="/snmh/3051.html" target='_blank' ><img class="lazy" src="/images/grey.gif" data-original="http://img.xieemanhua.cc:808/allimg/170324/18-1F3240ZS70-L.png" /></a></div>
+
+              <div class="latest_zi"><a href="/snmh/3051.html" target='_blank' >少女漫画之西木野真姫的噩梦</a></div>
+
+            </li>
+<li>
+
+              <div class="latest_tu"><a href="/snmh/3050.html" target='_blank' ><img class="lazy" src="/images/grey.gif" data-original="http://img.xieemanhua.cc:808/allimg/170324/18-1F3240U4310-L.png" /></a></div>
+
+              <div class="latest_zi"><a href="/snmh/3050.html" target='_blank' >少女漫画之请和我交往吧</a></div>
+
+            </li>
+<li>
+
+              <div class="latest_tu"><a href="/snmh/3049.html" target='_blank' ><img class="lazy" src="/images/grey.gif" data-original="http://img.xieemanhua.cc:808/allimg/170323/18-1F3230913520-L.png" /></a></div>
+
+              <div class="latest_zi"><a href="/snmh/3049.html" target='_blank' >少女漫画之性感的体操服</a></div>
+
+            </li>
+<li>
+
+              <div class="latest_tu"><a href="/snmh/3048.html" target='_blank' ><img class="lazy" src="/images/grey.gif" data-original="http://img.xieemanhua.cc:808/allimg/170323/18-1F3230U9170-L.png" /></a></div>
+
+              <div class="latest_zi"><a href="/snmh/3048.html" target='_blank' >少女漫画之蜜色デイドリーム</a></div>
+
+            </li>
+<li>
+
+              <div class="latest_tu"><a href="/snmh/3047.html" target='_blank' ><img class="lazy" src="/images/grey.gif" data-original="http://img.xieemanhua.cc:808/allimg/170322/18-1F322091K60-L.png" /></a></div>
+
+              <div class="latest_zi"><a href="/snmh/3047.html" target='_blank' >少女漫画之霸气大叔小辣妻</a></div>
+
+            </li>
+<li>
+
+              <div class="latest_tu"><a href="/snmh/3046.html" target='_blank' ><img class="lazy" src="/images/grey.gif" data-original="http://img.xieemanhua.cc:808/allimg/170322/18-1F3220UR50-L.png" /></a></div>
+
+              <div class="latest_zi"><a href="/snmh/3046.html" target='_blank' >少女漫画之魔法少女三</a></div>
+
+            </li>
+<li>
+
+              <div class="latest_tu"><a href="/snmh/3045.html" target='_blank' ><img class="lazy" src="/images/grey.gif" data-original="http://img.xieemanhua.cc:808/allimg/170321/18-1F3210U6020-L.png" /></a></div>
+
+              <div class="latest_zi"><a href="/snmh/3045.html" target='_blank' >少女漫画之蒼の荒夜</a></div>
+
+            </li>
+<li>
+
+              <div class="latest_tu"><a href="/snmh/3044.html" target='_blank' ><img class="lazy" src="/images/grey.gif" data-original="http://img.xieemanhua.cc:808/allimg/170321/18-1F3210U0150-L.png" /></a></div>
+
+              <div class="latest_zi"><a href="/snmh/3044.html" target='_blank' >少女漫画之好孩子</a></div>
+
+            </li>
+
+
+          </ul>
+
+          <div class="clear"></div>
+
+        </div>
+
+      </div>
+
+      <div class="attention">
+
+        <div class="attention_header">热门点击<span>HOT</span></div>
+
+        <div class="attention_top"> <div class="attention_left"><a href="/xemh/175.html" target='_blank' ><img src="http://img.xieemanhua.cc:808/allimg/131025/3-1310251039400-L.jpg" /></a></div>
+
+          <div class="attention_right"><a href="/xemh/175.html"target='_blank' >邪恶漫画冰的游戏</a><br />
+
+            阅读：<br />
+
+            200次</div>
+ </div>
+
+        <div class="clear"></div>
+
+        <div class="attention_list">
+
+          <ul>
+
+            <li><span>2</span><a href="/snmh/437.html" target='_blank' >少女漫画电车</a></li>
+<li><span>3</span><a href="/xemh/723.html" target='_blank' >邪恶漫画游泳的秘密</a></li>
+<li><span>4</span><a href="/huanken/1024.html" target='_blank' >幻啃漫画多任务处理</a></li>
+<li><span>5</span><a href="/a/xedtt/1990.html" target='_blank' >邪恶gif动态图之香蕉和</a></li>
+<li><span>6</span><a href="/snmh/2013.html" target='_blank' >少女漫画之姐姐妄想日记</a></li>
+<li><span>7</span><a href="/snmh/2049.html" target='_blank' >少女漫画之学校的夜晚</a></li>
+<li><span>8</span><a href="/snmh/2321.html" target='_blank' >少女漫画之大爱下流的东</a></li>
+<li><span>9</span><a href="/xemh/2428.html" target='_blank' >邪恶漫画之脸书</a></li>
+<li><span>10</span><a href="/kalie/2597.html" target='_blank' >卡列漫画之嗜酒相亲</a></li>
+
+
+          </ul>
+
+          <div class="clear"></div>
+
+        </div>
+
+      </div>
+
+    </div>
+
+    <div class="clear"></div>
+
+    
+
+    <!--
+
+	<div class="recommend">
+
+
+
+      <div class="recommend_header"><div class="recommend_dian"><a href="javascript:;"><img src="/theme/images/recommend_hover.jpg" width='9' height='9' /></a><a href="javascript:;"><img src="/theme/images/recommend_link.jpg" width='9' height='9' /></a><a href="javascript:;"><img src="/theme/images/recommend_link.jpg" width='9' height='9' /></a><a href="javascript:;"><img src="/theme/images/recommend_link.jpg" width='9' height='9' /></a></div>少女漫画<span>LATEST</span></div>
+
+
+
+      <div class="recommend_con recommend_list">
+
+
+
+        <ul>
+
+
+
+		<li><div class="latest_tu"><a href="/snmh/3051.html" target='_blank' ><img src="http://img.xieemanhua.cc:808/allimg/170324/18-1F3240ZS70-L.png" width='180' height='220'/></a></div><div class="latest_zi"><a href="/snmh/3051.html" target='_blank'>少女漫画之西木野真姫的噩梦</a></div></li>
+<li><div class="latest_tu"><a href="/snmh/3050.html" target='_blank' ><img src="http://img.xieemanhua.cc:808/allimg/170324/18-1F3240U4310-L.png" width='180' height='220'/></a></div><div class="latest_zi"><a href="/snmh/3050.html" target='_blank'>少女漫画之请和我交往吧</a></div></li>
+<li><div class="latest_tu"><a href="/snmh/3049.html" target='_blank' ><img src="http://img.xieemanhua.cc:808/allimg/170323/18-1F3230913520-L.png" width='180' height='220'/></a></div><div class="latest_zi"><a href="/snmh/3049.html" target='_blank'>少女漫画之性感的体操服</a></div></li>
+<li><div class="latest_tu"><a href="/snmh/3048.html" target='_blank' ><img src="http://img.xieemanhua.cc:808/allimg/170323/18-1F3230U9170-L.png" width='180' height='220'/></a></div><div class="latest_zi"><a href="/snmh/3048.html" target='_blank'>少女漫画之蜜色デイドリーム</a></div></li>
+<li><div class="latest_tu"><a href="/snmh/3047.html" target='_blank' ><img src="http://img.xieemanhua.cc:808/allimg/170322/18-1F322091K60-L.png" width='180' height='220'/></a></div><div class="latest_zi"><a href="/snmh/3047.html" target='_blank'>少女漫画之霸气大叔小辣妻</a></div></li>
+
+
+
+
+        </ul>
+
+
+
+        <ul style="display:none">
+
+
+
+		<li><div class="latest_tu"><a href="/snmh/3051.html" target='_blank' ><img src="http://img.xieemanhua.cc:808/allimg/170324/18-1F3240ZS70-L.png" /></a></div><div class="latest_zi"><a href="/snmh/3051.html" target='_blank'>1</a></div></li>
+         
+
+
+
+		 <li><div class="latest_tu"><a href="/snmh/3051.html" target='_blank' ><img src="http://img.xieemanhua.cc:808/allimg/170324/18-1F3240ZS70-L.png" /></a></div><div class="latest_zi"><a href="/snmh/3051.html" target='_blank' >少女漫画之西木野真姫的噩梦</a></div></li>
+<li><div class="latest_tu"><a href="/snmh/3050.html" target='_blank' ><img src="http://img.xieemanhua.cc:808/allimg/170324/18-1F3240U4310-L.png" /></a></div><div class="latest_zi"><a href="/snmh/3050.html" target='_blank' >少女漫画之请和我交往吧</a></div></li>
+<li><div class="latest_tu"><a href="/snmh/3049.html" target='_blank' ><img src="http://img.xieemanhua.cc:808/allimg/170323/18-1F3230913520-L.png" /></a></div><div class="latest_zi"><a href="/snmh/3049.html" target='_blank' >少女漫画之性感的体操服</a></div></li>
+<li><div class="latest_tu"><a href="/snmh/3048.html" target='_blank' ><img src="http://img.xieemanhua.cc:808/allimg/170323/18-1F3230U9170-L.png" /></a></div><div class="latest_zi"><a href="/snmh/3048.html" target='_blank' >少女漫画之蜜色デイドリーム</a></div></li>
+
+
+
+
+        </ul>
+
+
+
+        <ul style="display:none">
+
+
+
+         <li><div class="latest_tu"><a href="/snmh/3051.html" target='_blank' ><img src="http://img.xieemanhua.cc:808/allimg/170324/18-1F3240ZS70-L.png" /></a></div><div class="latest_zi"><a href="/snmh/3051.html" target='_blank' >2</a></div></li>
+         
+
+
+
+		 <li><div class="latest_tu"><a href="/snmh/3051.html" target='_blank' ><img src="http://img.xieemanhua.cc:808/allimg/170324/18-1F3240ZS70-L.png" /></a></div><div class="latest_zi"><a href="/snmh/3051.html" target='_blank' >少女漫画之西木野真姫的噩梦</a></div></li>
+<li><div class="latest_tu"><a href="/snmh/3050.html" target='_blank' ><img src="http://img.xieemanhua.cc:808/allimg/170324/18-1F3240U4310-L.png" /></a></div><div class="latest_zi"><a href="/snmh/3050.html" target='_blank' >少女漫画之请和我交往吧</a></div></li>
+<li><div class="latest_tu"><a href="/snmh/3049.html" target='_blank' ><img src="http://img.xieemanhua.cc:808/allimg/170323/18-1F3230913520-L.png" /></a></div><div class="latest_zi"><a href="/snmh/3049.html" target='_blank' >少女漫画之性感的体操服</a></div></li>
+<li><div class="latest_tu"><a href="/snmh/3048.html" target='_blank' ><img src="http://img.xieemanhua.cc:808/allimg/170323/18-1F3230U9170-L.png" /></a></div><div class="latest_zi"><a href="/snmh/3048.html" target='_blank' >少女漫画之蜜色デイドリーム</a></div></li>
+
+
+
+
+        </ul>
+
+
+
+        <ul style="display:none">
+
+
+
+        <li><div class="latest_tu"><a href="/snmh/3051.html" target='_blank' ><img src="http://img.xieemanhua.cc:808/allimg/170324/18-1F3240ZS70-L.png" /></a></div><div class="latest_zi"><a href="/snmh/3051.html" target='_blank' >3</a></div></li>
+         
+
+
+
+		 <li><div class="latest_tu"><a href="/snmh/3051.html" target='_blank' ><img src="http://img.xieemanhua.cc:808/allimg/170324/18-1F3240ZS70-L.png" /></a></div><div class="latest_zi"><a href="/snmh/3051.html" target='_blank' >少女漫画之西木野真姫的噩梦</a></div></li>
+<li><div class="latest_tu"><a href="/snmh/3050.html" target='_blank' ><img src="http://img.xieemanhua.cc:808/allimg/170324/18-1F3240U4310-L.png" /></a></div><div class="latest_zi"><a href="/snmh/3050.html" target='_blank' >少女漫画之请和我交往吧</a></div></li>
+<li><div class="latest_tu"><a href="/snmh/3049.html" target='_blank' ><img src="http://img.xieemanhua.cc:808/allimg/170323/18-1F3230913520-L.png" /></a></div><div class="latest_zi"><a href="/snmh/3049.html" target='_blank' >少女漫画之性感的体操服</a></div></li>
+<li><div class="latest_tu"><a href="/snmh/3048.html" target='_blank' ><img src="http://img.xieemanhua.cc:808/allimg/170323/18-1F3230U9170-L.png" /></a></div><div class="latest_zi"><a href="/snmh/3048.html" target='_blank' >少女漫画之蜜色デイドリーム</a></div></li>
+
+
+
+
+        </ul>
+
+
+
+      </div>
+
+
+
+      
+
+
+
+    </div>
+
+
+
+	<div class="clear"></div>
+
+
+
+-->
+
+    <div class="recommend_ad2" id="index_03"></div>
+
+    <div class="recommend">
+
+      <div class="recommend_header">色系军团<span>LATEST</span></div>
+
+      <div class="recommend_con">
+
+        <ul>
+
+          <li>
+
+            <div class="latest_tu"><a href="/sxjt/2956.html" target='_blank' ><img class="lazy" src="/images/grey.gif" data-original="http://img.xieemanhua.cc:808/170105/18-1F105101159323.jpg" /></a></div>
+
+            <div class="latest_zi"><a href="/sxjt/2956.html" target='_blank' >色系军团之鹿王子</a></div>
+
+          </li>
+<li>
+
+            <div class="latest_tu"><a href="/sxjt/2946.html" target='_blank' ><img class="lazy" src="/images/grey.gif" data-original="http://img.xieemanhua.cc:808/161228/18-16122P943055Y.jpg" /></a></div>
+
+            <div class="latest_zi"><a href="/sxjt/2946.html" target='_blank' >色系军团之变身机器人</a></div>
+
+          </li>
+<li>
+
+            <div class="latest_tu"><a href="/sxjt/2930.html" target='_blank' ><img class="lazy" src="/images/grey.gif" data-original="http://img.xieemanhua.cc:808/161220/18-161220100955246.jpg" /></a></div>
+
+            <div class="latest_zi"><a href="/sxjt/2930.html" target='_blank' >色系军团之什么色更美</a></div>
+
+          </li>
+<li>
+
+            <div class="latest_tu"><a href="/sxjt/2916.html" target='_blank' ><img class="lazy" src="/images/grey.gif" data-original="http://img.xieemanhua.cc:808/161212/18-161212103540347.jpg" /></a></div>
+
+            <div class="latest_zi"><a href="/sxjt/2916.html" target='_blank' >色系军团之偷拍相机</a></div>
+
+          </li>
+<li>
+
+            <div class="latest_tu"><a href="/sxjt/2888.html" target='_blank' ><img class="lazy" src="/images/grey.gif" data-original="http://img.xieemanhua.cc:808/161008/18-16100P91P93N.jpg" /></a></div>
+
+            <div class="latest_zi"><a href="/sxjt/2888.html" target='_blank' >色系军团之蔬菜时间</a></div>
+
+          </li>
+
+
+        </ul>
+
+      </div>
+
+    </div>
+
+    <div class="clear"></div>
+
+    <div class="recommend">
+
+      <div class="recommend_header">卡列漫画<span>LATEST</span></div>
+
+      <div class="recommend_con">
+
+        <ul>
+
+          <li>
+
+            <div class="latest_tu"><a href="/kalie/2957.html" target='_blank' ><img class="lazy" src="/images/grey.gif" data-original="http://img.xieemanhua.cc:808/170105/18-1F105101403W9.jpg" /></a></div>
+
+            <div class="latest_zi"><a href="/kalie/2957.html" target='_blank' >卡列漫画之节操的想法</a></div>
+
+          </li>
+<li>
+
+            <div class="latest_tu"><a href="/kalie/2947.html" target='_blank' ><img class="lazy" src="/images/grey.gif" data-original="http://img.xieemanhua.cc:808/161228/18-16122P9451Q10.jpg" /></a></div>
+
+            <div class="latest_zi"><a href="/kalie/2947.html" target='_blank' >卡列漫画之淋湿的她</a></div>
+
+          </li>
+<li>
+
+            <div class="latest_tu"><a href="/kalie/2931.html" target='_blank' ><img class="lazy" src="/images/grey.gif" data-original="http://img.xieemanhua.cc:808/161220/18-16122010120E91.jpg" /></a></div>
+
+            <div class="latest_zi"><a href="/kalie/2931.html" target='_blank' >卡列漫画之区别</a></div>
+
+          </li>
+<li>
+
+            <div class="latest_tu"><a href="/kalie/2915.html" target='_blank' ><img class="lazy" src="/images/grey.gif" data-original="http://img.xieemanhua.cc:808/161212/18-16121210323S21.jpg" /></a></div>
+
+            <div class="latest_zi"><a href="/kalie/2915.html" target='_blank' >卡列漫画之你真的太伟大了</a></div>
+
+          </li>
+<li>
+
+            <div class="latest_tu"><a href="/kalie/2889.html" target='_blank' ><img class="lazy" src="/images/grey.gif" data-original="http://img.xieemanhua.cc:808/161008/18-16100P91UX48.jpg" /></a></div>
+
+            <div class="latest_zi"><a href="/kalie/2889.html" target='_blank' >卡列漫画之调皮的老婆</a></div>
+
+          </li>
+
+
+        </ul>
+
+      </div>
+
+    </div>
+
+    <div class="clear"></div>
+
+    <div class="recommend">
+
+      <div class="recommend_header">幻啃漫画<span>LATEST</span></div>
+
+      <div class="recommend_con">
+
+        <ul>
+
+          <li>
+
+            <div class="latest_tu"><a href="/huanken/2958.html" target='_blank' ><img class="lazy" src="/images/grey.gif" data-original="http://img.xieemanhua.cc:808/170105/18-1F105101K64A.jpg" /></a></div>
+
+            <div class="latest_zi"><a href="/huanken/2958.html" target='_blank' >幻啃漫画之最佳理财</a></div>
+
+          </li>
+<li>
+
+            <div class="latest_tu"><a href="/huanken/2948.html" target='_blank' ><img class="lazy" src="/images/grey.gif" data-original="http://img.xieemanhua.cc:808/161228/18-16122P94H1542.jpg" /></a></div>
+
+            <div class="latest_zi"><a href="/huanken/2948.html" target='_blank' >幻啃漫画之脚臭</a></div>
+
+          </li>
+<li>
+
+            <div class="latest_tu"><a href="/huanken/2932.html" target='_blank' ><img class="lazy" src="/images/grey.gif" data-original="http://img.xieemanhua.cc:808/161220/18-161220101521129.jpg" /></a></div>
+
+            <div class="latest_zi"><a href="/huanken/2932.html" target='_blank' >幻啃漫画之她的经验</a></div>
+
+          </li>
+<li>
+
+            <div class="latest_tu"><a href="/huanken/2914.html" target='_blank' ><img class="lazy" src="/images/grey.gif" data-original="http://img.xieemanhua.cc:808/161212/18-161212102555300.jpg" /></a></div>
+
+            <div class="latest_zi"><a href="/huanken/2914.html" target='_blank' >幻啃漫画之红色的照明灯</a></div>
+
+          </li>
+<li>
+
+            <div class="latest_tu"><a href="/huanken/2897.html" target='_blank' ><img class="lazy" src="/images/grey.gif" data-original="http://img.xieemanhua.cc:808/161017/18-16101G1343R19.jpg" /></a></div>
+
+            <div class="latest_zi"><a href="/huanken/2897.html" target='_blank' >幻啃漫画之视频的诅咒</a></div>
+
+          </li>
+
+
+        </ul>
+
+      </div>
+
+    </div>
+
+    <div class="clear"></div>
+
+    <div class="latest1">
+
+      <div class="latest_con1">
+
+        <div class="latest_header">邪恶推荐<span>RECOMMEND</span></div>
+
+        <div class="latest_list">
+
+          <ul>
+
+           
+
+            <li>
+
+              <div class="latest_tu"><a href="http://www.jijiwaiwai.cn/article/1275" target='_blank' rel="nofollow" ><img src="http://img.xieemanhua.cc:808/150709/0005.jpg" width='180' height='220'  /></a></div>
+
+              <div class="latest_zi"><a href="http://www.jijiwaiwai.cn/article/1275" target='_blank' rel="nofollow" >公交车的福利是最大的</a></div>
+
+            </li>
+
+           
+
+            <li>
+
+              <div class="latest_tu"><a href="http://www.jijiwaiwai.cn/article/1225" target='_blank' rel="nofollow" ><img src="http://img.xieemanhua.cc:808/150709/0006.jpg" width='180' height='220'/></a></div>
+
+              <div class="latest_zi"><a href="http://www.jijiwaiwai.cn/article/1225" target='_blank' rel="nofollow" >妹子在家偷练姿势</a></div>
+
+            </li>
+
+           
+
+            <li>
+
+              <div class="latest_tu"><a href="http://www.jijiwaiwai.cn/article/445" target='_blank' rel="nofollow" ><img src="http://img.xieemanhua.cc:808/150709/0007.jpg" width='180' height='220' /></a></div>
+
+              <div class="latest_zi"><a href="http://www.jijiwaiwai.cn/article/445" target='_blank' rel="nofollow" >娶这个妹子真是赚到了</a></div>
+
+            </li>
+
+           
+
+            <li>
+
+              <div class="latest_tu"><a href="http://www.jijiwaiwai.cn/article/460" target='_blank' rel="nofollow" ><img src="http://img.xieemanhua.cc:808/150709/0008.jpg" width='180' height='220'  /></a></div>
+
+              <div class="latest_zi"><a href="http://www.jijiwaiwai.cn/article/460" target='_blank' rel="nofollow" >吊带都拉不住了</a></div>
+
+            </li>
+
+          
+
+          </ul>
+
+          <div class="clear"></div>
+
+        </div>
+
+      </div>
+
+      <div class="attention1">
+
+        <div class="attention_header">精彩邪恶<span>WONDERFUL</span></div>
+
+        <div class="attention_top"> <div class="attention_left"><a href="/xemh/1109.html" target='_blank' ><img class="lazy" src="/images/grey.gif" data-original="http://img.xieemanhua.cc:808/140904/11-140Z4105935X1.jpg" /></a></div>
+
+          <div class="attention_right"><a href="/xemh/1109.html" target='_blank' >邪恶漫画穿反了</a><br />
+
+            阅读：<br />
+
+            111次</div>
+ </div>
+
+        <div class="clear"></div>
+
+        <div class="attention_list">
+
+          <ul>
+
+            <li><span>2</span><a href="/xemh/1093.html" target='_blank'>邪恶漫画对付蚊子</a></li>
+<li><span>3</span><a href="/xemh/1061.html" target='_blank'>邪恶漫画铜硬币</a></li>
+
+
+          </ul>
+
+          <div class="clear"></div>
+
+        </div>
+
+      </div>
+
+    </div>
+
+    <div class="clear"></div>
+
+    <div class="love3" id="index_02"></div>
+
+    <div class="clear"></div>
+
+    <div class="links">
+
+      <ul>
+
+        
+
+        <!-- 
+
+
+
+        <li><a href="#" _for="flink_1">综合网站</a></li>
+
+
+
+      
+
+
+
+        <li><a href="#" _for="flink_2">娱乐类</a></li>
+
+
+
+      
+
+
+
+        <li><a href="#" _for="flink_3">教育类</a></li>
+
+
+
+      
+
+
+
+        <li><a href="#" _for="flink_4">计算机类</a></li>
+
+
+
+      
+
+
+
+        <li><a href="#" _for="flink_5">电子商务</a></li>
+
+
+
+      
+
+
+
+        <li><a href="#" _for="flink_6">网上信息</a></li>
+
+
+
+      
+
+
+
+        <li><a href="#" _for="flink_7">论坛类</a></li>
+
+
+
+      
+
+
+
+        <li><a href="#" _for="flink_8">其它类型</a></li>
+
+
+
+      
+
+
+
+        <li><a href="#" _for="flink_999">织梦链</a></li>
+
+
+
+      --> 
+
+        
+
+        
+
+        <li><a href='http://www.68gxdy.com/' target='_blank'>内涵图</a> </li>
+
+        
+
+        <li><a href='http://www.dm517.com' target='_blank'>动画片</a> </li>
+
+        
+
+        <li><a href='http://www.baiav.com' target='_blank'>邪恶漫画大全</a> </li>
+
+        
+
+        <li><a href='http://www.cjfh.org' target='_blank'>内涵图</a> </li>
+
+        
+
+        <li><a href='http://www.ribenmanhua.cc' target='_blank'>日本漫画网</a> </li>
+
+        
+
+        <li><a href='http://www.nilegu.com' target='_blank'>邪恶动态图</a> </li>
+
+        
+
+        <li><a href='http://www.badcatxt.com/' target='_blank'>读书网</a> </li>
+
+        
+
+        <li><a href='http://www.haotijin.com' target='_blank'>冷笑话大全</a> </li>
+
+        
+
+        <li><a href='http://www.woidm.com' target='_blank'>无修动漫</a> </li>
+
+        
+
+      </ul>
+
+      <div class="clear"></div>
+
+    </div>
+
+  </div>
+
+  <div class="clear"></div>
+
+</div>
+
+
+
+<!--main end--> 
+
+
+
+<!--footer--> 
+
+
+
+<div class="container">
+
+  <div class="footer">
+
+ <a href="http://www.xieemanhua.cc/" target="_blank">邪恶漫画网</a> <a href="http://www.xieemanhua.cc/xemh/" target="_blank">日本邪恶漫画</a>  <a href="http://www.xieemanhua.cc/snmh/" title="邪恶少女漫画" target="_blank">少女漫画</a><br />
+本站所有漫画均来自网上，仅供试看。如果喜欢，请支持正版！若侵犯到您的权益，联系我们处理。<br />
+www.xieemanhua.cc <br />
+为了建设健康向上的网络环境,请未满18周岁的少年在家长的陪同下观看。
+
+  </div>
+
+  <div class="clear"></div>
+
+  <div style="display:none;">
+
+  <script>tj();</script>
+
+  </div>
+
+</div> 
+
+<script type="text/javascript" src="/theme/js/jquery.lazyload.min.js"></script>
+<script>
+if($("img.lazy").length>0){
+	$("img.lazy").lazyload({effect:"fadeIn"});
+}
+</script>
+
+<!--footer end-->
+<div style="display:none;">
+<script> all_lunbo();</script>
+</div>
+<div style="display:none;"> 
+		<span id="index_01_c"><script>top_960x90();</script></span>
+		<span id="index_03_c"><script>index_960x40();</script></span>
+		<span id="index_02_c"><script>footer_960x90();</script></span> 
+  <script>
+  
+	document.getElementById("index_01").innerHTML = document.getElementById("index_01_c").innerHTML;
+	document.getElementById("index_03").innerHTML = document.getElementById("index_03_c").innerHTML;
+	document.getElementById("index_02").innerHTML = document.getElementById("index_02_c").innerHTML;
+</script> 
+
+</div>
+
+</body>
+
+</html>

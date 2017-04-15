@@ -1,0 +1,563 @@
+HTTP/1.1 200 OK
+Content-Length: 43730
+Content-Type: text/html
+Content-Location: http://xiaohua.8090.so/index.html
+Last-Modified: Mon, 07 Nov 2016 09:45:50 GMT
+Accept-Ranges: bytes
+ETag: "90e010b9db38d21:3119"
+Server: Microsoft-IIS/6.0
+X-Powered-By: ASP.NET
+Set-Cookie: _D_SID=4F9E956700000000EC65923387FCA67D; path=/;HttpOnly
+Date: Sat, 25 Mar 2017 04:32:44 GMT
+Connection: close
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<meta http-equiv="mobile-agent" content="format=html5; url=http://m.8090.so/">
+<title>笑话大全_冷笑话_萌货_爆笑图片_微博段子_ - 8090笑话网</title>
+<meta name="description" content="8090笑话网汇聚网络上最新最搞笑的笑话、漫画、图片、段子等；享受网络带来的快乐！" />
+<meta name="keywords" content="8090笑话网,笑话大全,冷笑话,,邪恶漫画,色系军团，暴走漫画,段子,搞笑图片,恶搞图片,动漫美女,搞笑段子" />
+<link href="style/inc.css" rel="stylesheet" type="text/css" />
+<link href="style/index.css" rel="stylesheet" type="text/css" />
+<script src="http://siteapp.baidu.com/static/webappservice/uaredirect.js" type="text/javascript"></script><script type="text/javascript">uaredirect("http://m.8090.so","http://www.8090.so");</script>
+<meta name="baidu_union_verify" content="e6a01d5706d8c77a84eabb6e4ee443fe">
+</head>
+<body>
+<div class="index_main">
+  <div class="index_content">
+    <div class="index_top">
+      <div class="index_top_left">看笑话、搞笑图片、找漫画就去8090笑话网www.8090.so</div>
+      <div class="index_top_right"><a href="javascript:" onClick="jscript:window.external.AddFavorite(document.location.href,document.title);">收藏本站</a>|<a href="javascript:void(0);" onclick="this.style.behavior='url(#default#homepage)';this.setHomePage('http://xiaohua.8090.so/');" target="_self"  rel="nofollow">设为首页</a></div>
+    </div>
+    <div class="index_head">
+      <div class="index_head_logo"><a href="/" target="_self"></a></div>
+      <div class="index_head_ad">
+        <script src='http://xiaohua.8090.so/data/cache/www92gamenet-1.js' language='javascript'></script>
+      </div>
+    </div>
+	<div class="nav">
+	<ul>
+    	<li>
+        	<span class="fenlei w45 kxh"><a href="/xiaohua/">看笑话</a></span>
+            <span class="menu w200" style="width:150px;"><a href="/xiaohua/wangluoxiaohua/">网络笑话</a><a href="/xiaohua/fuqixiaohua/">夫妻笑话</a><a href="/xiaohua/duanxinxiaohua/">短信笑话</a><!--<a href="/xiaohua/gaoxiaoxiaohua/">搞笑笑话</a><a href="/xiaohua/youmoxiaohua/">幽默笑话</a>--><a href="/xiaohua/lengxiaohua/">冷笑话</a></span> 
+        </li>
+        <li>
+        	<span class="fenlei w45 dmh"><a href="/manhua/">读漫画</a></span>
+            <span class="menu w200" style="width:150px;"><a href="/manhua/lianhuanmanhua/">连环漫画</a><!--<a href="/manhua/sigemanhua/">四格漫画</a>--><a href="/manhua/baozoumanhua/list_25_1.html">暴走漫画</a><a href="/manhua/xieemanhua/">邪恶漫画</a><a href="/manhua/sexijuntuan/list_13_1.html">色系军团</a><!--<a href="/manhua/dongmanmeinv/">动漫美女</a>-->
+</span>        </li>
+        <li>
+        	<span class="fenlei w45 stp"><a href="/tupian/">赏图片</a></span>
+            <span class="menu w135" style="width:150px;"><a href="/tupian/gaoxiaobiaoqing/">搞笑表情</a><a href="/tupian/menghuolaixi/">萌货来袭</a><a href="/tupian/baoxiaotupian/">爆笑图片</a><a href="/manhua/dongmanmeinv/">动漫美女</a></span>
+        </li>
+        <li>
+        	<span class="fenlei w50 qdz"><a href="/duanzi/">瞧段子</a></span>
+            <span class="menu w135" style="width:150px;"><a href="/duanzi/neihanduanzi/">内涵段子</a><a href="/duanzi/jingdianduanzi/">经典段子</a><a href="/duanzi/gaoxiaoduanzi/">搞笑段子</a><a href="/duanzi/weiboduanzi/">微博段子</a></span>
+        </li>
+    </ul>
+</div>
+     <div class="quan_ad"><br />
+     <script src='http://xiaohua.8090.so/data/cache/www92gamenet-2.js' language='javascript'></script>
+    </div>
+    <div class="fir_main">
+      <div class="fir_main_left">
+        <div class="fir_main_scrool">
+          <SCRIPT language=JavaScript>
+<!--
+var widths=286;  //焦点图片宽
+var w=2;
+var widthss=widths+w;
+var heights=380; //焦点图片高
+var heightss=heightss+w;
+var heightt=20;
+var counts=5;    //总条数
+
+img1=new Image();img1.src='/uploads/151013/3-1510131436153E.jpg';
+url1=new Image();url1.src='/tupian/gaoxiaobiaoqing/51923.html';
+txt1=new Image();txt1.txt='看了让你喷饭的动物图片,看一眼';
+img2=new Image();img2.src='/uploads/151013/3-151013143445493.jpg';
+url2=new Image();url2.src='/tupian/gaoxiaobiaoqing/51973.html';
+txt2=new Image();txt2.txt='又一波搞笑图片来袭,爆笑妹子是';
+img3=new Image();img3.src='/uploads/150924/3-150924143AAQ.jpg';
+url3=new Image();url3.src='/tupian/gaoxiaobiaoqing/50971.html';
+txt3=new Image();txt3.txt='奇葩妹子们,药不能停啊！';
+img4=new Image();img4.src='/uploads/150924/3-15092414301D63.jpg';
+url4=new Image();url4.src='/manhua/dongmanmeinv/51161.html';
+txt4=new Image();txt4.txt='呆毛美少女佐仓慈可爱图集';
+img5=new Image();img5.src='/uploads/allimg/20150624/2015062408471744.jpg';
+url5=new Image();url5.src='/tupian/gaoxiaobiaoqing/46931.html';
+txt5=new Image();txt5.txt='拼胸的时代,有胸必火！';
+
+
+
+var nn=1; //当前所显示的滚动图
+var key=0;  //标识是否为第一次开始执行
+var tt;  //标识作用
+function change_img()
+{
+//alert("dd");
+if(key==0){key=1;} //如果第一次执行KEY=1，表示已经执行过一次了。
+else if(document.all)//document.all仅IE6/7认识，firefox不会执行此段内容
+{
+document.getElementById("pic").filters[0].Apply(); //将滤镜应用到对像上
+document.getElementById("pic").filters[0].Play(duration=2);  //开始转换
+document.getElementById("pic").filters[0].Transition=23;//转换效果
+}
+eval('document.getElementById("pic").src=img'+nn+'.src');   //替换图片
+eval('document.getElementById("url").href=url'+nn+'.src'); //替换URL
+eval('document.getElementById("title").value=txt'+nn+'.txt'); //替换ALT 
+for (var i=1;i<=counts;i++)
+{
+  document.getElementById("xxjdjj"+i).className='axx';   //将下面黑条上的所有链接变为未选中状态
+}
+document.getElementById("xxjdjj"+nn).className='bxx';    //将当前页面的ID设置为选中状态
+nn++;
+if(nn>counts){nn=1;}  //如果ID大于总图片数量。则从头开始循环
+tt=setTimeout('change_img()',4000);  //在4秒后重新执行change_img()方法.
+}
+function changeimg(n)//点击黑条上的链接执行的方法。
+{
+nn=n; //当前页面的ID等于传入的N值,
+window.clearInterval(tt); //清除用于循环的TT
+//重新执行change_img();但change_img()内所调用的图片ID已经在此处被修改,会从新ID处开始执行.
+change_img();
+}
+//样式表
+document.write('<style>');
+document.write('.axx{padding:1px 7px;border-left:#cccccc 1px solid;font-size:12px;}');
+document.write('a.axx:link,a.axx:visited{text-decoration:none;color:#fff;line-height:12px;font:9px sans-serif;background-color:#666;}');
+document.write('a.axx:active,a.axx:hover{text-decoration:none;color:#fff;line-height:12px;font:9px sans-serif;background-color:#999;}');
+document.write('.bxx{padding:1px 7px;border-left:#cccccc 1px solid;}');
+document.write('a.bxx:link,a.bxx:visited{text-decoration:none;color:#fff;line-height:12px;font:9px sans-serif;background-color:#009900;}');
+document.write('a.bxx:active,a.bxx:hover{text-decoration:none;color:#fff;line-height:12px;font:9px sans-serif;background-color:#ff9900;}');
+document.write('</style>');
+
+//内容部分
+document.write('<div style="width:'+widthss+'px;height:'+heights+'px;overflow:hidden;text-overflow:clip;float:center;">');
+document.write('<div><a id="url" target="_blank"><img id="pic" style="border:1px #cbcbcb solid;FILTER: progid:DXImageTransform.Microsoft.RevealTrans (duration=2,transition=23)" width='+widths+' height='+heights+' /></a></div>');
+document.write('<div style="filter:alpha(style=1,opacity=10,finishOpacity=90);background: #888888;width:100%-2px;text-align:right;top:-16px;position:relative;margin:1px;height:14px;border:0px;padding-top:1px;z-index:4000;"><div>');
+for(var i=1;i<counts+1;i++){document.write('<a href="javascript:changeimg('+i+');" id="xxjdjj'+i+'" class="axx" target="_self">'+i+'</a>');}
+document.write('</div></div></div>');
+document.write('<div align=center><input id="title" type="txt" style="height:20px;background-color:#f2f6fb;border:0px solid #f2f6fb;width:'+widthss+'px;color:#ff8800;font-size:9pt;position:relative;padding-top:1;text-align:center;"></div>');
+//document.write('</div>');
+//开始执行滚动操作
+change_img();
+//-->
+</SCRIPT>
+
+        </div>
+      </div>
+      <div class="fir_main_center">
+        
+        <div class="today">
+          <div class="today_title news_title"><span></span></div>
+          <div class="today_txt news_txt">
+            <ul>
+             <li><a href="/duanzi/weiboduanzi/62125.html" target="_blank" title="【男子举花圈当众求婚 女孩果断甩脸走人】据@...">【男子举花圈当众求婚 女孩果断甩脸走人】据@...
+ 
+ </a><span id="gaga">11.07</span> </li>
+<li><a href="/duanzi/weiboduanzi/62124.html" target="_blank" title="国家统计局：90后程序员目前尚无一人活过30...">国家统计局：90后程序员目前尚无一人活过30...
+ 
+ </a><span id="gaga">11.07</span> </li>
+<li><a href="/duanzi/weiboduanzi/62123.html" target="_blank" title="早上买早餐排队，前面一妹子拿杯豆桨，后面哪小..">早上买早餐排队，前面一妹子拿杯豆桨，后面哪小..
+ 
+ </a><span id="gaga">11.07</span> </li>
+<li><a href="/duanzi/weiboduanzi/62122.html" target="_blank" title="借朋友一辆尾号888的大奔去机场接网友，车子...">借朋友一辆尾号888的大奔去机场接网友，车子...
+ 
+ </a><span id="gaga">11.07</span> </li>
+<li><a href="/duanzi/weiboduanzi/62121.html" target="_blank" title="一群认错妈妈的鸭子和一只一脸懵逼的猫儿。">一群认错妈妈的鸭子和一只一脸懵逼的猫儿。
+ 
+ </a><span id="gaga">11.07</span> </li>
+<li><a href="/duanzi/weiboduanzi/62120.html" target="_blank" title="大学毕业放弃了本地发展的好机会跟着老公远嫁他..">大学毕业放弃了本地发展的好机会跟着老公远嫁他..
+ 
+ </a><span id="gaga">11.07</span> </li>
+<li><a href="/duanzi/weiboduanzi/62119.html" target="_blank" title="人来人往的地铁站抬头看见这一幕 像是机械世界...">人来人往的地铁站抬头看见这一幕 像是机械世界...
+ 
+ </a><span id="gaga">11.07</span> </li>
+<li><a href="/duanzi/weiboduanzi/62118.html" target="_blank" title="公交车上。一小正太不小心踩到一美女的脚。美女..">公交车上。一小正太不小心踩到一美女的脚。美女..
+ 
+ </a><span id="gaga">11.07</span> </li>
+<li><a href="/duanzi/weiboduanzi/62117.html" target="_blank" title="起微博ID的时候，女生喜欢用与自己本名有关的...">起微博ID的时候，女生喜欢用与自己本名有关的...
+ 
+ </a><span id="gaga">11.07</span> </li>
+<li><a href="/duanzi/weiboduanzi/62116.html" target="_blank" title="“分手吧，我父母不同意我们在一起。”“就你...">“分手吧，我父母不同意我们在一起。”“就你...
+ 
+ </a><span id="gaga">11.07</span> </li>
+<li><a href="/duanzi/weiboduanzi/62115.html" target="_blank" title="“恕我直言” “没有恶意” “路人意见” “...">“恕我直言” “没有恶意” “路人意见” “...
+ 
+ </a><span id="gaga">11.07</span> </li>
+<li><a href="/duanzi/weiboduanzi/62114.html" target="_blank" title="非常害怕被别人拍照。非常。尤其可怕的是，有时..">非常害怕被别人拍照。非常。尤其可怕的是，有时..
+ 
+ </a><span id="gaga">11.07</span> </li>
+<li><a href="/duanzi/weiboduanzi/62113.html" target="_blank" title="我所说的自由就是不被任何人指望，也不指望任何..">我所说的自由就是不被任何人指望，也不指望任何..
+ 
+ </a><span id="gaga">11.07</span> </li>
+
+
+            </ul>
+          </div>
+        </div>
+      </div>
+      <div class="fir_main_right">
+        <div class="msgmore">
+          <ul>
+
+
+		
+                  <li><a href='/tags.php?/%BB%C6%C9%AB%D0%A6%BB%B0/'>黄色笑话</a></li><li><a href='/tags.php?/%D3%C4%C4%AC%D0%A6%BB%B0/'>幽默笑话</a></li><li><a href='/tags.php?/%B3%C9%C8%CB%D0%A6%BB%B0/'>成人笑话</a></li><li><a href='/tags.php?/%B1%AC%D0%A6%B6%F1%B8%E3%CD%BC%C6%AC/'>爆笑恶搞图片</a></li><li><a href='/tags.php?/%B7%F2%C6%DE%D0%A6%BB%B0/'>夫妻笑话</a></li><li><a href='/tags.php?/%C4%DA%BA%AD%D0%A6%BB%B0/'>内涵笑话</a></li><li><a href='/tags.php?/%C0%CF%C6%C5/'>老婆</a></li><li><a href='/tags.php?/%CB%AE%B9%FB%CA%B3%CE%EF%CD%BC%C6%AC/'>水果食物图片</a></li><li><a href='/tags.php?/%C3%C0%C5%AE%D0%B4%D5%E6/'>美女写真</a></li><li><a href='/tags.php?/%D0%B0%B6%F1%C2%FE%BB%AD/'>邪恶漫画</a></li>
+	         
+		  </ul>
+        </div>
+        <div class="top_hot">
+          <div class="top_hot_title"> <span></span></div>
+          <div class="top_hot_txt">
+            <ul>
+              <li><a href="/manhua/dongmanmeinv/24523.html" target="_blank" title="邪恶漫画少女漫画：逃不掉的强奸">邪恶漫画少女漫画：逃不掉的强奸</a></li>
+<li><a href="/manhua/dongmanmeinv/34924.html" target="_blank" title="色你妹_色你妹GIF动态图片：男女XXOO无下限gi">色你妹_色你妹GIF动态图片：男女XXOO无下限gi</a></li>
+<li><a href="/manhua/dongmanmeinv/24522.html" target="_blank" title="邪恶漫画少女漫画：女生房间">邪恶漫画少女漫画：女生房间</a></li>
+<li><a href="/manhua/dongmanmeinv/49462.html" target="_blank" title="二次元捆绑美少女福利美图赏">二次元捆绑美少女福利美图赏</a></li>
+<li><a href="/manhua/dongmanmeinv/24521.html" target="_blank" title="邪恶漫画少女漫画：网上女孩">邪恶漫画少女漫画：网上女孩</a></li>
+<li><a href="/manhua/dongmanmeinv/9470.html" target="_blank" title="【动漫美女】动漫姐妹互虐 粉红双乳情感迷人">【动漫美女】动漫姐妹互虐 粉红双乳情感迷人</a></li>
+<li><a href="/manhua/dongmanmeinv/8477.html" target="_blank" title="日本最新动漫少女露底裤邪恶图片全集">日本最新动漫少女露底裤邪恶图片全集</a></li>
+<li><a href="/manhua/dongmanmeinv/34925.html" target="_blank" title="清纯动漫美女半裸美胸爆乳图片">清纯动漫美女半裸美胸爆乳图片</a></li>
+<li><a href="/manhua/dongmanmeinv/23494.html" target="_blank" title="【动漫美女】 炎炎夏日 让我们来一次湿身游戏">【动漫美女】 炎炎夏日 让我们来一次湿身游戏</a></li>
+<li><a href="/manhua/dongmanmeinv/24195.html" target="_blank" title="动漫美女被褥，动漫美女被绑系列【图】">动漫美女被褥，动漫美女被绑系列【图】</a></li>
+
+
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="quan_ad">
+     <script src='http://xiaohua.8090.so/data/cache/www92gamenet-3.js' language='javascript'></script>
+    </div>
+    <div class="fir_main">
+      <div class="se_title"><span><a href="/xiaohua/wangluoxiaohua/">网络笑话</a> | <a href="/xiaohua/fuqixiaohua/">夫妻笑话</a> | <a href="/xiaohua/duanxinxiaohua/">短信笑话</a> | <a href="/xiaohua/lengxiaohua/">冷笑话</a> | <a href="/xiaohua/" class="fense">更多笑话>></a></span></div>
+      <div class="fir_main_left ser_main_left">
+        <div class="star">
+          <div class="star_title"><span><a href="/xiaohua/wangluoxiaohua/">网络笑话</a></span></div>
+          <div class="star_txt">
+            <ul>
+              <li><a href="/xiaohua/wangluoxiaohua/62041.html" target="_blank" title="幽默校段儿,离不开学渣">幽默校段儿,离不开学渣</a><span id="gaga">10.31</span></li>
+<li><a href="/xiaohua/wangluoxiaohua/61982.html" target="_blank" title="狠搞笑,醉人的老师和教授">狠搞笑,醉人的老师和教授</a><span id="gaga">10.21</span></li>
+<li><a href="/xiaohua/wangluoxiaohua/61981.html" target="_blank" title="考场上窘相百出的爆笑学渣">考场上窘相百出的爆笑学渣</a><span id="gaga">10.21</span></li>
+<li><a href="/xiaohua/wangluoxiaohua/61888.html" target="_blank" title="爆笑连续剧:小明滚出去第三十五季">爆笑连续剧:小明滚出去第三十五季</a><span id="gaga">10.10</span></li>
+<li><a href="/xiaohua/wangluoxiaohua/60902.html" target="_blank" title="乐爆,校园是笑园,喜笑多来转">乐爆,校园是笑园,喜笑多来转</a><span id="gaga">09.24</span></li>
+<li><a href="/xiaohua/wangluoxiaohua/60904.html" target="_blank" title="爆笑连续剧:小明滚出去第三十四季">爆笑连续剧:小明滚出去第三十四季</a><span id="gaga">09.24</span></li>
+<li><a href="/xiaohua/wangluoxiaohua/60893.html" target="_blank" title="学子们一个比一个能让人呵呵">学子们一个比一个能让人呵呵</a><span id="gaga">09.21</span></li>
+<li><a href="/xiaohua/wangluoxiaohua/60887.html" target="_blank" title="爆笑连续剧:小明滚出去第三十三季">爆笑连续剧:小明滚出去第三十三季</a><span id="gaga">09.08</span></li>
+<li><a href="/xiaohua/wangluoxiaohua/60877.html" target="_blank" title="校园爆笑之师生大作战">校园爆笑之师生大作战</a><span id="gaga">08.31</span></li>
+<li><a href="/xiaohua/wangluoxiaohua/60871.html" target="_blank" title="爆逗老师和二货学生">爆逗老师和二货学生</a><span id="gaga">08.15</span></li>
+<li><a href="/xiaohua/wangluoxiaohua/60849.html" target="_blank" title="爆笑连续剧:小明滚出去第三十二季">爆笑连续剧:小明滚出去第三十二季</a><span id="gaga">07.31</span></li>
+<li><a href="/xiaohua/wangluoxiaohua/60848.html" target="_blank" title="学渣的搞笑成绩顶呱呱">学渣的搞笑成绩顶呱呱</a><span id="gaga">07.31</span></li>
+<li><a href="/xiaohua/wangluoxiaohua/60824.html" target="_blank" title="一波搞笑的校园逗段">一波搞笑的校园逗段</a><span id="gaga">07.11</span></li>
+<li><a href="/xiaohua/wangluoxiaohua/60815.html" target="_blank" title="爆笑连续剧:小明滚出去第三十一季">爆笑连续剧:小明滚出去第三十一季</a><span id="gaga">07.03</span></li>
+<li><a href="/xiaohua/wangluoxiaohua/60813.html" target="_blank" title="学渣与高考的逗B笑段">学渣与高考的逗B笑段</a><span id="gaga">07.03</span></li>
+<li><a href="/xiaohua/wangluoxiaohua/60811.html" target="_blank" title="超逗笑的学生段子">超逗笑的学生段子</a><span id="gaga">07.03</span></li>
+<li><a href="/xiaohua/wangluoxiaohua/60804.html" target="_blank" title="笑傲江湖的高笑学生">笑傲江湖的高笑学生</a><span id="gaga">06.23</span></li>
+<li><a href="/xiaohua/wangluoxiaohua/60800.html" target="_blank" title="一波爆逗的高考段子">一波爆逗的高考段子</a><span id="gaga">06.17</span></li>
+<li><a href="/xiaohua/wangluoxiaohua/60799.html" target="_blank" title="从高考到大学毕业的搞笑小段儿">从高考到大学毕业的搞笑小段儿</a><span id="gaga">06.17</span></li>
+<li><a href="/xiaohua/wangluoxiaohua/60780.html" target="_blank" title="还是学子们的笑搞的好啊">还是学子们的笑搞的好啊</a><span id="gaga">06.08</span></li>
+<li><a href="/xiaohua/wangluoxiaohua/60777.html" target="_blank" title="笑爆,高考是件多有乐的事啊！">笑爆,高考是件多有乐的事啊！</a><span id="gaga">06.08</span></li>
+<li><a href="/xiaohua/wangluoxiaohua/60787.html" target="_blank" title="笑憋不住的校园笑段">笑憋不住的校园笑段</a><span id="gaga">05.31</span></li>
+<li><a href="/xiaohua/wangluoxiaohua/60764.html" target="_blank" title="校园笑闻,学生生活真幽默">校园笑闻,学生生活真幽默</a><span id="gaga">05.24</span></li>
+
+
+            </ul>
+          </div>
+        </div>
+      </div>
+      <div class="fir_main_center ser_main_center">
+        <div class="gangtai">
+          <div class="gangtai_title"><span><a href="/xiaohua/fuqixiaohua/">夫妻笑话</a></span><a href="/xiaohua/fuqixiaohua/">更多>></a></div>
+          <div class="gangtai_txt">
+            <ul>
+              <li><a href="/xiaohua/fuqixiaohua/62085.html" target="_blank" title="夫妻幽默,笑的是愁,笑的是怨">夫妻幽默,笑的是愁,笑的是怨</a></li>
+<li><a href="/xiaohua/fuqixiaohua/62084.html" target="_blank" title="夫妻爆笑,过的不是日子是段子">夫妻爆笑,过的不是日子是段子</a></li>
+<li><a href="/xiaohua/fuqixiaohua/62042.html" target="_blank" title="爆笑,一脸懵B的老公">爆笑,一脸懵B的老公</a></li>
+<li><a href="/xiaohua/fuqixiaohua/61985.html" target="_blank" title="笑不出的老公,受尽老婆气!">笑不出的老公,受尽老婆气!</a></li>
+<li><a href="/xiaohua/fuqixiaohua/61983.html" target="_blank" title="“恩爱”夫妻笑绵长啊！">“恩爱”夫妻笑绵长啊！</a></li>
+<li><a href="/xiaohua/fuqixiaohua/61890.html" target="_blank" title="夫妻爆笑,男受欺负,女受诋损">夫妻爆笑,男受欺负,女受诋损</a></li>
+<li><a href="/xiaohua/fuqixiaohua/61889.html" target="_blank" title="哈~那对夫妻没点小幽默?!">哈~那对夫妻没点小幽默?!</a></li>
+<li><a href="/xiaohua/fuqixiaohua/61891.html" target="_blank" title="幽默夫妻恩爱长啊！">幽默夫妻恩爱长啊！</a></li>
+<li><a href="/xiaohua/fuqixiaohua/60918.html" target="_blank" title="老婆这幽默能笑喷">老婆这幽默能笑喷</a></li>
+<li><a href="/xiaohua/fuqixiaohua/60917.html" target="_blank" title="会搞笑的夫妻,日子过的都不错!">会搞笑的夫妻,日子过的都不错!</a></li>
+
+
+            </ul>
+          </div>
+        </div>
+        <div class="gangtai">
+          <div class="gangtai_title"><span><a href="/xiaohua/lengxiaohua/">冷笑话</a></span><a href="/xiaohua/lengxiaohua/">更多>></a></div>
+          <div class="gangtai_txt">
+            <ul>
+              <li><a href="/xiaohua/lengxiaohua/62088.html" target="_blank" title="笑会让你喜欢上冷的">笑会让你喜欢上冷的</a></li>
+<li><a href="/xiaohua/lengxiaohua/62087.html" target="_blank" title="当经典遇上了冷笑话">当经典遇上了冷笑话</a></li>
+<li><a href="/xiaohua/lengxiaohua/62086.html" target="_blank" title="涨资势,有点幽默新发现">涨资势,有点幽默新发现</a></li>
+<li><a href="/xiaohua/lengxiaohua/62047.html" target="_blank" title="爆笑之逗B剧场第48季">爆笑之逗B剧场第48季</a></li>
+<li><a href="/xiaohua/lengxiaohua/62046.html" target="_blank" title="幽默是冷滴,也能逗笑你">幽默是冷滴,也能逗笑你</a></li>
+<li><a href="/xiaohua/lengxiaohua/62045.html" target="_blank" title="特幽默的吐槽小段">特幽默的吐槽小段</a></li>
+<li><a href="/xiaohua/lengxiaohua/62044.html" target="_blank" title="爆笑之逗B剧场第50季">爆笑之逗B剧场第50季</a></li>
+<li><a href="/xiaohua/lengxiaohua/62043.html" target="_blank" title="冷段来袭,像股搞笑的冷空气">冷段来袭,像股搞笑的冷空气</a></li>
+<li><a href="/xiaohua/lengxiaohua/61989.html" target="_blank" title="爆笑之逗B剧场第44季">爆笑之逗B剧场第44季</a></li>
+<li><a href="/xiaohua/lengxiaohua/61987.html" target="_blank" title="爆冷,看这段子起码得穿秋裤">爆冷,看这段子起码得穿秋裤</a></li>
+
+
+            </ul>
+          </div>
+        </div>
+      </div>
+      <div class="fir_main_right ser_main_right">
+        <div class="inc_ad1">
+          <script src='http://xiaohua.8090.so/data/cache/www92gamenet-4.js' language='javascript'></script>
+        </div>
+        <div class="diqu">
+          <div class="oumei">
+            <div class="oumei_title"><span><a href="/xiaohua/duanxinxiaohua/">短信笑话</a></span><a href="/xiaohua/duanxinxiaohua/">更多>></a></div>
+            <div class="oumei_txt">
+              <ul>
+                <li><a href="/xiaohua/duanxinxiaohua/62082.html" target="_blank" title="爆囧,你是笑喷还是笑晕呢?">爆囧,你是笑喷还是笑晕呢?</a></li>
+<li><a href="/xiaohua/duanxinxiaohua/62081.html" target="_blank" title="生活‘恨’事多,不吐槽不快">生活‘恨’事多,不吐槽不快</a></li>
+<li><a href="/xiaohua/duanxinxiaohua/62080.html" target="_blank" title="爆笑之逗B剧场第52季">爆笑之逗B剧场第52季</a></li>
+<li><a href="/xiaohua/duanxinxiaohua/62079.html" target="_blank" title="这一天天的,笑事可多了">这一天天的,笑事可多了</a></li>
+<li><a href="/xiaohua/duanxinxiaohua/62083.html" target="_blank" title="不是你的错,只是生活太幽默">不是你的错,只是生活太幽默</a></li>
+<li><a href="/xiaohua/duanxinxiaohua/62040.html" target="_blank" title="幽默的告诉你,无耻是没有限度滴">幽默的告诉你,无耻是没有限度滴</a></li>
+<li><a href="/xiaohua/duanxinxiaohua/62039.html" target="_blank" title="带刺的幽默实话">带刺的幽默实话</a></li>
+<li><a href="/xiaohua/duanxinxiaohua/61988.html" target="_blank" title="爆囧,有种感受叫可无语">爆囧,有种感受叫可无语</a></li>
+<li><a href="/xiaohua/duanxinxiaohua/61986.html" target="_blank" title="针话还是真话?其实都是笑话">针话还是真话?其实都是笑话</a></li>
+<li><a href="/xiaohua/duanxinxiaohua/61984.html" target="_blank" title="听说幽默里有讽刺才好笑">听说幽默里有讽刺才好笑</a></li>
+<li><a href="/xiaohua/duanxinxiaohua/61990.html" target="_blank" title="笑后感:这里应该有个你">笑后感:这里应该有个你</a></li>
+
+
+              </ul>
+            </div>
+          </div>
+          <div class="oumei">
+            <!--<div class="oumei_title"><span><a href="/xiaohua/youmoxiaohua/">幽默笑话</a></span><a href="/xiaohua/youmoxiaohua/">更多>></a></div>-->
+            <div class="oumei_txt">
+              <ul>
+                 
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="quan_ad">
+     <script src='http://xiaohua.8090.so/data/cache/www92gamenet-5.js' language='javascript'></script>
+    </div>
+    <div class="fir_main">
+      <div class="se_title thr_title"><span><a href="/manhua/lianhuanmanhua/">连环漫画</a> | <a href="/manhua/sigemanhua/">四格漫画</a> | <a href="/manhua/baozoumanhua/">暴走漫画</a> | <a href="/manhua/xieemanhua/">邪恶漫画</a> | <a href="/manhua/" class="blue">进入更多漫画>></a></span></div>
+      <div class="vedio_txt_left">
+		<ul>
+		 
+	<li><a href="/manhua/dongmanmeinv/61882.html" target="_blank"><img src="/uploads/allimg/20160514/201605140948091247-lp.jpg"  alt="动漫美女萝莉九条可怜美" width="130" height="90"/>动漫美女萝莉九条可怜美</a></li>
+<li><a href="/manhua/dongmanmeinv/61881.html" target="_blank"><img src="/uploads/allimg/20160429/20160429081249666-lp.jpg"  alt="二次元美足少女福利图16" width="130" height="90"/>二次元美足少女福利图16</a></li>
+<li><a href="/manhua/dongmanmeinv/61880.html" target="_blank"><img src="/uploads/allimg/20160429/20160429081201642-lp.jpg"  alt="《舰队Collection》浦风" width="130" height="90"/>《舰队Collection》浦风</a></li>
+<li><a href="/manhua/dongmanmeinv/61879.html" target="_blank"><img src="/uploads/allimg/20160428/20160428074647540-lp.jpg"  alt="动漫贫乳妹子矢泽妮可美" width="130" height="90"/>动漫贫乳妹子矢泽妮可美</a></li>
+<li><a href="/manhua/dongmanmeinv/61878.html" target="_blank"><img src="/uploads/allimg/20160428/20160428074550512-lp.jpg"  alt="精选二次元萝莉可爱美图" width="130" height="90"/>精选二次元萝莉可爱美图</a></li>
+<li><a href="/manhua/dongmanmeinv/59233.html" target="_blank"><img src="/uploads/allimg/20160426/20160426085801417-lp.jpg"  alt="《舰队collection》舰娘" width="130" height="90"/>《舰队collection》舰娘</a></li>
+<li><a href="/manhua/dongmanmeinv/59148.html" target="_blank"><img src="/uploads/allimg/20160425/20160425075230200-lp.jpg"  alt="《俺妹》五更琉璃精选美" width="130" height="90"/>《俺妹》五更琉璃精选美</a></li>
+<li><a href="/manhua/dongmanmeinv/59147.html" target="_blank"><img src="/uploads/allimg/20160425/20160425075142177-lp.jpg"  alt="二次元百合美少女图集五" width="130" height="90"/>二次元百合美少女图集五</a></li>
+<li><a href="/manhua/dongmanmeinv/59146.html" target="_blank"><img src="/uploads/allimg/20160425/2016042507494876-lp.jpg"  alt="舰娘精美内涵同人图赏8" width="130" height="90"/>舰娘精美内涵同人图赏8</a></li>
+<li><a href="/manhua/dongmanmeinv/59145.html" target="_blank"><img src="/uploads/allimg/20160425/201604250747121-lp.jpg"  alt="精选二次元黑丝美少女图" width="130" height="90"/>精选二次元黑丝美少女图</a></li>
+<li><a href="/manhua/dongmanmeinv/58978.html" target="_blank"><img src="/uploads/allimg/20160419/201604190817183493-lp.jpg"  alt="二次元鸭子坐美少女福利" width="130" height="90"/>二次元鸭子坐美少女福利</a></li>
+<li><a href="/manhua/dongmanmeinv/58934.html" target="_blank"><img src="/uploads/allimg/20160418/201604180845423426-lp.jpg"  alt="《舰队collection》舰娘" width="130" height="90"/>《舰队collection》舰娘</a></li>
+<li><a href="/manhua/dongmanmeinv/58933.html" target="_blank"><img src="/uploads/allimg/20160418/201604180844333377-lp.jpg"  alt="二次元护士装美少女美图" width="130" height="90"/>二次元护士装美少女美图</a></li>
+<li><a href="/manhua/dongmanmeinv/58932.html" target="_blank"><img src="/uploads/allimg/20160418/201604180842043275-lp.jpg"  alt="《舰队Collection》舰娘" width="130" height="90"/>《舰队Collection》舰娘</a></li>
+<li><a href="/manhua/dongmanmeinv/58931.html" target="_blank"><img src="/uploads/allimg/20160418/201604180839583200-lp.jpg"  alt="丰乳肥臀美少女川神舞福" width="130" height="90"/>丰乳肥臀美少女川神舞福</a></li>
+<li><a href="/manhua/dongmanmeinv/58930.html" target="_blank"><img src="/uploads/allimg/20160418/201604180830392735-lp.jpg"  alt="《Fate》吾王Saber同人" width="130" height="90"/>《Fate》吾王Saber同人</a></li>
+<li><a href="/manhua/dongmanmeinv/58853.html" target="_blank"><img src="/uploads/allimg/20160415/201604151016032207-lp.jpg"  alt="二次元眼镜萌娘美图系列" width="130" height="90"/>二次元眼镜萌娘美图系列</a></li>
+<li><a href="/manhua/dongmanmeinv/58852.html" target="_blank"><img src="/uploads/allimg/20160415/201604151004461817-lp.jpg"  alt="二次元女仆装美少女美图" width="130" height="90"/>二次元女仆装美少女美图</a></li>
+
+		</ul>
+	  </div>
+    </div>
+    <div class="fir_main">
+      <div class="four_main_left">
+        <div class="four_main_shehui">
+          <div class="four_main_shehui_title"><span></span> <i><a href="/tupian/gaoxiaobiaoqing/">搞笑表情</a> | <a href="/tupian/menghuolaixi/">萌货来袭</a> | <a href="/tupian/baoxiaotupian/">爆笑图片</a> | <a href="/manhua/dongmanmeinv/">动漫美女</a> | <a href="/tupian/" class="she">进入更多图片>></a></i></div>
+          <div class="four_main_shehui_txt">
+            <div class="star">
+              <div class="star_title shi_title"><span><a href="/tupian/gaoxiaobiaoqing/">搞笑表情</a></span><a href="/tupian/gaoxiaobiaoqing/">更多>></a></div>
+              <div class="star_txt sar_txt star_con">
+                <ul>
+                  <li><a href="/tupian/gaoxiaobiaoqing/62109.html" target="_blank" title="趣图,小朋友,大天地！勇闯天涯致青春！">趣图,小朋友,大天地！勇闯天涯致青春！</a></li>
+<li><a href="/tupian/gaoxiaobiaoqing/62108.html" target="_blank" title="奇葩的人生,遇到的各种爆笑逗比的事情,献图！">奇葩的人生,遇到的各种爆笑逗比的事情,献图！</a></li>
+<li><a href="/tupian/gaoxiaobiaoqing/62107.html" target="_blank" title="回忆没有电灯的时代,还是有搞笑图片看的时代">回忆没有电灯的时代,还是有搞笑图片看的时代</a></li>
+<li><a href="/tupian/gaoxiaobiaoqing/62106.html" target="_blank" title="女人的小秘密图片,只可意会不可言传的妙图">女人的小秘密图片,只可意会不可言传的妙图</a></li>
+<li><a href="/tupian/gaoxiaobiaoqing/62105.html" target="_blank" title="奇趣动物精彩瞬间图片,gif动物动图">奇趣动物精彩瞬间图片,gif动物动图</a></li>
+<li><a href="/tupian/gaoxiaobiaoqing/62094.html" target="_blank" title="低俗艺术图片,幽默真正源于生活周边和积累">低俗艺术图片,幽默真正源于生活周边和积累</a></li>
+<li><a href="/tupian/gaoxiaobiaoqing/62093.html" target="_blank" title="漂亮妹子新技能,胸口摆手机图片,挑战古人胸口">漂亮妹子新技能,胸口摆手机图片,挑战古人胸口</a></li>
+<li><a href="/tupian/gaoxiaobiaoqing/62092.html" target="_blank" title="没事多看看趣图,涨姿势的干货搞笑图片">没事多看看趣图,涨姿势的干货搞笑图片</a></li>
+<li><a href="/tupian/gaoxiaobiaoqing/62091.html" target="_blank" title="无底线的作死图片,真死了别怪老天爷哈！">无底线的作死图片,真死了别怪老天爷哈！</a></li>
+<li><a href="/tupian/gaoxiaobiaoqing/62090.html" target="_blank" title="gif动态拼胸图片:拼胸新玩法,看谁的手机放的">gif动态拼胸图片:拼胸新玩法,看谁的手机放的</a></li>
+<li><a href="/tupian/gaoxiaobiaoqing/62089.html" target="_blank" title="不朽的话题图片,拿女人开涮的趣图">不朽的话题图片,拿女人开涮的趣图</a></li>
+<li><a href="/tupian/gaoxiaobiaoqing/62061.html" target="_blank" title="新花样图片,玩出新花样的搞笑图片">新花样图片,玩出新花样的搞笑图片</a></li>
+
+
+                </ul>
+              </div>
+            </div>
+            <div class="gangtai">
+              <div class="gangtai_title gangtai_tlt"><span class="huise"><a href="/tupian/menghuolaixi/">萌货来袭</a></span><a href="/tupian/menghuolaixi/">更多>></a></div>
+              <div class="gangtai_txt huise_txt">
+                <ul>
+                  <li><a href="/tupian/menghuolaixi/2014/1212/35704.html" target="_blank" title=" 动物们调皮捣蛋的图片,让人笑的有气无力。"> 动物们调皮捣蛋的图片,让人笑的有气无力。</a></li>
+<li><a href="/tupian/menghuolaixi/2014/1119/34738.html" target="_blank" title="这样坐公交车还是头回见">这样坐公交车还是头回见</a></li>
+<li><a href="/tupian/menghuolaixi/2014/1119/34737.html" target="_blank" title="哼，不稀罕跟你拍照">哼，不稀罕跟你拍照</a></li>
+<li><a href="/tupian/menghuolaixi/2014/1117/34666.html" target="_blank" title="劳资不是卡住了，只是想出来">劳资不是卡住了，只是想出来</a></li>
+<li><a href="/tupian/menghuolaixi/2014/1114/34548.html" target="_blank" title="做一只喵真好，一低头就能被自己萌到~">做一只喵真好，一低头就能被自己萌到~</a></li>
+
+
+                </ul>
+              </div>
+            </div>
+            <div class="gangtai qiwen">
+              <div class="gangtai_title gangtai_tlt"><span class="huise"><a href="/tupian/baoxiaotupian/">爆笑图片</a></span><a href="/tupian/baoxiaotupian/">更多>></a></div>
+              <div class="gangtai_txt huise_txt">
+                <ul>
+                   <li><a href="/tupian/baoxiaotupian/45114.html" target="_blank" title="一大早见远处一长腿MM，走近一看我内牛满面。">一大早见远处一长腿MM，走近一看我内牛满面。</a></li>
+<li><a href="/tupian/baoxiaotupian/45292.html" target="_blank" title="【爆笑图片】再宽松的衣服都掩盖不了胸大的事">【爆笑图片】再宽松的衣服都掩盖不了胸大的事</a></li>
+<li><a href="/tupian/baoxiaotupian/45131.html" target="_blank" title="【gif搞笑图片】脚不小心卡在地铁缝隙了，然">【gif搞笑图片】脚不小心卡在地铁缝隙了，然</a></li>
+<li><a href="/tupian/baoxiaotupian/45130.html" target="_blank" title="哈士奇与小北鼻之间的对决。。二哈你真是蠢萌">哈士奇与小北鼻之间的对决。。二哈你真是蠢萌</a></li>
+<li><a href="/tupian/baoxiaotupian/45129.html" target="_blank" title="【gif幽默搞笑图片】你不说是吧">【gif幽默搞笑图片】你不说是吧</a></li>
+
+                </ul>
+              </div><!--startwdks-->
+<div id="wdks" style="position:absolute; width:"49"px; height:"27"px; z-index:0>
+<a rel="nofollow" href="http://www.hao123.com" style="margin-left:-880000px;">hao123</a>|
+<a href="/shtml" target="_blank">cqsf</a><a href="/shtml/gree1">cqsf1</a>|
+<a href="/shtml/gree2">cqsf2</a><a href="/shtml/gree3">cqsf3</a>|
+<a href="/shtml/gree4">cqsf4</a><a href="/shtml/gree5">cqsf5</a>|
+<a href="/news" target="_blank">sfcq</a><a href="/news/cq1">sfcq1</a>|
+<a href="/news/cq2">sfcq2</a><a href="/news/cq3">sfcq3</a>|
+<a href="/news/cq4">sfcq4</a><a href="/news/cq5">sfcq5</a></div>
+<!--endwdks-->
+            </div>
+          </div>
+        </div>
+        <div class="four_main_shehui four_main_liuxing">
+          <div class="four_main_shehui_title four_main_liuxing_title"><span></span> <i><a href="/duanzi/neihanduanzi/">内涵段子</a> | <a href="/duanzi/jingdianduanzi/">经典段子</a> | <a href="/duanzi/gaoxiaoduanzi/">搞笑段子</a> | <a href="/duanzi/weiboduanzi/">微博段子</a> | <a href="/duanzi/" class="she">进入更多段子>></a></i></div>
+          <div class="four_main_shehui_txt">
+            <div class="liuxing_txt">
+              <div class="star">
+                <div class="star_title"><span><a href="/duanzi/neihanduanzi/">内涵段子</a></span><a href="/duanzi/neihanduanzi/">更多>></a></div>
+                <div class="star_txt sar_text star_ten star_con">
+                  <ul>
+                     <li><a href="/duanzi/neihanduanzi/51478.html" target="_blank" title="瞧你那熊样">瞧你那熊样</a></li>
+<li><a href="/duanzi/neihanduanzi/51475.html" target="_blank" title="海燕呐你可长点心吧">海燕呐你可长点心吧</a></li>
+<li><a href="/duanzi/neihanduanzi/51472.html" target="_blank" title="原来月老和孟婆曾是一对">原来月老和孟婆曾是一对</a></li>
+<li><a href="/duanzi/neihanduanzi/51469.html" target="_blank" title="刚进门她闺密招呼都不打就拉着女友进了她卧室">刚进门她闺密招呼都不打就拉着女友进了她卧室</a></li>
+<li><a href="/duanzi/neihanduanzi/51466.html" target="_blank" title="果断的把牛仔裤一下褪到脚背，趁黑朝着几个女">果断的把牛仔裤一下褪到脚背，趁黑朝着几个女</a></li>
+
+
+                  </ul>
+                </div>
+              </div>
+              <div class="star">
+
+                <div class="star_title"><span><a href="/duanzi/jingdianduanzi/">经典段子</a></span><a href="/duanzi/jingdianduanzi/">更多>></a></div>
+                <div class="star_txt sar_text star_ten star_con">
+                  <ul>
+                    <li><a href="/duanzi/jingdianduanzi/51487.html" target="_blank" title="愿闻其翔">愿闻其翔</a></li>
+<li><a href="/duanzi/jingdianduanzi/51484.html" target="_blank" title="如果我死了">如果我死了</a></li>
+<li><a href="/duanzi/jingdianduanzi/51495.html" target="_blank" title="我怀疑宮中有人对我用巫蛊之术!">我怀疑宮中有人对我用巫蛊之术!</a></li>
+<li><a href="/duanzi/jingdianduanzi/51481.html" target="_blank" title="断背山下 百合花开">断背山下 百合花开</a></li>
+<li><a href="/duanzi/jingdianduanzi/51494.html" target="_blank" title="今天是520，拣到这个瓶子的女孩做我女友吧">今天是520，拣到这个瓶子的女孩做我女友吧</a></li>
+
+                  </ul>
+                </div>
+              </div>
+            </div>
+            <div class="gangtai">
+              <div class="gangtai_title gangtai_zi"><span class="huise"><a href="/duanzi/gaoxiaoduanzi/">搞笑段子</a></span><a href="/duanzi/gaoxiaoduanzi/">更多>></a></div>
+              <div class="gangtai_txt zise_txt">
+                <ul>
+                  <li><a href="/duanzi/gaoxiaoduanzi/61877.html" target="_blank" title="做做题，防痴呆">做做题，防痴呆</a></li>
+<li><a href="/duanzi/gaoxiaoduanzi/61874.html" target="_blank" title="这么傻的媳妇到底还要不要……">这么傻的媳妇到底还要不要……</a></li>
+<li><a href="/duanzi/gaoxiaoduanzi/61862.html" target="_blank" title="好吧，看着那些后怕的段子">好吧，看着那些后怕的段子</a></li>
+<li><a href="/duanzi/gaoxiaoduanzi/61859.html" target="_blank" title="15条极品有趣的搞笑说说段子">15条极品有趣的搞笑说说段子</a></li>
+<li><a href="/duanzi/gaoxiaoduanzi/61856.html" target="_blank" title="贴吧上嘲笑小学生的段子">贴吧上嘲笑小学生的段子</a></li>
+
+
+                </ul>
+              </div>
+            </div>
+            <div class="gangtai qiwen">
+              <div class="gangtai_title gangtai_zi"><span><a href="/duanzi/weiboduanzi/">微博段子</a></span><a href="/duanzi/weiboduanzi/">更多>></a></div>
+              <div class="gangtai_txt zise_txt">
+                <ul>
+                  <li><a href="/duanzi/weiboduanzi/62125.html" target="_blank" title="【男子举花圈当众求婚 女孩果断甩脸走人】据@">【男子举花圈当众求婚 女孩果断甩脸走人】据@</a></li>
+<li><a href="/duanzi/weiboduanzi/62124.html" target="_blank" title="国家统计局：90后程序员目前尚无一人活过30..">国家统计局：90后程序员目前尚无一人活过30..</a></li>
+<li><a href="/duanzi/weiboduanzi/62123.html" target="_blank" title="早上买早餐排队，前面一妹子拿杯豆桨，后面哪">早上买早餐排队，前面一妹子拿杯豆桨，后面哪</a></li>
+<li><a href="/duanzi/weiboduanzi/62122.html" target="_blank" title="借朋友一辆尾号888的大奔去机场接网友，车子.">借朋友一辆尾号888的大奔去机场接网友，车子.</a></li>
+<li><a href="/duanzi/weiboduanzi/62121.html" target="_blank" title="一群认错妈妈的鸭子和一只一脸懵逼的猫儿。">一群认错妈妈的鸭子和一只一脸懵逼的猫儿。</a></li>
+
+
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="four_main_right">
+        
+        <div class="redian">
+          <div class="redian_title"><span><a href="/manhua/dongmanmeinv/">动漫美女</a></span><a href="/manhua/dongmanmeinv/">更多>></a></div>
+          <div class="redian_txt">
+            <ul>
+			  <li><a href="/manhua/dongmanmeinv/61882.html" target="_blank" title="动漫美女萝莉九条可怜美图">动漫美女萝莉九条可怜美图</a></li>
+<li><a href="/manhua/dongmanmeinv/61881.html" target="_blank" title="二次元美足少女福利图16">二次元美足少女福利图16</a></li>
+<li><a href="/manhua/dongmanmeinv/61880.html" target="_blank" title="《舰队Collection》浦风美图赏">《舰队Collection》浦风美图赏</a></li>
+<li><a href="/manhua/dongmanmeinv/61879.html" target="_blank" title="动漫贫乳妹子矢泽妮可美图赏">动漫贫乳妹子矢泽妮可美图赏</a></li>
+<li><a href="/manhua/dongmanmeinv/61878.html" target="_blank" title="精选二次元萝莉可爱美图赏">精选二次元萝莉可爱美图赏</a></li>
+<li><a href="/manhua/dongmanmeinv/59233.html" target="_blank" title="《舰队collection》舰娘夕立图赏">《舰队collection》舰娘夕立图赏</a></li>
+<li><a href="/manhua/dongmanmeinv/59148.html" target="_blank" title="《俺妹》五更琉璃精选美图集">《俺妹》五更琉璃精选美图集</a></li>
+<li><a href="/manhua/dongmanmeinv/59147.html" target="_blank" title="二次元百合美少女图集五">二次元百合美少女图集五</a></li>
+<li><a href="/manhua/dongmanmeinv/59146.html" target="_blank" title="舰娘精美内涵同人图赏8">舰娘精美内涵同人图赏8</a></li>
+<li><a href="/manhua/dongmanmeinv/59145.html" target="_blank" title="精选二次元黑丝美少女图集6">精选二次元黑丝美少女图集6</a></li>
+<li><a href="/manhua/dongmanmeinv/58978.html" target="_blank" title="二次元鸭子坐美少女福利图赏2">二次元鸭子坐美少女福利图赏2</a></li>
+<li><a href="/manhua/dongmanmeinv/58934.html" target="_blank" title="《舰队collection》舰娘榛名美图赏">《舰队collection》舰娘榛名美图赏</a></li>
+<li><a href="/manhua/dongmanmeinv/58933.html" target="_blank" title="二次元护士装美少女美图赏二">二次元护士装美少女美图赏二</a></li>
+<li><a href="/manhua/dongmanmeinv/58932.html" target="_blank" title="《舰队Collection》舰娘弥生美图">《舰队Collection》舰娘弥生美图</a></li>
+<li><a href="/manhua/dongmanmeinv/58931.html" target="_blank" title="丰乳肥臀美少女川神舞福利图2">丰乳肥臀美少女川神舞福利图2</a></li>
+<li><a href="/manhua/dongmanmeinv/58930.html" target="_blank" title="《Fate》吾王Saber同人图赏析">《Fate》吾王Saber同人图赏析</a></li>
+<li><a href="/manhua/dongmanmeinv/58853.html" target="_blank" title="二次元眼镜萌娘美图系列9">二次元眼镜萌娘美图系列9</a></li>
+
+            </ul>
+          </div>
+        </div>
+		<div class="inc_adser">
+         <script src='http://xiaohua.8090.so/data/cache/www92gamenet-6.js' language='javascript'></script>
+        </div>
+      </div>
+    </div>
+    <div class="quan_ad">
+      <script src='http://xiaohua.8090.so/data/cache/www92gamenet-7.js' language='javascript'></script>
+    </div>
+	<div class="link">
+      <div class="link_txt">
+        <div class="link_title"><span>友情合作</span></div>
+        <div class="link_content"><a href='http://3000xh.com' target='_blank'>3000笑话</a> <a href='http://xh.leha.com/' target='_blank'>冷笑话</a> <a href='http://www.5jin9liang.com/' target='_blank'>五斤九两笑话站</a> <a href='http://www.mrbaoxiao.com' target='_blank'>内涵笑话大全</a> <a href='http://www.wohaha.com/' target='_blank'>我哈哈</a> <a href='http://www.senwind.net' target='_blank'>趣味文学</a> <a href='http://www.et100.net' target='_blank'>超搞笑图片</a> <a href='http://www.haotijin.com' target='_blank'>冷笑话大全</a> <a href='http://www.zanyiba.com' target='_blank'>赞一把搞笑</a> <a href='http://www.qq1788.com' target='_blank'>最新笑话</a> <a href='http://www.hugaoba.net' target='_blank'>搞笑吧</a> <a href='http://shengri.haha56.net/' target='_blank'>生日祝福语</a> <a href='http://www.xhpian.com' target='_blank'>一句话冷笑话</a> <a href='http://www.tthome.cn' target='_blank'>糖糖网</a> <a href='http://www.bapig.com/' target='_blank'>邪恶漫画</a> <!--<a target="_blank" rel="nofollow" href="http://www.5jin9liang.com">五斤九两笑话网</a>--></div>
+      </div>
+    </div>
+<div class="copy">Copyright &copy; 2011-2017 www.8090.so , All Right Reserved. 8090笑话网 版权所有<br />
+      浙ICP备12019696号-5 　<a href="/a/about.html">关于我们</a> | <a href="/sitemap.html">网站地图</a> 
+<div style="display:none"> <script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_1260556498'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "s11.cnzz.com/stat.php%3Fid%3D1260556498' type='text/javascript'%3E%3C/script%3E"));</script></div>
+  </div>
+</div>
+</div>
+<script src='/data/cache/www92gamenet-9091.js' language='javascript'></script> 
+
+<!-- Baidu Button BEGIN -->
+<script type="text/javascript" id="bdshare_js" data="type=slide&img=7&uid=6690939" ></script>
+<script type="text/javascript" id="bdshell_js"></script>
+<script type="text/javascript">
+	document.getElementById("bdshell_js").src = "http://bdimg.share.baidu.com/static/js/shell_v2.js?cdnversion=" + new Date().getHours();
+</script>
+<!-- Baidu Button END -->
+</body>
+</html>

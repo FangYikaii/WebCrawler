@@ -1,0 +1,491 @@
+HTTP/1.1 200 OK
+Server: DnionOS/1.11.2.2
+Date: Sat, 25 Mar 2017 04:34:57 GMT
+Content-Type: text/html
+Content-Length: 52069
+Connection: close
+Last-Modified: Fri, 24 Mar 2017 09:18:56 GMT
+Vary: Accept-Encoding
+ETag: "58d4e480-cb65"
+Accept-Ranges: bytes
+Age: 6408
+Via: CT-CNC-ZJFY-P-6-100 (DLC-3.0), CT-ZJQZ-C-128-214 (DLC-3.0)
+Server-Info: DnionATS
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<meta http-equiv="Cache-Control" content="no-transform" />
+<meta http-equiv="Cache-Control" content="no-siteapp" />
+<title>美女图片_性感美女_丝袜美腿网_美女写真 - 4493美女图片</title>
+<meta name="Description" content="美女图片,性感美女,丝袜美腿网,美女写真,丝袜美女,性感美女图片,美女网,丝袜美腿,美女图片网,美女写真诱惑图片,性感,meinv,丝袜,美女诱惑,写真,mn,美女套图,美女丝袜,mm,美腿丝袜" />
+<link rel="Shortcut Icon" type="image/x-icon" href="/favicon.ico" />
+<link type="text/css" rel="stylesheet" href="/css/20141113/global.css?01" />
+<link type="text/css" rel="stylesheet" href="/css/20141113/index.css?201402" />
+<script type="text/javascript" src="/jump.php"></script>
+<script type="text/javascript" src="/js/20141113/jquery.min.js"></script>
+<script type="text/javascript" src="/js/20141113/global.js"></script>
+<script type="text/javascript">uaredirect("https://m.4493.com/");</script>
+<script type="text/javascript" src="/js/20141113/focus.js"></script>
+<script type="text/javascript" src="/js/20141113/index.js"></script>
+<script type="text/javascript" src="/js/20141113/imglazyload.js"></script>
+<script type="text/javascript" src="/js/gg.js"></script>
+</head>
+<body>
+
+<div class="headerline"><div class="header"><a href="/" class="logo"></a>
+    <ul class="topulnav">
+    <li><a class="havechild">美图</a><div class="childnav"><p><a href="/xingganmote/" >性感美女</a></p><p><a href="/siwameitui/" >丝袜美腿</a></p><p><a href="/weimeixiezhen/" >唯美写真</a></p><p><a href="/wangluomeinv/" >网络美女</a></p><p><a href="/gaoqingmeinv/" >高清美女</a></p><p><a href="/motemeinv/" >模特美女</a></p><p><a href="/tiyumeinv/" >体育美女</a></p><p><a href="/dongmanmeinv/" >动漫美女</a></p></div></li>
+    <li><a href="/star/"  class="havechild">明星</a><div class="childnav"><p><a href="/star/section" >明星资料</a></p><p><a href="/mingxingxiezhen/" >女星写真</a></p><p><a href="/nanxing/" >男星图片</a></p><p><a href="/yule/" >娱乐八卦</a></p></div></li>
+	<li><a href="/wenshen.html"  class="havechild" cl="havechilds">纹身</a><div class="childnav childnavs">	<p><a href="/wenshen/banjia/index.htm" >半甲</a></p><p><a href="/wenshen/qilin/index.htm" >麒麟</a></p><p><a href="/wenshen/yinxing/index.htm" >隐形</a></p><p><a href="/wenshen/qinglv/index.htm" >情侣</a></p><p><a href="/wenshen/tuteng/index.htm" >图腾</a></p><p><a href="/wenshen/zhongkui/index.htm" >钟馗</a></p><p><a href="/wenshen/xielong/index.htm" >邪龙</a></p><p><a href="/wenshen/yingwen/index.htm" >英文</a></p><p><a href="/wenshen/sand/index.htm" >3d</a></p><p><a href="/wenshen/huadan/index.htm" >花旦</a></p><div style="clear:both;"></div><p><a href="/wenshen/mingxing/index.htm" >明星</a></p><p><a href="/wenshen/pixiu/index.htm" >貔貅</a></p><p><a href="/wenshen/guangong/index.htm" >关公</a></p><p><a href="/wenshen/bore/index.htm" >般若</a></p><p><a href="/wenshen/fanwen/index.htm" >梵文</a></p><p><a href="/wenshen/liyu/index.htm" >鲤鱼</a></p><p><a href="/wenshen/nvsheng/index.htm" >女生</a></p><p><a href="/wenshen/manbei/index.htm" >满背</a></p><p><a href="/wenshen/shoubi/index.htm" >手臂</a></p></div></li>
+    <li><a href="/meishi/" >美食</a></li><li><a href="http://bizhi.4493.com/" >壁纸</a></li><li><a href="/xilie.html" >专题</a></li>
+	<script>
+	$(function(){
+	/*
+		$('li a.havechild').mouseover(function(){
+			$(this).parent().addClass('on').siblings('li').remove('on');
+			$(".childnavs").show();
+		})
+		$(".childnavs").mouseout(function(){
+			$(this).hide();
+		});
+		$('li a').mouseover(function(){
+			var cl = $(this).attr('cl');
+			if(typeof(cl)=="undefined")
+			{
+				$(this).parent().remove('on');
+				$(".childnavs").hide();
+			}			
+		});*/
+	});
+	
+	</script>
+	
+    </ul>
+    <div class="headright">
+    <div class="pub_search">    
+    <form action="http://so.4493.com/cse/search" accept-charset="utf-8" onsubmit="document.charset='utf-8';">
+    <input type="hidden" name="s" value="7096338384441980351">   
+    <input type="text" class="text" autocomplete="off" name="q"  maxlength="20"  id="searchkeywords" value="输入关键词后回车..." />
+    <input class="search_btn" type="submit" value="">
+    </form>
+    </div>
+    </div>
+    </div>
+    </div>       <div class="jiaodian">
+             <!-- 焦点 开始 -->
+       <div id="inner">
+       <div class="hot-event">
+       <div class="switch-nav"><a href="#" onclick="return false;" class="prev"><i class="ico i-prev"></i><span class="hide-clip">上一个</span><span class="blackbg"></span></a><a href="#" onclick="return false;" class="next"><i class="ico i-next"></i><span class="hide-clip">下一个</span><span class="blackbg"></span></a></div>
+       <div class="event-item" style="display: block;"><a href="/weimeixiezhen/115453/1.htm"  title="怀抱鲜花少女蕾丝透视睡裙半裸露乳朦胧写真" class="banner"><img src="/images/20141113/grey.gif" lazysrc="http://img.1985t.com/uploads/previews/2017/03/0-gyivCB9.jpg" class="photo" /></a></div><div class="event-item" style="display: none;"><a href="/weimeixiezhen/115228/1.htm"  title="朦胧甜味少女一袭白纱裙宛若天仙清丽脱俗" class="banner"><img src="/images/20141113/grey.gif" lazysrc="http://img.1985t.com/uploads/previews/2017/03/0-aKaI8gV.jpg" class="photo" /></a></div><div class="event-item" style="display: none;"><a href="/weimeixiezhen/115001/1.htm"  title="梦境森林内的纯真可爱精灵蕾丝长裙梦幻写真" class="banner"><img src="/images/20141113/grey.gif" lazysrc="http://img.1985t.com/uploads/previews/2017/03/0-zvrVtjV.jpg" class="photo" /></a></div><div class="event-item" style="display: none;"><a href="/weimeixiezhen/114778/1.htm"  title="花环美女洁白婚纱转身回眸美艳撩人心" class="banner"><img src="/images/20141113/grey.gif" lazysrc="http://img.1985t.com/uploads/previews/2017/03/0-p0dCWVI.jpg" class="photo" /></a></div><div class="event-item" style="display: none;"><a href="/weimeixiezhen/114548/1.htm"  title="浴缸内的吃瓜少女泡泡浴写真湿身诱惑" class="banner"><img src="/images/20141113/grey.gif" lazysrc="http://img.1985t.com/uploads/previews/2017/03/0-w1RpNpP.jpg" class="photo" /></a></div>      
+       <div class="switch-tab">
+       <a href="#" onclick="return false;" hidefocus="true" class="current">1</a>
+       <a href="#" onclick="return false;" hidefocus="true">2</a>
+       <a href="#" onclick="return false;" hidefocus="true">3</a>
+       <a href="#" onclick="return false;" hidefocus="true">4</a>
+       <a href="#" onclick="return false;" hidefocus="true">5</a>
+       </div>
+       </div>
+       </div>
+       <script type="text/javascript">
+       $('#inner').nav({ t: 2000, a: 1000 });
+       </script>
+        <!-- 焦点 结束 -->        
+       </div>
+       <div class="all_1000">
+       <p class="gonggao">4493美图网欢迎摄影师、模特、纹身师来稿，高清、优质、无水印优先。邮我：<img src="https://www.4493.com/images/email.png"  style="display:inline-block;"></p>
+       <div class="jingxuan ">
+       <div class="title1000"><div class="jingxuan "><div class="title1000"><div class="title jx"><a>图片精选</a></div>
+       <div class="titleleft"><a href="/meitu.htm" >每日必看</a>|<a href="/jingxuan/">热门美图</a>|<a href="/top.html">美图排行榜</a>|<a href="/xilie.html">美图系列</a>|<a href="/star/4493/" >一周精选</a></div></div>
+        </div>
+        </div>
+        <div class="img1000">
+        <ul><li><a href="/star/toushashaonv/" title="头纱美女"><i></i><img src="/images/20141113/grey.gif" lazysrc="http://img.1985t.com/uploads/previews/2016/12/0-c8T3HNN.jpg" /></a></li><li><a href="/star/suxiongmeinv/" title="酥胸美女"><i></i><img src="/images/20141113/grey.gif" lazysrc="http://img.1985t.com/uploads/previews/2016/12/0-EXtgyOt.jpg" /></a></li><li><a href="/star/gudian/" title="古典美女"><i></i><img src="/images/20141113/grey.gif" lazysrc="http://img.1985t.com/uploads/previews/2016/12/0-EDJxQdf.jpg" /></a></li><li><a href="/star/dongjimeinv/" title="冬季美女"><i></i><img src="/images/20141113/grey.gif" lazysrc="http://img.1985t.com/uploads/previews/2016/12/0-bj6QZSY.jpg" /></a></li></ul>
+        </div>            
+        </div>
+        <div class="clear"></div><div class="ibox"><script type="text/javascript">Meitu_A_D('mt_pc_3');</script></div><!--广告位：1000*90-->     
+        <div class="all_lanmu ">
+        <div class="title1000"><div class="title xg"><a>发现最新</a></div><div class="more"></div>
+        </div>
+        <ul class="twoline"><li><a href="/gaoqingmeinv/115533/1.htm" ><img src="/images/20141113/grey.gif" lazysrc="http://img.1985t.com/uploads/previews/2017/03/0-WPT1GnD.jpg" /><span>高中女生大长腿清新校园迷人制服写真</span></a><b class="b1">2017-03-24</b><b class="b2">1</b></li><li><a href="/gaoqingmeinv/115530/1.htm" ><img src="/images/20141113/grey.gif" lazysrc="http://img.1985t.com/uploads/previews/2017/03/0-5lKXagD.jpg" /><span>纯天然青春女孩假期户外放松好心情</span></a><b class="b1">2017-03-24</b><b class="b2">0</b></li><li><a href="/gaoqingmeinv/115528/1.htm" ><img src="/images/20141113/grey.gif" lazysrc="http://img.1985t.com/uploads/previews/2017/03/0-yBz6cMj.jpg" /><span>肉嘟嘟小学妹的校园时光制服过膝袜写真</span></a><b class="b1">2017-03-24</b><b class="b2">0</b></li><li><a href="/gaoqingmeinv/115522/1.htm" ><img src="/images/20141113/grey.gif" lazysrc="http://img.1985t.com/uploads/previews/2017/03/0-sXkddHe.jpg" /><span>娇小可爱甜美怡人青春期少女校园雨后写真</span></a><b class="b1">2017-03-24</b><b class="b2">0</b></li><li><a href="/gaoqingmeinv/115520/1.htm" ><img src="/images/20141113/grey.gif" lazysrc="http://img.1985t.com/uploads/previews/2017/03/0-ysNxSWg.jpg" /><span>可爱的水手服长发少女校园操场写真</span></a><b class="b1">2017-03-24</b><b class="b2">0</b></li><li><a href="/gaoqingmeinv/115518/1.htm" ><img src="/images/20141113/grey.gif" lazysrc="http://img.1985t.com/uploads/previews/2017/03/0-4rNdFNx.jpg" /><span>长腿校花美女教室里一展柔嫩腰肢制服写真</span></a><b class="b1">2017-03-24</b><b class="b2">0</b></li><li><a href="/gaoqingmeinv/115516/1.htm" ><img src="/images/20141113/grey.gif" lazysrc="http://img.1985t.com/uploads/previews/2017/03/0-0JvIMOv.jpg" /><span>安静温柔的女生阳光温馨甜美气质写真</span></a><b class="b1">2017-03-24</b><b class="b2">0</b></li><li><a href="/gaoqingmeinv/115513/1.htm" ><img src="/images/20141113/grey.gif" lazysrc="http://img.1985t.com/uploads/previews/2017/03/0-ViqvEKl.jpg" /><span>牵红点气球的小女孩阳光清新迷人写真</span></a><b class="b1">2017-03-24</b><b class="b2">0</b></li><li><a href="/gaoqingmeinv/115508/1.htm" ><img src="/images/20141113/grey.gif" lazysrc="http://img.1985t.com/uploads/previews/2017/03/0-7Ni5q8e.jpg" /><span>清丽脱俗小姑娘大汗淋漓浑身散发青春气息</span></a><b class="b1">2017-03-24</b><b class="b2">0</b></li><li><a href="/gaoqingmeinv/115506/1.htm" ><img src="/images/20141113/grey.gif" lazysrc="http://img.1985t.com/uploads/previews/2017/03/0-f4vlfcP.jpg" /><span>笑意盈盈美少女清凉甜美俏皮写真</span></a><b class="b1">2017-03-24</b><b class="b2">0</b></li></ul>            
+        </div>        
+        <div class="all_1000">
+        <div class="title1000"><div class="title mx"><a href="/star/">明星八卦</a></div><div class="more"></div>
+        </div>           
+        <div class="mx_left">           
+        <div class="mx240">
+        <div class="img240 piclunbo"><a href="/yule/115534/1.htm" class='on'><img src="/images/20141113/grey.gif" lazysrc="http://img.1985t.com/uploads/previews/2017/03/0-AeCr70H.jpg" width="240" height="150"  /><em></em><span>爽妹子耿直霸气回应，张翰这个男人我爱过！碍得着您吗！</span></a><a href="/yule/115381/1.htm" ><img src="/images/20141113/grey.gif" lazysrc="http://img.1985t.com/uploads/previews/2017/03/0-zMUIAWg.jpg" width="240" height="150"  /><em></em><span>亚洲电影大奖范冰冰再封后，离中国最佳女演员还有多远？</span></a><a href="/yule/115242/1.htm" ><img src="/images/20141113/grey.gif" lazysrc="http://img.1985t.com/uploads/previews/2017/03/0-6WzFpT0.jpg" width="240" height="150"  /><em></em><span>赵丽颖肌肉照获小迷妹杨紫表白，不过黑粉搞事情，骂的太难听了！</span></a></div>
+         <ul><li class='kuang'><a href="javascript:;" title="爽妹子耿直霸气回应，张翰这个男人我爱过！碍得着您吗！"><i></i><img src="/images/20141113/grey.gif" lazysrc="http://img.1985t.com/uploads/previews/2017/03/0-AeCr70H.jpg" width="72" height="50"  /></a></li><li ><a href="javascript:;" title="亚洲电影大奖范冰冰再封后，离中国最佳女演员还有多远？"><i></i><img src="/images/20141113/grey.gif" lazysrc="http://img.1985t.com/uploads/previews/2017/03/0-zMUIAWg.jpg" width="72" height="50"  /></a></li><li ><a href="javascript:;" title="赵丽颖肌肉照获小迷妹杨紫表白，不过黑粉搞事情，骂的太难听了！"><i></i><img src="/images/20141113/grey.gif" lazysrc="http://img.1985t.com/uploads/previews/2017/03/0-6WzFpT0.jpg" width="72" height="50"  /></a></li></ul>
+          </div>              
+         <div class="mx240_list">
+         <div class="title240"><a href="/xingganmote/" >娱乐速递</a></div>
+         <ul><li><a href="/yule/115529/1.htm">《爱情公寓》里的关谷神奇，沧桑成这样拍爱5不被看好，怒骂网友</a></li><li><a href="/yule/115458/1.htm">少年胡歌——吴磊被写进英语试卷，难道英语老师也是他的粉丝？</a></li><li><a href="/yule/115457/1.htm">范冰冰发运动海报展现好身材，网友却一致催婚！</a></li><li><a href="/yule/115456/1.htm">重磅消息，《花千骨》徐海乔恋情曝光</a></li><li><a href="/yule/115389/1.htm">演唱会上男粉丝销魂“放声” 蔡依林自己都差点没忍住</a></li><li><a href="/yule/115386/1.htm">《何以笙萧默》继唐嫣公布恋情撒狗粮，杨玏米露恋情曝光！</a></li><li><a href="/yule/115384/1.htm">《太子妃》导演再出新剧，盛一伦反转扮女装？</a></li><li><a href="/yule/115381/1.htm">亚洲电影大奖范冰冰再封后，离中国最佳女演员还有多远？</a></li><li><a href="/yule/115314/1.htm">阿娇秦奋恋情曝光 揭秘秦奋是何许人也？</a></li></ul>
+          </div>               
+          </div>
+          <div class="mx_con">           
+          <div class="mx_con_top">
+          <div class="div1">
+            <a href="/star/panchen/"><img src="/images/20141113/grey.gif" lazysrc="http://img.1985t.com/uploads/previews/2017/03/0-33rL3oj.jpg" /><span>潘辰</span><em></em></a>
+          </div>
+          <div class="div2">
+              <div class="img125120"><a href="/star/jiangmengjie/" ><img src="/images/20141113/grey.gif" lazysrc="http://img.1985t.com/uploads/previews/2016/12/0-mGpI93f.jpg" /><span>蒋梦婕</span><em></em></a></div>
+              <div class="clearh10"></div>
+              <div class="img125170"><a href="/star/zhengshuang/" ><img src="/images/20141113/grey.gif" lazysrc="http://img.1985t.com/uploads/previews/2016/12/0-ltRUh6M.jpg" /><span>郑爽</span><em></em></a></div>
+          </div>
+           <div class="div2">
+               <div class="img125170"><a href="/star/zhaoliying/" ><img src="/images/20141113/grey.gif" lazysrc="http://img.1985t.com/uploads/previews/2016/12/0-4NYacd3.jpg" /><span>赵丽颖</span><em></em></a></div>
+               <div class="clearh10"></div>
+               <div class="img125120"><a href="/star/chenqiaoen/"  ><img src="/images/20141113/grey.gif" lazysrc="http://img.1985t.com/uploads/previews/2016/12/0-lqmKQzV.jpg" /><span>陈乔恩</span><em></em></a></div>
+           </div>
+           </div>
+           <div class="mx_con_down">
+     <div class="title470">网络女神</div>
+     <div class="img155200"><a href="/star/mengxiaoyi/" ><img src="/images/20141113/grey.gif" lazysrc="http://img.1985t.com/uploads/previews/2016/12/0-XmgxdDL.jpg"  /><span>孟晓艺</span><em></em></a></div>
+            <div class="ulbox">
+            <ul><li><a href="/star/zhouzhenna/"><img src="/images/20141113/grey.gif" lazysrc="http://img.1985t.com/uploads/previews/2016/12/0-PU5WJly.jpg" /><span>周甄娜</span><em></em></a></li><li><a href="/star/huangaibi/"><img src="/images/20141113/grey.gif" lazysrc="http://img.1985t.com/uploads/previews/2016/12/0-hgKbDOP.jpg" /><span>黄艾比</span><em></em></a></li><li><a href="/star/irenechang/"><img src="/images/20141113/grey.gif" lazysrc="http://img.1985t.com/uploads/previews/2016/12/0-q2RPdyx.jpg" /><span>Irene Chang</span><em></em></a></li><li><a href="/star/limeiyun/"><img src="/images/20141113/grey.gif" lazysrc="http://img.1985t.com/uploads/previews/2016/12/0-xlXCtrF.jpg" /><span>李美云</span><em></em></a></li><li><a href="/star/xiaoxier/"><img src="/images/20141113/grey.gif" lazysrc="http://img.1985t.com/uploads/previews/2016/12/0-jedvc6u.jpg" /><span>小希儿</span><em></em></a></li><li><a href="/star/bunnyjele/"><img src="/images/20141113/grey.gif" lazysrc="http://img.1985t.com/uploads/previews/2016/12/0-wKOee77.jpg" /><span>Bunny Jele</span><em></em></a></li>
+            <div class="clear"></div>
+            </ul>
+            </div>
+            </div>         
+            </div>            
+            <div class="mx_right">
+            <div class="mx_alaal"><div class="title240">明星查询</div><div class="mx_search">
+            <form method="get"  action="/star/section">
+            <div class="search_ipt"><input name="keywords" class="s_ipt" id="searchstar" autocomplete="off" type="text" value="输入你想找的明星" onfocus="if(this.value=='输入你想找的明星'){this.value=''}; this.style.color='#666'" onblur="if(this.value==''){this.value='输入你想找的明星'}; this.style.color='#C0C0C0'" />
+            <input type="hidden" id="filed_quyu" name="quyu" value="0" />
+            <input type="hidden" id="filed_fenlei" name="fenlei" value="0" />
+            <input class="serch_btn" type="submit" value="搜索">
+            </div>                
+            </form>
+            </div>
+            <div class="taglist_outer"><dl class="taglist"><dt>按区域搜索:</dt><dd id="div_genre" data='quyu'><a href="/star/section?sex=0&fenlei=0&quyu=1" data="1">内地</a><a href="/star/section?sex=0&fenlei=0&quyu=2" data="2">港台</a><a href="/star/section?sex=0&fenlei=0&quyu=3" data="3">日韩</a><a href="/star/section?sex=0&fenlei=0&quyu=4" data="4">欧美</a></dd></dl>
+            <div class="tagsearch">热门搜索明星:<a href="/star/luhan/"  >鹿晗</a><a href="/star/huge/"   >胡歌</a><a href="/star/wuyifan/"  >吴亦凡</a><a href="/star/songzhongji/"  >宋仲基</a><a href="/star/zhaoliying/"  >赵丽颖</a><a href="/star/zhangtianai/"  >张天爱</a><a href="/star/linian/"  >李念</a><a href="/star/gulinazha/"  >古力娜扎</a></div>
+      </div>            
+      </div>                
+      <div class="big_lunhuan">
+                <!--事件报道-->
+            <div class="mod-hd"><div class="mod-hd-title"></div></div>
+                <!--事件报道-->
+                <!--accordition-->
+       <script>
+       $(function(){
+         $('.mypicchange ul li').bind('mouseover',function(){
+           $('.mypicchange ul li').removeClass('on');
+           $(this).addClass('on');
+         });
+       });
+       </script>
+            <div class="accordion-news-side">
+                <div class="mypicchange">
+                <ul><li class='on'><div class="yuletit"><a href="/yule/115531/1.htm">致雨概率60%，中国气象局关注萧敬腾，雨神地位获认可</a></div><div class="yulepic"><div class="h3"><a href="/yule/115531/1.htm">致雨概率60%，中国气象局关注萧敬腾，雨神地位获认可</a></div><p><a href="/yule/115531/1.htm" title="致雨概率60%，中国气象局关注萧敬腾，雨神地位获认可"><img src="/images/20141113/grey.gif" lazysrc="http://img.1985t.com/uploads/previews/2017/03/0-Xl3YN6n.jpg" width="238" ></a></p></div></li><li ><div class="yuletit"><a href="/yule/115529/1.htm">《爱情公寓》里的关谷神奇，沧桑成这样拍爱5不被看好，怒骂网友</a></div><div class="yulepic"><div class="h3"><a href="/yule/115529/1.htm">《爱情公寓》里的关谷神奇，沧桑成这样拍爱5不被看好，怒骂网友</a></div><p><a href="/yule/115529/1.htm" title="《爱情公寓》里的关谷神奇，沧桑成这样拍爱5不被看好，怒骂网友"><img src="/images/20141113/grey.gif" lazysrc="http://img.1985t.com/uploads/previews/2017/03/0-2CUFdWq.jpg" width="238" ></a></p></div></li><li ><div class="yuletit"><a href="/yule/115457/1.htm">范冰冰发运动海报展现好身材，网友却一致催婚！</a></div><div class="yulepic"><div class="h3"><a href="/yule/115457/1.htm">范冰冰发运动海报展现好身材，网友却一致催婚！</a></div><p><a href="/yule/115457/1.htm" title="范冰冰发运动海报展现好身材，网友却一致催婚！"><img src="/images/20141113/grey.gif" lazysrc="http://img.1985t.com/uploads/previews/2017/03/0-iL7KXtG.jpg" width="238" ></a></p></div></li><li ><div class="yuletit"><a href="/yule/115456/1.htm">重磅消息，《花千骨》徐海乔恋情曝光</a></div><div class="yulepic"><div class="h3"><a href="/yule/115456/1.htm">重磅消息，《花千骨》徐海乔恋情曝光</a></div><p><a href="/yule/115456/1.htm" title="重磅消息，《花千骨》徐海乔恋情曝光"><img src="/images/20141113/grey.gif" lazysrc="http://img.1985t.com/uploads/previews/2017/03/0-rP9gf3X.jpg" width="238" ></a></p></div></li><li ><div class="yuletit"><a href="/yule/115386/1.htm">《何以笙萧默》继唐嫣公布恋情撒狗粮，杨玏米露恋情曝光！</a></div><div class="yulepic"><div class="h3"><a href="/yule/115386/1.htm">《何以笙萧默》继唐嫣公布恋情撒狗粮，杨玏米露恋情曝光！</a></div><p><a href="/yule/115386/1.htm" title="《何以笙萧默》继唐嫣公布恋情撒狗粮，杨玏米露恋情曝光！"><img src="/images/20141113/grey.gif" lazysrc="http://img.1985t.com/uploads/previews/2017/03/0-9I2dnHV.jpg" width="238" ></a></p></div></li></ul>
+                </div>
+            </div>
+               <!--accordition-->
+      </div>        
+            </div>
+            </div>
+        <div class="all_lanmu ">
+        <div class="title1000"><div class="title mytitle myw_sexy"><a href="/xingganmote/" >性感美女</a></div><div class="more"><a href="/xingganmote/" >MORE+</a></div></div>
+        <ul class="twoline"><li><a href="/xingganmote/115567/1.htm" ><img src="/images/20141113/grey.gif" lazysrc="http://img.1985t.com/uploads/previews/2017/03/0-h7HkIpt.jpg" /><span>夏门之旅的美女晓茜酒店内衣丰满甜美温馨写真</span></a><b class="b1">2017-03-24</b><b class="b2">0</b></li><li><a href="/xingganmote/115566/1.htm" ><img src="/images/20141113/grey.gif" lazysrc="http://img.1985t.com/uploads/previews/2017/03/0-fH0VmyC.jpg" /><span>性感的尤物娜依灵儿沙滩性感比基尼装写真</span></a><b class="b1">2017-03-24</b><b class="b2">0</b></li><li><a href="/xingganmote/115565/1.htm" ><img src="/images/20141113/grey.gif" lazysrc="http://img.1985t.com/uploads/previews/2017/03/0-rkmGMBD.jpg" /><span>胸口上有着纹身的漂亮妹子绮里嘉Ula丰满内衣写真</span></a><b class="b1">2017-03-24</b><b class="b2">0</b></li><li><a href="/xingganmote/115564/1.htm" ><img src="/images/20141113/grey.gif" lazysrc="http://img.1985t.com/uploads/previews/2017/03/0-taBoUXU.jpg" /><span>国外普吉岛气质女生楚楚Milk甜美风韵写真</span></a><b class="b1">2017-03-24</b><b class="b2">0</b></li><li><a href="/xingganmote/115563/1.htm" ><img src="/images/20141113/grey.gif" lazysrc="http://img.1985t.com/uploads/previews/2017/03/0-WAXao6o.jpg" /><span>瓶中精灵张晓梵Vivian性感巨乳旅游甜美写真</span></a><b class="b1">2017-03-24</b><b class="b2">0</b></li><li><a href="/xingganmote/115550/1.htm" ><img src="/images/20141113/grey.gif" lazysrc="http://img.1985t.com/uploads/previews/2017/03/0-9Iphukh.jpg" /><span>性感女孩脸色绯红活力俏皮写真</span></a><b class="b1">2017-03-24</b><b class="b2">0</b></li><li><a href="/xingganmote/115547/1.htm" ><img src="/images/20141113/grey.gif" lazysrc="http://img.1985t.com/uploads/previews/2017/03/0-L7CaInJ.jpg" /><span>美胸电眼美女私房穿白衬衫内衣诱惑写真</span></a><b class="b1">2017-03-24</b><b class="b2">0</b></li><li><a href="/xingganmote/115546/1.htm" ><img src="/images/20141113/grey.gif" lazysrc="http://img.1985t.com/uploads/previews/2017/03/0-1KKKPPC.jpg" /><span>温柔美色内衣美女私房养眼魅力十足</span></a><b class="b1">2017-03-24</b><b class="b2">0</b></li><li><a href="/xingganmote/115504/1.htm" ><img src="/images/20141113/grey.gif" lazysrc="http://img.1985t.com/uploads/previews/2017/03/0-pOKqJ1M.jpg" /><span>表情销魂大胸美女周琰琳真空吊带衫性感写真</span></a><b class="b1">2017-03-24</b><b class="b2">0</b></li><li><a href="/xingganmote/115500/1.htm" ><img src="/images/20141113/grey.gif" lazysrc="http://img.1985t.com/uploads/previews/2017/03/0-n5mtbTe.jpg" /><span>性感丰满巨乳女神翘臀妖娆极致诱惑</span></a><b class="b1">2017-03-24</b><b class="b2">0</b></li></ul>            
+        </div>        
+        <div class="all_lanmu ">
+        <div class="title1000"><div class="title mytitle myw_fresh"><a href="/weimeixiezhen/" >清新唯美</a></div><div class="more"><a href="/weimeixiezhen/" >MORE+</a></div></div>
+        <ul class="twoline"><li><a href="/weimeixiezhen/115556/1.htm" ><img src="/images/20141113/grey.gif" lazysrc="http://img.1985t.com/uploads/previews/2017/03/0-PY3PTgW.jpg" /><span>阳光下弹钢琴的女孩蕾丝礼裙专注认真</span></a><b class="b1">2017-03-24</b><b class="b2">0</b></li><li><a href="/weimeixiezhen/115554/1.htm" ><img src="/images/20141113/grey.gif" lazysrc="http://img.1985t.com/uploads/previews/2017/03/0-B6aJVyL.jpg" /><span>樱桃美女的早晨时光躺在床上娇躯迷人</span></a><b class="b1">2017-03-24</b><b class="b2">0</b></li><li><a href="/weimeixiezhen/115553/1.htm" ><img src="/images/20141113/grey.gif" lazysrc="http://img.1985t.com/uploads/previews/2017/03/0-orGnCIF.jpg" /><span>深林内如痴如醉跳舞的红裙美女展示好身材</span></a><b class="b1">2017-03-24</b><b class="b2">0</b></li><li><a href="/weimeixiezhen/115551/1.htm" ><img src="/images/20141113/grey.gif" lazysrc="http://img.1985t.com/uploads/previews/2017/03/0-0PID2yp.jpg" /><span>梦醒时红色裸肩裙美女倚靠大树歇息</span></a><b class="b1">2017-03-24</b><b class="b2">0</b></li><li><a href="/weimeixiezhen/115549/1.htm" ><img src="/images/20141113/grey.gif" lazysrc="http://img.1985t.com/uploads/previews/2017/03/0-SaLmNRh.jpg" /><span>樱花和服美女随手拿扇子唯美浪漫写真</span></a><b class="b1">2017-03-24</b><b class="b2">0</b></li><li><a href="/weimeixiezhen/115548/1.htm" ><img src="/images/20141113/grey.gif" lazysrc="http://img.1985t.com/uploads/previews/2017/03/0-M2HA92A.jpg" /><span>竹林内提灯笼的古装美女吹箫清丽脱俗</span></a><b class="b1">2017-03-24</b><b class="b2">0</b></li><li><a href="/weimeixiezhen/115545/1.htm" ><img src="/images/20141113/grey.gif" lazysrc="http://img.1985t.com/uploads/previews/2017/03/0-V2nzl8V.jpg" /><span>淡色气球美女镂空裙躺在床上美丽动人</span></a><b class="b1">2017-03-24</b><b class="b2">0</b></li><li><a href="/weimeixiezhen/115544/1.htm" ><img src="/images/20141113/grey.gif" lazysrc="http://img.1985t.com/uploads/previews/2017/03/0-TzL1GHa.jpg" /><span>盛夏如花美女公园内照相白衬衫小清新</span></a><b class="b1">2017-03-24</b><b class="b2">0</b></li><li><a href="/weimeixiezhen/115542/1.htm" ><img src="/images/20141113/grey.gif" lazysrc="http://img.1985t.com/uploads/previews/2017/03/0-sSXYVMt.jpg" /><span>深山木屋美女头戴花环蕾丝裙清新仙气足</span></a><b class="b1">2017-03-24</b><b class="b2">0</b></li><li><a href="/weimeixiezhen/115536/1.htm" ><img src="/images/20141113/grey.gif" lazysrc="http://img.1985t.com/uploads/previews/2017/03/0-8Aoilt1.jpg" /><span>纯净美女白色薄纱裙清新安静怡人写真</span></a><b class="b1">2017-03-24</b><b class="b2">0</b></li></ul>            
+        </div>        
+        <div class="all_lanmu ">
+        <div class="title1000"><div class="title mytitle myw_beauty"><a href="/wangluomeinv/" >网络美女</a></div><div class="more"><a href="/wangluomeinv/">MORE+</a></div></div>
+        <ul class="twoline"><li><a href="/wangluomeinv/115505/1.htm" ><img src="/images/20141113/grey.gif" lazysrc="http://img.1985t.com/uploads/previews/2017/03/0-SSqJCif.jpg" /><span>高挑美女许诺Sabrina超短裙翘臀撩人诱惑</span></a><b class="b1">2017-03-24</b><b class="b2">0</b></li><li><a href="/wangluomeinv/115503/1.htm" ><img src="/images/20141113/grey.gif" lazysrc="http://img.1985t.com/uploads/previews/2017/03/0-xA6W9A4.jpg" /><span>丝足女神许诺Sabrina蕾丝比基尼山谷爆乳诱惑</span></a><b class="b1">2017-03-24</b><b class="b2">0</b></li><li><a href="/wangluomeinv/115502/1.htm" ><img src="/images/20141113/grey.gif" lazysrc="http://img.1985t.com/uploads/previews/2017/03/0-mHYSlZ8.jpg" /><span>美艳女仆许诺Sabrina角色扮演真空露乳</span></a><b class="b1">2017-03-24</b><b class="b2">0</b></li><li><a href="/wangluomeinv/115501/1.htm" ><img src="/images/20141113/grey.gif" lazysrc="http://img.1985t.com/uploads/previews/2017/03/0-sB83Hx1.jpg" /><span>性感少妇霓虹心浴缸惹火湿身迷人</span></a><b class="b1">2017-03-24</b><b class="b2">0</b></li><li><a href="/wangluomeinv/115499/1.htm" ><img src="/images/20141113/grey.gif" lazysrc="http://img.1985t.com/uploads/previews/2017/03/0-EgisZUW.jpg" /><span>金发女郎金卓然黑色制服翘臀性感冷艳</span></a><b class="b1">2017-03-24</b><b class="b2">0</b></li><li><a href="/wangluomeinv/115498/1.htm" ><img src="/images/20141113/grey.gif" lazysrc="http://img.1985t.com/uploads/previews/2017/03/0-sarIINn.jpg" /><span>撩人美女金卓然裹身裙御姐风格自拍照</span></a><b class="b1">2017-03-24</b><b class="b2">0</b></li><li><a href="/wangluomeinv/115497/1.htm" ><img src="/images/20141113/grey.gif" lazysrc="http://img.1985t.com/uploads/previews/2017/03/0-jRYHUDt.jpg" /><span>诱惑无限的性感mm张馥棋大胸迷人火辣室内写真</span></a><b class="b1">2017-03-24</b><b class="b2">0</b></li><li><a href="/wangluomeinv/115496/1.htm" ><img src="/images/20141113/grey.gif" lazysrc="http://img.1985t.com/uploads/previews/2017/03/0-99jz1Zf.jpg" /><span>乳此销魂的豹纹美女张馥棋肉感十足勾魂诱惑</span></a><b class="b1">2017-03-24</b><b class="b2">0</b></li><li><a href="/wangluomeinv/115495/1.htm" ><img src="/images/20141113/grey.gif" lazysrc="http://img.1985t.com/uploads/previews/2017/03/0-3SHflBd.jpg" /><span>火爆美女张馥棋酥胸半露撩人心扉</span></a><b class="b1">2017-03-24</b><b class="b2">0</b></li><li><a href="/wangluomeinv/115494/1.htm" ><img src="/images/20141113/grey.gif" lazysrc="http://img.1985t.com/uploads/previews/2017/03/0-4o7vlLO.jpg" /><span>萝莉妹子兜豆靓Youlina过膝袜美腿雪地写真</span></a><b class="b1">2017-03-24</b><b class="b2">0</b></li></ul>            
+        </div>        
+        <div class="all_lanmu ">
+        <div class="title1000"><div class="title mytitle myw_model"><a href="/motemeinv/" >模特美女</a></div><div class="more"><a href="/motemeinv/" >MORE+</a></div></div>
+        <ul class="oneline"><li><a href="/motemeinv/115521/1.htm" ><img src="/images/20141113/grey.gif" lazysrc="http://img.1985t.com/uploads/previews/2017/03/0-i6JOOiJ.jpg" /><span>爱照相的青春娇艳美女模特亮丽迷人诱惑</span></a><b class="b1">2017-03-24</b><b class="b2">0</b></li><li><a href="/motemeinv/115519/1.htm" ><img src="/images/20141113/grey.gif" lazysrc="http://img.1985t.com/uploads/previews/2017/03/0-vBPDDVm.jpg" /><span>花瓣下的吊带裙美模娇躯迷人撩人心魄勾引人</span></a><b class="b1">2017-03-24</b><b class="b2">0</b></li><li><a href="/motemeinv/115517/1.htm" ><img src="/images/20141113/grey.gif" lazysrc="http://img.1985t.com/uploads/previews/2017/03/0-mIha2hQ.jpg" /><span>沙发美女模特深V高叉裙摆出动人姿势美胸诱惑</span></a><b class="b1">2017-03-24</b><b class="b2">0</b></li><li><a href="/motemeinv/115515/1.htm" ><img src="/images/20141113/grey.gif" lazysrc="http://img.1985t.com/uploads/previews/2017/03/0-kgN5JV5.jpg" /><span>朦胧中的性感身姿美模逆天高腰吸晴十足</span></a><b class="b1">2017-03-24</b><b class="b2">0</b></li><li><a href="/motemeinv/115514/1.htm" ><img src="/images/20141113/grey.gif" lazysrc="http://img.1985t.com/uploads/previews/2017/03/0-l8h5dlM.jpg" /><span>街拍红发美女模特牛仔连衣裙休闲潮范十足</span></a><b class="b1">2017-03-24</b><b class="b2">0</b></li></ul>            
+        </div> 
+    <div class="all_lanmu ">
+        <div class="title1000"><div class="title mytitle myw_battoo"><a href="/wenshen.html">纹身图案</a></div><div class="more"><a href="/wenshen.html">MORE+</a></div></div>
+        <ul class="oneline"><li><a href="/wenshen/yingwen/115424/1.htm"><img src="/images/20141113/grey.gif" lazysrc="http://img.1985t.com/uploads/previews/2017/03/0-DgvzrpS.jpg" /><span>手臂时尚好看的英文纹身图案</span></a><b class="b1">2017-03-22</b><b class="b2">0</b></li><li><a href="/wenshen/yingwen/115423/1.htm"><img src="/images/20141113/grey.gif" lazysrc="http://img.1985t.com/uploads/previews/2017/03/0-9WvM9mt.jpg" /><span>侧腰部的个性时尚英文纹身刺青</span></a><b class="b1">2017-03-22</b><b class="b2">0</b></li><li><a href="/wenshen/shoubi/115422/1.htm"><img src="/images/20141113/grey.gif" lazysrc="http://img.1985t.com/uploads/previews/2017/03/0-jhCiUIm.jpg" /><span>个性女孩手臂鲜艳的花朵纹身刺青</span></a><b class="b1">2017-03-22</b><b class="b2">0</b></li><li><a href="/wenshen/nvsheng/115421/1.htm"><img src="/images/20141113/grey.gif" lazysrc="http://img.1985t.com/uploads/previews/2017/03/0-snMb6Wl.jpg" /><span>性感迷人的一款花朵纹身图案</span></a><b class="b1">2017-03-22</b><b class="b2">0</b></li><li><a href="/wenshen/shoubi/115420/1.htm"><img src="/images/20141113/grey.gif" lazysrc="http://img.1985t.com/uploads/previews/2017/03/0-FlySjhT.jpg" /><span>一朵鲜艳的花朵手臂纹身刺青</span></a><b class="b1">2017-03-22</b><b class="b2">0</b></li></ul>            
+        </div>   
+           
+  		<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<meta http-equiv="Cache-Control" content="no-transform" />
+<meta http-equiv="Cache-Control" content="no-siteapp" />
+<title>4493桌面壁纸首页推荐</title>
+<script type="text/javascript" src="http://4493bz.1985t.com/templets/bizhi/js/jquery-1.7.2.min.js"></script>
+<script>
+//鼠标经过效果
+function myhover(dom){
+	$(dom).hover(function(){
+		$(this).addClass('hover');
+	},function(){
+		$(this).removeClass('hover');
+	})
+}
+$(function(){
+	myhover('.gqbz li');
+})
+</script>
+<style>
+*html{background-image:url(about:blank);background-attachment:fixed;}
+body {font-family: "宋体";font-size: 12px;margin:0 auto;padding:0;color:#111111;}
+div, form, img, ul, ol, li, dl, dt, dd {margin: 0;padding: 0;border:0;}
+li {list-style-type:none;}
+* {margin:0;padding:0;}
+em,h1,h2,h3,h4,h5,h6,i {font-size:100%;font-style:normal;}
+img{border:0}
+body, html {height:100%;}
+em {font-weight:normal;}
+/* link */
+a{color: #5D5D5D;text-decoration:none;}
+a:visited {}
+a:hover {color: #cc3399;text-decoration:none;}
+a:active {}
+
+.all_gqbz{ width:1000px; overflow:hidden; margin:0 auto;}
+.title1000{ float:left; width:1000px; height:60px; overflow:hidden;}
+.title1000 .title{ display:inline;}
+.title1000 .title a{ float:left; width:200px; height:60px; display:block; overflow:hidden; text-indent:-99999px; }
+
+.title1000 .mt a,.gqbz li .b1, .gqbz li .b2{ background:url(http://4493bz.1985t.com/images/new4493/bgpic.png) no-repeat; }
+.title1000 .mt a {background-position: 0 -498px; width:230px;}
+.title1000 .more a{ float:right; width:45px; height:25px;text-align:center;  display: inline-block;margin-top:20px; font:normal 12px/25px "Microsoft Yahei"; color:#5d5d5d; color:#666;  }
+.title1000 .more a:hover{ color:#c39;}
+
+/*高清壁纸*/
+.gqbz{ float:left; width:750px; margin-bottom:10px;}
+.gqbz ul{ float:left; width:765px; overflow:hidden;}
+.gqbz li{ float:left; width:240px; height:217px; overflow:hidden; margin-right:15px;}
+.gqbz li:hover{ background-color:#f7f7f7;}
+.gqbz li a{ color:#717171; font:normal 12px/30px "宋体";}
+.gqbz li a img{ float:left; width:240px; height:150px; overflow:hidden;}
+.gqbz li a span{ float:left; width:240px; height:30px; padding:0px 9px; overflow:hidden;}
+.gqbz li.hover a span{ /*text-decoration:underline;*/ color:#c39;}
+.gqbz li b{ float:left; width:60px; height:25px; overflow:hidden; padding-left:24px;  font: normal 12px/20px "宋体"; color:#999999;}
+.gqbz li .b1{ float:left; background-position:-241px -740px;}
+.gqbz li .b2{ float:right; background-position:-241px -766px;}
+.gqbz li.hover .b1{ float:left; background-position:-241px -569px;}
+.gqbz li.hover .b2{ float:right; background-position:-241px -595px}
+
+/*热门壁纸*/
+.gqbz225{ float:right;  width:225px; overflow:hidden; }
+.gqbz225 .ti{ width:225px; height:30px; overflow:hidden; font:normal 16px/30px "Microsoft Yahei"; margin-top:10px; color:#666;}
+.gqbz225 ul li{ height:26px; line-height:26px; overflow:hidden;}
+.gqbz225 ul li em{ float:left; width:16px; height:16px; display:block; line-height:16px; text-align:center; font-style: normal; font-family:"Microsoft Yahei"; color:#FFF; background:#5d5d5d; margin-top:6px; margin-right:6px; }
+.gqbz225 ul li .col{ background:#cc3399}
+</style>
+</head>
+
+<body>
+<div class="all_gqbz">
+        <div class="title1000">
+            <div class="title mt"><a href="http://bizhi.4493.com/" target="_blank">高清壁纸</a></div>
+            <div class="more">
+                <a href="http://bizhi.4493.com/" target="_blank">MORE+</a>
+            </div>
+        </div>
+        <div class="gqbz">
+            <ul>
+            <li><a href="http://bizhi.4493.com/image/29434.html" target="_blank"><img src="http://4493bz.1985t.com/uploads/170313/5-1F313144R32W.jpg"><span>五颜六色的马卡龙蛋糕高清电脑桌</span></a><b class="b1">2017-03-13 14:49:01</b><b class="b2">0</b></li>
+<li><a href="http://bizhi.4493.com/image/29433.html" target="_blank"><img src="http://4493bz.1985t.com/uploads/170313/5-1F313144FLB.jpg"><span>私房性感短发气质女神高清电脑桌</span></a><b class="b1">2017-03-13 14:49:06</b><b class="b2">0</b></li>
+<li><a href="http://bizhi.4493.com/image/29432.html" target="_blank"><img src="http://4493bz.1985t.com/uploads/170313/5-1F31314461bB.jpg"><span>唯美动漫水中少女高清电脑桌面壁</span></a><b class="b1">2017-03-13 14:49:12</b><b class="b2">0</b></li>
+<li><a href="http://bizhi.4493.com/image/29431.html" target="_blank"><img src="http://4493bz.1985t.com/uploads/170313/5-1F313144252551.jpg"><span>铁轨上的忧郁文艺女孩唯美壁纸桌</span></a><b class="b1">2017-03-13 14:49:33</b><b class="b2">0</b></li>
+<li><a href="http://bizhi.4493.com/image/29430.html" target="_blank"><img src="http://4493bz.1985t.com/uploads/170313/5-1F313144155193.jpg"><span>清新露肩阳光少女写真电脑桌面壁</span></a><b class="b1">2017-03-13 14:49:18</b><b class="b2">0</b></li>
+<li><a href="http://bizhi.4493.com/image/29428.html" target="_blank"><img src="http://4493bz.1985t.com/uploads/170313/5-1F313143K01B.jpg"><span>黑岩射手帅气高清海报电脑桌面壁</span></a><b class="b1">2017-03-13 14:49:27</b><b class="b2">0</b></li>
+
+            </ul>
+        </div>
+        
+        <div class="gqbz225">
+            <a href="http://bizhi.4493.com/special/tzjzsrcyl.html" target="_blank"><img src="http://4493bz.1985t.com/uploads/161209/3-16120ZR232L2.png"></a>
+            <div class="ti">热门壁纸</div>
+            <ul>
+            <li><em class='col'>1</em><a href="http://bizhi.4493.com/image/29434.html" title="五颜六色的马卡龙蛋糕高清电脑桌" target="_blank">五颜六色的马卡龙蛋糕高清电脑桌</a></li>
+<li><em class='col'>2</em><a href="http://bizhi.4493.com/image/29433.html" title="私房性感短发气质女神高清电脑桌" target="_blank">私房性感短发气质女神高清电脑桌</a></li>
+<li><em class='col'>3</em><a href="http://bizhi.4493.com/image/29432.html" title="唯美动漫水中少女高清电脑桌面壁" target="_blank">唯美动漫水中少女高清电脑桌面壁</a></li>
+<li><em>4</em><a href="http://bizhi.4493.com/image/29431.html" title="铁轨上的忧郁文艺女孩唯美壁纸桌" target="_blank">铁轨上的忧郁文艺女孩唯美壁纸桌</a></li>
+<li><em>5</em><a href="http://bizhi.4493.com/image/29430.html" title="清新露肩阳光少女写真电脑桌面壁" target="_blank">清新露肩阳光少女写真电脑桌面壁</a></li>
+<li><em>6</em><a href="http://bizhi.4493.com/image/29429.html" title="春季唯美花卉高清电脑桌面壁纸" target="_blank">春季唯美花卉高清电脑桌面壁纸</a></li>
+<li><em>7</em><a href="http://bizhi.4493.com/image/29428.html" title="黑岩射手帅气高清海报电脑桌面壁" target="_blank">黑岩射手帅气高清海报电脑桌面壁</a></li>
+<li><em>8</em><a href="http://bizhi.4493.com/image/29427.html" title="清新海边的帆船高清电脑桌面壁纸" target="_blank">清新海边的帆船高清电脑桌面壁纸</a></li>
+<li><em>9</em><a href="http://bizhi.4493.com/image/29426.html" title="世界树与恋爱魔法使电脑游戏高清" target="_blank">世界树与恋爱魔法使电脑游戏高清</a></li>
+<li><em>10</em><a href="http://bizhi.4493.com/image/29425.html" title="清新私房优质美女电脑桌面壁纸" target="_blank">清新私房优质美女电脑桌面壁纸</a></li>
+
+			</ul>                
+        </div>
+                  
+    </div>
+
+<img style='display:none;' src='http://www.4493.com/akcms_inc.php?i=1' />
+</body>
+</html>        <div class="all_lanmu">       
+        <div class=" ">
+        <div id="sjgq">  
+  <div class="bd">
+        <div class="day"><img src="http://img.1985t.com/pics/img200100.jpg" /></div> 
+         <div class="pic0"><div class="inner"><a href="/weimeixiezhen/109852.htm" ><img src="http://img.1985t.com/uploads/previews/2016/12/0-EGEe9fK.jpg"></a> <div class="undis"><a href="/weimeixiezhen/109852.htm"  class="txt">私房短发蕾丝黑纱美女侧颜美艳动人</a><div class="cover"></div><div class="border"><a href="/weimeixiezhen/109852.htm" ></a></div></div></div></div>
+         <div class="pic1"><div class="inner"><a href="/gaoqingmeinv/108397.htm" ><img src="http://img.1985t.com/uploads/previews/2016/11/0-qYQ78Bh.jpg" ></a> <div class="undis"><a href="/gaoqingmeinv/108397.htm"  class="txt">气质美女阳光制服小露美胸包裹着的迷人身姿</a><div class="cover"></div><div class="border"><a href="/gaoqingmeinv/108397.htm" ></a></div></div></div></div> 
+         <div class="pic2"> <div class="inner"><a href="/xingganmote/111282.htm" ><img src="http://img.1985t.com/uploads/previews/2016/12/0-1ffS27B.jpg" ></a> <div class="undis"><a href="/xingganmote/111282.htm"  class="txt">清纯妹子私房内衣性感迷人阳光写真</a><div class="cover"></div><div class="border"><a href="/xingganmote/111282.htm" ></a></div></div></div></div> 
+         <div class="pic3"> <div class="inner"><a href="/wangluomeinv/109023.htm" ><img src="http://img.1985t.com/uploads/previews/2016/11/0-NKgdfAi.jpg" ></a> <div class="undis"><a href="/wangluomeinv/109023.htm"  class="txt">惹火美女吊带背心雪白爆乳呼之欲出</a><div class="cover"></div><div class="border"><a href="/wangluomeinv/109023.htm" ></a></div></div></div></div> 
+         <div class="pic4"><div class="inner"><a href="/xingganmote/111178.htm" ><img src="http://img.1985t.com/uploads/previews/2016/12/0-uCQFzms.jpg" ></a><div class="undis"><a href="/xingganmote/111178.htm"  class="txt">惹火美女周予然高跟爆乳窗台风情万种</a><div class="cover"></div><div class="border"><a href="/xingganmote/111178.htm" ></a></div></div></div></div> 
+         <div class="pic5"> <div class="inner"><a href="/xingganmote/111043.htm" ><img src="http://img.1985t.com/uploads/previews/2016/12/0-9hhk6Iz.jpg" ></a> <div class="undis"><a href="/xingganmote/111043.htm"  class="txt">90后大胸美女顾灿性感美胸诱惑写真</a><div class="cover"></div><div class="border"><a href="/xingganmote/111043.htm" ></a></div></div></div></div> 
+         <div class="pic6"> <div class="inner"><a href="/siwameitui/108982.htm" ><img src="http://img.1985t.com/uploads/previews/2016/11/0-bJYHypu.jpg" ></a> <div class="undis"><a href="/siwameitui/108982.htm"  class="txt">球衣丰满美女顾籼过膝袜美腿粉臀惊艳写真</a><div class="cover"></div><div class="border"><a href="/siwameitui/108982.htm" ></a></div></div></div></div> 
+        
+    </div>
+    </div>  
+    <script type="text/javascript">  $(function(){$('.inner').hover(function(){$(this).find('div').eq(0).attr('class','dis');},function(){$(this).find('div').eq(0).attr('class','undis');})})</script>                 
+    </div>   
+    </div>
+    <div class="friendlinks"><div class="linkbt"><span class="title">友情链接</span></div><p><a  href="/star/">明星图库</a>
+<a  href="/wenshen.html">纹身图案</a>
+<a  href="http://bizhi.4493.com/" target="_blank">高清桌面壁纸</a>
+<a  href="http://www.easyzw.com/" target="_blank">作文大全</a>
+<a  href="http://www.uumnt.com/" target="_blank">优优美女图片</a>
+<a  href="http://games.sina.com.cn/photo/" target="_blank">新浪游戏美图</a>
+<a  href="http://www.netbian.com/" target="_blank">壁纸</a>
+<a  href="http://www.mingxing.com/" target="_blank">明星图片</a>
+<a  href="http://pic.yesky.com/" target="_blank">天极图片</a>
+<a  href="http://www.haotijin.com/" target="_blank">冷笑话大全</a>
+<a  href="http://www.99zuowen.com/" target="_blank">初中作文</a>
+<a  href="http://www.6681.com/" target="_blank">养生</a>
+<a  href="http://www.wmpic.me/" target="_blank">美图</a>
+<a  href="http://www.youzi4.com/" target="_blank">美女图片</a>
+<a  href="http://www.mingxing.com/" target="_blank">明星网</a>
+<a  href="http://www.juemo.com/" target="_blank">绝色模特</a>
+<a  href="http://www.qqpk.cn/" target="_blank">唯美图片</a>
+<a  href="http://www.ffpic.com/" target="_blank">素材天下</a>
+<a  href="http://www.7160.com/" target="_blank">美女</a>
+<a  href="http://www.fzlu.com/" target="_blank">非主流图片</a>
+<a  href="http://www.33.la/" target="_blank">高清壁纸</a>
+<a  href="http://www.tupianzj.com/" target="_blank">美女图片</a>
+<a  href="http://www.gtmm.net/" target="_blank">性感美女图片</a>
+<a  href="http://www.shaimn.com/" target="_blank">性感美女图片</a>
+<a  href="http://www.17786.com/" target="_blank">高清美女图片</a>
+<a  href="http://www.aitaotu.com/" target="_blank">美女图片</a>
+<a  href="http://www.enterdesk.com/" target="_blank">电脑桌面壁纸</a>
+<a  href="http://www.henha.com/" target="_blank">美女图片</a>
+<a  href="http://www.55156.com/" target="_blank">套图超市</a>
+<a  href="http://www.27270.com/" target="_blank">图片大全</a>
+<a  href="http://www.mmonly.cc/" target="_blank">美女图片</a>
+<a  href="http://www.duanwenxue.com/" target="_blank">短篇原创文学</a>
+<a  href="http://www.juxia.com/" target="_blank">聚侠网页游戏</a>
+<a  href="http://www.wmpic.me/" target="_blank">唯美图片</a>
+<a  href="http://www.3234.com/" target="_blank">3234单机游戏</a>
+<a  href="http://www.2cto.com/" target="_blank">红黑联盟</a>
+<a  href="http://www.jqr5.com/" target="_blank">机器人</a>
+<a  href="http://www.lieqi.me/" target="_blank">猎奇</a>
+<a  href="http://www.2280.com/" target="_blank">周公解梦</a>
+<a  href="http://www.ys8.com/" target="_blank">养生吧</a>
+<a  href="http://www.45575.com/" target="_blank">45575小游戏</a></p>
+    </div>
+    </div>
+    <div class="indexfooter">
+    <div  class="foot"><div class="f_about"><ul><li><a href="#">联系我们</a></li><li><a href="#" data-href="/about.html#content2">商务合作</a></li><li class="foot4"></li><li><a href="/about/copyright.html">版权声明</a></li><li><a href="/about/disclaimer.html">免责声明</a></li></ul></div>
+    <p><a href="/">4493美图</a>网提供的<a href="/">性感美女图片</a>属于借花散香，博众同乐。4493美女图片所有的<a href="/">美女图片</a>版权归原作者属有，未得到原作者授权下，请勿把4493美图网的美女图片用于商业用途。<br /><a href="javascript:;" onClick="openpop(popboxreg)">注册</a> | <a href="javascript:;" onClick="openpop(popboxlogin)">登录</a><br /><a href="/meitu-1.htm">4493最新美图</a> &#169; 2009-2013 All Rights Reserved www.4493.com 版权所有 闽ICP备16020348号-1 </p>
+    <script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_30040472'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "w.cnzz.com/c.php%3Fid%3D30040472' type='text/javascript'%3E%3C/script%3E"));</script>
+    <script>
+  var _hmt = _hmt || [];
+  (function() {
+    var hm = document.createElement("script");
+    hm.src = "//hm.baidu.com/hm.js?65d17d8c0da1175e9c1d1e00ed413540";
+    var s = document.getElementsByTagName("script")[0]; 
+    s.parentNode.insertBefore(hm, s);
+  })();
+  </script>
+</div>
+    </div>
+    <div id="back-to-top" class="back-to-top" ><a href="javascript:void(0);" id="back-to-top-btn">?</a></div>
+    <script type="text/javascript" src="/js/20141113/IE6Top.js"></script>
+    <div id="cbbfixed">
+    <div class="dingyue">
+    <a href="javascript:;"></a>
+    <div class="qqdingyue">
+        <!--以下是QQ邮件列表订阅嵌入代码-->
+    <script >var nId = "6a653698365efe0206bf0227a717960bf5d91553e9e2f3f6",nWidth="auto",sColor="light",sText="填写您的邮件地址，订阅我们的精彩内容：" ;</script>
+    <script src="http://list.qq.com/zh_CN/htmledition/js/qf/page/qfcode.js" charset="gb18030"></script>
+    </div>
+    </div>
+<a id="cweixin" href="#"><span></span><div></div></a> 
+<div class="jianyi"><a href="http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=FHl7cnFxZGRUZWU6d3t5"  ></a></div></div>
+<!-- 广告位：4493_120*270 --><script type="text/javascript">Meitu_A_D('mt_pc_1');</script>
+<!-- 广告位：4493_富媒体 --><script type="text/javascript">Meitu_A_D('mt_pc_2');</script>
+
+
+<link rel="stylesheet" href="/css/popup.css?2014" type="text/css"/>
+<script src="/js/popup.js?aaaddqwexaaaaa"></script>
+<!--注册登录弹出层-->
+<div class="pop_bg"></div>
+<div class="popup_layer" id="popboxlogin">
+<!--登录弹框-->
+  <div class="login_box pop">
+    <div class="h3"><a href="javascript:;" class="close" onClick="closepop(popboxlogin)"></a></div>
+    <div class="box_tit"><a href="javascript:;"  onClick="openpop(popboxreg)">注 册</a><a href="javascript:;" class="on">登 录</a></div>
+    <form>
+    <dl class="popup_form" id="loginForm">
+      <dd>
+        <label>用户名 :</label>
+        <input class="inputtext" name="username" type="text">
+        <span>请输入用户名</span>
+      </dd>
+      <dd>
+        <label>密   码 :</label>
+        <input class="inputtext" name="password" type="password">
+        <span>请输入密码</span>
+      </dd>
+      <dd class="verify_code">
+        <label>验证码 :</label>
+        <input class="inputtext" id="Log_verify" name="verify" type="text">
+        <img src="/images/code.jpg" width="118" height="45"> </dd>
+      <dd class="btns">
+    <input type="button" class="inputsubmit" id="login" value="登录">
+      </dd>
+    </dl>
+    </form>
+    <div class="finish_box login" id="loginfinish">
+      <p><span id="u1"></span>用户正在审核中，点击下面按钮查看更多美图</p>
+        <p><span id="u2"></span>不存在，点击下面按钮查看更多美图</p>
+        <a href="/" onClick="closepop(popboxreg)">返回首页</a>
+    </div>
+  </div>
+</div><!--E 登录弹框-->
+<div class="popup_layer" id="popboxreg">
+<!--S 注册弹框-->
+  <div class="register_box pop">
+    <div class="h3"><a href="javascript:;" class="close" onClick="closepop(popboxreg)"></a></div>
+    <div class="box_tit"><a href="javascript:;" class="on">注 册</a><a href="javascript:;" onClick="openpop(popboxlogin)">登 录</a></div>
+    <form>
+    <dl class="popup_form"  id="regForm">
+      <dd>
+        <label>用户名 :</label>
+        <input class="inputtext" name="username" type="text">
+        <span>注册成功后可观看到更多美女图片</span>
+      </dd>
+      <dd>
+        <label>密   码 :</label>
+        <input class="inputtext" name="password" type="password">
+        <span>6-16位英文数字常用符号</span>
+      </dd>
+      <dd class="verify_code">
+        <label>验证码 :</label>
+        <input class="inputtext" id="Log_verify" name="verify" type="text">
+        <img src="/images/code.jpg" width="118" height="45"> </dd>
+      <dd class="btns">
+        <input type="button" class="inputsubmit" id="regBtn" value="注册">
+      </dd>
+    </dl>
+    </form>
+    <div class="finish_box" id="regFinish">
+      <p><span id="u3"></span>用户注册成功，等待审核</p>
+        <a href="javascript:;" onClick="closepop(popboxreg)">完成</a>
+    </div>
+  </div>
+</div><!--E 注册弹框-->
+<span style="display:none"><script type="text/javascript" src="https://www.4493.com/js/baidu_js_push.js"></script></span>
+<span style="display:none"><script type="text/javascript" src="/js/tj.js"></script></span>
+
+
+
+<img style='display:none;' src='http://www.4493.com/akcms_inc.php?i=1' />
+</body>
+<meta name="baidu-site-verification" content="VU5vC78QyT" />
+</html>

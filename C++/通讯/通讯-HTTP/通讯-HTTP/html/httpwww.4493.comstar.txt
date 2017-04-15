@@ -1,0 +1,186 @@
+HTTP/1.1 200 OK
+Server: DnionOS/1.11.2.2
+Date: Sat, 25 Mar 2017 04:33:02 GMT
+Content-Type: text/html;charset=gbk
+Content-Length: 23066
+Connection: close
+Vary: Accept-Encoding
+X-Powered-By: PHP/7.0.7
+Age: 136811
+Via: CT-CNC-ZJFY-P-6-101 (DLC-3.0), CT-ZJQZ-C-128-215 (DLC-3.0)
+Server-Info: DnionATS
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<meta http-equiv="Cache-Control" content="no-transform" />
+<meta http-equiv="Cache-Control" content="no-siteapp" />
+<title>明星图片_韩国明星_明星素颜照 第1页 - 4493美女图片</title>
+<meta name="Description" content="">
+<link type="text/css" rel="stylesheet" href="/css/20141113/global.css?2014" />
+<link type="text/css" rel="stylesheet" href="/css/20141113/star.css?2014" />
+<script type="text/javascript" src="/js/20141113/jquery.min.js"></script>
+<script type="text/javascript" src="/js/20141113/global.js"></script>
+<script type="text/javascript" src="/js/20141113/focus.js"></script>
+
+<script>
+$(function(){
+	myhover('.star_left .star_img li');
+	myhover('.xlzt li');	
+	//明星搜索框
+	$('#searchstar').on('focus',function(){
+		if($(this).val()=='输入你想找的明星'){
+			$(this).val('');
+			//$(this).css('color','#f1f1f1');
+		}
+	}).on('blur',function(){
+		if($(this).val()==''){
+			$(this).val('输入你想找的明星');
+			//$(this).css('color','#9f9f9f');
+		}
+	})
+	
+	$('#div_genre a').click(function(){
+		if($(this).attr('class')=='on'){
+			$(this).removeClass('on');
+			$('#filed_quyu').val(0);
+		}else{
+			$('#div_genre a').removeClass('on');
+			$(this).addClass('on');
+			var quyuID = $(this).attr('data');	
+			$('#filed_quyu').val(quyuID);	
+		}
+	})
+	
+	$('.tagsearch a').click(function(){
+		if($(this).attr('class')=='on'){
+			$(this).removeClass('on');
+			$('#filed_fenlei').val(0);
+		}else{
+			$('.tagsearch a').removeClass('on');
+			$(this).addClass('on');
+			var fenleiID = $(this).attr('data');	
+			$('#filed_fenlei').val(fenleiID);
+		}
+	})
+})
+</script>
+<script type="text/javascript" src="https://gg.1985t.com/4493/pc4493.js"></script>
+</head>
+<body>
+<div class="headerline"><div class="header"><a href="/" class="logo"></a>
+    <ul class="topulnav">
+    <li><a class="havechild">美图</a><div class="childnav"><p><a href="/xingganmote/" >性感美女</a></p><p><a href="/siwameitui/" >丝袜美腿</a></p><p><a href="/weimeixiezhen/" >唯美写真</a></p><p><a href="/wangluomeinv/" >网络美女</a></p><p><a href="/gaoqingmeinv/" >高清美女</a></p><p><a href="/motemeinv/" >模特美女</a></p><p><a href="/tiyumeinv/" >体育美女</a></p><p><a href="/dongmanmeinv/" >动漫美女</a></p></div></li>
+    <li><a href="/star/"  class="havechild">明星</a><div class="childnav"><p><a href="/star/section" >明星资料</a></p><p><a href="/mingxingxiezhen/" >女星写真</a></p><p><a href="/nanxing/" >男星图片</a></p><p><a href="/yule/" >娱乐八卦</a></p></div></li>
+	<li><a href="/wenshen.html"  class="havechild" cl="havechilds">纹身</a><div class="childnav childnavs">	<p><a href="/wenshen/banjia/index.htm" >半甲</a></p><p><a href="/wenshen/qilin/index.htm" >麒麟</a></p><p><a href="/wenshen/yinxing/index.htm" >隐形</a></p><p><a href="/wenshen/qinglv/index.htm" >情侣</a></p><p><a href="/wenshen/tuteng/index.htm" >图腾</a></p><p><a href="/wenshen/zhongkui/index.htm" >钟馗</a></p><p><a href="/wenshen/xielong/index.htm" >邪龙</a></p><p><a href="/wenshen/yingwen/index.htm" >英文</a></p><p><a href="/wenshen/sand/index.htm" >3d</a></p><p><a href="/wenshen/huadan/index.htm" >花旦</a></p><div style="clear:both;"></div><p><a href="/wenshen/mingxing/index.htm" >明星</a></p><p><a href="/wenshen/pixiu/index.htm" >貔貅</a></p><p><a href="/wenshen/guangong/index.htm" >关公</a></p><p><a href="/wenshen/bore/index.htm" >般若</a></p><p><a href="/wenshen/fanwen/index.htm" >梵文</a></p><p><a href="/wenshen/liyu/index.htm" >鲤鱼</a></p><p><a href="/wenshen/nvsheng/index.htm" >女生</a></p><p><a href="/wenshen/manbei/index.htm" >满背</a></p><p><a href="/wenshen/shoubi/index.htm" >手臂</a></p></div></li>
+    <li><a href="/meishi/" >美食</a></li><li><a href="http://bizhi.4493.com/" >壁纸</a></li><li><a href="/xilie.html" >专题</a></li>
+	<script>
+	$(function(){
+	/*
+		$('li a.havechild').mouseover(function(){
+			$(this).parent().addClass('on').siblings('li').remove('on');
+			$(".childnavs").show();
+		})
+		$(".childnavs").mouseout(function(){
+			$(this).hide();
+		});
+		$('li a').mouseover(function(){
+			var cl = $(this).attr('cl');
+			if(typeof(cl)=="undefined")
+			{
+				$(this).parent().remove('on');
+				$(".childnavs").hide();
+			}			
+		});*/
+	});
+	
+	</script>
+	
+    </ul>
+    <div class="headright">
+    <div class="pub_search">    
+    <form action="http://so.4493.com/cse/search" accept-charset="utf-8" onsubmit="document.charset='utf-8';">
+    <input type="hidden" name="s" value="7096338384441980351">   
+    <input type="text" class="text" autocomplete="off" name="q"  maxlength="20"  id="searchkeywords" value="输入关键词后回车..." />
+    <input class="search_btn" type="submit" value="">
+    </form>
+    </div>
+    </div>
+    </div>
+    </div><!---------------------------/headerline---------------------------------------->
+<div class="star_main">
+	<!--<div class="star_big"><img src="/pics/img1000300.jpg" /></div>-->
+    
+    <div class="jiaodian">
+        <!-- 焦点 开始 -->
+        <div id="inner">
+        <div class="hot-event">
+            <div class="switch-nav"><a href="#" onclick="return false;" class="prev"><i class="ico i-prev"></i><span class="hide-clip">上一个</span><span class="blackbg"></span></a><a href="#" onclick="return false;" class="next"><i class="ico i-next"></i><span class="hide-clip">下一个</span><span class="blackbg"></span></a></div>         
+       <div class="event-item" style="display:block"><a href="/star/renjialun/" title="任嘉伦" class="banner"><img src="http://img.1985t.com/uploads/previews/2017/02/0-8yhx1jr.jpg" class="photo" alt="任嘉伦4365" style="width:1000px; height:300px;" /></a></div>
+       <div class="event-item" style="display:none"><a href="/star/wangyanlin/"  title="王彦霖" class="banner"><img src="http://img.1985t.com/uploads/previews/2017/02/0-unpSd7j.jpg" class="photo" style="width:1000px; height:300px;"  /></a></div><div class="event-item" style="display:none"><a href="/star/dimaxi/"  title="迪玛希" class="banner"><img src="http://img.1985t.com/uploads/previews/2017/02/0-YDqWjbK.jpg" class="photo" style="width:1000px; height:300px;"  /></a></div><div class="event-item" style="display:none"><a href="/star/wulei/"  title="吴磊" class="banner"><img src="http://img.1985t.com/uploads/previews/2016/11/0-gZwcBmu.jpg" class="photo" style="width:1000px; height:300px;"  /></a></div><div class="event-item" style="display:none"><a href="/star/linxinru/"  title="林心如" class="banner"><img src="http://img.1985t.com/uploads/previews/2016/11/0-jmwUMxi.jpg" class="photo" style="width:1000px; height:300px;"  /></a></div>          
+        <div class="switch-tab"><a href="#" onclick="return false;" hidefocus="true" class="current">1</a><a href="#" onclick="return false;" hidefocus="true">2</a><a href="#" onclick="return false;" hidefocus="true">3</a><a href="#" onclick="return false;" hidefocus="true">4</a><a href="#" onclick="return false;" hidefocus="true">5</a></div>
+        </div>
+        </div>
+        <script type="text/javascript">
+        $('#inner').nav({ t: 2000, a: 1000 });
+        </script>
+        <!-- 焦点 结束 -->        
+    </div>
+      <div class="star_left">
+      <div class="star_tit">人气<em>女星</em></div>
+      <div class="star_img"><ul><li class="star_bt"><a href="/star/zhengshuang/" ><img src="http://img.1985t.com/uploads/previews/2015/02/0-en6sEu.jpg" /><em></em><span>郑爽</span></a></li><li><a href="/star/xuyue/" ><img src="http://img.1985t.com/uploads/previews/2017/03/0-K4Dtbbf.jpg" /><em></em><span>徐悦</span></a></li><li><a href="/star/zhanglingzhi/" ><img src="http://img.1985t.com/uploads/previews/2017/03/0-WX23K3P.jpg" /><em></em><span>章龄之</span></a></li><li><a href="/star/songyunhua/" ><img src="http://img.1985t.com/uploads/previews/2017/03/0-DOfjhyF.jpg" /><em></em><span>宋芸桦</span></a></li><li><a href="/star/sunjingjing/" ><img src="http://img.1985t.com/uploads/previews/2017/03/0-bloKQBV.jpg" /><em></em><span>孙晶晶</span></a></li><li><a href="/star/wangyifei1/" ><img src="http://img.1985t.com/uploads/previews/2017/02/0-nFRjycd.jpg" /><em></em><span>王艺霏</span></a></li><li><a href="/star/liuxiaoye/" ><img src="http://img.1985t.com/uploads/previews/2017/02/0-ZIs2Rlv.jpg" /><em></em><span>刘晓晔</span></a></li></ul></div>
+      <div class="star_tit">人气<em>男星</em></div>
+      <div class="star_img"><ul><li class="star_bt"><a href="/star/zhengkai/" ><img src="http://img.1985t.com/uploads/previews/2015/01/0-7SMgo8.jpg" /><em></em><span>郑恺</span></a></li><li><a href="/star/kongchuinan/" ><img src="http://img.1985t.com/uploads/previews/2017/03/0-ffrjT4T.jpg" /><em></em><span>孔垂楠</span></a></li><li><a href="/star/yuanwenkang/" ><img src="http://img.1985t.com/uploads/previews/2017/03/0-4c6sYMT.jpg" /><em></em><span>袁文康</span></a></li><li><a href="/star/zufeng/" ><img src="http://img.1985t.com/uploads/previews/2017/03/0-wA7L6UH.jpg" /><em></em><span>祖峰</span></a></li><li><a href="/star/zhangjiongmin/" ><img src="http://img.1985t.com/uploads/previews/2017/03/0-8V8hqT3.jpg" /><em></em><span>张炯敏</span></a></li><li><a href="/star/chenxingxu/" ><img src="http://img.1985t.com/uploads/previews/2017/03/0-dlgH7S1.jpg" /><em></em><span>陈星旭</span></a></li><li><a href="/star/zhangzhiyao/" ><img src="http://img.1985t.com/uploads/previews/2017/02/0-F1hVprq.jpg" /><em></em><span>张智尧</span></a></li></ul></div>
+     <div class="star_tit">人气<em>嫩模</em></div>
+     <div class="star_img"><ul><li class="star_bt"><a href="/star/songhaina/" ><img src="http://img.1985t.com/uploads/previews/2016/03/0-0vEbVtc.jpg" /><em></em><span>宋海娜</span></a></li><li><a href="/star/jihuanbo/" ><img src="http://img.1985t.com/uploads/previews/2017/03/0-MnUORFu.jpg"  /><em></em><span>纪焕博</span></a></li><li><a href="/star/zhangleyun/" ><img src="http://img.1985t.com/uploads/previews/2017/03/0-hSXmjAM.jpg"  /><em></em><span>章乐韵</span></a></li><li><a href="/star/kunyanutnuchtaya/" ><img src="http://img.1985t.com/uploads/previews/2016/12/0-bsEjnZQ.jpg"  /><em></em><span>Kunyanut Nuchtaya</span></a></li><li><a href="/star/tankailin/" ><img src="http://img.1985t.com/uploads/previews/2016/12/0-FNCSsPJ.jpg"  /><em></em><span>谭凯琳</span></a></li><li><a href="/star/jinyaran/" ><img src="http://img.1985t.com/uploads/previews/2016/12/0-ZKc2I9f.jpg"  /><em></em><span>金雅然</span></a></li><li><a href="/star/pengchuyan/" ><img src="http://img.1985t.com/uploads/previews/2016/12/0-yDHaGhA.jpg"  /><em></em><span>彭楚燕</span></a></li></ul></div>
+    </div> 
+    <div class="star_right">
+    <div class="star_ritit">明星<em>查询</em></div>
+    <div class="mx_alaal"><div class="mx_search"><form method="get"  action="/star/section"><div class="search_ipt"><input name="keywords" class="s_ipt" id="searchstar" autocomplete="off" type="text" value="输入你想找的明星" onfocus="if(this.value=='输入你想找的明星'){this.value=''}; this.style.color='#666'" onblur="if(this.value==''){this.value='输入你想找的明星'}; this.style.color='#C0C0C0'" style="color:#C0C0C0;" /><input type="hidden" id="filed_quyu" name="quyu" value="0" /><input type="hidden" id="filed_fenlei" name="fenlei" value="0" /><input class="serch_btn" type="submit" value="搜索"></div></form>
+    </div>
+    <div class="taglist_outer"><dl class="taglist"><dt>按区域搜索:</dt><dd id="div_genre" data='quyu'><a href="/star/section?sex=0&fenlei=0&quyu=1"  data="1">内地</a><a href="/star/section?sex=0&fenlei=0&quyu=2"  data="2">港台</a><a href="/star/section?sex=0&fenlei=0&quyu=3"  data="3">日韩</a><a href="/star/section?sex=0&fenlei=0&quyu=4"  data="4">欧美</a></dd></dl>
+      <div class="tagsearch"><span>类型:</span><p data='fenlei'><a href="/star/section?sex=0&fenlei=1&quyu=0"  data="1">演员</a><a href="/star/section?sex=0&fenlei=2&quyu=0"  data="2">歌手</a><a href="/star/section?sex=0&fenlei=6&quyu=0"  data="6">网络美女</a><a href="/star/section?sex=0&fenlei=5&quyu=0"  data="5">模特</a></p></div></div></div>
+       <div class="big_lunhuan"><div class="mod-hd"><div class="mod-hd-title">明星大事件</div></div>
+        <div class="accordion-news-side">
+        <div class="accordion-side-mod accordion-side-original-specials">
+        <div class="bd">
+        <div class="original-specials list-side-special list-side-special-orange"><dl class="threeWord clearfix" currShow="4"><dd class="d-title"><a href="/yule/115457/1.htm"><em><font color='#ff6699'>1、</font></em>范冰冰发运动海报展现好身材，网友却一致催婚！</a></dd><dd class="d-pic"><a href="/yule/115457/1.htm" class="pic-link"  title="范冰冰发运动海报展现好身材，网友却一致催婚！"><img src="http://img.1985t.com/uploads/previews/2017/03/0-iL7KXtG.jpg" ></a></dd><dd class="d-show-title"><a href="/yule/115457/1.htm"><em><font color='#ff6699'>1、</font></em>范冰冰发运动海报展现好身材，网友却一致催婚！</a></dd></dl><dl class="threeWord clearfix" currShow="4"><dd class="d-title"><a href="/yule/115456/1.htm"><em><font color='#ff6699'>2、</font></em>重磅消息，《花千骨》徐海乔恋情曝光</a></dd><dd class="d-pic"><a href="/yule/115456/1.htm" class="pic-link"  title="重磅消息，《花千骨》徐海乔恋情曝光"><img src="http://img.1985t.com/uploads/previews/2017/03/0-rP9gf3X.jpg" ></a></dd><dd class="d-show-title"><a href="/yule/115456/1.htm"><em><font color='#ff6699'>2、</font></em>重磅消息，《花千骨》徐海乔恋情曝光</a></dd></dl><dl class="threeWord clearfix" currShow="4"><dd class="d-title"><a href="/yule/115386/1.htm"><em><font color='#ff6699'>3、</font></em>《何以笙萧默》继唐嫣公布恋情撒狗粮，杨玏米露恋情曝光！</a></dd><dd class="d-pic"><a href="/yule/115386/1.htm" class="pic-link"  title="《何以笙萧默》继唐嫣公布恋情撒狗粮，杨玏米露恋情曝光！"><img src="http://img.1985t.com/uploads/previews/2017/03/0-9I2dnHV.jpg" ></a></dd><dd class="d-show-title"><a href="/yule/115386/1.htm"><em><font color='#ff6699'>3、</font></em>《何以笙萧默》继唐嫣公布恋情撒狗粮，杨玏米露恋情曝光！</a></dd></dl><dl class="threeWord clearfix" currShow="4"><dd class="d-title"><a href="/yule/115384/1.htm"><em><font >4、</font></em>《太子妃》导演再出新剧，盛一伦反转扮女装？</a></dd><dd class="d-pic"><a href="/yule/115384/1.htm" class="pic-link"  title="《太子妃》导演再出新剧，盛一伦反转扮女装？"><img src="http://img.1985t.com/uploads/previews/2017/03/0-falaHtC.jpg" ></a></dd><dd class="d-show-title"><a href="/yule/115384/1.htm"><em><font >4、</font></em>《太子妃》导演再出新剧，盛一伦反转扮女装？</a></dd></dl><dl class="threeWord clearfix" currShow="4"><dd class="d-title"><a href="/yule/115381/1.htm"><em><font >5、</font></em>亚洲电影大奖范冰冰再封后，离中国最佳女演员还有多远？</a></dd><dd class="d-pic"><a href="/yule/115381/1.htm" class="pic-link"  title="亚洲电影大奖范冰冰再封后，离中国最佳女演员还有多远？"><img src="http://img.1985t.com/uploads/previews/2017/03/0-zMUIAWg.jpg" ></a></dd><dd class="d-show-title"><a href="/yule/115381/1.htm"><em><font >5、</font></em>亚洲电影大奖范冰冰再封后，离中国最佳女演员还有多远？</a></dd></dl><dl class="threeWord clearfix" currShow="4"><dd class="d-title"><a href="/yule/115313/1.htm"><em><font >6、</font></em>路人抓拍未P图：刘亦菲美的惊艳真仙女，尚雯婕整到完全不认识~</a></dd><dd class="d-pic"><a href="/yule/115313/1.htm" class="pic-link"  title="路人抓拍未P图：刘亦菲美的惊艳真仙女，尚雯婕整到完全不认识~"><img src="http://img.1985t.com/uploads/previews/2017/03/0-mxsmFF0.jpg" ></a></dd><dd class="d-show-title"><a href="/yule/115313/1.htm"><em><font >6、</font></em>路人抓拍未P图：刘亦菲美的惊艳真仙女，尚雯婕整到完全不认识~</a></dd></dl><dl class="threeWord clearfix" currShow="4"><dd class="d-title"><a href="/yule/115311/1.htm"><em><font >7、</font></em>文章马伊琍携手打造“卷毛夫妇” 自导自演《剃刀边缘》</a></dd><dd class="d-pic"><a href="/yule/115311/1.htm" class="pic-link"  title="文章马伊琍携手打造“卷毛夫妇” 自导自演《剃刀边缘》"><img src="http://img.1985t.com/uploads/previews/2017/03/0-AxlN1DB.jpg" ></a></dd><dd class="d-show-title"><a href="/yule/115311/1.htm"><em><font >7、</font></em>文章马伊琍携手打造“卷毛夫妇” 自导自演《剃刀边缘》</a></dd></dl><dl class="threeWord clearfix" currShow="4"><dd class="d-title"><a href="/yule/115242/1.htm"><em><font >8、</font></em>赵丽颖肌肉照获小迷妹杨紫表白，不过黑粉搞事情，骂的太难听了！</a></dd><dd class="d-pic"><a href="/yule/115242/1.htm" class="pic-link"  title="赵丽颖肌肉照获小迷妹杨紫表白，不过黑粉搞事情，骂的太难听了！"><img src="http://img.1985t.com/uploads/previews/2017/03/0-6WzFpT0.jpg" ></a></dd><dd class="d-show-title"><a href="/yule/115242/1.htm"><em><font >8、</font></em>赵丽颖肌肉照获小迷妹杨紫表白，不过黑粉搞事情，骂的太难听了！</a></dd></dl><dl class="threeWord clearfix" currShow="4"><dd class="d-title"><a href="/yule/115241/1.htm"><em><font >9、</font></em>三生三世2开拍赵又廷继续出演夜华，东华帝君将由吴亦凡出演</a></dd><dd class="d-pic"><a href="/yule/115241/1.htm" class="pic-link"  title="三生三世2开拍赵又廷继续出演夜华，东华帝君将由吴亦凡出演"><img src="http://img.1985t.com/uploads/previews/2017/03/0-LpYqUS9.jpg" ></a></dd><dd class="d-show-title"><a href="/yule/115241/1.htm"><em><font >9、</font></em>三生三世2开拍赵又廷继续出演夜华，东华帝君将由吴亦凡出演</a></dd></dl><dl class="threeWord clearfix" currShow="4"><dd class="d-title"><a href="/yule/115236/1.htm"><em><font >10、</font></em>因为遇见你，女二吴优出名了，网友全怒了：张雨欣太可恨了</a></dd><dd class="d-pic"><a href="/yule/115236/1.htm" class="pic-link"  title="因为遇见你，女二吴优出名了，网友全怒了：张雨欣太可恨了"><img src="http://img.1985t.com/uploads/previews/2017/03/0-51QyRxJ.jpg" ></a></dd><dd class="d-show-title"><a href="/yule/115236/1.htm"><em><font >10、</font></em>因为遇见你，女二吴优出名了，网友全怒了：张雨欣太可恨了</a></dd></dl></div>
+        </div>
+        </div>
+        </div>
+	</div>   
+        <div class="star_new">
+        <div class="star_newtit">明星八卦新闻</div><ul><li><a href="/yule/115242/1.htm"  title="赵丽颖肌肉照获小迷妹杨紫表白，不过黑粉搞事情，骂的太难听了！"><img src="http://img.1985t.com/uploads/previews/2017/03/0-35XzYsj.jpg"  /></a><b><a href="/yule/115242/1.htm" >赵丽颖肌肉照获小迷妹杨紫表白，不过黑粉搞事情，骂的太难听了！</a></b><p>[暂无此字段]...<a href="/yule/115242/1.htm">[详细]</a></p></li><li><a href="/yule/115241/1.htm"  title="三生三世2开拍赵又廷继续出演夜华，东华帝君将由吴亦凡出演"><img src="http://img.1985t.com/uploads/previews/2017/03/0-NZ0WtQl.jpg"  /></a><b><a href="/yule/115241/1.htm" >三生三世2开拍赵又廷继续出演夜华，东华帝君将由吴亦凡出演</a></b><p>[暂无此字段]...<a href="/yule/115241/1.htm">[详细]</a></p></li><li><a href="/yule/115238/1.htm"  title="《妈妈是超人》将播，胡可、伊能静获期待，另一人却因出轨被狂骂"><img src="http://img.1985t.com/uploads/previews/2017/03/0-VQfDpJs.jpg"  /></a><b><a href="/yule/115238/1.htm" >《妈妈是超人》将播，胡可、伊能静获期待，另一人却因出轨被狂骂</a></b><p>[暂无此字段]...<a href="/yule/115238/1.htm">[详细]</a></p></li><li><a href="/yule/115236/1.htm"  title="因为遇见你，女二吴优出名了，网友全怒了：张雨欣太可恨了"><img src="http://img.1985t.com/uploads/previews/2017/03/0-pvK14F2.jpg"  /></a><b><a href="/yule/115236/1.htm" >因为遇见你，女二吴优出名了，网友全怒了：张雨欣太可恨了</a></b><p>[暂无此字段]...<a href="/yule/115236/1.htm">[详细]</a></p></li></ul></div></div>
+      <div class="xlzt">
+      <div class="mx_tit"><a href="/xilie.html"  class="biti">专题系列</a> <span><a href="/xilie.html" title="专题系列">MORE+</a></span> </div><ul><li><a href="/star/juanfa/" ><img src="http://img.1985t.com/uploads/previews/2015/05/0-fvz5dW.jpg"/><p>卷发美女</p></a></li><li><a href="/star/meng/" ><img src="http://img.1985t.com/uploads/previews/2015/05/0-KhOb5d.jpg"/><p>萌妹子</p></a></li><li><a href="/star/jiuwo/" ><img src="http://img.1985t.com/uploads/previews/2015/05/0-q8AFWH.jpg"/><p>酒窝美女</p></a></li><li><a href="/star/mawei/" ><img src="http://img.1985t.com/uploads/previews/2015/05/0-UUt6AX.jpg"/><p>马尾辫美女</p></a></li><li><a href="/star/wsmv/" ><img src="http://img.1985t.com/uploads/previews/2015/05/0-axdG88.jpg"/><p>纹身美女</p></a></li><li><a href="/star/tunvlang/" ><img src="http://img.1985t.com/uploads/previews/2015/05/0-Co52Um.jpg"/><p>兔女郎</p></a></li><li><a href="/star/maonvlang/" ><img src="http://img.1985t.com/uploads/previews/2015/05/0-IVzlHT.jpg"/><p>猫女郎</p></a></li><li><a href="/star/chenshan/" ><img src="http://img.1985t.com/uploads/previews/2014/12/0-WZQrkx.jpeg"/><p>衬衫</p></a></li><li><a href="/star/shishen/" ><img src="http://img.1985t.com/uploads/previews/2014/11/0-2OvBnc.jpeg"/><p>湿身美女</p></a></li><li><a href="/star/ty/" ><img src="http://img.1985t.com/uploads/previews/2014/11/0-ISDg4x.jpeg"/><p>童颜巨乳</p></a></li><li><a href="/star/symn/" ><img src="http://img.1985t.com/uploads/previews/2014/11/0-TXx5an.jpeg"/><p>素颜美女</p></a></li><li><a href="/star/juru/" ><img src="http://img.1985t.com/uploads/previews/2014/11/0-jTC050.jpeg"/><p>美胸诱惑</p></a></li></ul></div></div>
+<!---------------------------footer---------------------------------------->
+<div class="footer">
+<p>4493美女图片站提供的性感美女图片属于借花散香，博众同乐。4493美女图片所有的美女图片版权归原作者属有，未得到原作者授权下，请勿把4493美女图片用于商业用途。</p>
+<p>4493最新美图 &#169; 2009-2013 All Rights Reserved www.4493.com 版权所有 闽ICP备16020348号-1</p>
+</div>
+<script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_30040472'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "w.cnzz.com/c.php%3Fid%3D30040472' type='text/javascript'%3E%3C/script%3E"));</script>
+<script>
+	var _hmt = _hmt || [];
+	(function() {
+	  var hm = document.createElement("script");
+	  hm.src = "//hm.baidu.com/hm.js?65d17d8c0da1175e9c1d1e00ed413540";
+	  var s = document.getElementsByTagName("script")[0]; 
+	  s.parentNode.insertBefore(hm, s);
+	})();
+</script>
+<span style="display:none"><script type="text/javascript" src="/js/tongji.js"></script></span>
+<!-- 广告位：4493_120*270 -->
+<script type="text/javascript">Meitu_A_D('mt_pc_31');</script>
+<!-- 广告位：4493_富媒体 -->
+<script type="text/javascript">Meitu_A_D('mt_pc_32');</script>
+<span style="display:none"><script type="text/javascript" src="/js/tj.js"></script></span><div id="back-to-top" class="back-to-top" ><a href="javascript:void(0);" id="back-to-top-btn">Back to Top</a></div>
+<script type="text/javascript" src="/js/20141113/IE6Top.js"></script>
+<script src="/js/20141113/ne.js"></script>
+<script language="javascript" src="/js/20141113/switch_prototype.734886.min.js"></script>
+<!--<script type="text/javascript" src="http://img1.cache.netease.com/common/libs/jquery/1.10.2/jquery.noconflict.min.js"></script>-->
+<script type="text/javascript" src="/js/20141113/ssd.js"></script>
+
+<img style='display:none;' src='http://www.4493.com/akcms_inc.php?i=1' />
+</body>
+</html>

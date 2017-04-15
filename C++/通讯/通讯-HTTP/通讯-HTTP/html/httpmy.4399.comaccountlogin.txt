@@ -1,0 +1,292 @@
+HTTP/1.1 200 OK
+Date: Sat, 25 Mar 2017 04:29:24 GMT
+Server: nginx/1.6.1
+Content-Type: text/html
+Transfer-Encoding: chunked
+Cache-Control: no-cache, private, max-age=0
+Expires: Thu, 02 Apr 2009 05:14:08 GMT
+X-SN: S958N
+X-Via: 1.1 qzh230:0 (Cdn Cache Server V2.0)
+Connection: close
+
+259e
+<!DOCTYPE html><html><head> 
+<script type="text/javascript">(function(){window._4399tongji = {type:"pv",tier:"my-account--login-index",starttime:(new Date()).getTime()};})();</script> 
+<meta http-equiv="content-type" content="text/html;charset=utf-8" /> 
+<title>4399游戏吧 My.4399.com 专业的中文休闲游戏社区</title> 
+<meta name="keywords" content="" /> 
+<meta name="description" content="" /> 
+ 
+<link href="http://s1.img4399.com/base/global_ue.css?95d1a21" type="text/css" rel="stylesheet" /> 
+ 
+<script type="text/javascript" src="http://s1.img4399.com/base/base.js?95d1a21" ></script> 
+ 
+<link href="http://s1.img4399.com/base/css/KS.css?95d1a21" type="text/css" rel="stylesheet" /> 
+<link href="http://s1.img4399.com/base/css/ue_common.css?95d1a21" type="text/css" rel="stylesheet" /> 
+<!--[if IE 6]> 
+<script type="text/javascript" src="http://s1.img4399.com/base/pngfilter.js?95d1a21" ></script> 
+<![endif]--> 
+<link rel="shortcut icon" href="http://s1.img4399.com/base/favicon.ico?95d1a21" /> 
+<link href="http://s1.img4399.com/account/login/style.css" type="text/css" rel="stylesheet"  /></head> 
+<body> 
+<!--my_topbar--> 
+<script type="text/javascript"> 
+ var GCurrentDomain = ''; 
+ var GCurrentModule = ''; 
+  
+</script> 
+<div class="my_topbar"> 
+<div class="my_wrapper clearfix"> 
+<a href="/" class="my_logo"> 
+ <img src="http://s1.img4399.com/base/images/global/images~logo.gif?95d1a21" alt="4399游戏吧" width="180" height="35"/> 
+</a> 
+<ul class="my_nav"> 
+ <li class="my_nav_li current"> 
+ <a class="my_nav_a" href="/" title="首页"><span><i>首页</i></span></a> 
+ </li> 
+ <li class="my_nav_li"> 
+ <a class="my_nav_a" href="/forums/" title="群组"><span><i>群组</i></span></a> 
+ </li> 
+ <li class="my_nav_li"> 
+ <a class="my_nav_a" href="/jifen/" title="积分商城"><span><i>积分</i></span></a> 
+ </li> 
+ <li class="my_nav_li" id="j-drop-game" > 
+ <a class="my_nav_a" href="/game/" title="游戏中心"><span><i class="i_game" >游戏</i><i class="my_ico_arr"></i></span></a> 
+ <!--dropmodal--> 
+ <div class="my_dropmodal my_dropmodal_game"> 
+ <iframe frameborder="0" width="574" height="300" style="position:absolute; left:0; top:0"></iframe> 
+ <!--content--> 
+ <div class="my_gamemodal"> 
+ <!--right panel--> 
+ <div class="my_rpanel"> 
+ <!--shoucang--> 
+ <a href="/shoucang/" class="rpbtn" title="收藏盒"> 
+ <span class="rspan"> 
+ <i class="icotag_sc">收藏盒Shoucang</i> 
+ </span> 
+ </a> 
+ <!--/shoucang--> 
+ <!--gamecenter--> 
+ <a href="/game/" class="rpbtn" title="游戏中心"> 
+ <span class="rspan"> 
+ <i class="icotag_gc">游戏中心GAMECENTER</i> 
+ </span> 
+ </a> 
+ <!--/gamecenter--> 
+ <!--ad--> 
+ <a href="http://my.4399.com/yxtouch/" target="_blank" class="my_drop_ad"> 
+ <img src="http://s1.img4399.com/f/score;278_ad.jpg" alt=""/> 
+ </a> 
+ <!--/ad--> 
+ </div> 
+ <!--/right panel--> 
+ <!--left panel--> 
+ <div class="my_lpanel"> 
+ <!--my_mdbox--> 
+ <div class="my_mdbox"> 
+ <div class="my_mdhd"> 
+ <a href="/shoucang/?m=PlayLog" class="my_mdmore">更多</a> 
+ <h2 class="my_mdtitle">最近玩过</h2> 
+ </div> 
+ <div class="my_mdbd"> 
+ <!--my_imglist--> 
+ <ul id="my_game_history" class="my_imglist"> 
+ <li> 
+ <img src="http://s4.img4399.com/album/loading.gif"> 
+ </li> 
+ </ul> 
+ <!--/my_imglist--> 
+ </div> 
+ </div> 
+ <!--/my_mdbox--> 
+ <!--my_mdbox--> 
+ <div class="my_mdbox"> 
+ <div class="my_mdhd"> 
+ <a href="/shoucang/?m=Recommend" class="my_mdmore">更多</a> 
+ <h2 class="my_mdtitle">猜你喜欢</h2> 
+ </div> 
+ <div class="my_mdbd"> 
+ <!--my_imglist--> 
+ <ul id="my_game_recommend" class="my_imglist"> 
+ <li data-count="1" data-firstlogin="2013-10-22" data-lastlogin="2013-10-22"> 
+ <img src="http://s4.img4399.com/album/loading.gif"> 
+ </li> 
+ </ul> 
+ <!--/my_imglist--> 
+ </div> 
+ </div> 
+ <!--/my_mdbox--> 
+ </div> 
+ <!--/left panel--> 
+ </div> 
+ <!--/content--> 
+ </div> 
+ <!--/dropmodal--> 
+ </li> 
+ <li class="my_nav_li"> 
+ <a class="my_nav_a" href="http://cz.4399.com/" title="充值中心"><span><i>充值</i></span></a> 
+ </li> 
+ <li class="my_nav_li www4399"> 
+ <a class="my_nav_a" href="http://www.4399.com/" target="_blank" title="4399小游戏"><span>小游戏</span></a> 
+ </li> 
+</ul> 
+<div class="my_person" id="my_person"> 
+</div> 
+</div> 
+</div> 
+<script type="text/javascript"> 
+ if (window.jQuery) { 
+ document.write(unescape('%3Cscript src="http://s1.img4399.com/base/header.js?95d1a21?20161124" type="text/javascript"%3E%3C/script%3E')); 
+ } 
+</script> 
+<!--/my_topbar--> 
+<div class="page_bg"> 
+ <div class="page_wrapper"> 
+ <div class="mod_container clearfix" style="background:none;"> 
+ 
+<!--u_container-->
+<div class="u_container">
+ <div class="u_hd">
+ <h2><span class="u_ico"></span>请先登录</h2>
+ </div>
+ <div class="u_bd">
+ <!--u_logform-->
+ <div class="u_logform">
+ <!--统一登陆调用-->
+ <div id="j-unlogin" class="u_unlogin"></div>
+ <!--统一登陆调用-->
+ <!--立即注册-->
+ <div class="u_regnow">
+ <p class="regtip">还不是4399用户？现在免费注册4399用户，便能立即体验最新最全最好玩的游戏哦！</p>
+ <a href="javascript:UniLogin.showPopupReg(true)" class="u_regbtn">立即注册</a>
+ </div>
+ <!--/立即注册-->
+ </div>
+ </div>
+</div>
+<!--/u_container-->
+
+  </div>
+ </div>
+ <div class="page_bg_btm"></div>
+ </div>
+<div class="my_footer">
+ <div class="my_wrapper clearfix">
+ <div class="my_cinfo">
+ <p>4399游戏吧 专业的中文休闲游戏社区</p>
+
+ <p class="my_service">服务热线：400-633-4399</p>
+  <a href='http://xmwj.gov.cn/ei/Ei!certificate.action?id=40288a8556b6cf8d0156bb3e08a40036' target='_blank' rel="nofollow">
+ <img src="http://s1.img4399.com/base/xmwj.jpg?95d1a21"></a>
+  </div>
+ <div class="my_linfo">
+ <ul class="my_fnav">
+ <li><a href="/joinus/" target="_blank" rel="nofollow">关于我们</a></li>
+ <li><a href="/joinus/zhaopin.html" class="a_job" target="_blank"
+ rel="nofollow">诚聘英才</a></li>
+ <li><a href="/help/" target="_blank" rel="nofollow">客服中心</a></li>
+ <li><a href="/sitemap/" target="_blank" rel="nofollow">网站地图</a></li>
+ <li><a href="http://t.qq.com/my4399" target="_blank" rel="nofollow">4399腾讯官方微博</a></li>
+ <li><a href="http://weibo.com/my4399" target="_blank" rel="nofollow">4399新浪官方微博</a></li>
+ </ul>
+ <div class="my_cred">
+ <a href="http://www.miitbeian.gov.cn/" target="_blank" rel="nofollow">ICP证：闽B2-20040099</a>
+ <a href="http://net.china.cn/chinese/index.htm" target="_blank" rel="nofollow">不良信息举报中心</a>
+ <a href="http://www.4399.com/zs/wenwangwen.html" target="_blank" rel="nofollow">闽网文[2015]1993-042号</a>
+ <a href="http://www.4399.com/zs/chuban.html" target="_blank" rel="nofollow">新出网证（闽）字06号</a>
+ </div>
+ <p class="my_cp">Copyright&copy;2004 -
+ <script>document.write(new Date().getFullYear())</script>
+ 4399.com All Rights Reserved. 四三九九网络股份有限公司 版权所有
+ </p>
+ </div>
+ </div>
+</div>
+</body>
+<link href="http://ptlogin.3304399.net/resource/css/base.css?v=2&95d1a21" type="text/css" rel="stylesheet" />
+<script type="text/javascript" src="http://ptlogin.3304399.net/resource/ucenter.js?v=3&95d1a21" charset="utf-8"></script>
+<script type="text/javascript">
+(function(){
+ var uloginProp = {};
+ uloginProp.appId = "my";
+ uloginProp.layout = "vertical";
+ /*  */
+// uloginProp.postLoginHandler = "refreshParent";
+ uloginProp.externalLogin = "qq";
+ uloginProp.css="http://s1.img4399.com/base/css/ptlogin.css?95d1a21";
+ uloginProp.onlineInit = function(){};
+ uloginProp.loginCallback = function(){
+ $.post('/profile/security-pm',{type:'login'});
+ setTimeout(function(){
+ window.location.reload();
+ }, 500);
+ };
+ uloginProp.regCallback = function(){
+ $.post('/profile/security-pm',{type:'reg'});
+ setTimeout(function(){
+ window.location.reload();
+ }, 500);
+ };
+ uloginProp.logoutCallback = function(){
+ window.location.reload();
+ };
+ UniLogin.setUnionLoginProps(uloginProp);
+})();
+</script>
+<script type="text/javascript">
+ var _hmt = _hmt || [];
+ setTimeout(function(){
+  (function() {
+ var hm = document.createElement("script");
+  hm.src = "//hm.baidu.com/hm.js?e5a07b5994f78634294b9c347a5be7d2";
+  var s = document.getElementsByTagName("script")[0];
+ s.parentNode.insertBefore(hm, s);
+ })();
+ (function() {
+ var hm = document.createElement("script");
+ hm.src = "https://hm.baidu.com/hm.js?5c9e5e1fa99c3821422bf61e662d4ea5";
+ var s = document.getElementsByTagName("script")[0];
+ s.parentNode.insertBefore(hm, s);
+ $("[data-track]").on("click", function() {
+ var label = $(this).data("track");
+ window._hmt && window._hmt.push(['_trackEvent', label, 'click']);
+ });
+ })();
+ 
+ (function() {
+ var hm = document.createElement("script");
+ hm.src = "http://s1.img4399.com/base/tj/tj.js?v170104&95d1a21";
+ var s = document.getElementsByTagName("script")[0];
+ s.parentNode.insertBefore(hm, s);
+ })();
+ },0);
+</script>
+</html>
+<script type="text/javascript">
+(function(){
+ var goUrl = function(action){
+ var uri = window.location.toString();
+ uri = uri.split('#');
+ uri[0] += ((uri[0].indexOf("?") == -1) ? '?' : '&') + 'action=' + action;
+ uri = uri.join('#');
+ console.log(uri);
+ window.location = uri;
+ };
+ uloginProp = {};
+ uloginProp.appId = "my";
+ uloginProp.layout = "vertical";
+ uloginProp.divId = "j-unlogin";
+ uloginProp.displayMode = "embed";
+ uloginProp.postLoginHandler = "refreshParent";
+ uloginProp.layoutSelfAdapting = "false";
+ uloginProp.css="http://s1.img4399.com/account/login/ptlogin.css";
+ uloginProp.loginCallback = function(){goUrl('login');};
+ uloginProp.regCallback = function(){goUrl('register');};
+ uloginProp.externalLogin = "qq";
+ UniLogin.setUnionLoginProps(uloginProp);
+
+})();
+</script>
+0
+
+

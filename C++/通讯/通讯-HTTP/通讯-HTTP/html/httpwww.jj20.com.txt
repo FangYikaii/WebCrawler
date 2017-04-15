@@ -1,0 +1,226 @@
+HTTP/1.1 200 OK
+Content-Type: text/html
+Last-Modified: Fri, 24 Mar 2017 06:33:35 GMT
+Accept-Ranges: bytes
+ETag: "925a7f9068a4d21:0"
+Server: Microsoft-IIS/7.5
+X-Powered-By: ASP.NET
+Date: Sat, 25 Mar 2017 04:38:46 GMT
+Connection: close
+Content-Length: 23350
+
+<!doctype html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<title>桌面壁纸 壁纸图片 电脑桌面壁纸 高清风景图片 背景大全 娟娟壁纸</title>
+<meta name="keywords" content="桌面壁纸,壁纸,电脑桌面壁纸,高清壁纸,壁纸桌面,电脑壁纸,美女壁纸,壁纸大全">
+<meta name="mobile-agent" content="format=html5;url=http://m.jj20.com/">
+<meta name="description" content="娟娟壁纸提供风景壁纸,美女壁纸,花卉壁纸,汽车壁纸,游戏壁纸,体育壁纸,动漫壁纸,卡通壁纸,日历壁纸,节日壁纸,影视壁纸,卡通壁纸,设计壁纸,等高清壁纸下载服务">
+<link href="/css/bizhi.css" rel="stylesheet" type="text/css">
+<script type="text/javascript" src="/js/a.js"></script></head>
+<body>
+<div class="top">
+<div class="topi fix">
+<div class="topz">
+<a class="home" href="http://www.jj20.com/" target='_blank'>电脑壁纸</a> |
+<a href="http://m.jj20.com/" target='_blank'>手机壁纸</a>
+</div>
+<div class="topy"><script>g("fx");</script></div>
+</div>
+</div>
+<div class="header fix">
+<a class="logo" href="http://www.jj20.com/"><img width="218" height="75" src="/images/logo.png" /></a>
+<div class="search">
+<form action="/plus/search.php" method="get">
+<div class="stext">
+<input type="text" name="q" value="请输入壁纸名称" onFocus="if(this.value=='请输入壁纸名称') this.value='';" onBlur="if(this.value=='') this.value='请输入壁纸名称';" /></div>
+<input id="submit" class="sbtn" type="submit" value="搜索">
+</form>
+</div>
+</div>
+<div class="navnm">
+  <div class="co">
+    <ul id="navul" class="cl">
+      <li class="navhome"><a href="http://www.jj20.com/">首页</a></li><li ><a href="/bz/zrfg/">风景</a></li><li ><a href="/bz/dwxz/">动物</a></li><li ><a href="/bz/hhzw/">花卉</a></li><li ><a href="/bz/jzfg/">建筑</a></li><li ><a href="/bz/qcjt/">汽车</a></li><li ><a href="/bz/ysbz/">影视</a></li><li ><a href="/bz/nxxz/">美女</a></li><li ><a href="/bz/rwtx/">人物</a></li><li ><a href="/bz/jwxz/">静物</a></li><li ><a href="/bz/mwjy/">美食</a></li><li ><a href="/bz/czxt/">系统</a></li><li ><a href="/bz/sjsh/">设计</a></li><li ><a href="/bz/ysyx/">游戏</a></li><li ><a href="/bz/tyyd/">体育</a></li><li ><a href="/bz/ppgg/">品牌</a></li><li ><a href="/bz/ktmh/">卡通</a></li><li ><a href="/bz/shsj/">手绘</a></li><li ><a href="/bz/slkt/">矢量</a></li><li ><a href="/bz/xmsc/">炫彩</a></li><li ><a href="/bz/jqqd/">节庆</a></li><li ><a href="/bz/jxbz/">日历</a></li>
+    </ul>
+  </div>
+</div>
+<div class="wzfz fix">
+<div class="main cccd mt">
+<dl class="ccgl first fix">
+<dt>壁纸尺寸：</dt>
+<dd><a href="/bz/0-2560x1600.html">2560x1600</a><a href="/bz/0-1920x1200.html">1920x1200</a><a href="/bz/0-1920x1080.html">1920x1080</a><a href="/bz/0-1680x1050.html">1680x1050</a><a href="/bz/0-1600x900.html">1600x900</a><a href="/bz/0-1440x900.html">1440x900</a><a href="/bz/0-1366x768.html">1366x768</a><a href="/bz/0-1280x1024.html">1280x1024</a><a href="/bz/0-1280x800.html">1280x800</a><a href="/bz/0-1024x768.html">1024x768</a></dd></dl>
+</div>
+</div>
+<div class="wzfz s1 loc"><script>g("s1");</script></div>
+<div class="wzfz fix">
+<div id="show" class="main tab mt5">
+<div class="slide">
+<ul id="imgall" class="fix slide-ul"><li id="pic0b" class="moveimg"><a href="/bz/zrfg/xsxj/9445.html" target="_blank"><img src="/up/img/9445.jpg" alt="好看的雪山风景图片"></a></li>
+<li id="pic1b" class="moveimg"><a href="/bz/jzfg/jzfg/7529.html" target="_blank"><img src="/up/img/7529.jpg" alt="清澈的游泳池图片"></a></li>
+<li id="pic2b" class="moveimg"><a href="/bz/nxxz/nxmt/7465.html" target="_blank"><img src="/up/img/7465.jpg" alt="KARA韩国美女明星壁纸"></a></li>
+<li id="pic3b" class="moveimg"><a href="/bz/zrfg/ssrh/7442.html" target="_blank"><img src="/up/img/7442.jpg" alt="平静的湖面风景壁纸"></a></li>
+<li id="pic4b" class="moveimg"><a href="/bz/zrfg/fgqt/7278.html" target="_blank"><img src="/up/img/7278.jpg" alt="retina显示屏高清壁纸"></a></li>
+<li id="pic5b" class="moveimg"><a href="/bz/zrfg/fghj/6836.html" target="_blank"><img src="/up/img/6836.jpg" alt="高清风景桌面壁纸"></a></li>
+<li id="pic6b" class="moveimg"><a href="/bz/zrfg/fghj/6797.html" target="_blank"><img src="/up/img/6797.jpg" alt="意大利五渔村唯美风景壁纸"></a></li>
+<li id="pic7b" class="moveimg"><a href="/bz/ktmh/dmrw/6784.html" target="_blank"><img src="/up/img/6784.jpg" alt="和服动漫少女图片"></a></li>
+<li id="pic8b" class="moveimg"><a href="/bz/hhzw/xhtx/6729.html" target="_blank"><img src="/up/img/6729.jpg" alt="牵牛花图片"></a></li>
+<li id="pic9b" class="moveimg"><a href="/bz/nxxz/nxmt/6679.html" target="_blank"><img src="/up/img/6679.jpg" alt="美女平面模特壁纸"></a></li>
+<li id="pic10b" class="moveimg"><a href="/bz/nxxz/nxmt/6656.html" target="_blank"><img src="/up/img/6656.jpg" alt="香港嫩模许丽燕壁纸"></a></li>
+<li id="pic11b" class="moveimg"><a href="/bz/zrfg/dhhb/5184.html" target="_blank"><img src="/up/img/5184.jpg" alt="美丽的海水沙滩风景壁纸"></a></li>
+</ul>
+</div>
+<ul id="xiao" class="info fix" style="display: none"><li class="current" id="pic0" sid="0"><a href="/bz/zrfg/xsxj/9445.html" target="_blank"><img src="http://img.jj20.com/up/allimg/1011/120616110034/161206110034-1-lp.jpg" width="48" height="30"></a></li>
+<li class="current" id="pic1" sid="1"><a href="/bz/jzfg/jzfg/7529.html" target="_blank"><img src="http://img.jj20.com/up/allimg/811/102614115Q1/141026115Q1-1-lp.jpg" width="48" height="30"></a></li>
+<li class="current" id="pic2" sid="2"><a href="/bz/nxxz/nxmt/7465.html" target="_blank"><img src="http://img.jj20.com/up/allimg/811/100414101320/141004101320-0-lp.jpg" width="48" height="30"></a></li>
+<li class="current" id="pic3" sid="3"><a href="/bz/zrfg/ssrh/7442.html" target="_blank"><img src="http://img.jj20.com/up/allimg/811/092414111619/140924111619-0-lp.jpg" width="48" height="30"></a></li>
+<li class="current" id="pic4" sid="4"><a href="/bz/zrfg/fgqt/7278.html" target="_blank"><img src="http://img.jj20.com/up/allimg/811/0P214105952/140P2105952-0-lp.jpg" width="48" height="30"></a></li>
+<li class="current" id="pic5" sid="5"><a href="/bz/zrfg/fghj/6836.html" target="_blank"><img src="http://img.jj20.com/up/allimg/811/041G4104138/14041G04138-0-lp.jpg" width="48" height="30"></a></li>
+<li class="current" id="pic6" sid="6"><a href="/bz/zrfg/fghj/6797.html" target="_blank"><img src="http://img.jj20.com/up/allimg/811/040Q4111201/14040Q11201-0-lp.jpg" width="48" height="30"></a></li>
+<li class="current" id="pic7" sid="7"><a href="/bz/ktmh/dmrw/6784.html" target="_blank"><img src="http://img.jj20.com/up/allimg/811/040514113217/140405113217-1-lp.jpg" width="48" height="30"></a></li>
+<li class="current" id="pic8" sid="8"><a href="/bz/hhzw/xhtx/6729.html" target="_blank"><img src="http://img.jj20.com/up/allimg/711/031G4113053/14031G13053-0-lp.jpg" width="48" height="30"></a></li>
+<li class="current" id="pic9" sid="9"><a href="/bz/nxxz/nxmt/6679.html" target="_blank"><img src="http://img.jj20.com/up/allimg/711/022Q4104533/14022Q04533-1-lp.jpg" width="48" height="30"></a></li>
+<li class="current" id="pic10" sid="10"><a href="/bz/nxxz/nxmt/6656.html" target="_blank"><img src="http://img.jj20.com/up/allimg/711/021914100224/140219100224-1-lp.jpg" width="48" height="30"></a></li>
+<li class="current" id="pic11" sid="11"><a href="/bz/zrfg/dhhb/5184.html" target="_blank"><img src="http://img.jj20.com/up/allimg/611/112212125258/121122125258-0-lp.jpg" width="48" height="30"></a></li>
+
+</ul>
+</div>
+<div class="wzfz s2 loc"><script>g("s2");</script></div>
+<div class="wzfz fix">
+<div class="main">
+<div class="mood border mt5">
+<a class="more" href="/bz/new/">更多&raquo;</a>
+<h2>最新壁纸</h2> 
+</div>
+<ul class="pic2 fix"><li><a target="_blank" href="/bz/hhzw/bhsk/9726.html" title="高清4k樱花图片壁纸"><img src="http://img.jj20.com/up/allimg/1011/03241G43022/1F324143022-1-lp.jpg" width="298" height="168" alt="高清4k樱花图片壁纸"></a><p><a href="/bz/hhzw/bhsk/9726.html">高清4k樱花图片壁纸</a>(13张)</p><div class="shadow"></div></li>
+<li><a target="_blank" href="/bz/zrfg/ssrh/9725.html" title="高清4k湖泊山水风景壁纸"><img src="http://img.jj20.com/up/allimg/1011/03241G42643/1F324142643-1-lp.jpg" width="298" height="168" alt="高清4k湖泊山水风景壁纸"></a><p><a href="/bz/zrfg/ssrh/9725.html">高清4k湖泊山水风景壁纸</a>(19张)</p><div class="shadow"></div></li>
+<li><a target="_blank" href="/bz/nxxz/shxz/9724.html" title="萝莉型美女桌面壁纸"><img src="http://img.jj20.com/up/allimg/1011/03231G42156/1F323142156-1-lp.jpg" width="298" height="168" alt="萝莉型美女桌面壁纸"></a><p><a href="/bz/nxxz/shxz/9724.html">萝莉型美女桌面壁纸</a>(10张)</p><div class="shadow"></div></li>
+<li><a target="_blank" href="/bz/hhzw/sgsc/9723.html" title="新鲜营养的猕猴桃图片"><img src="http://img.jj20.com/up/allimg/1011/03231G42032/1F323142032-1-lp.jpg" width="298" height="168" alt="新鲜营养的猕猴桃图片"></a><p><a href="/bz/hhzw/sgsc/9723.html">新鲜营养的猕猴桃图片</a>(8张)</p><div class="shadow"></div></li>
+<li><a target="_blank" href="/bz/nxxz/shxz/9722.html" title="清纯养眼少女桌面壁纸"><img src="http://img.jj20.com/up/allimg/1011/03221G44444/1F322144444-1-lp.jpg" width="298" height="168" alt="清纯养眼少女桌面壁纸"></a><p><a href="/bz/nxxz/shxz/9722.html">清纯养眼少女桌面壁纸</a>(7张)</p><div class="shadow"></div></li>
+<li><a target="_blank" href="/bz/mwjy/msdc/9721.html" title="健康美味寿司桌面壁纸"><img src="http://img.jj20.com/up/allimg/1011/03221G44301/1F322144301-1-lp.jpg" width="298" height="168" alt="健康美味寿司桌面壁纸"></a><p><a href="/bz/mwjy/msdc/9721.html">健康美味寿司桌面壁纸</a>(14张)</p><div class="shadow"></div></li>
+</ul>
+<div class="wzfz s3 loc"><script>g("s3");</script></div>
+<div class="mood border mt5">
+<a class="more" href="/bz/nxxz/">更多&raquo;</a><h2>美女壁纸</h2>
+</div>
+<ul class="pic2 fix"><li><a target="_blank" href="/bz/nxxz/nxmt/7244.html" title="好看的美女图片壁纸"><img loadsrc="http://img.jj20.com/up/allimg/811/0H514115008/140H5115008-1-lp.jpg" width="298" height="168" alt="好看的美女图片壁纸"></a><p><a href="/bz/nxxz/nxmt/7244.html">好看的美女图片壁纸</a>(17张)</p><div class="shadow"></div></li>
+<li><a target="_blank" href="/bz/nxxz/nxmt/7230.html" title="阳光甜美美女壁纸"><img loadsrc="http://img.jj20.com/up/allimg/811/0H114120256/140H1120256-0-lp.jpg" width="298" height="168" alt="阳光甜美美女壁纸"></a><p><a href="/bz/nxxz/nxmt/7230.html">阳光甜美美女壁纸</a>(7张)</p><div class="shadow"></div></li>
+<li><a target="_blank" href="/bz/nxxz/nxmt/6612.html" title="小清新美女模特桌面壁纸"><img loadsrc="http://img.jj20.com/up/allimg/711/012Q4142043/14012Q42043-0-lp.jpg" width="298" height="168" alt="小清新美女模特桌面壁纸"></a><p><a href="/bz/nxxz/nxmt/6612.html">小清新美女模特桌面壁纸</a>(10张)</p><div class="shadow"></div></li>
+<li><a target="_blank" href="/bz/nxxz/nxmt/5289.html" title="治愈系女子(万虹萱)桌面壁纸"><img loadsrc="http://img.jj20.com/up/allimg/611/122012153436/121220153436-0-lp.jpg" width="298" height="168" alt="治愈系女子(万虹萱)桌面壁纸"></a><p><a href="/bz/nxxz/nxmt/5289.html">治愈系女子(万虹萱)桌面壁纸</a>(28张)</p><div class="shadow"></div></li>
+<li><a target="_blank" href="/bz/nxxz/nxmt/5099.html" title="车模美女李智友高清壁纸"><img loadsrc="http://img.jj20.com/up/allimg/611/102Q2131R3/12102Q31R3-1-lp.jpg" width="298" height="168" alt="车模美女李智友高清壁纸"></a><p><a href="/bz/nxxz/nxmt/5099.html">车模美女李智友高清壁纸</a>(24张)</p><div class="shadow"></div></li>
+<li><a target="_blank" href="/bz/nxxz/nxmt/3911.html" title="韩国顶级车展模特"><img loadsrc="http://img.jj20.com/up/allimg/411/050911233939/110509233939-0-lp.jpg" width="298" height="168" alt="韩国顶级车展模特"></a><p><a href="/bz/nxxz/nxmt/3911.html">韩国顶级车展模特</a>(18张)</p><div class="shadow"></div></li>
+</ul>
+<div class="mood border mt5">
+<a class="more" href="/bz/zrfg/">更多&raquo;</a>
+<h2>风景壁纸</h2> 
+</div>
+<ul class="pic2 fix"><li><a target="_blank" href="/bz/zrfg/ssrh/6091.html" title="秋水长天河岸唯美风景壁纸"><img alt="秋水长天河岸唯美风景壁纸" loadsrc="http://img.jj20.com/up/allimg/711/0Z113110452/130Z1110452-0-lp.jpg" width="298" height="168"></a><p><a href="/bz/zrfg/ssrh/6091.html">秋水长天河岸唯美风景壁纸</a>(16张)</p><div class="shadow"></div></li>
+<li><a target="_blank" href="/bz/zrfg/ssrh/5565.html" title="蓝色天空唯美风景桌面壁纸"><img alt="蓝色天空唯美风景桌面壁纸" loadsrc="http://img.jj20.com/up/allimg/611/031213123016/130312123016-0-lp.jpg" width="298" height="168"></a><p><a href="/bz/zrfg/ssrh/5565.html">蓝色天空唯美风景桌面壁纸</a>(24张)</p><div class="shadow"></div></li>
+<li><a target="_blank" href="/bz/zrfg/fghj/4815.html" title="一片优美的自然景色"><img alt="一片优美的自然景色" loadsrc="http://img.jj20.com/up/allimg/512/0HG2123938/120HG23938-0-lp.jpg" width="298" height="168"></a><p><a href="/bz/zrfg/fghj/4815.html">一片优美的自然景色</a>(20张)</p><div class="shadow"></div></li>
+<li><a target="_blank" href="/bz/zrfg/fghj/4738.html" title="高清风景图片背景"><img alt="高清风景图片背景" loadsrc="http://img.jj20.com/up/allimg/512/0F312105Z3/120F3105Z3-0-lp.jpg" width="298" height="168"></a><p><a href="/bz/zrfg/fghj/4738.html">高清风景图片背景</a>(20张)</p><div class="shadow"></div></li>
+<li><a target="_blank" href="/bz/zrfg/fghj/4567.html" title="迷人风光景色"><img alt="迷人风光景色" loadsrc="http://img.jj20.com/up/allimg/512/040912153611/120409153611-0-lp.jpg" width="298" height="168"></a><p><a href="/bz/zrfg/fghj/4567.html">迷人风光景色</a>(20张)</p><div class="shadow"></div></li>
+<li><a target="_blank" href="/bz/zrfg/xsxj/3820.html" title="宽屏雪景 第二辑"><img alt="宽屏雪景 第二辑" loadsrc="http://img.jj20.com/up/allimg/411/042511034215/110425034215-0-lp.jpg" width="298" height="168"></a><p><a href="/bz/zrfg/xsxj/3820.html">宽屏雪景 第二辑</a>(20张)</p><div class="shadow"></div></li>
+</ul><div class="mood border mt5">
+<a class="more" href="/bz/hhzw/">更多&raquo;</a>
+<h2>花卉壁纸</h2> 
+</div>
+<ul class="pic2 fix"><li><a target="_blank" href="/bz/hhzw/xhtx/7521.html" title="朦胧唯美牵牛花图片"><img alt="朦胧唯美牵牛花图片" loadsrc="http://img.jj20.com/up/allimg/811/102314143044/141023143044-0-lp.jpg" width="298" height="168"></a><p><a href="/bz/hhzw/xhtx/7521.html">朦胧唯美牵牛花图片</a>(9张)</p><div class="shadow"></div></li>
+<li><a target="_blank" href="/bz/hhzw/bhsk/7437.html" title="唯美好看的花卉图片"><img alt="唯美好看的花卉图片" loadsrc="http://img.jj20.com/up/allimg/811/092314095148/140923095148-0-lp.jpg" width="298" height="168"></a><p><a href="/bz/hhzw/bhsk/7437.html">唯美好看的花卉图片</a>(10张)</p><div class="shadow"></div></li>
+<li><a target="_blank" href="/bz/hhzw/xhtx/5731.html" title="柔美高清的花儿图片壁纸"><img alt="柔美高清的花儿图片壁纸" loadsrc="http://img.jj20.com/up/allimg/611/050213105242/130502105242-0-lp.jpg" width="298" height="168"></a><p><a href="/bz/hhzw/xhtx/5731.html">柔美高清的花儿图片壁纸</a>(20张)</p><div class="shadow"></div></li>
+<li><a target="_blank" href="/bz/hhzw/xhtx/4588.html" title="高清花卉电脑壁纸"><img alt="高清花卉电脑壁纸" loadsrc="http://img.jj20.com/up/allimg/512/041912113G1/120419113G1-0-lp.jpg" width="298" height="168"></a><p><a href="/bz/hhzw/xhtx/4588.html">高清花卉电脑壁纸</a>(20张)</p><div class="shadow"></div></li>
+<li><a target="_blank" href="/bz/hhzw/xhtx/4582.html" title="好看的紫色花丛图片"><img alt="好看的紫色花丛图片" loadsrc="http://img.jj20.com/up/allimg/512/041612114505/120416114505-0-lp.jpg" width="298" height="168"></a><p><a href="/bz/hhzw/xhtx/4582.html">好看的紫色花丛图片</a>(18张)</p><div class="shadow"></div></li>
+<li><a target="_blank" href="/bz/hhzw/bhsk/4514.html" title="高清花草桌面壁纸"><img alt="高清花草桌面壁纸" loadsrc="http://img.jj20.com/up/allimg/512/031312191637/120313191637-0-lp.jpg" width="298" height="168"></a><p><a href="/bz/hhzw/bhsk/4514.html">高清花草桌面壁纸</a>(20张)</p><div class="shadow"></div></li>
+</ul><div class="mood border mt5">
+<a class="more" href="/bz/ktmh/">更多&raquo;</a>
+<h2>卡通壁纸</h2> 
+</div>
+<ul class="pic2 fix"><li><a target="_blank" href="/bz/ktmh/dmrw/7323.html" title="高清动漫美女图"><img alt="高清动漫美女图" loadsrc="http://img.jj20.com/up/allimg/811/0Q314221532/140Q3221532-1-lp.jpg" width="298" height="168"></a><p><a href="/bz/ktmh/dmrw/7323.html">高清动漫美女图</a>(12张)</p><div class="shadow"></div></li>
+<li><a target="_blank" href="/bz/ktmh/dmrw/7246.html" title="高清初音未来壁纸"><img alt="高清初音未来壁纸" loadsrc="http://img.jj20.com/up/allimg/811/0H514115601/140H5115601-1-lp.jpg" width="298" height="168"></a><p><a href="/bz/ktmh/dmrw/7246.html">高清初音未来壁纸</a>(14张)</p><div class="shadow"></div></li>
+<li><a target="_blank" href="/bz/ktmh/dmrw/7222.html" title="我妻由乃图片壁纸"><img alt="我妻由乃图片壁纸" loadsrc="http://img.jj20.com/up/allimg/811/0G914115413/140G9115413-1-lp.jpg" width="298" height="168"></a><p><a href="/bz/ktmh/dmrw/7222.html">我妻由乃图片壁纸</a>(10张)</p><div class="shadow"></div></li>
+<li><a target="_blank" href="/bz/ktmh/dmrw/6708.html" title="弹丸论破壁纸"><img alt="弹丸论破壁纸" loadsrc="http://img.jj20.com/up/allimg/711/031014114339/140310114339-0-lp.jpg" width="298" height="168"></a><p><a href="/bz/ktmh/dmrw/6708.html">弹丸论破壁纸</a>(20张)</p><div class="shadow"></div></li>
+<li><a target="_blank" href="/bz/ktmh/dmrw/6623.html" title="超萌可爱的动漫美少女"><img alt="超萌可爱的动漫美少女" loadsrc="http://img.jj20.com/up/allimg/711/020314221129/140203221129-0-lp.jpg" width="298" height="168"></a><p><a href="/bz/ktmh/dmrw/6623.html">超萌可爱的动漫美少女</a>(8张)</p><div class="shadow"></div></li>
+<li><a target="_blank" href="/bz/ktmh/dmrw/6556.html" title="罪恶王冠图片"><img alt="罪恶王冠图片" loadsrc="http://img.jj20.com/up/allimg/711/011114110135/140111110135-0-lp.jpg" width="298" height="168"></a><p><a href="/bz/ktmh/dmrw/6556.html">罪恶王冠图片</a>(20张)</p><div class="shadow"></div></li>
+</ul>
+</div></div></div>
+<div class="wzfz ttx mt"><a target="_blank" href="/special/gaoqingbizhi.html" style="font-size:8pt;color:#4cbfa9">高清壁纸</a>
+<a target="_blank" href="/special/gexingtupian.html" style="font-size:12pt;color:#71cce">个性图片</a>
+<a target="_blank" href="/special/aiqingtupian.html" style="font-size:11pt;color:#6562f">爱情图片</a>
+<a target="_blank" href="/special/weimeinvsheng.html" style="font-size:9pt;color:#a04ba3">唯美女生图片</a>
+<a target="_blank" href="/special/fangfushe.html" style="font-size:10pt;color:#1b3c43">防辐射</a>
+<a target="_blank" href="/special/keai.html" style="font-size:10pt;color:#4e4626">可爱</a>
+<a target="_blank" href="/special/xiaoqingxin.html" style="font-size:9pt;color:#30195">小清新</a>
+<a target="_blank" href="/special/weimei.html" style="font-size:8pt;color:#398f17">唯美图片</a>
+</div>
+<div class="wzfz s4 loc"><script>g("s4");</script></div>
+<div class="wzfz link loc">
+<div class="title">友情链接 要求 br≥6 qq:764-419-53</div>
+<a href="http://www.jj20.com/" target="_blank">桌面壁纸</a>
+<a href="http://sjbz.jj20.com/" target="_blank">手机壁纸</a>
+<a href="http://desk.zol.com.cn/" target="_blank">中关村壁纸</a>
+<a href="http://www.51ztzj.com/" target="_blank">电脑桌面壁纸</a>
+<a href="http://photo.poco.cn/" target="_blank">POCO摄影网</a>
+<a href="http://www.3d66.com/" target="_blank">3D模型</a>
+<a href="http://www.tooopen.com/" target="_blank">图片大全</a>
+<a href="http://www.58pic.com/" target="_blank">千图网</a>
+<a href="http://588ku.com/" target="_blank">背景图片</a>
+<a href="http://www.ooqiu.com/" target="_blank">全球电竞网</a>
+<a href="http://www.jianli-sky.com/" target="_blank">简历模板</a>
+<a href="http://www.win4000.com/" target="_blank">电脑主题</a>
+<a href="http://xiaoguotu.to8to.com/" target="_blank">装修效果图</a>
+<a href="http://weili.ooopic.com/" target="_blank">微利图片</a>
+<a href="http://woman.39.net/" target="_blank">39女性网</a>
+<a href="http://game.3533.com/" target="_blank">手机应用</a>
+<a href="http://www.tupianzj.com/" target="_blank">图片大全</a>
+<a href="http://www.61ertong.com/" target="_blank">儿童</a>
+<a href="http://www.yyfensi.com/" target="_blank">yy名字大全</a>
+<a href="http://www.sucaitianxia.com/" target="_blank">素材天下</a>
+<a href="http://www.zhidiy.com/" target="_blank">折纸</a>
+<a href="http://www.zbjuran.com/" target="_blank">搞笑图片</a>
+<a href="http://www.17sucai.com/" target="_blank">中国素材网</a>
+<a href="http://www.0s.net.cn/" target="_blank">小学生日记大全</a>
+<a href="http://www.enterdesk.com/" target="_blank">电脑桌面壁纸</a>
+<a href="http://www.xitongcheng.com/" target="_blank">系统城</a>
+<a href="http://www.9upk.com" target="_blank">久友软件下载站</a>
+<a href="http://www.redocn.com/" target="_blank">红动中国设计网</a>
+<a href="http://www.wmpic.me/" target="_blank">唯美图片</a>
+<a href="http://www.windows7en.com/" target="_blank">win7旗舰版</a>
+<a href="http://www.romjd.com/" target="_blank">ROM基地</a>
+<a href="http://www.zhlzw.com/" target="_blank">网评</a>
+<a href="http://www.lvyougl.com/" target="_blank">云游网</a>
+<a href="http://www.xiaoshuomi.cc/" target="_blank">小游戏大全</a>
+<a href="http://www.web3389.com/" target="_blank">网站查询</a>
+<a href="http://www.wnwb.com/" target="_blank">五笔输入法下载</a>
+<a href="http://www.xiziwang.net/" target="_blank">发型设计</a>
+<a href="http://p.ik123.com/" target="_blank">qq头像</a>
+<a href="http://www.7kk.com/" target="_blank">电脑桌面壁纸</a>
+<a href="http://www.taopic.com/" target="_blank">素材</a>
+<a href="http://www.114time.com/" target="_blank">北京时间</a>
+<a href="http://www.diaoyu123.com/" target="_blank">钓鱼视频</a>
+<a href="http://www.16sucai.com/" target="_blank">素材中国</a>
+<a href="http://www.qicaispace.com/" target="_blank">网站建设</a>
+<a href="http://www.xp85.com/" target="_blank">系统之家</a>
+<a href="http://www.qzone.la/" target="_blank">QQ头像</a>
+<a href="http://bbs.heiguang.com/" target="_blank">人像摄影论坛</a>
+<a href="http://www.djye.com/" target="_blank">dj舞曲</a>
+<a href="http://www.xp510.com/" target="_blank">系统之家</a>
+<a href="http://gaoxiao.jokeji.cn/" target="_blank">搞笑图片</a>
+<a href="http://www.wowoqq.com/" target="_blank">窝窝QQ</a>
+<a href="http://yl.szhk.com/" target="_blank">娱乐新闻</a>
+<a href="http://www.gexing.com/qqfenzu/" target="_blank">QQ分组</a>
+<a href="http://www.xbaixing.com/" target="_blank">百姓网</a>
+<a href="http://www.xyzs.com/" target="_blank">苹果助手</a>
+<a href="http://www.ps123.net/" target="_blank">Ps123</a>
+<a href="http://www.dajiazhao.com/" target="_blank">算命最准的免费网站</a>
+<a href="http://www.1ppt.com/" target="_blank">ppt模板</a>
+</div>
+<div class="fwrap">
+    <div class="footer">
+        <p class="f_tip">本站所有桌面壁纸收集于互联网，版权归创作人所有，如有冒犯，请直接联系本站，我们将立即予以删除指定壁纸并致歉！！<a href="http://www.jj20.com/">娟娟壁纸</a> 湘ICP备12006343号-1 邮箱:jj20@qq.com</p><span style="display:none"><script>g("tj");</script></span>
+    </div>
+</div>
+<script>g("s5");</script>
+<script type="text/javascript" src="/js/min.js"></script>
+<script>window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"share":{"bdSize":16}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</body>
+</html>

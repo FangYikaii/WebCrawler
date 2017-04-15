@@ -1,0 +1,1222 @@
+HTTP/1.1 200 OK
+Content-Length: 77142
+Content-Type: text/html
+Content-Location: http://www.hzhuti.com/index.html
+Last-Modified: Sat, 25 Mar 2017 04:31:21 GMT
+Accept-Ranges: bytes
+ETag: W/"ac1ea3a720a5d21:1915"
+Server: Microsoft-IIS/6.0
+X-Powered-By: ASP.NET
+Date: Sat, 25 Mar 2017 04:37:02 GMT
+Connection: close
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>安卓主题_安卓手机主题_安卓主题免费下载 - 好主题</title>
+<meta name="keywords" content="安卓主题,安卓手机主题,安卓主题免费下载,安卓主题下载">
+<meta name="description" content="安卓主题下载网汇集各种免费的安卓主题桌面，如：非主流、帅哥美女、卡通、浪漫爱情、风景等精美的安卓手机主题，欢迎广大(Android)安卓手机主题机友进行安卓主题免费下载。">
+<meta name="author" content="好主题 www.hzhuti.com" /> 
+<link rel="Bookmark" href="/favicon.ico" >
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<link rel="stylesheet" type="text/css" href="/style/css/style.css" />
+<script type="text/javascript" src="/style/js/jquery.js"></script>
+<script type="text/javascript" src="/style/js/tab.js"></script>
+<script type="text/javascript" src="/style/js/redirect.js"></script> 
+<script type="text/javascript" src="http://s.hzhuti.com/js/pubad.js"></script>
+<script type="text/javascript">browserRedirect();</script>
+<style>.index_div4 .right .bang1 li {width: 91%;border-right: 1px solid #ddd;}</style>
+</head>
+<body>
+<style>.header .search .tab_box div .search_btn{ position:absolute; z-index:3; width:64px; height:44px; line-height:100px; background-position:-63px -39px; right:0;background-color:#ff6600;}
+</style>
+<div class="topnav">
+	<div class="topnav_list">
+        <div class="left">
+            <a class="on" href="/nokia/" target="_blank">诺基亚手机主题</a><span>|</span>
+            <a  href="/android/" target="_blank">安卓主题</a><span>|</span>
+            <a  href="/samsung/" target="_blank">三星手机主题</a><span>|</span>
+			  <a  href="http://www.hzhuti.com/news/" target="_blank">手机新闻</a><span>|</span>
+        </div>
+        <div class="right">
+            <span>|</span><a href="http://www.hzhuti.com/Desktopurl.php"><span class="save_btn">save</span><span>保存到桌面</span></a>
+            <span>|</span>
+            <div id="site">
+            <a class="site" href="javascript:void(0)"><span class="site_btn">site</span><span>网站导航</span><span class="up">up</span></a>
+            <div id="site_div" class="site_div">
+            	<div>
+				 <h4>热门主题</h4>
+                	<a href="/xiaomi/" target="_blank">小米主题</a>
+					<a href="/huawei/" target="_blank">华为主题</a>
+					<a href="/lianxiang/" target="_blank">联想主题</a>
+					<a href="/tianyu/" target="_blank">天语主题</a>
+					<a href="/kupai/" target="_blank">酷派主题</a>
+					<a href="/tianyu/" target="_blank">天语主题</a>
+					<a href="/meizu/" target="_blank">魅族主题</a>
+					<a href="/huawei/" target="_blank">华为主题</a>   
+                </div>
+                <div>
+				 <h4>热门游戏</h4>
+                     <a href="/anzhuo/jiaosebanyan/" target="_blank">角色扮演</a>
+					 <a href="/anzhuo/feixingsheji/" target="_blank">飞行射击</a>
+					 <a href="/anzhuo/tiyujingji/" target="_blank">体育竞技</a>
+					 <a href="/anzhuo/yizhixiuxian/" target="_blank">益智休闲</a>
+					 <a href="/anzhuo/celueqipai/" target="_blank">策略棋牌</a>
+					 <a href="/anzhuo/saicheyouxi/" target="_blank">赛车游戏</a>
+					 <a href="/anzhuo/dongzuoyouxi/" target="_blank">动作游戏</a>
+					 <a href="/anzhuo/moniyouxi/" target="_blank">模拟游戏</a>
+                </div>
+                <div>
+               	<h4>热门软件</h4>
+                     <a href="/soft/life/" target="_blank">生活实用</a>
+					 <a href="/soft/system/" target="_blank">系统安全</a>
+					 <a href="/soft/wallpaper/" target="_blank">壁纸美化</a>
+					 <a href="/soft/health/" target="_blank">健康保健</a>
+					 <a href="/soft/book/" target="_blank">书籍阅读</a>
+					 <a href="/soft/office/" target="_blank">学习办公</a>
+					 <a href="/soft/shopping/" target="_blank">理财购物</a>
+					 <a href="/soft/software/" target="_blank">拍照软件</a>
+                </div>
+                <div class="last">
+               		<h4>热门教程</h4>
+                     <a href="/help/android/" target="_blank">手机软件</a>
+					 <a href="/help/zt/" target="_blank">主题频道</a>
+					 <a href="/help/game/" target="_blank">游戏攻略</a>
+					 <a href="/help/rom/" target="_blank">安卓刷机</a>
+					 <a href="/help/iphone/" target="_blank">苹果</a>
+					 <a href="/help/wp/" target="_blank">wp教程</a>
+					 <a href="/help/msg/" target="_blank">电话/短信</a>
+					 <a href="/sms/daily/" target="_blank">日常问候</a>
+                </div>
+            </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="header">
+    <div class="logo"></div>
+    <div class="search">
+	
+    	<div class="tab" id="tab">
+            <ul class="tab_menu">
+                <li class="selected">资讯</li>
+                <li>主题</li>
+                <li>游戏</li>
+                <li>软件</li>
+            </ul>
+			<div class="tab_box">
+					<input type='hidden' name='searchtype' value='title'/>
+					<input type="hidden" name="kwtype" value="0" />
+				<div>
+				<form name="f1"  class="search_form" action='/plus/search.php'  method='get'>
+                	<input type="text" placeholder="请输入要搜索的资讯" id="search1" name='keyword' id='n'/><span id="search_close1">资讯</span><input type='submit' class='search_btn' value='搜索' id="search_btn1"  onmousemove="this.style.cursor='pointer';"/><input type='hidden' name='channeltype' value='1'/>
+					<input type='hidden' name='typeid' value='0'/>
+                </form>
+				</div>
+			
+			
+                <div class="hide">
+				<form name="f2" class="search_form" action='/plus/search.php'  method='get'>
+                	<input type="text" placeholder="请输入要搜索的主题" id="search2" name='keyword' id='t' /><span id="search_close2">主题</span><input type='submit' class='search_btn' value='搜索' id="search_btn2"  onmousemove="this.style.cursor='pointer';"/><input type='hidden' name='channeltype' value='3'/><input type='hidden' name='typeid' value='0'/>
+                </form>
+				</div>
+			
+			
+                <div class="hide">
+				<form name="f3" class="search_form" action='/plus/search.php'  method='get'>
+                	<input type="text" placeholder="请输入要搜索的游戏" id="search3" name='keyword' id='g' /><span id="search_close3">游戏</span><input type='submit' class='search_btn' value='搜索' id="search_btn3"  onmousemove="this.style.cursor='pointer';"/><input type='hidden' name='channeltype' value='3'/><input type='hidden' name='typeid' value='544'/>
+                </form>
+				</div>
+			
+			
+                <div class="hide">
+				<form name="f4" class="search_form" action='/plus/search.php'  method='get'>
+                	<input type="text" placeholder="请输入要搜索的软件" id="search4" name='keyword' id='s'/><span id="search_close4">软件</span><input type='submit' class='search_btn' value='搜索' id="search_btn4"  onmousemove="this.style.cursor='pointer';"/><input type='hidden' name='channeltype' value='3'/><input type='hidden' name='typeid' value='682'/>
+                </form>
+				</div>
+			</div>
+        </div>
+        <p><a href="/zhuti/" target="_blank">热门主题</a><a href="/games/" target="_blank">最新手游</a><a href="/help/" target="_blank">安卓教程</a><a href="/sms/" target="_blank">热门短信</a></p>
+    </div>
+    <div class="clear"></div>
+</div>
+
+<div class="nav">
+	<ul>
+    	<li class="on"><a href="/" target="_blank">首页</a></li>
+        <li><a href="/android/" target="_blank">手机主题</a></li>
+        <li><a href="/anzhuo/" target="_blank">手机游戏</a></li>
+        <li><a href="/soft/" target="_blank">手机软件</a></li>
+        <li><a href="/help/" target="_blank">资讯教程</a></li>
+        <li><a href="/sms/" target="_blank">短信大全</a></li>
+        <li><a href="/news/" target="_blank">手机新闻</a></li>
+  </ul>
+</div>
+<div class="main">
+	<div class="index_div1">
+            <div class="tab" id="tab1">
+                <ul class="tab_menu">
+                    <li class="selected"><img src="/style/images/sanxing.jpg" width="80" height="60"/></li>
+					<li><img src="/style/images/meizu.jpg" width="80" height="60" /></li>
+                    <li><img src="/style/images/htc.jpg"  width="80" height="60"/></li>
+					<li><img src="/style/images/mi.jpg" width="80" height="60" /></li>
+					<li><img src="/style/images/huawei.jpg" width="80" height="60" /></li>
+					<li><img src="/style/images/nokia.jpg" width="80" height="60" /></li>
+					<li><img src="/style/images/LG.jpg" width="80" height="60"/></li>
+					<li><img src="/style/images/jinli.jpg" width="80" height="60" /></li>
+					<li><img src="/style/images/bubugao.jpg" width="80" height="60"/></li>
+					<li><img src="/style/images/lenovo.jpg" width="80" height="60"/></li>
+                </ul>
+                <div class="tab_box">
+                    <div>
+					   
+						<a href="/samsung/I9100/" target="_blank">I9100</a>
+					   
+						<a href="/samsung/i950800/" target="_blank">I9508</a>
+					   
+						<a href="/samsung/i9158/" target="_blank">I9158</a>
+					   
+						<a href="/samsung/i9220/" target="_blank">i9220</a>
+					   
+						<a href="/samsung/n90060809/" target="_blank">N9006</a>
+					   
+						<a href="/samsung/i9250/" target="_blank">i9250</a>
+					   
+						<a href="/samsung/S5830/" target="_blank">S5830</a>
+					   
+						<a href="/samsung/S5660/" target="_blank">S5660</a>
+					   
+						<a href="/samsung/w999/" target="_blank">w999</a>
+					   
+						<a href="/samsung/s5750/" target="_blank">s5750</a>
+					   
+						<a href="/samsung/s5360/" target="_blank">s5360</a>
+					   
+						<a href="/samsung/s5830i/" target="_blank">s5830i</a>
+					   
+						<a href="/samsung/I909/" target="_blank">I909</a>
+					   
+						<a href="/samsung/M900/" target="_blank">M900</a>
+					   
+						<a href="/samsung/M100S/" target="_blank">M100S</a>
+					   
+						<a href="/samsung/I8920/" target="_blank">I8920</a>
+					   
+						<a href="/samsung/T939/" target="_blank">T939</a>
+					   
+						<a href="/samsung/I5801/" target="_blank">I5801</a>
+					   
+						<a href="/samsung/S5670/" target="_blank">S5670</a>
+					   
+						<a href="/samsung/Moment/" target="_blank">Moment</a>
+					   
+						<a href="/samsung/P1000/" target="_blank">P1000</a>
+					   
+						<a href="/samsung/S5570/" target="_blank">S5570</a>
+					   
+						<a href="/samsung/123/" target="_blank">123</a>
+					   
+						<a href="/samsung/GALAXY S7 Edge/" target="_blank">GALAXY S7 Edge</a>
+					   
+						<a href="/samsung/GALAXY S7/" target="_blank">GALAXY S7</a>
+					   
+						<a href="/samsung/note3/" target="_blank">note3</a>
+					   
+						<a href="/samsung/i9268/" target="_blank">i9268</a>
+					   
+						<a href="/samsung/7562/" target="_blank">7562</a>
+					   
+						<a href="/samsung/i699/" target="_blank">i699</a>
+					   
+					   <a class="more" href="/samsung/" target="_blank">更多机型>></a>
+				   </div>
+                    <div class="hide">
+						
+						<a href="/meizu/M9/" target="_blank">M9</a>
+					   
+						<a href="/meizu/MX2/" target="_blank">MX2</a>
+					   
+						<a href="/meizu/MX3/" target="_blank">MX3</a>
+					   
+						<a href="/meizu/mx4/" target="_blank">MX4</a>
+					   
+					   <a class="more" href="/meizu/" target="_blank">更多机型>></a>
+                    </div>
+                    <div class="hide">
+						
+						<a href="/HTC/G11/" target="_blank">G11</a>
+					   
+						<a href="/HTC/G18/" target="_blank">G18</a>
+					   
+						<a href="/HTC/G21/" target="_blank">G21</a>
+					   
+						<a href="/HTC/G14/" target="_blank">G14</a>
+					   
+						<a href="/HTC/G13/" target="_blank">G13</a>
+					   
+						<a href="/HTC/G17/" target="_blank">G17</a>
+					   
+						<a href="/HTC/G1/" target="_blank">G1</a>
+					   
+						<a href="/HTC/htconex/" target="_blank">onex</a>
+					   
+						<a href="/HTC/htcones/" target="_blank">ones</a>
+					   
+						<a href="/HTC/G12/" target="_blank">G12</a>
+					   
+						<a href="/HTC/G15/" target="_blank">G15</a>
+					   
+						<a href="/HTC/htconev/" target="_blank">onev</a>
+					   
+						<a href="/HTC/G10/" target="_blank">G10</a>
+					   
+						<a href="/HTC/G9/" target="_blank">G9</a>
+					   
+						<a href="/HTC/G8/" target="_blank">G8</a>
+					   
+						<a href="/HTC/G22/" target="_blank">G22</a>
+					   
+						<a href="/HTC/G20/" target="_blank">G20</a>
+					   
+						<a href="/HTC/G19/" target="_blank">G19</a>
+					   
+						<a href="/HTC/G16/" target="_blank">G16</a>
+					   
+						<a href="/HTC/G7/" target="_blank">G7</a>
+					   
+						<a href="/HTC/G6/" target="_blank">G6</a>
+					   
+						<a href="/HTC/t328w/" target="_blank">t328w</a>
+					   
+						<a href="/HTC/t328t/" target="_blank">t328t</a>
+					   
+						<a href="/HTC/g3/" target="_blank">g3</a>
+					   
+						<a href="/HTC/A3360/" target="_blank">A3360</a>
+					   
+						<a href="/HTC/G5/" target="_blank">G5</a>
+					   
+						<a href="/HTC/G4/" target="_blank">G4</a>
+					   
+						<a href="/HTC/G3/" target="_blank">G3</a>
+					   
+						<a href="/HTC/Salsa/" target="_blank">Salsa</a>
+					   
+					   <a class="more" href="/HTC/" target="_blank">更多机型>></a>
+                    </div>
+                    <div class="hide">
+						
+						<a href="/xiaomi/MIONE/" target="_blank">MIONE</a>
+					   
+						<a href="/xiaomi/m2/" target="_blank">M2</a>
+					   
+						<a href="/xiaomi/m3/" target="_blank">M3</a>
+					   
+						<a href="/xiaomi/m4/" target="_blank">M4</a>
+					   
+					   <a class="more" href="/xiaomi/" target="_blank">更多机型>></a>
+					</div>
+                    <div class="hide">
+						
+						<a href="/huawei/C8300/" target="_blank">C8300</a>
+					   
+						<a href="/huawei/p6/" target="_blank">3X/P6</a>
+					   
+						<a href="/huawei/C8500/" target="_blank">C8500</a>
+					   
+						<a href="/huawei/C8600/" target="_blank">C8600</a>
+					   
+						<a href="/huawei/mate/" target="_blank">Mate</a>
+					   
+						<a href="/huawei/G610700/" target="_blank">G610/700</a>
+					   
+						<a href="/huawei/C8800/" target="_blank">C8800</a>
+					   
+						<a href="/huawei/S7_SMAKIT/" target="_blank">S7-SMAKIT</a>
+					   
+						<a href="/huawei/T8100/" target="_blank">T8100</a>
+					   
+						<a href="/huawei/U8100/" target="_blank">U8100</a>
+					   
+						<a href="/huawei/U8110/" target="_blank">U8110</a>
+					   
+						<a href="/huawei/U8120/" target="_blank">U8120</a>
+					   
+						<a href="/huawei/U8150/" target="_blank">U8150</a>
+					   
+						<a href="/huawei/U8500/" target="_blank">U8500</a>
+					   
+						<a href="/huawei/U8510/" target="_blank">U8510</a>
+					   
+						<a href="/huawei/U8800/" target="_blank">U8800</a>
+					   
+						<a href="/huawei/U9000/" target="_blank">U9000</a>
+					   
+						<a href="/huawei/U8825D/" target="_blank">U8825D</a>
+					   
+						<a href="/huawei/c8812/" target="_blank">c8812</a>
+					   
+						<a href="/huawei/y220t/" target="_blank">y220t</a>
+					   
+						<a href="/huawei/c8813/" target="_blank">c8813</a>
+					   
+						<a href="/huawei/g510/" target="_blank">g510</a>
+					   
+						<a href="/huawei/8661/" target="_blank">8661</a>
+					   
+						<a href="/huawei/y210/" target="_blank">y210</a>
+					   
+						<a href="/huawei/u8661/" target="_blank">u8661</a>
+					   
+						<a href="/huawei/c8650/" target="_blank">c8650</a>
+					   
+					   <a class="more" href="/huawei/" target="_blank">更多机型>></a>
+                    </div>
+                    <div class="hide">
+						
+						<a href="/nokia/5233/" target="_blank">5233</a>
+					   
+						<a href="/nokia/5230/" target="_blank">5230</a>
+					   
+						<a href="/nokia/5800/" target="_blank">5800</a>
+					   
+						<a href="/nokia/5250/" target="_blank">5250</a>
+					   
+						<a href="/nokia/n97/" target="_blank">n97</a>
+					   
+						<a href="/nokia/c5-03/" target="_blank">c503</a>
+					   
+						<a href="/nokia/c6/" target="_blank">c6</a>
+					   
+						<a href="/nokia/n97 mini/" target="_blank">n97mini</a>
+					   
+						<a href="/nokia/n8/" target="_blank">n8</a>
+					   
+						<a href="/nokia/c7/" target="_blank">c7</a>
+					   
+						<a href="/nokia/x6/" target="_blank">x6</a>
+					   
+						<a href="/nokia/c6-01/" target="_blank">c601</a>
+					   
+						<a href="/nokia/5530/" target="_blank">5530</a>
+					   
+						<a href="/nokia/5238/" target="_blank">5238</a>
+					   
+						<a href="/nokia/5235/" target="_blank">5235</a>
+					   
+						<a href="/nokia/5800w/" target="_blank">5800w</a>
+					   
+						<a href="/nokia/X7/" target="_blank">X7</a>
+					   
+						<a href="/nokia/c506/" target="_blank">c506</a>
+					   
+						<a href="/nokia/c505/" target="_blank">c505</a>
+					   
+						<a href="/nokia/C602/" target="_blank">C602</a>
+					   
+						<a href="/nokia/5800xm/" target="_blank">5800xm</a>
+					   
+						<a href="/nokia/5800i/" target="_blank">5800i</a>
+					   
+						<a href="/nokia/e63/" target="_blank">e63</a>
+					   
+						<a href="/nokia/6700s/" target="_blank">6700s</a>
+					   
+						<a href="/nokia/e71/" target="_blank">e71</a>
+					   
+						<a href="/nokia/e66/" target="_blank">e66</a>
+					   
+						<a href="/nokia/c5/" target="_blank">c5</a>
+					   
+						<a href="/nokia/e72/" target="_blank">e72</a>
+					   
+						<a href="/nokia/6650f/" target="_blank">6650f</a>
+					   
+					   <a class="more" href="/nokia/" target="_blank">更多机型>></a>
+                    </div>
+                    <div class="hide">
+						
+						<a href="/LG/C550/" target="_blank">C550</a>
+					   
+						<a href="/LG/GT540/" target="_blank">GT540</a>
+					   
+						<a href="/LG/GW620/" target="_blank">GW620</a>
+					   
+						<a href="/LG/LU2300/" target="_blank">LU2300</a>
+					   
+						<a href="/LG/P350/" target="_blank">P350</a>
+					   
+						<a href="/LG/P500/" target="_blank">P500</a>
+					   
+						<a href="/LG/P503/" target="_blank">P503</a>
+					   
+						<a href="/LG/P970/" target="_blank">P970</a>
+					   
+						<a href="/LG/P990/" target="_blank">P990</a>
+					   
+						<a href="/LG/P993/" target="_blank">P993</a>
+					   
+						<a href="/LG/p800/" target="_blank">p800</a>
+					   
+					   <a class="more" href="/LG/" target="_blank">更多机型>></a>
+					</div>
+                    <div class="hide">
+						
+						<a href="/jinli/M508/" target="_blank">M508</a>
+					   
+						<a href="/jinli/GN170/" target="_blank">GN170</a>
+					   
+						<a href="/jinli/GN109/" target="_blank">GN109</a>
+					   
+						<a href="/jinli/TD500/" target="_blank">TD500</a>
+					   
+						<a href="/jinli/GN100/" target="_blank">GN100</a>
+					   
+						<a href="/jinli/GN105/" target="_blank">GN105</a>
+					   
+						<a href="/jinli/GN106/" target="_blank">GN106</a>
+					   
+						<a href="/jinli/GN868/" target="_blank">GN868</a>
+					   
+						<a href="/jinli/GN205/" target="_blank">GN205</a>
+					   
+						<a href="/jinli/GN777/" target="_blank">GN777</a>
+					   
+						<a href="/jinli/GN700W/" target="_blank">GN700W</a>
+					   
+						<a href="/jinli/e6e7/" target="_blank">E6/E7</a>
+					   
+					   <a class="more" href="/jinli/" target="_blank">更多机型>></a>
+                    </div>
+                    <div class="hide">
+						
+						<a href="/bbk/s7/" target="_blank">s7</a>
+					   
+						<a href="/bbk/x1/" target="_blank">x1</a>
+					   
+						<a href="/bbk/vivo/" target="_blank">vivo</a>
+					   
+						<a href="/bbk/s9/" target="_blank">s9</a>
+					   
+						<a href="/bbk/e3/" target="_blank">e3</a>
+					   
+					   <a class="more" href="/bbk/" target="_blank">更多机型>></a>
+                    </div>
+                    <div class="hide">
+						
+						<a href="/lianxiang/lePHONE/" target="_blank">乐PHONE</a>
+					   
+						<a href="/lianxiang/a600e/" target="_blank">a600e</a>
+					   
+						<a href="/lianxiang/a278t/" target="_blank">a278t</a>
+					   
+						<a href="/lianxiang/a798t/" target="_blank">a798t</a>
+					   
+						<a href="/lianxiang/s890/" target="_blank">s890</a>
+					   
+						<a href="/lianxiang/s890/" target="_blank">s890</a>
+					   
+						<a href="/lianxiang/a520/" target="_blank">a520</a>
+					   
+						<a href="/lianxiang/s720/" target="_blank">s720</a>
+					   
+						<a href="/lianxiang/K900/" target="_blank">K900</a>
+					   
+						<a href="/lianxiang/a750/" target="_blank">a750</a>
+					   
+						<a href="/lianxiang/s880/" target="_blank">s880</a>
+					   
+					   <a class="more" href="/lianxiang/" target="_blank">更多机型>></a>
+                    </div>
+                </div>
+            </div>
+    </div>
+    
+    <div class="index_div2">
+    	<div class="left">
+        	<div class="title"><a class="more" href="/help/" target="_blank">more</a></div>
+              <div class="banner left">
+                <a id=prev class="prevBtn banner_qq" href="javascript:void(0)"></a>
+                <a id=next class="nextBtn banner_qq" href="javascript:void(0)"></a>
+                <div id="bannerjs" class="bannerjs">
+                    <div class="box01">
+					<a href="/news/pc/83203.html"  target="_blank"><img src="/uploads/allimg/170318/29_170318160035_1-lp.JPG" width="330" height="300" alt="D-Link Omna测评：苹果HomeKit平台又添"/></a>
+
+               		<a style="display:none;" href="/news/pc/83202.html"  target="_blank"><img src="/uploads/allimg/170318/29_170318154856_1-lp.png" width="330" height="300" alt="iPhone 6s自动关机故障分析 原来有这些"/></a>
+<a style="display:none;" href="/news/pc/83088.html"  target="_blank"><img src="/uploads/allimg/170304/29_030414092U632.jpg" width="330" height="300" alt="<strong>2017超强成像效果:HTC U Ultra拍照测试</strong>"/></a>
+<a style="display:none;" href="/news/hq/82258.html"  target="_blank"><img src="/uploads/allimg/161201/27_161201174259_1-lp.png" width="330" height="300" alt="魅蓝X现身跑分网站三星Exynos处理器开"/></a>
+<a style="display:none;" href="/news/hq/82257.html"  target="_blank"><img src="/uploads/allimg/161201/27_161201174020_1-lp.png" width="330" height="300" alt="HTCVIVE新加坡开卖iPhone8有多个版本"/></a>
+
+                    </div>
+                    <div class="banner_bg"></div>
+                    <div id="bannerjsNav" class="bannerjsNav">
+						<a class="trigger imgSelected" href="javascript:void(0)">1</a>
+                        <a class="trigger" href="javascript:void(0)">2</a>
+                        <a class="trigger" href="javascript:void(0)">3</a>
+                        <a class="trigger" href="javascript:void(0)">4</a>
+                        <a class="trigger" href="javascript:void(0)">5</a>	
+                    </div>
+                </div>
+             </div>
+            <div class="right">
+			 <a href="/news/pc/83203.html"  target="_blank"><h3>D-Link Omna测评：苹果HomeKit平台又添</h3></a>
+<a href="/news/pc/83202.html"  target="_blank"><h3>iPhone 6s自动关机故障分析 原来有这些</h3></a>
+
+               
+                <ul class="index_news">
+				 <li><a href="/news/pc/83248.html" target="_blank">一加手机3T推出了黑色版 但国内暂时还买不</a></li>
+<li><a href="/news/pc/83247.html" target="_blank">华为nova手机青春版评测：流光水波纹是种什</a></li>
+<li><a href="/help/iphone/83245.html" target="_blank">3d touch怎么用你知道吗？这些便利功能比可</a></li>
+<li><a href="/help/rom/83244.html" target="_blank">这些手机实用功能你知道吗？让你用了就离不</a></li>
+<li><a href="/news/hq/83243.html" target="_blank">红米4a值得买吗？看看它在印度的销量表现你</a></li>
+<li><a href="/news/hq/83242.html" target="_blank">不甘人后，小米6也将推出红色版本？</a></li>
+<li><a href="/news/hq/83241.html" target="_blank">微软手机业务招兵买马难道是为Suface Phone</a></li>
+<li><a href="/news/hq/83232.html" target="_blank">LG G6退出中国市场原因不仅仅是水土不服</a></li>
+
+                   
+                </ul>
+            </div>
+        </div>
+        <div class="right">
+        	<div class="title"><a class="more" target="_blank" href="/help/zt/">more</a></div>
+            <div class="recommend">
+			 <a href="/help/zt/70344.html" target="_blank"><img src="/images/defaultpic.gif" width='300' height="130"/><span> 手机主题下载指纹识别手机iPhone6冰点价手</span></a>
+<a href="/help/zt/70343.html" target="_blank"><img src="/images/defaultpic.gif" width='300' height="130"/><span> 手机主题靓丽机身R7冰点价手机“不将就”</span></a>
+
+            </div>
+        </div>
+        <div class="clear"></div>
+    </div>
+    
+    <div class="index_div3">
+    	<div class="title"></div>
+        <div class="tab" id="tab2">
+                <ul class="tab_menu">
+                    <li class="selected"><a href="/anzhuo/" target="_blank">安卓主题</a></li>
+                    <li><a href="/xiaomi/" target="_blank">小米主题</a></li>
+                    <li><a href="/huawei/" target="_blank">华为主题</a></li>
+					<li><a href="/lianxiang/" target="_blank">联想主题</a></li>
+					<li><a href="/kupai/" target="_blank">酷派主题</a></li>
+				    <li><a href="/meizu/" target="_blank">魅族主题</a></li>
+					<li><a href="/sonyericsson/" target="_blank">索爱主题</a></li>
+                </ul>
+                <div class="tab_box">
+                	<div>
+                        <ul>
+						 <li><a href="/samsung/I9100/83250.html" target="_blank"><img src="/uploads/170324/29-1F32420135WQ.jpg" width='98' height="93" alt="卡通主题：yes or"/><span>卡通主题：yes or</span></a></li>
+<li><a href="/samsung/123/2017/0324/83240.html" target="_blank"><img src="/uploads/091111/170324/23-1F324114P3335.gif" width='98' height="93" alt="789"/><span>789</span></a></li>
+<li><a href="/nokia/83236.html" target="_blank"><img src="/uploads/170324/29-1F324114111134.gif" width='98' height="93" alt="诺基亚手机主题："/><span>诺基亚手机主题：</span></a></li>
+<li><a href="/HTC/83235.html" target="_blank"><img src="/uploads/170323/29-1F3231P952201.gif" width='98' height="93" alt="美女主题：铃木爱"/><span>美女主题：铃木爱</span></a></li>
+<li><a href="/bbk/83234.html" target="_blank"><img src="/uploads/170323/29-1F3231P53S28.gif" width='98' height="93" alt="卡通漫画主题：变"/><span>卡通漫画主题：变</span></a></li>
+<li><a href="/HTC/83233.html" target="_blank"><img src="/uploads/170324/29-1F32411415O54.gif" width='98' height="93" alt="卡通漫画主题：变"/><span>卡通漫画主题：变</span></a></li>
+<li><a href="/samsung/83227.html" target="_blank"><img src="/uploads/170322/29-1F3221G043G5.gif" width='98' height="93" alt="卡通漫画主题：可"/><span>卡通漫画主题：可</span></a></li>
+<li><a href="/samsung/83225.html" target="_blank"><img src="/uploads/170322/29-1F3221FAcZ.jpg" width='98' height="93" alt="无限风景主题：波"/><span>无限风景主题：波</span></a></li>
+<li><a href="/samsung/83116.html" target="_blank"><img src="/uploads/170310/29-1F310103K25Q.gif" width='98' height="93" alt="Pokeman可爱皮卡"/><span>Pokeman可爱皮卡</span></a></li>
+<li><a href="/samsung/83181.html" target="_blank"><img src="/uploads/170316/170316/29-1F31619125ME.jpg" width='98' height="93" alt="卡通漫画主题：路"/><span>卡通漫画主题：路</span></a></li>
+<li><a href="/samsung/83180.html" target="_blank"><img src="/uploads/170316/29-1F3161Z63Wb.jpg" width='98' height="93" alt="卡通动漫主题：小"/><span>卡通动漫主题：小</span></a></li>
+<li><a href="/samsung/83147.html" target="_blank"><img src="/uploads/170313/29-1F313195S4M4.jpg" width='98' height="93" alt="卡通漫画主题：阿"/><span>卡通漫画主题：阿</span></a></li>
+<li><a href="/samsung/83146.html" target="_blank"><img src="/uploads/170313/29-1F313195410R9.jpg" width='98' height="93" alt="卡通漫画安卓主题"/><span>卡通漫画安卓主题</span></a></li>
+<li><a href="/meizu/mx4/62887.html" target="_blank"><img src="http://softs.hzhuti.com/139/2014/10/16/kyqposqmzqx192.jpg" width='98' height="93" alt="衰人过河有趣弄笑"/><span>衰人过河有趣弄笑</span></a></li>
+<li><a href="/meizu/mx4/62886.html" target="_blank"><img src="http://softs.hzhuti.com/139/2014/10/16/yv31t0v04hm190.jpg" width='98' height="93" alt="热舞派对Hot Danc"/><span>热舞派对Hot Danc</span></a></li>
+<li><a href="/meizu/mx4/62885.html" target="_blank"><img src="http://softs.hzhuti.com/139/2014/10/16/lvcwlnvmzs2188.jpg" width='98' height="93" alt="劲爆影视战神人力"/><span>劲爆影视战神人力</span></a></li>
+<li><a href="/meizu/mx4/62884.html" target="_blank"><img src="http://softs.hzhuti.com/139/2014/10/16/2r0i4tpefub187.jpg" width='98' height="93" alt="热火的身材性感的"/><span>热火的身材性感的</span></a></li>
+<li><a href="/meizu/mx4/62883.html" target="_blank"><img src="http://softs.hzhuti.com/139/2014/10/16/f3m0ebifqtk184.jpg" width='98' height="93" alt="绚烂樱花性命的绚"/><span>绚烂樱花性命的绚</span></a></li>
+<li><a href="/xiaomi/MIONE/62865.html" target="_blank"><img src="http://softs.hzhuti.com/139/2014/10/16/srijtqyqyth181.jpg" width='98' height="93" alt="酒井法子1位熟知"/><span>酒井法子1位熟知</span></a></li>
+<li><a href="/xiaomi/MIONE/62864.html" target="_blank"><img src="http://softs.hzhuti.com/139/2014/10/16/evgmc3h4vgj178.jpg" width='98' height="93" alt="跳动飞舞着的欢乐"/><span>跳动飞舞着的欢乐</span></a></li>
+<li><a href="/xiaomi/MIONE/62863.html" target="_blank"><img src="http://softs.hzhuti.com/139/2014/10/16/330giw0gmed175.jpg" width='98' height="93" alt="Flux炫彩黑色背景"/><span>Flux炫彩黑色背景</span></a></li>
+<li><a href="/xiaomi/MIONE/62862.html" target="_blank"><img src="http://softs.hzhuti.com/139/2014/10/16/oqulauyfhlc174.jpg" width='98' height="93" alt="水族馆自自在在的"/><span>水族馆自自在在的</span></a></li>
+<li><a href="/xiaomi/MIONE/62861.html" target="_blank"><img src="http://softs.hzhuti.com/139/2014/10/16/gxrfv3p4a2x170.jpg" width='98' height="93" alt="漫天白雪水晶球朦"/><span>漫天白雪水晶球朦</span></a></li>
+<li><a href="/xiaomi/m4/62682.html" target="_blank"><img src="http://softs.hzhuti.com/139/2014/10/16/n1zmnkxi0tw167.jpg" width='98' height="93" alt="情人节闪耀的温热"/><span>情人节闪耀的温热</span></a></li>
+  
+                       </ul>
+                       <div class="right classify">
+                            <div class="title2"><h4>主题分类</h4></div>
+                                <a class="on" href="/zhuti1/" title="卡通漫画主题" target="_blank">卡通漫画</a>
+								<a href="/zhuti2/" title="非主流主题" target="_blank">非主流主题</a>
+								<a href="/zhuti3/" title="浪漫爱情" target="_blank">浪漫爱情</a>
+								<a href="/zhuti4/" title="精品主题" target="_blank">精品主题</a>
+								<a href="/zhuti5/" title="可爱粉色主题" target="_blank">可爱粉色主题</a>
+								<a href="/zhuti6/" title="美女帅哥" target="_blank">美女帅哥</a>
+								<a href="/zhuti7/" title="美女帅哥" target="_blank">夜光主题</a>
+								<a href="/zhuti8/" title="美女帅哥" target="_blank">经典个性主题</a>
+								<a href="/zhuti9/" title="幽默搞笑" target="_blank">幽默搞笑</a>
+								<a href="/zhuti10/" title="性感诱惑" target="_blank">性感诱惑</a>
+								<a href="/zhuti11/" title="恋爱蜜语" target="_blank">恋爱蜜语</a>
+								<a href="/zhuti12/" title="精品画廊" target="_blank">精品画廊</a>         
+								<a href="/zhuti13/" title="节日祝福" target='_blank'>节日祝福</a>
+								<a href="/zhuti14/" title="魅力明星" target='_blank'>魅力明星</a>
+								<a href="/zhuti15/" title="无限风景" target='_blank'>无限风景</a>
+								<a href="/zhuti16/" title="名车风采" target='_blank'>名车风采</a>
+								<a href="/zhuti17/" title="创意待机" target='_blank'>创意待机</a>
+								<a href="/zhuti18/" title="动态主题" target='_blank'>动态主题</a>
+                       </div>
+                       <div class="right hot" id="tags">
+                            <div class="title2"><h4>热门标签</h4></div>
+                            
+								<a href="/tags/卡通漫画主题/" target="_blank"><span class="tag8">卡通漫画主题</span></a>
+							
+								<a href="/tags/卡通漫画安卓主题/" target="_blank"><span class="tag4">卡通漫画安卓主题</span></a>
+							
+								<a href="/tags/回合/" target="_blank"><span class="tag7">回合</span></a>
+							
+								<a href="/tags/Q版/" target="_blank"><span class="tag4">Q版</span></a>
+							
+								<a href="/tags/武侠/" target="_blank"><span class="tag10">武侠</span></a>
+							
+								<a href="/tags/策略/" target="_blank"><span class="tag1">策略</span></a>
+							
+								<a href="/tags/RPG/" target="_blank"><span class="tag4">RPG</span></a>
+							
+								<a href="/tags/卡牌/" target="_blank"><span class="tag1">卡牌</span></a>
+							
+								<a href="/tags/益智/" target="_blank"><span class="tag7">益智</span></a>
+							
+								<a href="/tags/消除/" target="_blank"><span class="tag9">消除</span></a>
+							
+								<a href="/tags/方块/" target="_blank"><span class="tag1">方块</span></a>
+							
+								<a href="/tags/闯关/" target="_blank"><span class="tag10">闯关</span></a>
+							
+								<a href="/tags/休闲/" target="_blank"><span class="tag4">休闲</span></a>
+							
+								<a href="/tags/塔防/" target="_blank"><span class="tag8">塔防</span></a>
+							
+								<a href="/tags/可爱/" target="_blank"><span class="tag2">可爱</span></a>
+							
+								<a href="/tags/坦克/" target="_blank"><span class="tag4">坦克</span></a>
+							
+								<a href="/tags/防御/" target="_blank"><span class="tag3">防御</span></a>
+							
+								<a href="/tags/养成/" target="_blank"><span class="tag3">养成</span></a>
+							
+								<a href="/tags/竞速/" target="_blank"><span class="tag5">竞速</span></a>
+							
+								<a href="/tags/摩托/" target="_blank"><span class="tag4">摩托</span></a>
+							
+								<a href="/tags/记忆/" target="_blank"><span class="tag4">记忆</span></a>
+							
+								<a href="/tags/英雄/" target="_blank"><span class="tag10">英雄</span></a>
+							
+								<a href="/tags/3D/" target="_blank"><span class="tag3">3D</span></a>
+							
+								<a href="/tags/回合制/" target="_blank"><span class="tag5">回合制</span></a>
+							
+								<a href="/tags/冒险/" target="_blank"><span class="tag7">冒险</span></a>
+							
+								<a href="/tags/虐心/" target="_blank"><span class="tag3">虐心</span></a>
+							
+								<a href="/tags/解谜/" target="_blank"><span class="tag8">解谜</span></a>
+							
+                       </div>
+                    </div>
+
+                </div>
+            <div class="clear"></div>
+        </div>
+    </div>
+    
+    
+    <div class="index_div4">
+    	<div class="title"></div>
+        <div class="tab" id="tab3">
+                <ul class="tab_menu">
+                    <li class="selected"><a href="/anzhuo/jiaosebanyan/" target="_blank">角色扮演</a></li>
+                    <li><a href="/anzhuo/saicheyouxi/" target="_blank">赛车游戏</a></li>
+                    <li><a href="/anzhuo/wangluoyouxi/" target="_blank">网络游戏</a></li>
+                    <li><a href="/anzhuo/feixingsheji/" target="_blank">飞行射击</a></li>
+                    <li><a href="/anzhuo/dongzuoyouxi/" target="_blank">动作游戏</a></li>
+                    <li><a href="/anzhuo/yizhixiuxian/" target="_blank">益智休闲</a></li>
+                    <li><a href="/anzhuo/celueqipai/" target="_blank">策略棋牌</a></li>
+                </ul>
+                <div class="tab_box2">
+                	<div>
+                      <div class="left">
+                      	<div class="title3"><h4>推荐游戏</h4><a href="/anzhuo/jiaosebanyan/"  target="_blank" class="more">more</a></div>
+                        <ul>
+						<li><a href="/anzhuo/jiaosebanyan/73658.html" target="_blank"><img src="/uploads/gimg/jiaose_54f5793b5a407.jpg" width="80" height="80" alt="诸神黄昏"/><span>诸神黄昏</span></a></li>
+<li><a href="/anzhuo/jiaosebanyan/73436.html" target="_blank"><img src="/uploads/gimg/jiaose_54f579352c63b.jpg" width="80" height="80" alt="触摸妖怀"/><span>触摸妖怀</span></a></li>
+<li><a href="/anzhuo/jiaosebanyan/73437.html" target="_blank"><img src="/uploads/gimg/jiaose_54f579373478b.jpg" width="80" height="80" alt="姬武"/><span>姬武</span></a></li>
+<li><a href="/anzhuo/jiaosebanyan/73173.html" target="_blank"><img src="/uploads/gimg/jiaose_54f579269366d.jpg" width="80" height="80" alt="锻造众神修改版"/><span>锻造众神修改版</span></a></li>
+<li><a href="/anzhuo/jiaosebanyan/73174.html" target="_blank"><img src="/uploads/gimg/jiaose_54f5792a0c667.jpg" width="80" height="80" alt="召唤传说"/><span>召唤传说</span></a></li>
+<li><a href="/anzhuo/jiaosebanyan/73176.html" target="_blank"><img src="/uploads/gimg/jiaose_54f5792f6a9b8.jpg" width="80" height="80" alt="大话寻仙"/><span>大话寻仙</span></a></li>
+<li><a href="/anzhuo/jiaosebanyan/72864.html" target="_blank"><img src="/uploads/gimg/jiaose_54f579213bb25.jpg" width="80" height="80" alt="妖女大战D"/><span>妖女大战D</span></a></li>
+<li><a href="/anzhuo/jiaosebanyan/63208.html" target="_blank"><img src="/uploads/gimg/jiaose_54cae104c79a0.jpg" width="80" height="80" alt="萌战三国"/><span>萌战三国</span></a></li>
+<li><a href="/anzhuo/jiaosebanyan/63094.html" target="_blank"><img src="/uploads/gimg/jiaose_54cae0f4e8250.jpg" width="80" height="80" alt="武媚娘传"/><span>武媚娘传</span></a></li>
+<li><a href="/anzhuo/jiaosebanyan/49558.html" target="_blank"><img src="http://file.hzhuti.com//upload/2013/50/03/1375250748_72.jpg" width="80" height="80" alt="小小盗贼 apk"/><span>小小盗贼 apk</span></a></li>
+<li><a href="/anzhuo/jiaosebanyan/49559.html" target="_blank"><img src="http://file.hzhuti.com//upload/2013/38/03/26732_icon.png" width="80" height="80" alt="雷电 2013"/><span>雷电 2013</span></a></li>
+<li><a href="/anzhuo/jiaosebanyan/49557.html" target="_blank"><img src="http://file.hzhuti.com//upload/2013/50/03/1375324496_26.jpg" width="80" height="80" alt="100层 apk"/><span>100层 apk</span></a></li>
+  
+                        </ul>
+                        <div class="clear"></div>
+                        <div class="line"></div>
+                        
+                        <div class="title3"><h4>最新游戏</h4><a href="/anzhuo/jiaosebanyan/"  target="_blank" class="more">more</a></div>
+                        <ul>
+                         <li><a href="/anzhuo/jiaosebanyan/81808.html"  target="_blank"><img src="/uploads/gimg/jiaose_54f57a21d5072.jpg" width="80" height="80" alt="主公也醉"/><span>主公也醉</span></a></li>
+<li><a href="/anzhuo/jiaosebanyan/81809.html"  target="_blank"><img src="/uploads/gimg/jiaose_54f57a23b7344.jpg" width="80" height="80" alt="武林之无"/><span>武林之无</span></a></li>
+<li><a href="/anzhuo/jiaosebanyan/81810.html"  target="_blank"><img src="/uploads/gimg/jiaose_54f57a885ff89.jpg" width="80" height="80" alt="二哥别走"/><span>二哥别走</span></a></li>
+<li><a href="/anzhuo/jiaosebanyan/81245.html"  target="_blank"><img src="/uploads/gimg/jiaose_54f57a1cec640.jpg" width="80" height="80" alt="灵魂释放"/><span>灵魂释放</span></a></li>
+<li><a href="/anzhuo/jiaosebanyan/81246.html"  target="_blank"><img src="/uploads/gimg/jiaose_54f57a1f917ab.jpg" width="80" height="80" alt="百万大乱"/><span>百万大乱</span></a></li>
+<li><a href="/anzhuo/jiaosebanyan/81108.html"  target="_blank"><img src="/uploads/gimg/jiaose_54f57a1773066.jpg" width="80" height="80" alt="怪物捕手"/><span>怪物捕手</span></a></li>
+<li><a href="/anzhuo/jiaosebanyan/81109.html"  target="_blank"><img src="/uploads/gimg/jiaose_54f57a1911ca9.jpg" width="80" height="80" alt="书道传2：乙女缭"/><span>书道传2：乙女缭</span></a></li>
+<li><a href="/anzhuo/jiaosebanyan/80992.html"  target="_blank"><img src="/uploads/gimg/jiaose_54f57a124e441.jpg" width="80" height="80" alt="剑侠蜀"/><span>剑侠蜀</span></a></li>
+<li><a href="/anzhuo/jiaosebanyan/80993.html"  target="_blank"><img src="/uploads/gimg/jiaose_54f57a145b73f.jpg" width="80" height="80" alt="天际幻想"/><span>天际幻想</span></a></li>
+<li><a href="/anzhuo/jiaosebanyan/80731.html"  target="_blank"><img src="/uploads/gimg/jiaose_54f57a0fddc42.jpg" width="80" height="80" alt="勇者奇"/><span>勇者奇</span></a></li>
+<li><a href="/anzhuo/jiaosebanyan/80732.html"  target="_blank"><img src="/uploads/gimg/jiaose_54f57a10d4dd9.jpg" width="80" height="80" alt="勇者时"/><span>勇者时</span></a></li>
+<li><a href="/anzhuo/jiaosebanyan/80697.html"  target="_blank"><img src="/uploads/gimg/jiaose_54f57a0c57279.jpg" width="80" height="80" alt="战斗女子高校"/><span>战斗女子高校</span></a></li>
+  
+                        </ul>
+                      </div>
+                      <div class="right">
+                      	<div class="tab">
+                        	 <ul class="tab_menu bang1">
+                                <li><a href="javascript:void(0)">排行榜</a></li>
+                             </ul>
+                             <div class="tab_box">
+                             	<div>
+                                	<ul>
+									<li><i class="n1"></i><a href="/anzhuo/yizhixiuxian/33636.html"  target="_blank"><img src="/uploads/allimg/121022/1_1022211021Y39.jpg" width="37" height="37" alt='成人睡前游戏'/>成人睡前游戏</a><span>209227次</span></li>
+<li><i class="n2"></i><a href="/anzhuo/jiaosebanyan/73658.html"  target="_blank"><img src="/uploads/gimg/jiaose_54f5793b5a407.jpg" width="37" height="37" alt='诸神黄昏'/>诸神黄昏</a><span>206270次</span></li>
+<li><i class="n3"></i><a href="/anzhuo/jiaosebanyan/49558.html"  target="_blank"><img src="http://file.hzhuti.com//upload/2013/50/03/1375250748_72.jpg" width="37" height="37" alt='小小盗贼 apk'/>小小盗贼 apk</a><span>154227次</span></li>
+<li><i class="n4"></i><a href="/anzhuo/jiaosebanyan/49559.html"  target="_blank"><img src="http://file.hzhuti.com//upload/2013/38/03/26732_icon.png" width="37" height="37" alt='雷电 2013'/>雷电 2013</a><span>153527次</span></li>
+<li><i class="n5"></i><a href="/anzhuo/kapaiduizhan/73680.html"  target="_blank"><img src="/uploads/gimg/kapai_54f62c3bae487.jpg" width="37" height="37" alt='冰火战姬'/>冰火战姬</a><span>144113次</span></li>
+<li><i class="n6"></i><a href="/anzhuo/jiaosebanyan/49553.html"  target="_blank"><img src="http://file.hzhuti.com//upload/2013/38/03/232317_232317.png" width="37" height="37" alt='时空猎人 apk'/>时空猎人 apk</a><span>143856次</span></li>
+<li><i class="n7"></i><a href="/anzhuo/jiaosebanyan/49557.html"  target="_blank"><img src="http://file.hzhuti.com//upload/2013/50/03/1375324496_26.jpg" width="37" height="37" alt='100层 apk'/>100层 apk</a><span>142216次</span></li>
+<li><i class="n8"></i><a href="/anzhuo/jiaosebanyan/49554.html"  target="_blank"><img src="http://file.hzhuti.com//upload/2013/46/03/24584_icon.png" width="37" height="37" alt='神庙逃亡3'/>神庙逃亡3</a><span>142117次</span></li>
+<li><i class="n9"></i><a href="/anzhuo/jiaosebanyan/49555.html"  target="_blank"><img src="http://file.hzhuti.com//upload/2013/49/03/30544_icon.png" width="37" height="37" alt='你画我猜2'/>你画我猜2</a><span>141733次</span></li>
+<li><i class="n10"></i><a href="/anzhuo/jiaosebanyan/48920.html"  target="_blank"><img src="http://file.hzhuti.com//upload/2013/08/23/27822_icon.png" width="37" height="37" alt='忍者大战僵尸 apk'/>忍者大战僵尸 apk</a><span>141437次</span></li>
+
+                                    </ul>
+                                </div>
+                                
+                             </div>
+                        </div>
+                      </div>
+                    </div>
+                    
+                </div>
+            <div class="clear"></div>
+        </div>
+    </div>
+    <div class="index_div5">
+    	<div class="left">
+        	<div class="title"><a class="more" href="/help/" target='_blank'>more</a></div>
+            <div class="tab" id="tab7">
+                <ul class="tab_menu">
+                    <li class="selected"><a href="javascript:void(0)">手机软件</a></li>
+                    <li><a href="javascript:void(0)">主题频道</a></li>
+                    <li><a href="javascript:void(0)">游戏攻略</a></li>
+                    <li><a href="javascript:void(0)">安卓刷机</a></li>
+                    <li><a href="javascript:void(0)">苹果教程</a></li>
+                    <li><a href="javascript:void(0)">WP教程</a></li>
+                </ul>
+                <div class="tab_box">
+                	<div>
+					  
+                    	<div class="img_txt">
+							<img src="/uploads/allimg/170118/29_170118231652_1-lp.jpg" width="90" height="80" alt="你知道吗?手机有可能成为"/>
+								<div><a href="/help/android/82749.html"  target="_blank">你知道吗?手机有可能成为</a>
+									<p>如今手机的市场占有率不断扩张，越来越多的人依赖于手机。然而手机的使用率增加即意味着手机中储存的个人信息量将增大</p>
+								</div>
+
+                            <ul>
+							<li><a href="/help/android/82366.html"  target="_blank">预装app软件应用：手机厂商们的赚钱法</a><span>12-28</span></li>
+<li><a href="/help/android/82331.html"  target="_blank">iPhone5上网设置 这里教你</a><span>12-23</span></li>
+<li><a href="/help/android/82329.html"  target="_blank">怎么删除手机自带软件 这里有办法</a><span>12-23</span></li>
+<li><a href="/help/android/82285.html"  target="_blank">苹果手机丢了怎么定位找回 这里告诉你</a><span>12-20</span></li>
+<li><a href="/help/android/82275.html"  target="_blank">vivo手机怎么取消场景桌面</a><span>12-19</span></li>
+<li><a href="/help/android/82255.html"  target="_blank">三星C7Pro跑分曝光SurfacePhone已在路</a><span>12-01</span></li>
+
+                            </ul>
+                        </div>
+                        <div class="img_txt img_txt1">
+                        	<img src="/uploads/allimg/161128/27_161128100158_1-lp.png" width="90" height="80" alt="微软经典游戏《纸牌》来了"/>
+								<div><a href="/help/android/82188.html"  target="_blank">微软经典游戏《纸牌》来了</a>
+									<p>微软经典游戏《纸牌》来了一加手机 3T 预约</p>
+								</div>
+
+                            <ul>
+								<li><a href="/help/android/82244.html"  target="_blank">支付宝发新规iPhone8将极为畅销</a><span>12-01</span></li>
+<li><a href="/help/android/82242.html"  target="_blank">腾讯建“人社”生态诺基亚D1C或有两个</a><span>12-01</span></li>
+<li><a href="/help/android/82241.html"  target="_blank">微信赞赏系统Bug一加手机3T真的上天了</a><span>12-01</span></li>
+<li><a href="/help/android/82238.html"  target="_blank">看看这台学习手机华为Mate9新成员曝光</a><span>11-30</span></li>
+<li><a href="/help/android/82234.html"  target="_blank">金立新商务旗舰逆天努比亚miniS体验视</a><span>11-30</span></li>
+<li><a href="/help/android/82231.html"  target="_blank">魅族PRO7谍照曝光Moto开始更新安卓7.0</a><span>11-30</span></li>
+
+                            </ul>
+                        </div>
+						
+                    </div>
+                    <div class="hide">
+                    	<div class="img_txt">
+							<img src="/uploads/allimg/170119/29_01191JHIF1.jpg" width="90" height="80" alt="大显智能手机你听说过吗？"/>
+								<div><a href="/help/zt/82760.html"  target="_blank">大显智能手机你听说过吗？</a>
+									<p>信息技术让这个世界发生了翻天覆地的变化。这其中最显著的体现莫过于手机了。不知道你对于大显智能手机是否有印象。在</p>
+								</div>
+
+                            <ul>
+							<li><a href="/help/zt/82256.html"  target="_blank">HelioP35明年推出又发布了一遍三星S7</a><span>12-01</span></li>
+<li><a href="/help/zt/82252.html"  target="_blank">华为Mate9海外再夺第一魅族PRO6P跑分出</a><span>12-01</span></li>
+<li><a href="/help/zt/82250.html"  target="_blank">LG将推智能手表魅族PRO6Plus两项第一</a><span>12-01</span></li>
+<li><a href="/help/zt/82235.html"  target="_blank">iPhone8或推512GB版华为Mate9够良心</a><span>11-30</span></li>
+<li><a href="/help/zt/82233.html"  target="_blank">金立手机首次上太空中端市场又一大杀器</a><span>11-30</span></li>
+<li><a href="/help/zt/82229.html"  target="_blank">苹果闷声发大财华为麒麟970也来了？</a><span>11-30</span></li>
+
+                            </ul>
+                        </div>
+                        <div class="img_txt img_txt1">
+                        	<img src="/uploads/allimg/161123/27_161123180952_1-lp.png" width="90" height="80" alt="小米6有可能用联发科X30Ou"/>
+								<div><a href="/help/zt/82135.html"  target="_blank">小米6有可能用联发科X30Ou</a>
+									<p>小米 6 有可能用联发科 X30OukitelU15S 发布</p>
+								</div>
+
+                            <ul>
+								<li><a href="/help/zt/82222.html"  target="_blank">Lumia系列最后一款机型第一款上天的智</a><span>11-30</span></li>
+<li><a href="/help/zt/82216.html"  target="_blank">魅蓝X为何又是MTK曝光ZUKEdge官方图</a><span>11-29</span></li>
+<li><a href="/help/zt/82199.html"  target="_blank">LGG6延续模块化设计魅族魅蓝X拍照样张</a><span>11-29</span></li>
+<li><a href="/help/zt/82195.html"  target="_blank">小米印度销量破纪录努比亚全面屏手机曝</a><span>11-28</span></li>
+<li><a href="/help/zt/82192.html"  target="_blank">三星云宣布停止服务超多维裸眼3D体验</a><span>11-28</span></li>
+<li><a href="/help/zt/82184.html"  target="_blank">华为首款10nm芯片曝光Flyme6相册升级</a><span>11-28</span></li>
+
+                            </ul>
+                        </div>
+					
+					</div>
+                    <div class="hide">
+						<div class="img_txt">
+							<img src="/uploads/allimg/170122/29_01221510304Q5.png" width="90" height="80" alt="关于陀螺仪游戏你知道多少"/>
+								<div><a href="/help/game/82794.html"  target="_blank">关于陀螺仪游戏你知道多少</a>
+									<p>陀螺仪是什么，关于陀螺仪你了解多少呢？那么，关于陀螺仪游戏你又知道多少呢？关于陀螺仪具体有什么用?关于这些问题</p>
+								</div>
+
+                            <ul>
+							<li><a href="/help/game/82789.html"  target="_blank">《LINE POP》双平台上架</a><span>01-22</span></li>
+<li><a href="/help/game/82782.html"  target="_blank">花千骨手游攻略快来看看！</a><span>01-20</span></li>
+<li><a href="/help/game/82688.html"  target="_blank">命运石之门英文版本即将会登陆iOS平台</a><span>01-13</span></li>
+<li><a href="/help/game/82670.html"  target="_blank">仙剑三游戏攻略你知道吗？</a><span>01-12</span></li>
+<li><a href="/help/game/82666.html"  target="_blank">点进来看看！功夫熊猫游戏攻略！</a><span>01-12</span></li>
+<li><a href="/help/game/82665.html"  target="_blank">点进来看看吧！最坑爹的游戏攻略！</a><span>01-12</span></li>
+
+                            </ul>
+                        </div>
+                        <div class="img_txt img_txt1">
+                        	<img src="/uploads/allimg/161230/29_12301P4021935.jpg" width="90" height="80" alt="iOS10更新四大不习惯"/>
+								<div><a href="/help/game/82392.html"  target="_blank">iOS10更新四大不习惯</a>
+									<p>昨晚苹果WWDC16大会发布了iOS、macOS、watchOS和tvOS 4大系统的更新。其中最让人关注的是iOS的更新。iOS 10无论是UI界</p>
+								</div>
+
+                            <ul>
+								<li><a href="/help/game/82465.html"  target="_blank">王者荣耀新手游戏攻略！</a><span>01-04</span></li>
+<li><a href="/help/game/82464.html"  target="_blank">《阴阳师》游戏新手攻略进来看看吧！</a><span>01-04</span></li>
+<li><a href="/help/game/82393.html"  target="_blank">指纹识别原理</a><span>12-30</span></li>
+<li><a href="/help/game/82392.html"  target="_blank">iOS10更新四大不习惯</a><span>12-30</span></li>
+<li><a href="/help/game/82391.html"  target="_blank">越用越流畅，5分钟学会华为手机内存清</a><span>12-30</span></li>
+<li><a href="/help/game/82390.html"  target="_blank">联想收购摩托罗拉对中国手机的贡献</a><span>12-30</span></li>
+
+                            </ul>
+                        </div>
+					</div>
+                    <div class="hide">
+						<div class="img_txt">
+							<img src="/uploads/allimg/170324/1534411102-0-lp.jpg" width="90" height="80" alt="这些手机实用功能你知道吗"/>
+								<div><a href="/help/rom/83244.html"  target="_blank">这些手机实用功能你知道吗</a>
+									<p>现在手机上的功能越来越丰富，但是你真正能够用到的功能可能只是那么几个，当然手机上有一些功能能让你用了回不来的，</p>
+								</div>
+
+                            <ul>
+							<li><a href="/help/rom/83229.html"  target="_blank">MIUI实用功能你刷机后根本没用过？你的</a><span>03-23</span></li>
+<li><a href="/help/rom/82910.html"  target="_blank">魅族Flyme 6新增扫题功能</a><span>02-14</span></li>
+<li><a href="/help/rom/82909.html"  target="_blank">三星s6三星S6/S6edge和Note5即将更新为</a><span>02-13</span></li>
+<li><a href="/help/rom/82887.html"  target="_blank">中兴E850安卓手机常见参数详解</a><span>02-09</span></li>
+<li><a href="/help/rom/82886.html"  target="_blank">中兴n780安卓手机详情解析</a><span>02-09</span></li>
+<li><a href="/help/rom/82885.html"  target="_blank">中兴U930安卓手机参数详解</a><span>02-09</span></li>
+
+                            </ul>
+                        </div>
+                        <div class="img_txt img_txt1">
+                        	<img src="/uploads/allimg/170209/29_02091G55C553.jpg" width="90" height="80" alt="中兴X500安卓手机参数详解"/>
+								<div><a href="/help/rom/82884.html" target="_blank">中兴X500安卓手机参数详解</a>
+									<p>中兴X500的外观设计突出了简约的设计风格，采用了圆润的边缘设计</p>
+								</div>
+
+                            <ul>
+								<li><a href="/help/rom/82869.html" target="_blank">联想A278t安卓手机你了解吗？</a><span>02-08</span></li>
+<li><a href="/help/rom/82868.html" target="_blank">联想S800安卓手机你了解多少呢？</a><span>02-08</span></li>
+<li><a href="/help/rom/82867.html" target="_blank">酷派5860安卓手机常见参数详解</a><span>02-08</span></li>
+<li><a href="/help/rom/82866.html" target="_blank">酷派9900安卓手机行情详解</a><span>02-08</span></li>
+<li><a href="/help/rom/82865.html" target="_blank">酷派8910安卓手机常见参数详解</a><span>02-08</span></li>
+<li><a href="/help/rom/82863.html" target="_blank">奥克斯V920安卓手机基本参数详解</a><span>02-08</span></li>
+
+                            </ul>
+                        </div>
+					</div>
+                    <div class="hide">
+						<div class="img_txt">
+							<img src="/uploads/allimg/170324/1546324X6-0-lp.png" width="90" height="80" alt="3d touch怎么用你知道吗？"/>
+								<div><a href="/help/iphone/83245.html" target="_blank">3d touch怎么用你知道吗？</a>
+									<p>说起苹果iPhone6s中最大的革新，可能就是引入3D Touch功能，不过对于这个功能来说，很多朋友都会发出这样的疑问，3d t</p>
+								</div>
+
+                            <ul>
+							<li><a href="/help/iphone/83084.html" target="_blank">iPhone SE异常关机怎么办？教你进行苹</a><span>03-04</span></li>
+<li><a href="/help/iphone/82966.html" target="_blank">关于苹果手机内存清理问题</a><span>02-20</span></li>
+<li><a href="/help/iphone/82965.html" target="_blank">苹果手机声音变小怎么办？</a><span>02-20</span></li>
+<li><a href="/help/iphone/82964.html" target="_blank">苹果手机屏幕失灵怎么办？</a><span>02-20</span></li>
+<li><a href="/help/iphone/82963.html" target="_blank">苹果手机home键失灵怎么办？</a><span>02-20</span></li>
+<li><a href="/help/iphone/82915.html" target="_blank">关于iphonese配置相关配置你了解多少？</a><span>02-14</span></li>
+
+                            </ul>
+                        </div>
+                        <div class="img_txt img_txt1">
+                        	<img src="/uploads/allimg/170122/29_012214260321I.jpg" width="90" height="80" alt="苹果土豪金可以试戴一个小"/>
+								<div><a href="/help/iphone/82793.html" target="_blank">苹果土豪金可以试戴一个小</a>
+									<p>据美国科技媒体报道，在苹果手表开售时，苹果土豪金的用户无需排队，另外其他两个版本的试戴时间定为15分钟，但是苹果</p>
+								</div>
+
+                            <ul>
+								<li><a href="/help/iphone/82791.html" target="_blank">关于WeicoPro你了解多少？</a><span>01-22</span></li>
+<li><a href="/help/iphone/82765.html" target="_blank">什么是icloud？</a><span>01-19</span></li>
+<li><a href="/help/iphone/82757.html" target="_blank">iPhone7出耳机转接器啦！</a><span>01-19</span></li>
+<li><a href="/help/iphone/82720.html" target="_blank">关于iphone7内存消息你知道多少？</a><span>01-16</span></li>
+<li><a href="/help/iphone/82689.html" target="_blank">iPhone5s发热怎么办？</a><span>01-13</span></li>
+<li><a href="/help/iphone/82685.html" target="_blank">你知道吗？iPhone6c明年要发布啦</a><span>01-13</span></li>
+
+                            </ul>
+                        </div>
+					</div>
+                    <div class="hide">
+						<div class="img_txt">
+							<img src="/uploads/allimg/161015/27_161015143243_1-lp.png" width="90" height="80" alt="微软旗舰上市价格缩水3成"/>
+								<div><a href="/help/wp/81505.html" target="_blank">微软旗舰上市价格缩水3成</a>
+									<p>被寄予厚望的 Windows10 并没有挽救微软智能手机业务，而且搭上微软这艘船的合作伙伴也被坑的吐出一口老血。今年 7 月</p>
+								</div>
+
+                            <ul>
+							<li><a href="/help/wp/81993.html" target="_blank">Windows10VR手机发售一加3T将有改变</a><span>11-15</span></li>
+<li><a href="/help/wp/81964.html" target="_blank">曝光巨屏Win10手机乐视手机双11最终战</a><span>11-14</span></li>
+<li><a href="/help/wp/81505.html" target="_blank">微软旗舰上市价格缩水3成三星要求全球</a><span>10-15</span></li>
+<li><a href="/help/wp/81459.html" target="_blank">微软自家手环也跪了iPhone双卡双待有望</a><span>10-13</span></li>
+<li><a href="/help/wp/79858.html" target="_blank">Firefox不开发Win10手机APP真懂是关键</a><span>07-07</span></li>
+<li><a href="/help/wp/79670.html" target="_blank">Win10Mobile正式版和联想PHAB2Pro、Mot</a><span>06-29</span></li>
+
+                            </ul>
+                        </div>
+                        <div class="img_txt img_txt1">
+                        	<img src="/uploads/allimg/160201/27_020114031E505.png" width="90" height="80" alt="微软Lumia950XL曝配置谷歌"/>
+								<div><a href="/help/wp/76930.html" target="_blank">微软Lumia950XL曝配置谷歌</a>
+									<p>微软 Lumia950XL 曝配置谷歌举行发布会</p>
+								</div>
+
+                            <ul>
+								<li><a href="/help/wp/79612.html" target="_blank">亚马逊推入门级新Kindle及vivoX7Plus粉</a><span>06-25</span></li>
+<li><a href="/help/wp/79582.html" target="_blank">分析抢票软件利弊及WP8系统输入法</a><span>06-24</span></li>
+<li><a href="/help/wp/79575.html" target="_blank">iOS8是bug最多谈谈新版WP平台Office界</a><span>06-23</span></li>
+<li><a href="/help/wp/79512.html" target="_blank">加拿大总理体验微软HoloLens苹果兑现承</a><span>06-20</span></li>
+<li><a href="/help/wp/79403.html" target="_blank">眼花缭乱的iOS10及OSX更名为macOS</a><span>06-15</span></li>
+<li><a href="/help/wp/79385.html" target="_blank">无限流量套餐将在北京试点及有关中国注</a><span>06-14</span></li>
+
+                            </ul>
+                        </div>
+					</div>
+                </div>
+            <div class="clear"></div>
+        </div>
+        </div>
+        <div class="right">
+        	<div class="title"><a class="more" href="/help/msg/" target="_blank">more</a></div>
+            <ul>
+			<li><i class="n1"></i><a href="/help/msg/68479.html"  target="_blank">端午节祝福短信</a></li>
+<li><i class="n2"></i><a href="/help/msg/68478.html"  target="_blank">端午节短信集锦</a></li>
+<li><i class="n3"></i><a href="/help/msg/55896.html"  target="_blank">三星note3如何设置短信铃声?</a></li>
+<li><i class="n4"></i><a href="/help/msg/53533.html"  target="_blank">三星s4sim卡怎么装?s4sim卡安装装方法</a></li>
+<li><i class="n5"></i><a href="/help/msg/52875.html"  target="_blank">微信备份和恢复电话号码图文教程</a></li>
+<li><i class="n6"></i><a href="/help/msg/61827.html"  target="_blank">三星s5手机能话音量小应该如何解决教程</a></li>
+<li><i class="n7"></i><a href="/help/msg/61545.html"  target="_blank">ios8输入法怎么安装方法介绍</a></li>
+<li><i class="n8"></i><a href="/help/msg/61544.html"  target="_blank">ios8来电归属地怎么设置教程</a></li>
+<li><i class="n9"></i><a href="/help/msg/61543.html"  target="_blank">华为p7恢复出厂设置方法教程</a></li>
+<li><i class="n10"></i><a href="/help/msg/61542.html"  target="_blank">华为p7短信铃声怎么设置 华为p7短信铃声设</a></li>
+
+             
+            </ul>
+        </div>
+    </div>
+    <div class="index_div4 index_div41">
+    	<div class="title"></div>
+        <div class="tab" id="tab5">
+                <ul class="tab_menu">
+                    <li class="selected"><a href="/soft/" target="_blank">安卓软件</a></li>
+                    <li><a href="/soft/life/" target="_blank">生活实用</a></li>
+                    <li><a href="/soft/map/" target="_blank">地图导航</a></li>
+                    <li><a href="/soft/book/" target="_blank">书籍阅读</a></li>
+					<li><a href="/soft/wallpaper/" target="_blank">壁纸美化</a></li>
+                    <li><a href="/soft/software/" target="_blank">拍照软件</a></li>
+                    <li><a href="/soft/shopping/" target="_blank">理财购物</a></li>
+                </ul>
+                <div class="tab_box2">
+                	<div>
+                      <div class="left">
+                      	<div class="title3">
+                      	  <h4>推荐软件</h4>
+                      	  <a href="/soft/"  target="_blank" class="more">more</a></div>
+                        <ul>
+						<li><a href="/soft/office/73652.html"  target="_blank"><img src="/uploads/simg/54c9ff5abbbd6.jpg" width="72" height="72" alt="人类未解之谜全记录 Full Record" /><span>人类未解之谜全记录 Full Record</span></a></li>
+<li><a href="/soft/book/73648.html"  target="_blank"><img src="/uploads/simg/54c9fc8a1827f.jpg" width="72" height="72" alt="MSN资讯 v1.1.0" /><span>MSN资讯 v1.1.0</span></a></li>
+<li><a href="/soft/life/73646.html"  target="_blank"><img src="/uploads/simg/54c9f990a5664.jpg" width="72" height="72" alt="该喝水了 Hydro v1.1.2" /><span>该喝水了 Hydro v1.1.2</span></a></li>
+<li><a href="/soft/life/73645.html"  target="_blank"><img src="/uploads/simg/54c9f9905258b.jpg" width="72" height="72" alt="吹吹肺活量 v1.1" /><span>吹吹肺活量 v1.1</span></a></li>
+<li><a href="/soft/book/64222.html"  target="_blank"><img src="/uploads/simg/54c9fb90ebe06.jpg" width="72" height="72" alt="多酷书城 v2.3.0" /><span>多酷书城 v2.3.0</span></a></li>
+<li><a href="/soft/shopping/64218.html"  target="_blank"><img src="/uploads/simg/54c9fb1471f2c.jpg" width="72" height="72" alt="挖财记账 v9.8.6.1" /><span>挖财记账 v9.8.6.1</span></a></li>
+<li><a href="/soft/shopping/64217.html"  target="_blank"><img src="/uploads/simg/54c9fb13cb295.jpg" width="72" height="72" alt="金蝶 随手记 v9.4.8.5" /><span>金蝶 随手记 v9.4.8.5</span></a></li>
+<li><a href="/soft/wallpaper/64208.html"  target="_blank"><img src="/uploads/simg/54c9f6da47f87.jpg" width="72" height="72" alt="腾讯桌面 v5.9.141224" /><span>腾讯桌面 v5.9.141224</span></a></li>
+<li><a href="/soft/shopping/64095.html"  target="_blank"><img src="/uploads/simg/54c9fb103c5ca.jpg" width="72" height="72" alt="银联手机支付便民版 v2.1.35" /><span>银联手机支付便民版 v2.1.35</span></a></li>
+<li><a href="/soft/shopping/64093.html"  target="_blank"><img src="/uploads/simg/54c9fb0f791a5.jpg" width="72" height="72" alt="招商银行掌上生活 v1.7.99" /><span>招商银行掌上生活 v1.7.99</span></a></li>
+<li><a href="/soft/wallpaper/64081.html"  target="_blank"><img src="/uploads/simg/54c9f6d6aa2d9.jpg" width="72" height="72" alt="点心极速桌面 v1.2.0" /><span>点心极速桌面 v1.2.0</span></a></li>
+<li><a href="/soft/life/48457.html"  target="_blank"><img src="http://file.hzhuti.com//upload/2013/33/17/28362_icon.png" width="72" height="72" alt="IQ加速器 apk" /><span>IQ加速器 apk</span></a></li>
+ 
+                        </ul>
+                        <div class="clear"></div>
+                        <div class="line"></div>
+                        
+                        <div class="title3">
+                          <h4>最新软件</h4>
+                          <a href="/soft/"  target="_blank" class="more">more</a></div>
+                        <ul>
+						<li><a href="/soft/book/81804.html" target="_blank" ><img src="/uploads/simg/54c9fd06e97b2.jpg" width="72" height="72" alt="2010世界杯 v1.05" /><span>2010世界杯 v1.05</span></a></li>
+<li><a href="/soft/book/81803.html" target="_blank" ><img src="/uploads/simg/54c9fd06c0502.jpg" width="72" height="72" alt="F1赛车官方应用 Official F1 v6." /><span>F1赛车官方应用 Official F1 v6.</span></a></li>
+<li><a href="/soft/book/81802.html" target="_blank" ><img src="/uploads/simg/54c9fd0698c1e.jpg" width="72" height="72" alt="FIFA官方客户端 v2.4" /><span>FIFA官方客户端 v2.4</span></a></li>
+<li><a href="/soft/life/81801.html" target="_blank" ><img src="/uploads/simg/54c9f9f67a181.jpg" width="72" height="72" alt="礼物说 v2.5.1" /><span>礼物说 v2.5.1</span></a></li>
+<li><a href="/soft/life/81800.html" target="_blank" ><img src="/uploads/simg/54c9f9f6131f8.jpg" width="72" height="72" alt="窝窝团 v3.4.0" /><span>窝窝团 v3.4.0</span></a></li>
+<li><a href="/soft/life/81799.html" target="_blank" ><img src="/uploads/simg/54c9f9f5e06dc.jpg" width="72" height="72" alt="淘宝安全中心 v3.5" /><span>淘宝安全中心 v3.5</span></a></li>
+<li><a href="/soft/wallpaper/81798.html" target="_blank" ><img src="/uploads/simg/54c9f8071f0b0.jpg" width="72" height="72" alt="GO锁屏主题 GO Locker Circuitry" /><span>GO锁屏主题 GO Locker Circuitry</span></a></li>
+<li><a href="/soft/wallpaper/81797.html" target="_blank" ><img src="/uploads/simg/54c9f806db286.jpg" width="72" height="72" alt="GO锁屏 窗外 Outside Theme v1.0" /><span>GO锁屏 窗外 Outside Theme v1.0</span></a></li>
+<li><a href="/soft/wallpaper/81796.html" target="_blank" ><img src="/uploads/simg/54c9f806a71af.jpg" width="72" height="72" alt="Windows Phone 7 Locker v1.1" /><span>Windows Phone 7 Locker v1.1</span></a></li>
+<li><a href="/soft/book/81653.html" target="_blank" ><img src="/uploads/simg/54c9fd05ee057.jpg" width="72" height="72" alt="3G门户体育 v1.7.8" /><span>3G门户体育 v1.7.8</span></a></li>
+<li><a href="/soft/book/81652.html" target="_blank" ><img src="/uploads/simg/54c9fd05c4c20.jpg" width="72" height="72" alt="MSN体育 v1.1.0" /><span>MSN体育 v1.1.0</span></a></li>
+<li><a href="/soft/book/81651.html" target="_blank" ><img src="/uploads/simg/54c9fd059d766.jpg" width="72" height="72" alt="速播体育 v1.2.0" /><span>速播体育 v1.2.0</span></a></li>
+
+                        </ul>
+                      </div>
+                      <div class="right">
+                      	<div class="tab">
+                        	 <ul class="tab_menu bang1"  >
+                                <li><a href="javascript:void(0)">排行榜</a></li>
+                             </ul>
+                             <div class="tab_box">
+                             	<div>
+                                	<ul>
+									<li><i class="n1"></i><a href="/soft/office/73652.html"  target="_blank" ><img src="/uploads/simg/54c9ff5abbbd6.jpg" width='37' height="37" alt="人类未解之谜全记录 Full Record"/>人类未解之谜全记录 Full Record</a><span>569588次</span></li>
+<li><i class="n2"></i><a href="/soft/book/73648.html"  target="_blank" ><img src="/uploads/simg/54c9fc8a1827f.jpg" width='37' height="37" alt="MSN资讯 v1.1.0"/>MSN资讯 v1.1.0</a><span>504072次</span></li>
+<li><i class="n3"></i><a href="/soft/wallpaper/64208.html"  target="_blank" ><img src="/uploads/simg/54c9f6da47f87.jpg" width='37' height="37" alt="腾讯桌面 v5.9.141224"/>腾讯桌面 v5.9.141224</a><span>470819次</span></li>
+<li><i class="n4"></i><a href="/soft/shopping/64218.html"  target="_blank" ><img src="/uploads/simg/54c9fb1471f2c.jpg" width='37' height="37" alt="挖财记账 v9.8.6.1"/>挖财记账 v9.8.6.1</a><span>460545次</span></li>
+<li><i class="n5"></i><a href="/soft/wallpaper/64081.html"  target="_blank" ><img src="/uploads/simg/54c9f6d6aa2d9.jpg" width='37' height="37" alt="点心极速桌面 v1.2.0"/>点心极速桌面 v1.2.0</a><span>414129次</span></li>
+<li><i class="n6"></i><a href="/soft/shopping/64217.html"  target="_blank" ><img src="/uploads/simg/54c9fb13cb295.jpg" width='37' height="37" alt="金蝶 随手记 v9.4.8.5"/>金蝶 随手记 v9.4.8.5</a><span>188300次</span></li>
+<li><i class="n7"></i><a href="/soft/book/64222.html"  target="_blank" ><img src="/uploads/simg/54c9fb90ebe06.jpg" width='37' height="37" alt="多酷书城 v2.3.0"/>多酷书城 v2.3.0</a><span>176526次</span></li>
+<li><i class="n8"></i><a href="/soft/shopping/64095.html"  target="_blank" ><img src="/uploads/simg/54c9fb103c5ca.jpg" width='37' height="37" alt="银联手机支付便民版 v2.1.35"/>银联手机支付便民版 v2.1.35</a><span>160053次</span></li>
+<li><i class="n9"></i><a href="/soft/life/48457.html"  target="_blank" ><img src="http://file.hzhuti.com//upload/2013/33/17/28362_icon.png" width='37' height="37" alt="IQ加速器 apk"/>IQ加速器 apk</a><span>151263次</span></li>
+<li><i class="n10"></i><a href="/soft/system/47140.html"  target="_blank" ><img src="http://file.hzhuti.com//upload/2013/24/25/1366103055_43.png" width='37' height="37" alt="码上闪"/>码上闪</a><span>148182次</span></li>
+
+                                    
+                                    </ul>
+                                </div>                        
+                             </div>
+                        </div>
+                      </div>
+                    </div>
+                   
+                </div>
+            <div class="clear"></div>
+        </div>
+    </div>
+    
+    <div class="index_div6">
+    	<div class="left">
+        	<div class="title"><a class="more" href="/sms/">more</a></div>
+                <ul>
+				   <li><a href="/sms/other/jokee/82648.html" target="_blank" >我口误惹出的笑话 比你当白水喝的酒精还多</a></li>
+<li><a href="/sms/other/jokee/82647.html" target="_blank" >超级爆笑口误 我比窦娥冤的多</a></li>
+<li><a href="/sms/other/joke/82646.html" target="_blank" >内涵经典段子大全</a></li>
+<li><a href="/sms/other/joke/82645.html" target="_blank" >经典内涵段子 不信你不笑</a></li>
+<li><a href="/sms/other/joke/82644.html" target="_blank" >内涵段子 秒懂都是老司机</a></li>
+<li><a href="/sms/other/classic/82643.html" target="_blank" >心情短信大全 那些言语总会触碰到心</a></li>
+<li><a href="/sms/other/joke/82399.html" target="_blank" >内涵段子 当场笑到肚子疼</a></li>
+<li><a href="/sms/greet/married/82398.html" target="_blank" >朋友生子祝福语</a></li>
+<li><a href="/sms/festival/love/82397.html" target="_blank" >这些话有没有触碰你心底最柔软的地方</a></li>
+<li><a href="/sms/festival/love/82396.html" target="_blank" >那些唯美的爱情句子哪一句触动了你？</a></li>
+<li><a href="/sms/other/joke/82381.html" target="_blank" >肚子都笑痛的爆笑段子</a></li>
+<li><a href="/sms/other/joke/82380.html" target="_blank" >那些改变三观的糗事冷笑话</a></li>
+<li><a href="/sms/other/jokee/82371.html" target="_blank" >看完这些爆笑口误不信你不笑</a></li>
+<li><a href="/sms/daily/humor/82334.html" target="_blank" >工作之余 笑口常开</a></li>
+<li><a href="/sms/other/jokee/82302.html" target="_blank" >那些笑到肚子痛的口误</a></li>
+<li><a href="/sms/daily/Dbless/68261.html" target="_blank" >六一儿童节对小朋友的祝福</a></li>
+<li><a href="/sms/festival/67343.html" target="_blank" >愚人节祝福短信汇总</a></li>
+<li><a href="/sms/other/joke/65531.html" target="_blank" >还别说，这笑话还真挺冷的</a></li>
+
+                </ul>
+         </div>
+        <div class="right">
+        	<div class="title"><a class="more" href="/sms/">more</a></div>
+            <ul>
+			 <li><a href="/sms/daily/humor/61825.html" target="_blank" >天气冷了的适合发给朋友搞笑幽默关心短信</a></li>
+<li><a href="/sms/greet/married/57093.html" target="_blank" >2014马年新婚创意祝词结婚祝福语大全</a></li>
+<li><a href="/sms/festival/64885.html" target="_blank" >2015最新元宵节祝福语大全</a></li>
+<li><a href="/sms/greet/62989.html" target="_blank" >贺词大全-2015羊年精选给朋友新婚短信祝福</a></li>
+<li><a href="/sms/festival/67343.html" target="_blank" >愚人节祝福短信汇总</a></li>
+<li><a href="/sms/other/joke/65531.html" target="_blank" >还别说，这笑话还真挺冷的</a></li>
+<li><a href="/sms/festival/63886.html" target="_blank" >2015年最新情人节祝福语大全</a></li>
+<li><a href="/sms/festival/65165.html" target="_blank" >最新3.8妇女节祝福语精选</a></li>
+<li><a href="/sms/other/joke/65529.html" target="_blank" >女神范冰冰也来玩COS 范爷穿什么都好看</a></li>
+<li><a href="/sms/other/joke/65530.html" target="_blank" >生活就靠这些笑话来拯救吧</a></li>
+   
+            </ul>
+        </div>
+    </div>
+    <div class="index_div7">
+    	<div class="title"></div>
+        <p> <a href='http://www.hzhuti.com/sms/' target='_blank'>手机短信大全</a>   <a href='http://www.hzhuti.com' target='_blank'>安卓主题</a>   <a href='http://dm.slieny.com/' target='_blank'>动画片大全</a>   <a href='http://www.ushendu.com' target='_blank'>u深度</a>   <a href='http://www.7kk.com/' target='_blank'>苹果手机壁纸</a>   <a href='http://www.123hw.com/' target='_blank'>123好网址大全</a>   <a href='http://bizhi.gamedog.cn' target='_blank'>手机壁纸</a>   <a href='http://www.jingyanbus.com/' target='_blank'>经验巴士</a>   <a href='http://www.romjd.com/' target='_blank'>ROM基地</a>   <a href='http://au.boosj.com/' target='_blank'>游戏解说</a>   <a href='http://www.hzhuti.com/games/' target='_blank'>手机游戏下载</a>   <a href='http://sj.zol.com.cn' target='_blank'>手机软件</a>   <a href='http://www.hzhuti.com/soft/' target='_blank'>安卓软件</a>   <a href='http://www.hanfanba.com' target='_blank'>韩国娱乐</a>   <a href='http://www.hzhuti.com/anzhuo/' target='_blank'>免费安卓手机游戏</a>   <a href='http://www.ahgame.com' target='_blank'>安游在线</a>   <a href='http://www.anzhi.com' target='_blank'>安智市场</a>   <a href='http://www.replays.net/' target='_blank'>DOTA2官网</a>   <a href='http://www.958shop.com/' target='_blank'>手机网</a>   <a href='http://www.gaoxiaogif.com/' target='_blank'>爆笑gif</a>   <a href='http://www.gxdxw.cn' target='_blank'>短信笑话</a>   <a href='http://game.3533.com/zhuti/' target='_blank'>手机主题</a>   <a href='http://photo.poco.cn/' target='_blank'>POCO摄影</a>   <a href='http://www.windowszj.com/' target='_blank'>系统之家</a>   <a href='http://www.3d66.com' target='_blank'>3d溜溜网</a>   <a href='http://bbs.app111.com/' target='_blank'>苹果论坛</a>   <a href='http://www.qicaispace.com' target='_blank'>七彩空间</a>   <a href='http://www.16sucai.com' target='_blank'>16素材网</a>   <a href='http://bizhi.gamedog.cn' target='_blank'>手机壁纸</a>   <a href='http://www.tongbu.com/' target='_blank'>苹果助手</a>   <a href='http://www.wenxg.com/' target='_blank'>大团结</a>   <a href='http://www.qilinnet.com/' target='_blank'>麒麟网</a>   <a href='http://bbs.uc.cn/' target='_blank'>UC浏览器</a>   <a href='http://www.mypsd.com.cn' target='_blank'>蚂蚁图库</a>   <a href='http://news.tongbu.com/' target='_blank'>同步推资讯</a>   <a href='http://www.wmpic.me' target='_blank'>唯美图片</a>  <a class="more"  target="_blank"  href="/plus/flinks.php">申请加入>></a></p>
+    </div>
+</div>
+<div class="footer">
+    <div class="footer_nav">
+    	<div>
+        	<h4>手机主题</h4>
+            <a href="/xiaomi/" target="_blank">小米主题</a>
+            <a href="/samsung/" target="_blank">三星主题</a>
+            <a href="/kupai/" target="_blank">酷派主题</a>
+        </div>
+        <div>
+        	<h4>手机游戏</h4>
+            <a href="http://www.hzhuti.com/anzhuo/" target="_blank">安卓游戏</a>
+            <a href="http://www.hzhuti.com/anzhuo/" target="_blank">手机游戏</a>
+        </div>
+        <div>
+        	<h4>手机软件</h4>
+            <a href="/soft/life/" target="_blank">生活实用</a>
+            <a href="/soft/wallpaper/" target="_blank">壁纸美化</a>
+            <a href="/soft/chat/" target="_blank">聊天通讯</a>
+        </div>
+        <div>
+        	<h4>资讯教程</h4>
+            <a href="/help/game/" target="_blank">游戏攻略</a>
+            <a href="/help/rom/" target="_blank">安卓刷机</a>
+            <a href="/help/iphone/" target="_blank">苹果教程</a>
+        </div>
+        <div>
+        	<h4>短信大全</h4>
+            <a href="/sms/daily/" target="_blank">日常问候</a>
+            <a href="/sms/festival/" target="_blank">节日祝福</a>
+            <a href="/sms/greet/" target="_blank">贺词大全</a>
+        </div>
+    </div>
+    <div class="clear"></div>
+    <div class="line"></div>
+	<p style="margin-bottom:10px;"><a href="/me/us.htm" target="_blank">关于我们</a><span>|</span><a href="/me/adsense.htm" target="_blank">广告服务</a><span>|</span><a href="/data/sitemap.html" target="_blank">网站地图</a><span>|</span><a href="/plus/flinks.php" target="_blank">链接交换</a><span>|</span><a href="/me/copy.htm" target="_blank">版权声明</a><span>|</span><a href="http://www.hzhuti.com/" target="_blank">手机主题</a>
+
+    </p>
+    <div class="clear"></div>
+    <p>申明：本站所有手机主题均由网站自由上传或由部分合作提供，如果有哪款手机主题下载包侵犯您的版权，请联系我们网站客服，我们在24小时内删除！</p>
+    <p>ICP备案编号：沪ICP备15000255号</p>
+</div>
+<script type="text/javascript" language="javascript" src="/style/js/search.js"></script>
+<script src='/auto_update_home.php' ></script>
+<p style="display:none;"><script language="javascript">zttj();</script></p>
+</body>
+</html>

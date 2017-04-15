@@ -1,0 +1,1748 @@
+HTTP/1.1 200 OK
+Server: DnionOS/1.11.2.3
+Date: Sat, 25 Mar 2017 04:35:50 GMT
+Content-Type: text/html
+Content-Length: 195678
+Connection: close
+Vary: Accept-Encoding
+Age: 1558
+Via: gdst_251_31 (DLC-3.0), CT-FJQZ-C-223-187 (DLC-3.0)
+Server-Info: DnionATS
+
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Cache-Control" content="no-transform" />
+<meta http-equiv="Cache-Control" content="no-siteapp" />
+<title>网页游戏门户 - 找游戏、找平台、看攻略就上聚侠网</title>
+<meta name="description" content="聚侠网报道网页游戏全新行业动态；在大量的游戏试玩过程中，为玩家原创与收集各款网页游戏攻略；编辑精心的整理，让您更容易找到适合自己的网页游戏和平台！" />
+<link href="/public/css/new_inc.css" rel="stylesheet" type="text/css" />
+<link href="/public/css/new_index.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="/public/js/jquery-1.8.3.min.js"></script>
+<script type="text/javascript" src="/public/js/swiper.min.js"></script>
+<script type="text/javascript" src="/public/js/juxia.js"></script>
+<script type="text/javascript" src="/public/js/script.js"></script>
+<script type="text/javascript" src="/public/js/home.js"></script>
+<base target="_blank" />
+</head>
+<body>
+<div class="index_top">
+    <div class="index_top_txt">
+        <div class="index_top_left">
+            聚侠网，做专业的网页游戏品牌门户，提供优质的网页游戏资讯攻略！
+        </div>
+        <div class="index_top_right">
+            <span><a href="http://www.juxia.com/z">游戏专题</a></span> <em><a href="javascript:AddFavorite()" class="collect" target="_self">加入收藏</a><a href="http://www.juxia.com/sitemap.html" class="map">网站地图</a></em>
+        </div>
+    </div>
+</div>
+<div class="header">
+    <div class="logo">
+        <a href="http://www.juxia.com/" title="聚侠网，做专业的网页游戏品牌门户，提供优质的网页游戏资讯攻略!"> <img src="/public/images/img/logo.jpg"/> </a>
+    </div>
+    <div class="head_nav">
+        <dl class="column-1">
+            <dt><a href="http://www.juxia.com/newgame/">新游戏</a></dt>
+            <dd><a href="http://www.juxia.com/news/try/">试玩</a></dd>
+            <dd><a href="http://www.juxia.com/kc.html">开测表</a></dd>
+            <dd><a href="http://www.juxia.com/news/newgame/">评测</a></dd>
+            <dt><a href="http://kf.juxia.com/">开服表</a></dt>
+            <dd><a href="http://www.juxia.com/webgame/">找游戏</a></dd>
+            <dd><a href="http://www.juxia.com/webgame/hot.html">火爆</a></dd>
+            <dd><a href="http://www.juxia.com/top.html">排行</a></dd>
+        </dl>
+        <dl class="column-2">
+            <dt><a href="http://www.juxia.com/platform/">找平台</a></dt>
+            <dd><a href="http://www.juxia.com/news/platform/">新闻</a></dd>
+            <dd><a href="http://www.juxia.com/hd/">平台活动</a></dd>
+            <dt><a href="http://www.juxia.com/news/">看新闻</a></dt>
+            <dd><a href="http://www.juxia.com/news/game/">资讯</a></dd>
+            <dd><a href="http://www.juxia.com/gong/">攻略</a></dd>
+            <dd><a href="http://www.juxia.com/news/yejie/">业界</a></dd>
+        </dl>
+        <dl class="column-3">
+            <dt><a href="http://www.juxia.com/ka/">抢礼包</a></dt>
+            <dd><a href="http://www.juxia.com/ka/jihuoma.html">激活码</a></dd>
+            <dd><a href="http://www.juxia.com/ka/xinshouka.html">新手卡</a></dd>
+            <dt><a href="http://bg.juxia.com">看八卦</a></dt>
+            <dd><a href="http://bg.juxia.com/bagua/">游戏八卦</a></dd>
+            <dd><a href="http://bg.juxia.com/huati/">热门话题</a></dd>
+        </dl>
+        <dl class="column-4">
+            <dt><a href="http://www.juxia.com/h5game/">H5游戏</a></dt>
+            <dd><a href="http://www.juxia.com/h5game/recom/">游戏大全</a></dd>
+            <dd><a href="http://www.juxia.com/tool/">工具</a></dd>
+            <dt><a href="http://www.juxia.com/sjwy/">手游</a></dt>
+            <dd><a href="http://www.juxia.com/libao/">礼包</a></dd>
+            <dd><a href="http://www.juxia.com/sjwy/kaifu.html">开服</a></dd>
+            <dd><a href="http://www.juxia.com/sjwy/game-list-1.html">下载</a></dd>
+        </dl>
+    </div>
+    <!--head_nav end-->
+</div>
+<div class="mian_body">
+    <div class="index_bttg">
+        <a class="bt_top" rel="nofollow" href="http://www.juxia.com/goyx.html"></a> <a class="btleft" rel="nofollow" href="http://www.juxia.com/goyx.html"></a> <a class="btright" rel="nofollow" href="http://www.juxia.com/goyx.html"></a>
+    </div>
+    <div class="main">
+        <div class="main-box">
+            <div class="tab_wrap">
+                <div class="tab_title">
+                    <div class="titles">
+                        <span class="current" onmouseover="subgame('sg_tl','sg_txt',1,3,0)" id="sg_tl1" >热门游戏</span> <span onmouseover="subgame('sg_tl','sg_txt',2,3,0)" id="sg_tl2" >聚侠热推</span> <span onmouseover="subgame('sg_tl','sg_txt',3,3,0)" id="sg_tl3" >手机游戏</span>
+                    </div>
+                    <div class="search_wrap">
+                        <div id="bdcs">
+                            <div class="bdcs-container">
+                                <meta http-equiv="x-ua-compatible" content="IE=9">
+                                <!-- 嵌入式 -->
+                                <div class="bdcs-main bdcs-clearfix" id="default-searchbox">
+                                    <div class="bdcs-search bdcs-clearfix" id="bdcs-search-inline">
+                                        <form action="http://so.juxia.com/cse/search" method="get" target="_blank" class="bdcs-search-form" autocomplete="off" id="bdcs-search-form">
+                                            <input type="hidden" name="s" value="2814652670222413537">
+                                            <input type="hidden" name="entry" value="1">
+                                            <input type="text" name="q" class="bdcs-search-form-input" id="bdcs-search-form-input" placeholder="游戏名称">
+                                            <input type="submit" class="bdcs-search-form-submit " id="bdcs-search-form-submit" value="搜索">
+                                        <input type="hidden" name="__hash__" value="1d836b38ca514a8b54df0c4f934b6d37_e5da59748653ffcbf3f08265c8ae9876" /></form>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- tab_title end -->
+                <dl class="tab_box">
+                    <dd id="sg_txt1"> <p class="game_line">
+    						<a class="first" href="http://www.juxia.com/webgame/shenxianjie/" style="color:#F00">神仙劫</a>
+    						<a class="c-red" href="http://www.juxia.com/webgame/snqxzjx/">少年群侠传</a>
+    						<a href="http://www.juxia.com/webgame/wmhyjx/">完美红颜</a>
+    						<a href="http://www.juxia.com/webgame/daomubiji/">盗墓笔记</a>
+    						<a href="http://www.juxia.com/webgame/sspjx/">生死簿</a>
+    						<a class="c-blue" href="http://www.juxia.com/webgame/rycsjx/">人鱼传说</a>
+    						<a href="http://www.juxia.com/webgame/fwdtxjx/">范伟打天下</a>
+    						<a href="http://www.juxia.com/webgame/hcjx/" style="color:blue">幻城</a>
+    						<a href="http://www.juxia.com/webgame/qyzjx/"style="color:green">青云志</a>
+    						<a href="http://www.juxia.com/webgame/wszzljx/">武神赵子龙</a>
+    						<a href="http://www.juxia.com/webgame/tzyxjx/">特战英雄</a>
+    						<a href="http://www.juxia.com/jxdzs/">大战神</a>
+    						<a href="http://www.juxia.com/jxfbdl/">风暴大陆</a>
+    					</p>
+    					<p class="game_line">
+							<a class="first" href="http://www.juxia.com/jxdtszj/">大天使之剑</a>
+							<a href="http://www.juxia.com/webgame/mfwzjx/"style="color:red">魔法王座</a>
+							<a href="http://www.juxia.com/webgame/cycs2jx/">赤月传说2</a>
+							<a href="http://www.juxia.com/jxcqby/" style="color:blue">传奇霸业</a>
+							<a href="http://www.juxia.com/jxjyjx/">九阴绝学</a>
+							<a href="http://www.juxia.com/webgame/lycqjx/" style="color:red">蓝月传奇</a>
+							<a href="http://www.juxia.com/jxsszj/">蜀山战纪</a>
+							<a href="http://www.juxia.com/webgame/rxzgjx/">热血战歌</a>
+							<a href="http://www.juxia.com/jxqsmy/">秦时明月</a>
+							<a href="http://www.juxia.com/jxwsdzz/" style="color:blue">我是大主宰</a>
+							<a href="http://www.juxia.com/jxzshh/">诸神黄昏</a>
+							<a href="http://www.juxia.com/jxht/">皇图</a>
+							<a href="http://www.juxia.com/jxltzn/">雷霆之怒</a>
+    					</p>
+    					<p class="game_line">
+							<a class="first" href="http://www.juxia.com/jxcqss/">传奇盛世</a>
+							<a href="http://www.juxia.com/webgame/tqcfjx/">铁骑冲锋</a>
+							<a href="http://www.juxia.com/webgame/zjzrjx/">最佳阵容</a>
+							<a href="http://www.juxia.com/webgame/rexuesanguo/">热血三国3</a>
+							<a class="c-green" href="http://www.juxia.com/webgame/qjwybjx/">奇迹重生</a>
+							<a href="http://www.juxia.com/webgame/jzwljx/">决战武林</a>
+							<a href="http://www.juxia.com/jxdhd/">大皇帝</a>
+							<a href="http://www.juxia.com/webgame/rxsg3jx/">热血三国3</a>
+							<a href="http://www.juxia.com/jxgcld/">攻城掠地</a>
+							<a href="http://www.juxia.com/jxmhj/">莽荒纪</a>
+						    <a href="http://www.juxia.com/jxjyjh/"style=" color:blue">剑雨江湖</a>
+							<a href="http://www.juxia.com/jxzshh/">诸神黄昏</a>
+							<a href="http://www.juxia.com/jxfbdl/">风暴大陆</a>
+    					</p>
+                        <ul class="game_img_list">
+                            <li> 
+                                    <span href="http://www.juxia.com/jxcqby/">
+                                        <div class="img_box">
+                                            <img src="http://statics.juxia.com/uploadfile/admin/2017/3/2017031410122472.png" width="95" />
+                                            <div class="rmyx_links">
+                                                <div class="op_bg_box">
+                                                    <div class="op_bg"></div>
+                                                </div>
+                                                <a href="javascript:;" onClick="window.open('/redirect.html?http://p.jf9p.com/s/1/187/18193.html?uid=719021&amp;')" rel="nofollow" target="_self">进入游戏</a>
+                                                <a href="http://www.juxia.com/jxcqby/">进入官网</a>
+                                            </div>
+                                        </div>
+                                        <a href="http://www.juxia.com/jxcqby/">传奇霸业</a>
+                                    </span>
+                                </li><li> 
+                                    <span href="http://www.juxia.com/jxcqss/">
+                                        <div class="img_box">
+                                            <img src="http://statics.juxia.com/uploadfile/admin/2017/3/2017031410132290.png" width="95" />
+                                            <div class="rmyx_links">
+                                                <div class="op_bg_box">
+                                                    <div class="op_bg"></div>
+                                                </div>
+                                                <a href="javascript:;" onClick="window.open('http://www.juxia.com/redirect.html?http://cib.code.twh5.com/htmlcode/3293.html')" rel="nofollow" target="_self">进入游戏</a>
+                                                <a href="http://www.juxia.com/jxcqss/">进入官网</a>
+                                            </div>
+                                        </div>
+                                        <a href="http://www.juxia.com/jxcqss/">传奇盛世</a>
+                                    </span>
+                                </li><li> 
+                                    <span href="http://www.juxia.com/jxgcld/">
+                                        <div class="img_box">
+                                            <img src="http://statics.juxia.com/uploadfile/admin/2017/3/2017032209145914.png" width="95" />
+                                            <div class="rmyx_links">
+                                                <div class="op_bg_box">
+                                                    <div class="op_bg"></div>
+                                                </div>
+                                                <a href="javascript:;" onClick="window.open('http://t.tupian8.cn/tg/aggcld1/acgcld/zhuanqu/juxia-gcld-fl/')" rel="nofollow" target="_self">进入游戏</a>
+                                                <a href="http://www.juxia.com/jxgcld/">进入官网</a>
+                                            </div>
+                                        </div>
+                                        <a href="http://www.juxia.com/jxgcld/">攻城掠地</a>
+                                    </span>
+                                </li><li> 
+                                    <span href="http://www.juxia.com/jxjyjx/">
+                                        <div class="img_box">
+                                            <img src="http://statics.juxia.com/uploadfile/admin/2017/3/2017031410154718.png" width="95" />
+                                            <div class="rmyx_links">
+                                                <div class="op_bg_box">
+                                                    <div class="op_bg"></div>
+                                                </div>
+                                                <a href="javascript:;" onClick="window.open('http://www.juxia.com/redirect.html?http://t.tupian8.cn/?aid=a100868')" rel="nofollow" target="_self">进入游戏</a>
+                                                <a href="http://www.juxia.com/jxjyjx/">进入官网</a>
+                                            </div>
+                                        </div>
+                                        <a href="http://www.juxia.com/jxjyjx/">九阴绝学</a>
+                                    </span>
+                                </li><li> 
+                                    <span href="http://www.juxia.com/webgame/lycqjx/">
+                                        <div class="img_box">
+                                            <img src="http://statics.juxia.com/uploadfile/admin/2017/3/201703141016351.png" width="95" />
+                                            <div class="rmyx_links">
+                                                <div class="op_bg_box">
+                                                    <div class="op_bg"></div>
+                                                </div>
+                                                <a href="javascript:;" onClick="window.open('http://www.juxia.com/redirect.html?http://er.code.twh5.com/htmlcode/3857.html')" rel="nofollow" target="_self">进入游戏</a>
+                                                <a href="http://www.juxia.com/webgame/lycqjx/">进入官网</a>
+                                            </div>
+                                        </div>
+                                        <a href="http://www.juxia.com/webgame/lycqjx/">蓝月传奇</a>
+                                    </span>
+                                </li><li> 
+                                    <span href="http://www.juxia.com/webgame/lscqjx/">
+                                        <div class="img_box">
+                                            <img src="http://statics.juxia.com/uploadfile/admin/2017/3/2017031410173246.png" width="95" />
+                                            <div class="rmyx_links">
+                                                <div class="op_bg_box">
+                                                    <div class="op_bg"></div>
+                                                </div>
+                                                <a href="javascript:;" onClick="window.open('http://www.juxia.com/redirect.html?http://rxcq.xy.com/index.php?seid=27750')" rel="nofollow" target="_self">进入游戏</a>
+                                                <a href="http://www.juxia.com/webgame/lscqjx/">进入官网</a>
+                                            </div>
+                                        </div>
+                                        <a href="http://www.juxia.com/webgame/lscqjx/">梁山传奇</a>
+                                    </span>
+                                </li><li> 
+                                    <span href="http://www.juxia.com/webgame/mfwzjx/">
+                                        <div class="img_box">
+                                            <img src="http://statics.juxia.com/uploadfile/admin/2017/3/2017031410190583.png" width="95" />
+                                            <div class="rmyx_links">
+                                                <div class="op_bg_box">
+                                                    <div class="op_bg"></div>
+                                                </div>
+                                                <a href="javascript:;" onClick="window.open('http://www.juxia.com/redirect.html?http://xiyouacbat.com/hb/2458/0/13609/1.html?from=jxmf_0')" rel="nofollow" target="_self">进入游戏</a>
+                                                <a href="http://www.juxia.com/webgame/mfwzjx/">进入官网</a>
+                                            </div>
+                                        </div>
+                                        <a href="http://www.juxia.com/webgame/mfwzjx/">魔法王座</a>
+                                    </span>
+                                </li><li> 
+                                    <span href="http://www.juxia.com/webgame/snqxzjx/">
+                                        <div class="img_box">
+                                            <img src="http://statics.juxia.com/uploadfile/admin/2017/3/2017031410194919.png" width="95" />
+                                            <div class="rmyx_links">
+                                                <div class="op_bg_box">
+                                                    <div class="op_bg"></div>
+                                                </div>
+                                                <a href="javascript:;" onClick="window.open('http://www.juxia.com/redirect.html?http://p.zjhx520.com/s/1/187/11858.html?uid=705789&amp;amp')" rel="nofollow" target="_self">进入游戏</a>
+                                                <a href="http://www.juxia.com/webgame/snqxzjx/">进入官网</a>
+                                            </div>
+                                        </div>
+                                        <a href="http://www.juxia.com/webgame/snqxzjx/">少年群侠传</a>
+                                    </span>
+                                </li><li> 
+                                    <span href="http://www.juxia.com/webgame/shenxianjie/">
+                                        <div class="img_box">
+                                            <img src="http://statics.juxia.com/uploadfile/admin/2017/3/2017031410204421.png" width="95" />
+                                            <div class="rmyx_links">
+                                                <div class="op_bg_box">
+                                                    <div class="op_bg"></div>
+                                                </div>
+                                                <a href="javascript:;" onClick="window.open('http://www.juxia.com/redirect.html?http://g.fim34s.com/s/1/683/15984.html?uid=519123')" rel="nofollow" target="_self">进入游戏</a>
+                                                <a href="http://www.juxia.com/webgame/shenxianjie/">进入官网</a>
+                                            </div>
+                                        </div>
+                                        <a href="http://www.juxia.com/webgame/shenxianjie/">神仙劫</a>
+                                    </span>
+                                </li><li> 
+                                    <span href="/webgame/wmhyjx/">
+                                        <div class="img_box">
+                                            <img src="http://statics.juxia.com/uploadfile/admin/2017/3/2017031410212875.png" width="95" />
+                                            <div class="rmyx_links">
+                                                <div class="op_bg_box">
+                                                    <div class="op_bg"></div>
+                                                </div>
+                                                <a href="javascript:;" onClick="window.open('/redirect.html?http://xiyouhope.com/hb/2064/0/16374/1.html?from=jxjz_0')" rel="nofollow" target="_self">进入游戏</a>
+                                                <a href="/webgame/wmhyjx/">进入官网</a>
+                                            </div>
+                                        </div>
+                                        <a href="/webgame/wmhyjx/">完美红颜</a>
+                                    </span>
+                                </li>                        </ul>
+                        <div class="clear">
+                        </div>
+                    </dd>
+                    <dd id="sg_txt2" style="display:none"> <p class="game_line">
+    						<a class="first" href="http://www.juxia.com/webgame/shenxianjie/" style="color:#F00">神仙劫</a>
+    						<a class="c-red" href="http://www.juxia.com/webgame/snqxzjx/">少年群侠传</a>
+    						<a href="http://www.juxia.com/webgame/wmhyjx/">完美红颜</a>
+    						<a href="http://www.juxia.com/webgame/daomubiji/">盗墓笔记</a>
+    						<a href="http://www.juxia.com/webgame/sspjx/">生死簿</a>
+    						<a class="c-blue" href="http://www.juxia.com/webgame/rycsjx/">人鱼传说</a>
+    						<a href="http://www.juxia.com/webgame/fwdtxjx/">范伟打天下</a>
+    						<a href="http://www.juxia.com/webgame/hcjx/" style="color:blue">幻城</a>
+    						<a href="http://www.juxia.com/webgame/qyzjx/"style="color:green">青云志</a>
+    						<a href="http://www.juxia.com/webgame/wszzljx/">武神赵子龙</a>
+    						<a href="http://www.juxia.com/webgame/tzyxjx/">特战英雄</a>
+    						<a href="http://www.juxia.com/jxdzs/">大战神</a>
+    						<a href="http://www.juxia.com/jxfbdl/">风暴大陆</a>
+    					</p>
+    					<p class="game_line">
+							<a class="first" href="http://www.juxia.com/jxdtszj/">大天使之剑</a>
+							<a href="http://www.juxia.com/webgame/mfwzjx/"style="color:red">魔法王座</a>
+							<a href="http://www.juxia.com/webgame/cycs2jx/">赤月传说2</a>
+							<a href="http://www.juxia.com/jxcqby/" style="color:blue">传奇霸业</a>
+							<a href="http://www.juxia.com/jxjyjx/">九阴绝学</a>
+							<a href="http://www.juxia.com/webgame/lycqjx/" style="color:red">蓝月传奇</a>
+							<a href="http://www.juxia.com/jxsszj/">蜀山战纪</a>
+							<a href="http://www.juxia.com/webgame/rxzgjx/">热血战歌</a>
+							<a href="http://www.juxia.com/jxqsmy/">秦时明月</a>
+							<a href="http://www.juxia.com/jxwsdzz/" style="color:blue">我是大主宰</a>
+							<a href="http://www.juxia.com/jxzshh/">诸神黄昏</a>
+							<a href="http://www.juxia.com/jxht/">皇图</a>
+							<a href="http://www.juxia.com/jxltzn/">雷霆之怒</a>
+    					</p>
+    					<p class="game_line">
+							<a class="first" href="http://www.juxia.com/jxcqss/">传奇盛世</a>
+							<a href="http://www.juxia.com/webgame/tqcfjx/">铁骑冲锋</a>
+							<a href="http://www.juxia.com/webgame/zjzrjx/">最佳阵容</a>
+							<a href="http://www.juxia.com/webgame/rexuesanguo/">热血三国3</a>
+							<a class="c-green" href="http://www.juxia.com/webgame/qjwybjx/">奇迹重生</a>
+							<a href="http://www.juxia.com/webgame/jzwljx/">决战武林</a>
+							<a href="http://www.juxia.com/jxdhd/">大皇帝</a>
+							<a href="http://www.juxia.com/webgame/rxsg3jx/">热血三国3</a>
+							<a href="http://www.juxia.com/jxgcld/">攻城掠地</a>
+							<a href="http://www.juxia.com/jxmhj/">莽荒纪</a>
+						    <a href="http://www.juxia.com/jxjyjh/"style=" color:blue">剑雨江湖</a>
+							<a href="http://www.juxia.com/jxzshh/">诸神黄昏</a>
+							<a href="http://www.juxia.com/jxfbdl/">风暴大陆</a>
+    					</p>
+                        <ul class="game_img_list">
+                            <li> 
+                                    <span href="http://www.juxia.com/jxcqby/">
+                                        <div class="img_box">
+                                            <img src="http://statics.juxia.com/uploadfile/admin/2017/3/2017031410122472.png" width="95" />
+                                            <div class="rmyx_links">
+                                                <div class="op_bg_box">
+                                                    <div class="op_bg"></div>
+                                                </div>
+                                                <a href="javascript:;" onClick="window.open('/redirect.html?http://p.jf9p.com/s/1/187/18193.html?uid=719021&amp;')" rel="nofollow" target="_self">进入游戏</a>
+                                                <a href="http://www.juxia.com/jxcqby/">进入官网</a>
+                                            </div>
+                                        </div>
+                                        <a href="http://www.juxia.com/jxcqby/">传奇霸业</a>
+                                    </span>
+                                </li><li> 
+                                    <span href="http://www.juxia.com/jxcqss/">
+                                        <div class="img_box">
+                                            <img src="http://statics.juxia.com/uploadfile/admin/2017/3/2017031410132290.png" width="95" />
+                                            <div class="rmyx_links">
+                                                <div class="op_bg_box">
+                                                    <div class="op_bg"></div>
+                                                </div>
+                                                <a href="javascript:;" onClick="window.open('http://www.juxia.com/redirect.html?http://cib.code.twh5.com/htmlcode/3293.html')" rel="nofollow" target="_self">进入游戏</a>
+                                                <a href="http://www.juxia.com/jxcqss/">进入官网</a>
+                                            </div>
+                                        </div>
+                                        <a href="http://www.juxia.com/jxcqss/">传奇盛世</a>
+                                    </span>
+                                </li><li> 
+                                    <span href="http://www.juxia.com/webgame/daomubiji/">
+                                        <div class="img_box">
+                                            <img src="http://statics.juxia.com/uploadfile/admin/2017/3/2017031410144436.png" width="95" />
+                                            <div class="rmyx_links">
+                                                <div class="op_bg_box">
+                                                    <div class="op_bg"></div>
+                                                </div>
+                                                <a href="javascript:;" onClick="window.open('http://www.juxia.com/redirect.html?http://kfbtg.8090.com/1/o/2095/?pyx_url=kf-jxdmbj')" rel="nofollow" target="_self">进入游戏</a>
+                                                <a href="http://www.juxia.com/webgame/daomubiji/">进入官网</a>
+                                            </div>
+                                        </div>
+                                        <a href="http://www.juxia.com/webgame/daomubiji/">盗墓笔记</a>
+                                    </span>
+                                </li><li> 
+                                    <span href="http://www.juxia.com/jxjyjx/">
+                                        <div class="img_box">
+                                            <img src="http://statics.juxia.com/uploadfile/admin/2017/3/2017031410154718.png" width="95" />
+                                            <div class="rmyx_links">
+                                                <div class="op_bg_box">
+                                                    <div class="op_bg"></div>
+                                                </div>
+                                                <a href="javascript:;" onClick="window.open('http://www.juxia.com/redirect.html?http://t.tupian8.cn/?aid=a100868')" rel="nofollow" target="_self">进入游戏</a>
+                                                <a href="http://www.juxia.com/jxjyjx/">进入官网</a>
+                                            </div>
+                                        </div>
+                                        <a href="http://www.juxia.com/jxjyjx/">九阴绝学</a>
+                                    </span>
+                                </li><li> 
+                                    <span href="http://www.juxia.com/webgame/lycqjx/">
+                                        <div class="img_box">
+                                            <img src="http://statics.juxia.com/uploadfile/admin/2017/3/201703141016351.png" width="95" />
+                                            <div class="rmyx_links">
+                                                <div class="op_bg_box">
+                                                    <div class="op_bg"></div>
+                                                </div>
+                                                <a href="javascript:;" onClick="window.open('http://www.juxia.com/redirect.html?http://er.code.twh5.com/htmlcode/3857.html')" rel="nofollow" target="_self">进入游戏</a>
+                                                <a href="http://www.juxia.com/webgame/lycqjx/">进入官网</a>
+                                            </div>
+                                        </div>
+                                        <a href="http://www.juxia.com/webgame/lycqjx/">蓝月传奇</a>
+                                    </span>
+                                </li><li> 
+                                    <span href="http://www.juxia.com/webgame/lscqjx/">
+                                        <div class="img_box">
+                                            <img src="http://statics.juxia.com/uploadfile/admin/2017/3/2017031410173246.png" width="95" />
+                                            <div class="rmyx_links">
+                                                <div class="op_bg_box">
+                                                    <div class="op_bg"></div>
+                                                </div>
+                                                <a href="javascript:;" onClick="window.open('http://www.juxia.com/redirect.html?http://rxcq.xy.com/index.php?seid=27750')" rel="nofollow" target="_self">进入游戏</a>
+                                                <a href="http://www.juxia.com/webgame/lscqjx/">进入官网</a>
+                                            </div>
+                                        </div>
+                                        <a href="http://www.juxia.com/webgame/lscqjx/">梁山传奇</a>
+                                    </span>
+                                </li><li> 
+                                    <span href="http://www.juxia.com/webgame/mfwzjx/">
+                                        <div class="img_box">
+                                            <img src="http://statics.juxia.com/uploadfile/admin/2017/3/2017031410190583.png" width="95" />
+                                            <div class="rmyx_links">
+                                                <div class="op_bg_box">
+                                                    <div class="op_bg"></div>
+                                                </div>
+                                                <a href="javascript:;" onClick="window.open('http://www.juxia.com/redirect.html?http://xiyouacbat.com/hb/2458/0/13609/1.html?from=jxmf_0')" rel="nofollow" target="_self">进入游戏</a>
+                                                <a href="http://www.juxia.com/webgame/mfwzjx/">进入官网</a>
+                                            </div>
+                                        </div>
+                                        <a href="http://www.juxia.com/webgame/mfwzjx/">魔法王座</a>
+                                    </span>
+                                </li><li> 
+                                    <span href="http://www.juxia.com/webgame/snqxzjx/">
+                                        <div class="img_box">
+                                            <img src="http://statics.juxia.com/uploadfile/admin/2017/3/2017031410194919.png" width="95" />
+                                            <div class="rmyx_links">
+                                                <div class="op_bg_box">
+                                                    <div class="op_bg"></div>
+                                                </div>
+                                                <a href="javascript:;" onClick="window.open('http://www.juxia.com/redirect.html?http://p.zjhx520.com/s/1/187/11858.html?uid=705789&amp;amp')" rel="nofollow" target="_self">进入游戏</a>
+                                                <a href="http://www.juxia.com/webgame/snqxzjx/">进入官网</a>
+                                            </div>
+                                        </div>
+                                        <a href="http://www.juxia.com/webgame/snqxzjx/">少年群侠传</a>
+                                    </span>
+                                </li><li> 
+                                    <span href="http://www.juxia.com/webgame/shenxianjie/">
+                                        <div class="img_box">
+                                            <img src="http://statics.juxia.com/uploadfile/admin/2017/3/2017031410204421.png" width="95" />
+                                            <div class="rmyx_links">
+                                                <div class="op_bg_box">
+                                                    <div class="op_bg"></div>
+                                                </div>
+                                                <a href="javascript:;" onClick="window.open('http://www.juxia.com/redirect.html?http://g.fim34s.com/s/1/683/15984.html?uid=519123')" rel="nofollow" target="_self">进入游戏</a>
+                                                <a href="http://www.juxia.com/webgame/shenxianjie/">进入官网</a>
+                                            </div>
+                                        </div>
+                                        <a href="http://www.juxia.com/webgame/shenxianjie/">神仙劫</a>
+                                    </span>
+                                </li><li> 
+                                    <span href="a.com/webgame/wmhyjx/">
+                                        <div class="img_box">
+                                            <img src="http://statics.juxia.com/uploadfile/admin/2017/3/2017031410275476.png" width="95" />
+                                            <div class="rmyx_links">
+                                                <div class="op_bg_box">
+                                                    <div class="op_bg"></div>
+                                                </div>
+                                                <a href="javascript:;" onClick="window.open('/redirect.html?http://xiyouhope.com/hb/2064/0/16374/1.html?from=jxjz_0')" rel="nofollow" target="_self">进入游戏</a>
+                                                <a href="a.com/webgame/wmhyjx/">进入官网</a>
+                                            </div>
+                                        </div>
+                                        <a href="a.com/webgame/wmhyjx/">完美红颜</a>
+                                    </span>
+                                </li>                        </ul>
+                        <div class="clear">
+                        </div>
+                    </dd>
+                    <dd id="sg_txt3" style="display:none"> <p class="game_line">
+    						<a class="first" href="http://www.juxia.com/sjwy/game-1765.html" style="color:#F00">阴阳师</a>
+    						<a class="c-red" href="http://www.juxia.com/sjwy/game-1297.html">王者荣耀</a>
+    						<a href="http://www.juxia.com/sjwy/game-1.html">天天酷跑</a>
+    						<a href="http://www.juxia.com/sjwy/game-297.html">奇迹暖暖</a>
+    						<a href="http://www.juxia.com/sjwy/game-146.html">暖暖环游世界</a>
+    						<a class="c-blue" href="http://www.juxia.com/sjwy/game-1711.html">崩坏3rd</a>
+    						<a href="http://www.juxia.com/sjwy/game-1538.html">皇室战争</a>
+    						<a href="http://www.juxia.com/sjwy/game-578.html" style="color:blue">梦幻西游</a>
+    						<a href="http://www.juxia.com/sjwy/game-406.html"style="color:green">战舰少女</a>
+    						<a href="http://www.juxia.com/sjwy/game-1630.html">倩女幽魂</a>
+    						<a href="http://www.juxia.com/sjwy/game-1707.html">大话西游热血版</a>
+    						<a href="http://www.juxia.com/sjwy/game-829.html">大话西游</a>
+    						<a href="http://www.juxia.com/sjwy/game-1296.html">问道</a>
+    					</p>
+    					<p class="game_line">
+							<a class="first" href="http://www.juxia.com/sjwy/game-1144.html">镇魔曲</a>
+							<a href="http://www.juxia.com/sjwy/game-1995.html"style="color:red">少女咖啡枪</a>
+							<a href="http://www.juxia.com/sjwy/game-1508.html">天天酷跑3D</a>
+							<a href="http://www.juxia.com/sjwy/game-1631.html" style="color:blue">我叫MT3</a>
+							<a href="http://www.juxia.com/sjwy/game-1530.html">CF手游</a>
+							<a href="http://www.juxia.com/sjwy/game-178.html" style="color:red">去吧皮卡丘</a>
+							<a href="http://www.juxia.com/sjwy/game-2178.html">不要停八分音符</a>
+							<a href="http://www.juxia.com/sjwy/game-2126.html">游戏机被老妈藏起来了2</a>
+							<a href="http://www.juxia.com/sjwy/game-1653.html">圣斗士星矢重生</a>
+							<a href="http://www.juxia.com/sjwy/game-2092.html" style="color:blue">不思议迷宫</a>
+							<a href="http://www.juxia.com/sjwy/game-2073.html">口袋妖怪日月</a>
+							<a href="http://www.juxia.com/sjwy/game-1987.html">街篮</a>
+							<a href="http://www.juxia.com/sjwy/game-1933.html">我守护的一切</a>
+    					</p>
+    					<p class="game_line">
+							<a class="first" href="http://www.juxia.com/sjwy/game-1923.html">放开那三国2</a>
+							<a href="http://www.juxia.com/sjwy/game-1475.html">梦幻诛仙</a>
+							<a href="http://www.juxia.com/sjwy/game-1642.html">诛仙</a>
+							<a href="http://www.juxia.com/sjwy/game-1604.html">保卫萝卜3</a>
+							<a class="c-green" href="http://www.juxia.com/sjwy/game-1874.html">命运-冠位指定</a>
+							<a href="http://www.juxia.com/sjwy/game-1851.html">英雄联盟手游</a>
+							<a href="http://www.juxia.com/sjwy/game-1829.html">剑网3指尖江湖</a>
+							<a href="http://www.juxia.com/sjwy/game-1803.html">DNF地下城与勇士</a>
+							<a href="http://www.juxia.com/sjwy/game-1789.html">剑侠世界手游</a>
+							<a href="http://www.juxia.com/sjwy/game-1784.html">少女前线</a>
+						    <a href="http://www.juxia.com/sjwy/game-1684.html"style=" color:blue">刀剑神域</a>
+							<a href="http://www.juxia.com/sjwy/game-1655.html">甜甜萌物语</a>
+							<a href="http://www.juxia.com/sjwy/game-1653.html">圣斗士星矢重生</a>
+    					</p>
+                        <ul class="game_img_list">
+                            <li> 
+                                    <span href="http://www.juxia.com/jxcqby/">
+                                        <div class="img_box">
+                                            <img src="http://statics.juxia.com/uploadfile/admin/2017/3/2017031410122472.png" width="95" />
+                                            <div class="rmyx_links">
+                                                <div class="op_bg_box">
+                                                    <div class="op_bg"></div>
+                                                </div>
+                                                <a href="javascript:;" onClick="window.open('/redirect.html?http://p.jf9p.com/s/1/187/18193.html?uid=719021&amp;')" rel="nofollow" target="_self">进入游戏</a>
+                                                <a href="http://www.juxia.com/jxcqby/">进入官网</a>
+                                            </div>
+                                        </div>
+                                        <a href="http://www.juxia.com/jxcqby/">传奇霸业</a>
+                                    </span>
+                                </li><li> 
+                                    <span href="http://www.juxia.com/jxcqss/">
+                                        <div class="img_box">
+                                            <img src="http://statics.juxia.com/uploadfile/admin/2017/3/2017031410132290.png" width="95" />
+                                            <div class="rmyx_links">
+                                                <div class="op_bg_box">
+                                                    <div class="op_bg"></div>
+                                                </div>
+                                                <a href="javascript:;" onClick="window.open('http://www.juxia.com/redirect.html?http://cib.code.twh5.com/htmlcode/3293.html')" rel="nofollow" target="_self">进入游戏</a>
+                                                <a href="http://www.juxia.com/jxcqss/">进入官网</a>
+                                            </div>
+                                        </div>
+                                        <a href="http://www.juxia.com/jxcqss/">传奇盛世</a>
+                                    </span>
+                                </li><li> 
+                                    <span href="http://www.juxia.com/webgame/daomubiji/">
+                                        <div class="img_box">
+                                            <img src="http://statics.juxia.com/uploadfile/admin/2017/3/2017031410144436.png" width="95" />
+                                            <div class="rmyx_links">
+                                                <div class="op_bg_box">
+                                                    <div class="op_bg"></div>
+                                                </div>
+                                                <a href="javascript:;" onClick="window.open('http://www.juxia.com/redirect.html?http://kfbtg.8090.com/1/o/2095/?pyx_url=kf-jxdmbj')" rel="nofollow" target="_self">进入游戏</a>
+                                                <a href="http://www.juxia.com/webgame/daomubiji/">进入官网</a>
+                                            </div>
+                                        </div>
+                                        <a href="http://www.juxia.com/webgame/daomubiji/">盗墓笔记</a>
+                                    </span>
+                                </li><li> 
+                                    <span href="http://www.juxia.com/jxjyjx/">
+                                        <div class="img_box">
+                                            <img src="http://statics.juxia.com/uploadfile/admin/2017/3/2017031410154718.png" width="95" />
+                                            <div class="rmyx_links">
+                                                <div class="op_bg_box">
+                                                    <div class="op_bg"></div>
+                                                </div>
+                                                <a href="javascript:;" onClick="window.open('http://www.juxia.com/redirect.html?http://t.tupian8.cn/?aid=a100868')" rel="nofollow" target="_self">进入游戏</a>
+                                                <a href="http://www.juxia.com/jxjyjx/">进入官网</a>
+                                            </div>
+                                        </div>
+                                        <a href="http://www.juxia.com/jxjyjx/">九阴绝学</a>
+                                    </span>
+                                </li><li> 
+                                    <span href="http://www.juxia.com/webgame/lycqjx/">
+                                        <div class="img_box">
+                                            <img src="http://statics.juxia.com/uploadfile/admin/2017/3/201703141016351.png" width="95" />
+                                            <div class="rmyx_links">
+                                                <div class="op_bg_box">
+                                                    <div class="op_bg"></div>
+                                                </div>
+                                                <a href="javascript:;" onClick="window.open('http://www.juxia.com/redirect.html?http://er.code.twh5.com/htmlcode/3857.html')" rel="nofollow" target="_self">进入游戏</a>
+                                                <a href="http://www.juxia.com/webgame/lycqjx/">进入官网</a>
+                                            </div>
+                                        </div>
+                                        <a href="http://www.juxia.com/webgame/lycqjx/">蓝月传奇</a>
+                                    </span>
+                                </li><li> 
+                                    <span href="http://www.juxia.com/webgame/lscqjx/">
+                                        <div class="img_box">
+                                            <img src="http://statics.juxia.com/uploadfile/admin/2017/3/2017031410173246.png" width="95" />
+                                            <div class="rmyx_links">
+                                                <div class="op_bg_box">
+                                                    <div class="op_bg"></div>
+                                                </div>
+                                                <a href="javascript:;" onClick="window.open('http://www.juxia.com/redirect.html?http://rxcq.xy.com/index.php?seid=27750	')" rel="nofollow" target="_self">进入游戏</a>
+                                                <a href="http://www.juxia.com/webgame/lscqjx/">进入官网</a>
+                                            </div>
+                                        </div>
+                                        <a href="http://www.juxia.com/webgame/lscqjx/">梁山传奇</a>
+                                    </span>
+                                </li><li> 
+                                    <span href="http://www.juxia.com/webgame/mfwzjx/">
+                                        <div class="img_box">
+                                            <img src="http://statics.juxia.com/uploadfile/admin/2017/3/2017031410190583.png" width="95" />
+                                            <div class="rmyx_links">
+                                                <div class="op_bg_box">
+                                                    <div class="op_bg"></div>
+                                                </div>
+                                                <a href="javascript:;" onClick="window.open('http://www.juxia.com/redirect.html?http://xiyouacbat.com/hb/2458/0/13609/1.html?from=jxmf_0')" rel="nofollow" target="_self">进入游戏</a>
+                                                <a href="http://www.juxia.com/webgame/mfwzjx/">进入官网</a>
+                                            </div>
+                                        </div>
+                                        <a href="http://www.juxia.com/webgame/mfwzjx/">魔法王座</a>
+                                    </span>
+                                </li><li> 
+                                    <span href="http://www.juxia.com/webgame/snqxzjx/">
+                                        <div class="img_box">
+                                            <img src="http://statics.juxia.com/uploadfile/admin/2017/3/2017031410194919.png" width="95" />
+                                            <div class="rmyx_links">
+                                                <div class="op_bg_box">
+                                                    <div class="op_bg"></div>
+                                                </div>
+                                                <a href="javascript:;" onClick="window.open('http://www.juxia.com/redirect.html?http://p.zjhx520.com/s/1/187/11858.html?uid=705789&amp;amp')" rel="nofollow" target="_self">进入游戏</a>
+                                                <a href="http://www.juxia.com/webgame/snqxzjx/">进入官网</a>
+                                            </div>
+                                        </div>
+                                        <a href="http://www.juxia.com/webgame/snqxzjx/">少年群侠传</a>
+                                    </span>
+                                </li><li> 
+                                    <span href="http://www.juxia.com/webgame/shenxianjie/">
+                                        <div class="img_box">
+                                            <img src="http://statics.juxia.com/uploadfile/admin/2017/3/2017031410204421.png" width="95" />
+                                            <div class="rmyx_links">
+                                                <div class="op_bg_box">
+                                                    <div class="op_bg"></div>
+                                                </div>
+                                                <a href="javascript:;" onClick="window.open('http://www.juxia.com/redirect.html?http://g.fim34s.com/s/1/683/15984.html?uid=519123')" rel="nofollow" target="_self">进入游戏</a>
+                                                <a href="http://www.juxia.com/webgame/shenxianjie/">进入官网</a>
+                                            </div>
+                                        </div>
+                                        <a href="http://www.juxia.com/webgame/shenxianjie/">神仙劫</a>
+                                    </span>
+                                </li><li> 
+                                    <span href="http://www.juxia.com/webgame/wmhyjx/">
+                                        <div class="img_box">
+                                            <img src="http://statics.juxia.com/uploadfile/admin/2017/3/2017031410212875.png" width="95" />
+                                            <div class="rmyx_links">
+                                                <div class="op_bg_box">
+                                                    <div class="op_bg"></div>
+                                                </div>
+                                                <a href="javascript:;" onClick="window.open('http://www.juxia.com/redirect.html?http://xiyouhope.com/hb/2064/0/16374/1.html?from=jxjz_0')" rel="nofollow" target="_self">进入游戏</a>
+                                                <a href="http://www.juxia.com/webgame/wmhyjx/">进入官网</a>
+                                            </div>
+                                        </div>
+                                        <a href="http://www.juxia.com/webgame/wmhyjx/">完美红颜</a>
+                                    </span>
+                                </li>                        </ul>
+                        <div class="clear">
+                        </div>
+                    </dd>
+                </dl>
+                <!-- tab_box end -->
+            </div>
+            <!-- tab_wrap end-->
+            <div class="new_webgame">
+                <span><a href="http://www.juxia.com/webgame/dailynew.html">最新入库</a></span> <cite>
+                <a href="http://www.juxia.com/webgame/xtsgsjx/"  
+                    class="first"
+                                            >新贴身高手</a><a href="http://www.juxia.com/webgame/tztjjx/"  
+                                        >特种突击</a><a href="http://www.juxia.com/webgame/gtcqjx/"  
+                                        >钢铁苍穹</a><a href="http://www.juxia.com/webgame/jxtjx/"  
+                                        >九仙图</a><a href="http://www.juxia.com/webgame/ttjjx/"  
+                                        >吞天诀</a><a href="http://www.juxia.com/webgame/qyhtmjx/"  
+                                        >群英皇图梦</a><a href="http://www.juxia.com/webgame/lhscjx/"  
+                                        >龙魂沙城</a><a href="http://www.juxia.com/webgame/lycqjuxia/"  
+                                        >烈焰传奇</a><a href="http://www.juxia.com/webgame/yjqcjx/"  
+                                        >一剑倾城</a><a href="http://www.juxia.com/webgame/jtfsjx/"  
+                                        >九天封神</a><a href="http://www.juxia.com/webgame/msjjx/"  
+                                        >魔神决</a><a href="http://www.juxia.com/webgame/dqjcqjx/"  
+                                            class="last"                    >刀枪剑传奇</a><a href="http://www.juxia.com/webgame/wswzjx/"  
+                                        >无上王座</a><a href="http://www.juxia.com/webgame/zstljx/"  
+                                        >众神屠龙</a><a href="http://www.juxia.com/webgame/zycsjx/"  
+                                        >战月传说</a>                </cite>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <div class="ibox1160 ibox5p">
+            <script type="text/javascript">Juxia_A_D("TB_banner_index");</script>
+            <div class="clear"></div>
+        </div>
+        <!-- ibox1160 end -->
+        <div class="wrap" id="webgame">
+            <div class="column_360">
+                <div class="swiper-container focus_show" id="slide">
+                    <ul class="swiper-wrapper">
+                        <li class="swiper-slide"><a href="http://www.juxia.com/news/2017-3-24/240518.html" ><img src="http://statics.juxia.com/uploadfile/special/2017/3/2017032414100855.jpg"/><span><em>一次性满足飞舞游戏《一剑倾城》新服豪礼巨献</em></span></a></li><li class="swiper-slide"><a href="http://www.juxia.com/news/2017-3-24/240516.html" ><img src="http://statics.juxia.com/uploadfile/special/2017/3/2017032414094731.jpg"/><span><em>一周新游核心玩法播报：所有传奇都是《攻沙》</em></span></a></li><li class="swiper-slide"><a href="http://www.juxia.com/news/2017-3-24/240476.html" ><img src="http://statics.juxia.com/uploadfile/special/2017/3/2017032410020425.jpg"/><span><em>古天乐来送红包 《贪玩蓝月》现金邀请赛25日开战</em></span></a></li><li class="swiper-slide"><a href="http://www.juxia.com/news/2017-3-24/240493.html" ><img src="http://statics.juxia.com/uploadfile/special/2017/3/201703241010018.jpg"/><span><em>激战首服 51《剑侠伏魔录》让人目瞪狗呆的乱斗大杂烩</em></span></a></li><li class="swiper-slide"><a href="http://www.juxia.com/news/2017-3-24/240492.html" ><img src="http://statics.juxia.com/uploadfile/special/2017/3/2017032410093263.jpg"/><span><em>51wan《剑侠情缘2网页版》新资料片专题站今日开放</em></span></a></li><li class="swiper-slide"><a href="http://www.juxia.com/news/2017-3-24/240485.html" ><img src="http://statics.juxia.com/uploadfile/special/2017/3/2017032409501947.jpg"/><span><em>当肉盾组后宫1k2k《新贴身高手》青涩校花绝美来袭</em></span></a></li>                    </ul>
+                    <div class="nav"></div>
+                </div>
+                <!-- focus_show end -->
+            </div>
+            <!--column_360 end-->
+            <div class="column_390">
+                <div class="focus_head">
+                    <div class="tith2">
+                        <a href="http://www.juxia.com/news/2017-3-24/240476.html" >古天乐来送红包 《贪玩蓝月》现金邀请赛25日开战</a>
+                    </div>
+                    <p>
+                                                    <a href="http://kf.juxia.com/" >最新开服尽在掌控</a>|                            <a href="/ka/" >豪华礼包拿到你手软</a>|                            <a href="/news/exp/" >页游攻略大全</a>                    </p>
+                    <div class="tith2">
+                        <a href="http://www.juxia.com/news/2017-3-24/240497.html" >拥无极，战九霄!来2217《乾坤战纪》一起修仙!</a>
+                    </div>
+                    <p class="mb3">
+                                                    <a href="/ka/29319.html" >《蓝月传奇》礼包</a>|                            <a href="/ka/30294.html" >《完美红颜》礼包</a>|                            <a href="/ka/30244.html" >《生死簿》礼包</a>                    </p>
+                </div>
+                <div class="focus_news">
+                    <div class="focus_txt">
+                        <ul>
+                            <li><a href="http://www.juxia.com/news/2017-3-25/240555.html">密道有惊喜 8090热血江湖传你敢战我就敢送</a><em>03-25</em></li><li><a href="http://www.juxia.com/news/2017-3-25/240553.html">老铁你礼物没拿 哥们网《攻沙》每日福利送不停</a><em>03-25</em></li><li><a href="http://www.juxia.com/news/2017-3-25/240552.html">这是我的大怪物!哥们网《攻沙》个人BOSS玩法曝光</a><em>03-25</em></li><li><a href="http://www.juxia.com/news/2017-3-25/240551.html">神仙劫VIP1-15最新最正确价格表分享</a><em>03-25</em></li><li><a href="http://www.juxia.com/news/2017-3-25/240549.html">阿尔法狗的胜利?4399《疯狂的子弹》人机大战火爆来袭</a><em>03-25</em></li><li><a href="http://www.juxia.com/news/2017-3-24/240513.html">再创传奇巅峰 8090《刀枪剑传奇》首测与你不见不散</a><em>03-24</em></li><li><a href="http://www.juxia.com/news/2017-3-24/240506.html">玩策略打国战?360uu《大唐盛世》今日首服与你相约</a><em>03-24</em></li><li><a href="http://www.juxia.com/news/2017-3-24/240503.html">跨服战场来袭 404wan《大青云》诚邀高手决战天下</a><em>03-24</em></li><li><a href="http://www.juxia.com/news/2017-3-24/240495.html">2686《神魔传说》评测：最强福利 值得一玩</a><em>03-24</em></li><li><a href="http://www.juxia.com/news/2017-3-24/240491.html">张涵予送百万元宝 9377《赤月传说2》新玩法盘点</a><em>03-24</em></li><li><a href="http://www.juxia.com/news/2017-3-24/240490.html">手起刀落斩千军 萌乐网《三国令》神兵系统曝光</a><em>03-24</em></li><li><a href="http://www.juxia.com/news/2017-3-24/240484.html">红警网页版 战争策略页游《钢铁苍穹》使命封测</a><em>03-24</em></li>                        </ul>
+                    </div>
+                </div>
+            </div>
+            <!--column_390 end-->
+            <div class="column_360">
+                <div class="new_games">
+                    <div class="l_headline">
+                        <span>最新开服</span><a href="http://kf.juxia.com" class="more" title="最新开服" rel="nofollow">更多<em class="ico-arr"></em></a><span class="xline"></span>
+                    </div>
+                    <dl class="new_games_list" id="fktxt1">
+    <dt><span class="w80">游戏名称</span><span class="w110">开服时间</span><span class="w80">运营平台</span><span class="w85">开服备注</span></dt>
+    <dd>
+        <a class="w80" href="http://kf.juxia.com/app/jump.php?id=3181853">冒险世界</a>
+        <span class="w110 c-org">14:00</span>
+        <span class="w80">58wan</span>
+        <span class="w85"><a class="btn" href="http://kf.juxia.com/app/jump.php?id=3181853">进入游戏</a></span>
+    </dd><dd>
+        <a class="w80" href="http://kf.juxia.com/app/jump.php?id=3079531">神仙劫</a>
+        <span class="w110 c-org">11:00</span>
+        <span class="w80">2217游戏</span>
+        <span class="w85"><a class="btn" href="http://kf.juxia.com/app/jump.php?id=3079531">进入游戏</a></span>
+    </dd><dd>
+        <a class="w80" href="http://kf.juxia.com/app/jump.php?id=2907625">赤月传说2</a>
+        <span class="w110 c-org">10:00</span>
+        <span class="w80">9377</span>
+        <span class="w85"><a class="btn" href="http://kf.juxia.com/app/jump.php?id=2907625">进入游戏</a></span>
+    </dd><dd>
+        <a class="w80" href="http://kf.juxia.com/app/jump.php?id=2470305">攻城掠地</a>
+        <span class="w110 c-org">10:00</span>
+        <span class="w80">2217游戏</span>
+        <span class="w85"><a class="btn" href="http://kf.juxia.com/app/jump.php?id=2470305">进入游戏</a></span>
+    </dd><dd>
+        <a class="w80" href="http://kf.juxia.com/app/jump.php?id=1275834">传奇霸业</a>
+        <span class="w110 c-org">09:00</span>
+        <span class="w80">37游戏</span>
+        <span class="w85"><a class="btn" href="http://kf.juxia.com/app/jump.php?id=1275834">进入游戏</a></span>
+    </dd><dd>
+        <a class="w80" href="http://kf.juxia.com/app/jump.php?id=2230718">大天使之剑</a>
+        <span class="w110 c-org">09:00</span>
+        <span class="w80">37游戏</span>
+        <span class="w85"><a class="btn" href="http://kf.juxia.com/app/jump.php?id=2230718">进入游戏</a></span>
+    </dd><dd>
+        <a class="w80" href="http://kf.juxia.com/app/jump.php?id=2967777">贪玩蓝月</a>
+        <span class="w110 c-org">08:00</span>
+        <span class="w80">贪玩游戏</span>
+        <span class="w85"><a class="btn" href="http://kf.juxia.com/app/jump.php?id=2967777">进入游戏</a></span>
+    </dd><dd>
+        <a class="w80" href="http://kf.juxia.com/app/jump.php?id=3147828">武炼巅峰</a>
+        <span class="w110 c-org">20:00</span>
+        <span class="w80">2686</span>
+        <span class="w85"><a class="btn" href="http://kf.juxia.com/app/jump.php?id=3147828">进入游戏</a></span>
+    </dd><dd>
+        <a class="w80" href="http://kf.juxia.com/app/jump.php?id=3135850">魔龙之戒</a>
+        <span class="w110 c-org">19:00</span>
+        <span class="w80">360uu游戏</span>
+        <span class="w85"><a class="btn" href="http://kf.juxia.com/app/jump.php?id=3135850">进入游戏</a></span>
+    </dd></dl><!-- new_games_list end -->
+<dl class="new_games_list" id="fktxt2" style="display:none">
+    <dt><span class="w80">游戏名称</span><span class="w110">开服时间</span><span class="w80">运营平台</span><span class="w85">开服备注</span></dt>
+    <dd>
+        <a class="w80" href="http://kf.juxia.com/app/jump.php?id=3168949">烈焰</a>
+        <span class="w110 c-org">18:00</span>
+        <span class="w80">XY游戏</span>
+        <span class="w85"><a class="btn" href="http://kf.juxia.com/app/jump.php?id=3168949">进入游戏</a></span>
+    </dd><dd>
+        <a class="w80" href="http://kf.juxia.com/app/jump.php?id=3146090">天地诸神</a>
+        <span class="w110 c-org">17:00</span>
+        <span class="w80">9188wan游戏</span>
+        <span class="w85"><a class="btn" href="http://kf.juxia.com/app/jump.php?id=3146090">进入游戏</a></span>
+    </dd><dd>
+        <a class="w80" href="http://kf.juxia.com/app/jump.php?id=3136271">乱舞无双</a>
+        <span class="w110 c-org">16:00</span>
+        <span class="w80">61游戏</span>
+        <span class="w85"><a class="btn" href="http://kf.juxia.com/app/jump.php?id=3136271">进入游戏</a></span>
+    </dd><dd>
+        <a class="w80" href="http://kf.juxia.com/app/jump.php?id=3099771">红名传说</a>
+        <span class="w110 c-org">15:00</span>
+        <span class="w80">ya247</span>
+        <span class="w85"><a class="btn" href="http://kf.juxia.com/app/jump.php?id=3099771">进入游戏</a></span>
+    </dd><dd>
+        <a class="w80" href="http://kf.juxia.com/app/jump.php?id=3149764">至尊大主宰</a>
+        <span class="w110 c-org">14:00</span>
+        <span class="w80">679wan游戏中心</span>
+        <span class="w85"><a class="btn" href="http://kf.juxia.com/app/jump.php?id=3149764">进入游戏</a></span>
+    </dd><dd>
+        <a class="w80" href="http://kf.juxia.com/app/jump.php?id=3147870">刺影传奇</a>
+        <span class="w110 c-org">14:00</span>
+        <span class="w80">2686</span>
+        <span class="w85"><a class="btn" href="http://kf.juxia.com/app/jump.php?id=3147870">进入游戏</a></span>
+    </dd><dd>
+        <a class="w80" href="http://kf.juxia.com/app/jump.php?id=3157416">神仙道</a>
+        <span class="w110 c-org">13:00</span>
+        <span class="w80">6688wan</span>
+        <span class="w85"><a class="btn" href="http://kf.juxia.com/app/jump.php?id=3157416">进入游戏</a></span>
+    </dd><dd>
+        <a class="w80" href="http://kf.juxia.com/app/jump.php?id=3157542">热血三国3</a>
+        <span class="w110 c-org">13:00</span>
+        <span class="w80">miniuu</span>
+        <span class="w85"><a class="btn" href="http://kf.juxia.com/app/jump.php?id=3157542">进入游戏</a></span>
+    </dd><dd>
+        <a class="w80" href="http://kf.juxia.com/app/jump.php?id=3161435">烽鼎天下</a>
+        <span class="w110 c-org">12:00</span>
+        <span class="w80">k9网</span>
+        <span class="w85"><a class="btn" href="http://kf.juxia.com/app/jump.php?id=3161435">进入游戏</a></span>
+    </dd></dl><!-- new_games_list end -->
+<dl class="new_games_list" id="fktxt3" style="display:none">
+    <dt><span class="w80">游戏名称</span><span class="w110">开服时间</span><span class="w80">运营平台</span><span class="w85">开服备注</span></dt>
+    <dd>
+        <a class="w80" href="http://kf.juxia.com/app/jump.php?id=3162498">修天决</a>
+        <span class="w110 c-org">12:00</span>
+        <span class="w80">511wan</span>
+        <span class="w85"><a class="btn" href="http://kf.juxia.com/app/jump.php?id=3162498">进入游戏</a></span>
+    </dd><dd>
+        <a class="w80" href="http://kf.juxia.com/app/jump.php?id=3146341">街机三国</a>
+        <span class="w110 c-org">11:00</span>
+        <span class="w80">欢乐园</span>
+        <span class="w85"><a class="btn" href="http://kf.juxia.com/app/jump.php?id=3146341">进入游戏</a></span>
+    </dd><dd>
+        <a class="w80" href="http://kf.juxia.com/app/jump.php?id=3141635">独步天下</a>
+        <span class="w110 c-org">11:00</span>
+        <span class="w80">SNSyx</span>
+        <span class="w85"><a class="btn" href="http://kf.juxia.com/app/jump.php?id=3141635">进入游戏</a></span>
+    </dd><dd>
+        <a class="w80" href="http://kf.juxia.com/app/jump.php?id=3131518">三国魂</a>
+        <span class="w110 c-org">10:00</span>
+        <span class="w80">4299</span>
+        <span class="w85"><a class="btn" href="http://kf.juxia.com/app/jump.php?id=3131518">进入游戏</a></span>
+    </dd><dd>
+        <a class="w80" href="http://kf.juxia.com/app/jump.php?id=3114600">神途</a>
+        <span class="w110 c-org">10:00</span>
+        <span class="w80">8yeyou</span>
+        <span class="w85"><a class="btn" href="http://kf.juxia.com/app/jump.php?id=3114600">进入游戏</a></span>
+    </dd><dd>
+        <a class="w80" href="http://kf.juxia.com/app/jump.php?id=3113994">火影疾风坛</a>
+        <span class="w110 c-org">09:00</span>
+        <span class="w80">齐乐聚</span>
+        <span class="w85"><a class="btn" href="http://kf.juxia.com/app/jump.php?id=3113994">进入游戏</a></span>
+    </dd><dd>
+        <a class="w80" href="http://kf.juxia.com/app/jump.php?id=3135923">五鼠闹东京</a>
+        <span class="w110 c-org">09:00</span>
+        <span class="w80">360uu游戏</span>
+        <span class="w85"><a class="btn" href="http://kf.juxia.com/app/jump.php?id=3135923">进入游戏</a></span>
+    </dd><dd>
+        <a class="w80" href="http://kf.juxia.com/app/jump.php?id=3103440">帝王传</a>
+        <span class="w110 c-org">08:00</span>
+        <span class="w80">爱游乐</span>
+        <span class="w85"><a class="btn" href="http://kf.juxia.com/app/jump.php?id=3103440">进入游戏</a></span>
+    </dd><dd>
+        <a class="w80" href="http://kf.juxia.com/app/jump.php?id=3144888">萌神赵子龙</a>
+        <span class="w110 c-org">08:00</span>
+        <span class="w80">y261</span>
+        <span class="w85"><a class="btn" href="http://kf.juxia.com/app/jump.php?id=3144888">进入游戏</a></span>
+    </dd></dl><!-- new_games_list end -->
+                    
+                    <p class="taggle_btns"> <a href="javascript:;" target="_self" class="current" id="fk1" onMouseOver="subgame('fk','fktxt',1,3,0)"></a> <a href="javascript:;" target="_self" id="fk2" onMouseOver="subgame('fk','fktxt',2,3,0)"></a> <a href="javascript:;" target="_self" id="fk3" onMouseOver="subgame('fk','fktxt',3,3,0)"></a> </p>
+                </div>
+            </div>
+            <!--column_360 end-->
+        </div>
+    </div>
+    <div class="ad_1160"><script type="text/javascript">Juxia_A_D("index_center_01");</script></div>
+    <div class="main news">
+        <div class="block_headline news-title">
+            聚资讯
+        </div>
+        <div class="wrap">
+            <div class="column_370">
+                <div class="l_headline">
+                    <span>游戏资讯</span><a href="http://www.juxia.com/news/" class="more" title="游戏资讯" rel="nofollow">更多<em class="ico-arr"></em></a><span class="xline"></span>
+                </div>
+                <ul class="news_list">
+                    <li><span class="date">03-25</span><a href="http://www.juxia.com/news/2017-3-25/240555.html">密道有惊喜 8090热血江湖传你敢战我就敢送</a></li><li><span class="date">03-25</span><a href="http://www.juxia.com/news/2017-3-25/240553.html">老铁你礼物没拿 哥们网《攻沙》每日福利送不停</a></li><li><span class="date">03-25</span><a href="http://www.juxia.com/news/2017-3-25/240552.html">这是我的大怪物!哥们网《攻沙》个人BOSS玩法曝光</a></li><li><span class="date">03-25</span><a href="http://www.juxia.com/news/2017-3-25/240550.html">奥比岛03.24-03.30活动汇总</a></li><li><span class="date">03-25</span><a href="http://www.juxia.com/news/2017-3-25/240549.html">阿尔法狗的胜利?4399《疯狂的子弹》人机大战火爆来袭</a></li>                </ul>
+                <div class="l_headline">
+                    <span>新游动态</span><a href="http://www.juxia.com/news/action/" class="more" title="新游动态" rel="nofollow">更多<em class="ico-arr"></em></a><span class="xline"></span>
+                </div>
+                <ul class="news_list">
+                    <li><span class="date">03-24</span><a href="http://www.juxia.com/news/2017-3-24/240513.html">再创传奇巅峰 8090《刀枪剑传奇》首测与你不见不散</a></li><li><span class="date">03-24</span><a href="http://www.juxia.com/news/2017-3-24/240506.html">玩策略打国战?360uu《大唐盛世》今日首服与你相约</a></li><li><span class="date">03-24</span><a href="http://www.juxia.com/news/2017-3-24/240484.html">红警网页版 战争策略页游《钢铁苍穹》使命封测</a></li><li><span class="date">03-23</span><a href="http://www.juxia.com/news/2017-3-23/240431.html">怪物攻城热血屠龙 37《屠龙战记》今日耀世公测</a></li><li><span class="date">03-22</span><a href="http://www.juxia.com/news/2017-3-22/240335.html">不败战神vs白袍小将 好多三国激斗版3月22日震撼封测</a></li>                </ul>
+            </div>
+            <!-- column_370 end -->
+            <div class="column_370">
+                <div class="l_headline">
+                    <span>最新活动</span><a href="http://www.juxia.com/news/huodong/" class="more" title="最新活动" rel="nofollow">更多<em class="ico-arr"></em></a><span class="xline"></span>
+                </div>
+                <ul class="news_list">
+                    <li><span class="date">03-25</span><a href="http://www.juxia.com/news/2017-3-25/240565.html">生死狙击MP5风行者礼包怎么得    玩谍报危机免费获得</a></li><li><span class="date">03-24</span><a href="http://www.juxia.com/news/2017-3-24/240519.html">小花仙积分回馈·午后甜点</a></li><li><span class="date">03-24</span><a href="http://www.juxia.com/news/2017-3-24/240517.html">小花仙琉璃魔笛充值促销</a></li><li><span class="date">03-24</span><a href="http://www.juxia.com/news/2017-3-24/240515.html">小花仙春日温泉派对第二弹 桃花酒免费领</a></li><li><span class="date">03-23</span><a href="http://www.juxia.com/news/2017-3-23/240412.html">热血一周年 XY游戏《蓝月传奇》将迎全民狂欢</a></li>                </ul>
+                <div class="l_headline">
+                    <span>新游评测</span><a href="http://www.juxia.com/news/newgame/" class="more" title="新游评测" rel="nofollow">更多<em class="ico-arr"></em></a><span class="xline"></span>
+                </div>
+                <ul class="news_list">
+                    <li><span class="date">03-24</span><a href="http://www.juxia.com/news/2017-3-24/240495.html">2686《神魔传说》评测：最强福利 值得一玩</a></li><li><span class="date">03-23</span><a href="http://www.juxia.com/news/2017-3-23/240424.html">独战玄魔之路 独家评测4366《乾坤战纪》</a></li><li><span class="date">03-22</span><a href="http://www.juxia.com/news/2017-3-22/240370.html">开创武侠新巅峰 《新热血江湖》深度评测</a></li><li><span class="date">03-06</span><a href="http://www.juxia.com/news/2017-3-6/239008.html">新游1k2k《神魔传说》评测：最强福利VIP免费送</a></li><li><span class="date">02-22</span><a href="http://www.juxia.com/news/2017-2-22/238017.html">1k2k《乱舞无双》游戏评测：2D横版水墨动漫风格</a></li>                </ul>
+            </div>
+            <!-- column_370 end -->
+            <div class="column_360">
+                <div class="l_headline">
+                    <span>新游试玩</span><a href="http://www.juxia.com/news/try/" class="more" title="新游试玩" rel="nofollow">更多<em class="ico-arr"></em></a><span class="xline"></span>
+                </div>
+                <dl class="newgame_trial first clearfix">
+                        <dt><a href="http://www.juxia.com/news/2015-3-25/136932.html" title="热血跨服战 《莽荒纪》新版本3月25日上线"><img src="http://statics.juxia.com/uploadfile/special/2015/3/2015032510365199.png"></a></dt>
+                        <dd>
+                            <p class="intro">热血跨服战 《莽荒纪》新版本3月25日上线</p>
+                            <p class="btns"><a class="btn" href="http://www.juxia.com/jxmhj/">进入游戏</a><a class="btn" href="http://www.juxia.com/ka/s_莽荒纪.html">领取礼包</a></p>
+                        </dd>
+                    </dl><dl class="newgame_trial first clearfix">
+                        <dt><a href="http://www.juxia.com/news/2014-11-13/130382.html" title="双十一狂欢不断 XY游戏《斩龙传奇》烟花节装点恋爱季"><img src="http://statics.juxia.com/uploadfile/special/2014/11/2014111310140019.jpg"></a></dt>
+                        <dd>
+                            <p class="intro">双十一狂欢不断 XY游戏《斩龙传奇》烟花节装点恋爱季</p>
+                            <p class="btns"><a class="btn" href="http://www.juxia.com/webgame/zhanlongchuanqi/">进入游戏</a><a class="btn" href="http://www.juxia.com/ka/s_斩龙传奇.html">领取礼包</a></p>
+                        </dd>
+                    </dl><dl class="newgame_trial first clearfix">
+                        <dt><a href="http://www.juxia.com/news/2014-11-12/130309.html" title="哥们网《格斗江湖》四大顶级玩法预热内测"><img src="http://statics.juxia.com/uploadfile/special/2014/11/2014111210394435.jpg"></a></dt>
+                        <dd>
+                            <p class="intro">哥们网《格斗江湖》四大顶级玩法预热内测</p>
+                            <p class="btns"><a class="btn" href="http://www.juxia.com/webgame/gedoujianghu/">进入游戏</a><a class="btn" href="http://www.juxia.com/ka/s_格斗江湖.html">领取礼包</a></p>
+                        </dd>
+                    </dl>            </div>
+            <!-- column_360 end-->
+        </div>
+        <!-- wrap end -->
+    </div>
+    <div class="ibox1200">
+        <div class="gg_wrap">
+            <ul class="gg_list">
+                <li>
+                        <div class="min-box">
+                            <a href="http://web.7k7k.com/games/rxcq/83312/83312-33323.html"><img src="http://statics.juxia.com/uploadfile/admin/2017/3/2017032209283295.jpg" /></a>
+                        </div>
+                        <div class="big-box">
+                            <a href="http://web.7k7k.com/games/rxcq/83312/83312-33323.html"><img src="http://statics.juxia.com/uploadfile/admin/2017/3/2017032209295176.jpg" /></a>
+                        </div>
+                    </li><li>
+                        <div class="min-box">
+                            <a href="http://p.zjhx520.com/s/1/187/11858.html?uid=705789&"><img src="http://statics.juxia.com/uploadfile/admin/2017/3/2017031311105589.jpg" /></a>
+                        </div>
+                        <div class="big-box">
+                            <a href="http://p.zjhx520.com/s/1/187/11858.html?uid=705789&"><img src="http://statics.juxia.com/uploadfile/admin/2017/3/2017031311110497.jpg" /></a>
+                        </div>
+                    </li><li>
+                        <div class="min-box">
+                            <a href="http://g.fim34s.com/s/1/683/15984.html?uid=519123"><img src="http://statics.juxia.com/uploadfile/admin/2017/3/2017031311112086.jpg" /></a>
+                        </div>
+                        <div class="big-box">
+                            <a href="http://g.fim34s.com/s/1/683/15984.html?uid=519123"><img src="http://statics.juxia.com/uploadfile/admin/2017/3/201703131111266.jpg" /></a>
+                        </div>
+                    </li><li>
+                        <div class="min-box">
+                            <a href="http://xiyouhope.com/hb/2064/0/16374/1.html?from=jxjz_0"><img src="http://statics.juxia.com/uploadfile/admin/2017/3/2017031311114383.jpg" /></a>
+                        </div>
+                        <div class="big-box">
+                            <a href="http://xiyouhope.com/hb/2064/0/16374/1.html?from=jxjz_0"><img src="http://statics.juxia.com/uploadfile/admin/2017/3/201703131111482.jpg" /></a>
+                        </div>
+                    </li>            </ul>
+        </div>
+    </div>
+    <div class="main spec_area" style="background:url(http://statics.juxia.com/uploadfile/admin/2017/3/2017032014162288.jpg);">
+        <div class="main_area">
+            <span class="area_logo" style="background:url(http://statics.juxia.com) center no-repeat;"></span>
+            <div class="btns">
+                <a class="btn_org" href="http://www.juxia.com/jxdtszj/">进入专区</a><a class="btn_red" href="http://www.juxia.com/ka/s_37%E3%80%8A%E5%A4%A7%E5%A4%A9%E4%BD%BF%E4%B9%8B%E5%89%91%E3%80%8B.html">领取礼包</a><a href="javascript:;" onClick="window.open('http://www.juxia.com/goyx.html')" rel="nofollow" target="_self" class="btn_green">开始游戏</a>
+            </div>
+            <div class="column_370 plist">
+                <dl class="clearfix">
+                        <dt><a href="http://www.juxia.com/jxdtszj/239270.html"><img src="http://statics.juxia.com/uploadfile/admin/2017/3/2017032014243639.jpg"></a></dt>
+                        <dd> <a href="http://www.juxia.com/jxdtszj/239270.html" class="title">大天使之剑新区霸服攻略</a>
+                            <p>大天使之剑新区怎样霸服？下面小编就为大家分享下游戏中新区霸服的技巧。</p>
+                        </dd>
+                    </dl><dl class="clearfix">
+                        <dt><a href="http://www.juxia.com/jxdtszj/120604.html"><img src="http://statics.juxia.com/uploadfile/admin/2017/3/201703201426203.jpg"></a></dt>
+                        <dd> <a href="http://www.juxia.com/jxdtszj/120604.html" class="title">大天使之剑法师加点推荐</a>
+                            <p>大天使之剑法师职业的加点，法师职业的加点方案一共有两套，第一种全智，智力属性在大天使之剑中影响玩家的魔法攻击以及魔法值</p>
+                        </dd>
+                    </dl><dl class="clearfix">
+                        <dt><a href="http://www.juxia.com/jxdtszj/155611_1.html"><img src="http://statics.juxia.com/uploadfile/admin/2017/3/2017032014282746.jpg"></a></dt>
+                        <dd> <a href="http://www.juxia.com/jxdtszj/155611_1.html" class="title">大天使之剑圣导师平民玩家加点攻略</a>
+                            <p>大天使之剑圣导师应该怎么玩呢?大天使之剑圣导师应该怎么加点呢?下面小编为大家带来适合平民玩家的圣导师加点和洗点攻略。</p>
+                        </dd>
+                    </dl>            </div>
+            <!-- column_370 end -->
+            <div class="column_370">
+                <ul class="tlist">
+                    <li><a href="http://www.juxia.com/news/2017-3-21/240252.html">大天使之剑各职业加点方法大全</a></li><li><a href="http://www.juxia.com/news/2017-3-21/240248.html">大天使之剑装备强化14数据</a></li><li><a href="http://www.juxia.com/news/2017-3-21/240234.html">新玩法揭秘 37《大天使之剑》军团副本激情开启</a></li><li><a href="http://www.juxia.com/news/2017-3-17/240006.html">8090《大天使之剑》属性卓越才带劲</a></li><li><a href="http://www.juxia.com/news/2017-3-17/239996.html">8090《大天使之剑》战队打造 争夺pvp大满贯</a></li><li><a href="http://www.juxia.com/news/2017-3-16/239835.html">8090《大天使之剑》连斩够激情 快来杀一下</a></li><li><a href="http://www.juxia.com/news/2017-3-15/239722.html">8090《大天使之剑》奔跑吧坐骑</a></li><li><a href="http://www.juxia.com/news/2017-3-14/239635.html">8090《大天使之剑》玩转珍宝阁</a></li><li><a href="http://www.juxia.com/news/2017-3-13/239534.html">大天使之剑在哪挂机刷锤子最快？刷锤子攻略</a></li><li><a href="http://www.juxia.com/news/2017-3-13/239492.html">激战来袭 8090《大天使之剑》给你全新的魔法世界</a></li><li><a href="http://www.juxia.com/news/2017-3-10/239377.html">8090《大天使之剑》全方位改造 打造王者新战力</a></li>                </ul>
+            </div>
+            <!-- column_370 end -->
+            <div class="column_362">
+                <div class="pshow swiper-container" id="specPicShow">
+                    <ul class="swiper-wrapper">
+                        <li class="swiper-slide"> <a href="http://www.juxia.com/jxdtszj/235678_1.html"><img src="http://statics.juxia.com/uploadfile/admin/2017/3/201703201438575.jpg"><span class="title">全民福利迎新春 37《大天使之剑》新年版本首曝</span></a> </li><li class="swiper-slide"> <a href="http://www.juxia.com/news/2017-2-17/237574.html"><img src="http://statics.juxia.com/uploadfile/admin/2017/3/2017032014412312.jpg"><span class="title">37《大天使之剑》战队系统热血开启</span></a> </li><li class="swiper-slide"> <a href="http://www.juxia.com/jxdtszj/240234.html"><img src="http://statics.juxia.com/uploadfile/admin/2017/3/2017032215403946.jpg"><span class="title">《大天使之剑》军团副本激情开启</span></a> </li>                    </ul>
+                    <div class="nav">
+                    </div>
+                </div>
+                <div class="tags">
+                    <a class="c1" href="http://www.juxia.com/jxdtszj/224105.html">守卫大陆</a>                    <a class="c2" href="http://www.juxia.com/jxdtszj/232188.html">灵宠获取</a>                    <a class="c3" href="http://www.juxia.com/jxdtszj/216260.html">仙踪林副本</a>                    <a class="c4" href="http://www.juxia.com/jxdtszj/206819.html">格斗大师加点</a>                    <a class="c1" href="http://www.juxia.com/jxdtszj/189183.html">佣兵获取</a>                    <a class="c2" href="http://www.juxia.com/jxdtszj/188853.html">无罪乐园</a>                    <a class="c1" href="http://www.juxia.com/jxdtszj/174646.html">战力提升</a>                    <a class="c2" href="http://www.juxia.com/jxdtszj/210878.html">钻石获取</a>                    <a class="c4" href="http://www.juxia.com/jxdtszj/174646.html">坐骑装备获取</a>                </div>
+            </div>
+            <!-- column_362 end-->
+        </div>
+        <!-- main_area end -->
+    </div>
+    <!-- spec_area end -->
+    <div class="main ju_game">
+        <div class="block_headline game-title">
+            聚游戏
+        </div>
+        <div class="wrap">
+            <div class="column_745">
+                <div class="l_headline">
+                    <span>火爆专区</span><a href="http://www.juxia.com/webgame/list.html" class="more" title="火爆专区" rel="nofollow">更多<em class="ico-arr"></em></a><span class="xline"></span>
+                </div>
+                <ul class="ju_tab_title">
+                    <li class="current" id="jutab1" onMouseOver="subgame('jutab','jutabbox',1,8,0)">少年群侠传</li>
+                    <li  id="jutab2" onMouseOver="subgame('jutab','jutabbox',2,8,0)">梁山传奇</li>
+                    <li  id="jutab3" onMouseOver="subgame('jutab','jutabbox',3,8,0)">完美红颜</li>
+                    <li  id="jutab4" onMouseOver="subgame('jutab','jutabbox',4,8,0)">蓝月传奇</li>
+                    <li  id="jutab5" onMouseOver="subgame('jutab','jutabbox',5,8,0)">魔法王座</li>
+                    <li  id="jutab6" onMouseOver="subgame('jutab','jutabbox',6,8,0)">青云志</li>
+                    <li  id="jutab7" onMouseOver="subgame('jutab','jutabbox',7,8,0)">传奇霸业</li>
+                    <li  id="jutab8" onMouseOver="subgame('jutab','jutabbox',8,8,0)">范伟打天下</li>
+                </ul>
+                <div class="jutab_wrap">
+                    <div class="jutabbox" id="jutabbox1">
+                        <div class="banner">
+                            <img src="http://statics.juxia.com/uploadfile/admin/2017/3/2017031310505799.jpg"> <a class="left_btn" href="javascript:;" onClick="window.open('http://p.zjhx520.com/s/1/187/11858.html?uid=705789&')" rel="nofollow" target="_self">开始游戏</a> <a class="right_btn" href="http://www.juxia.com/webgame/snqxzjx/">进入专区</a>
+                        </div>
+                        <p class="tags"> <a class="ml0" href="http://www.juxia.com/news/2016-12-21/231092.html">大富豪转盘</a> <a href="http://www.juxia.com/news/2016-12-16/230647.html">天降元宝</a> <a href="http://www.juxia.com/news/2016-11-26/227831.html">双倍护美</a> <a href="http://www.juxia.com/news/2016-11-24/227332.html">问鼎之战</a> <a href="http://www.juxia.com/news/2016-12-20/231072.html">科举考试</a> <a href="http://www.juxia.com/news/2016-11-28/228069.html">单人副本</a> <a class="ml0" href="http://www.juxia.com/news/2016-11-28/228071.html">多人副本</a> <a href="http://www.juxia.com/news/2016-11-26/227749.html">VIP副本</a> <a href="http://www.juxia.com/news/2017-1-18/234642.html">夫妻副本</a> <a href="http://www.juxia.com/news/2017-1-12/233946.html">约会杨洋</a> <a href="http://www.juxia.com/news/2017-1-9/233531.html">灵宠幻境</a> <a href="http://www.juxia.com/news/2017-1-22/235304.html">藏经塔</a> </p>
+                        <dl>
+                            <dt> <a href="http://www.juxia.com/news/2017-1-18/234640.html"><img src="http://statics.juxia.com/uploadfile/admin/2017/2/2017021109550262.jpg"><span>少年群侠传结婚系统怎么玩 少年群侠传结婚系统玩法详解</span></a> <a href="http://www.juxia.com/news/2017-1-12/233989.html"><img src="http://statics.juxia.com/uploadfile/admin/2017/2/2017021109555443.jpg"><span>少年群侠传小R玩家怎么玩 少年群侠传小R玩家玩法心得</span></a> </dt>
+                            <dd><a href="http://www.juxia.com/news/2017-3-16/239843.html">少年群侠传vip充到几级最划算</a></dd><dd><a href="http://www.juxia.com/news/2017-3-16/239839.html">少年群侠传VIP等级数据 少年群侠传VIP价格表一览</a></dd><dd><a href="http://www.juxia.com/news/2017-3-15/239749.html">少年群侠传单人副本论剑台119关打法心得</a></dd><dd><a href="http://www.juxia.com/news/2017-3-13/239556.html">少年群侠传勋章进阶数据汇总1-10最新</a></dd><dd><a href="http://www.juxia.com/news/2017-3-13/239554.html">少年群侠传侍宠开启条件</a></dd><dd><a href="http://www.juxia.com/news/2017-3-13/239535.html">少年群侠传帮会boss数据</a></dd>                        </dl>
+                    </div>
+                    <!-- jutabbox end -->
+                    <div class="jutabbox" id="jutabbox2" style="display:none">
+                        <div class="banner">
+                            <img src="http://statics.juxia.com/uploadfile/admin/2017/3/201703220946262.jpg"> <a class="left_btn" href="javascript:;" onClick="window.open('http://web.7k7k.com/games/rxcq/83312/83312-33323.html')" rel="nofollow" target="_self">开始游戏</a> <a class="right_btn" href="http://www.juxia.com/webgame/lscqjx/">进入专区</a>
+                        </div>
+                        <p class="tags"> <a class="ml0" href="http://www.juxia.com/news/2017-3-2/238675.html">神威狱</a> <a href="http://www.juxia.com/news/2017-3-2/238665.html">守卫城主</a> <a href="http://www.juxia.com/news/2017-3-2/238668.html">尸王大殿</a> <a href="http://www.juxia.com/news/2017-3-1/238637.html">多人副本</a> <a href="http://www.juxia.com/news/2017-3-10/239368.html">爆破先锋</a> <a href="http://www.juxia.com/news/2017-3-10/239365.html">传奇跑酷</a> <a class="ml0" href="http://www.juxia.com/news/2017-3-2/238657.html">材料副本</a> <a href="http://www.juxia.com/news/2017-3-10/239389.html">石墓烧猪</a> <a href="http://www.juxia.com/news/2017-3-10/239373.html">比奇矿区</a> <a href="http://www.juxia.com/news/2017-3-10/239396.html">沙城争霸</a> <a href="http://www.juxia.com/news/2017-3-11/239443.html">智取生辰纲</a> <a href="http://www.juxia.com/news/2017-3-11/239446.html">王者秘境</a> </p>
+                        <dl>
+                            <dt> <a href="http://www.juxia.com/news/2017-3-11/239451.html"><img src="http://statics.juxia.com/uploadfile/admin/2017/3/2017032209540816.jpg"><span>梁山传奇羽毛怎样快速获取？羽毛获取攻略</span></a> <a href="http://www.juxia.com/news/2017-3-10/239389.html"><img src="http://statics.juxia.com/uploadfile/admin/2017/3/2017032209554680.jpg"><span>梁山传奇石墓烧猪怎么玩？石墓烧猪攻略</span></a> </dt>
+                            <dd><a href="http://www.juxia.com/news/2017-3-16/239865.html">梁山传奇不忘初心礼包来袭 梁山传奇不忘初心礼包怎么领？</a></dd><dd><a href="http://www.juxia.com/news/2017-3-15/239756.html">梁山传奇修为怎么获得？梁山传奇修为获取方法</a></dd><dd><a href="http://www.juxia.com/news/2017-3-11/239458.html">梁山传奇超级聚魂珠怎样获取？超级聚魂珠获取攻略</a></dd><dd><a href="http://www.juxia.com/news/2017-3-11/239456.html">梁山传奇野外BOSS在哪刷新？野外BOSS刷新坐标</a></dd><dd><a href="http://www.juxia.com/news/2017-3-11/239453.html">梁山传奇特权卡要多少钱有哪些特权？特权卡详解</a></dd><dd><a href="http://www.juxia.com/news/2017-3-11/239451.html">梁山传奇羽毛怎样快速获取？羽毛获取攻略</a></dd>                        </dl>
+                    </div>
+                    <!-- jutabbox end -->
+                    <div class="jutabbox" id="jutabbox3" style="display:none">
+                        <div class="banner">
+                            <img src="http://statics.juxia.com/uploadfile/admin/2017/3/2017031311391353.jpg"> <a class="left_btn" href="javascript:;" onClick="window.open('http://xiyouhope.com/hb/2064/0/16374/1.html?from=jxjz_0')" rel="nofollow" target="_self">开始游戏</a> <a class="right_btn" href="http://www.juxia.com/webgame/wmhyjx/">进入专区</a>
+                        </div>
+                        <p class="tags"> <a class="ml0" href="http://www.juxia.com/news/2016-11-9/224196.html">试炼秘境</a> <a href="http://www.juxia.com/news/2016-12-22/231390.html">护送镖车</a> <a href="http://www.juxia.com/news/2016-11-9/224200.html">大唐奇遇</a> <a href="http://www.juxia.com/news/2017-1-6/233092.html">神级套装获取</a> <a href="http://www.juxia.com/news/2016-11-10/224525.html">大唐寻宝记</a> <a href="http://www.juxia.com/news/2016-12-17/230689.html">黄金令牌获取</a> <a class="ml0" href="http://www.juxia.com/news/2016-11-14/225293.html">资源副本</a> <a href="http://www.juxia.com/news/2016-12-9/229775.html">法宝合成技巧</a> <a href="http://www.juxia.com/news/2016-11-24/227277.html">宝塔秘境</a> <a href="http://www.juxia.com/news/2016-12-9/229713.html">背景音乐</a> <a href="http://www.juxia.com/news/2016-11-26/227686.html">魔域地牢</a> <a href="http://www.juxia.com/news/2016-11-30/228293.html">提升战力</a> </p>
+                        <dl>
+                            <dt> <a href="http://www.juxia.com/news/2017-1-7/233284.html"><img src="http://statics.juxia.com/uploadfile/admin/2017/2/2017021110035843.jpg"><span>完美红颜怎么赚钱？完美红颜赚钱方法分享</span></a> <a href="http://www.juxia.com/news/2016-11-10/224506.html"><img src="http://statics.juxia.com/uploadfile/admin/2017/2/2017021110031583.jpg"><span>完美红颜新手玩家怎么玩厉害？攻略分享</span></a> </dt>
+                            <dd><a href="http://www.juxia.com/news/2017-3-24/240544.html">完美红颜小乔1升2数据</a></dd><dd><a href="http://www.juxia.com/news/2017-3-24/240543.html">完美红颜小乔2升3数据</a></dd><dd><a href="http://www.juxia.com/news/2017-3-24/240542.html">完美红颜小乔3升4数据</a></dd><dd><a href="http://www.juxia.com/news/2017-3-24/240541.html">完美红颜小乔4升5数据</a></dd><dd><a href="http://www.juxia.com/news/2017-3-24/240540.html">完美红颜小乔5升6数据</a></dd><dd><a href="http://www.juxia.com/news/2017-3-24/240534.html">完美红颜小乔6升7数据</a></dd>                        </dl>
+                    </div>
+                    <!-- jutabbox end -->
+                    <div class="jutabbox" id="jutabbox4" style="display:none">
+                        <div class="banner">
+                            <img src="http://statics.juxia.com/uploadfile/admin/2017/3/2017031311431896.jpg"> <a class="left_btn" href="javascript:;" onClick="window.open('http://er.code.twh5.com/htmlcode/3857.html')" rel="nofollow" target="_self">开始游戏</a> <a class="right_btn" href="http://www.juxia.com/webgame/lycqjx/">进入专区</a>
+                        </div>
+                        <p class="tags"> <a class="ml0" href="http://www.juxia.com/news/2016-6-1/196247.html">海天盛筵</a> <a href="http://www.juxia.com/news/2016-5-20/194069.html">通天阁</a> <a href="http://www.juxia.com/news/2016-6-1/196245.html">除魔任务</a> <a href="http://www.juxia.com/news/2016-5-28/195621.html">塔防副本</a> <a href="http://www.juxia.com/news/2016-5-30/195660.html">神威魔域</a> <a href="http://www.juxia.com/news/2016-5-24/194731.html">材料副本</a> <a class="ml0" href="http://www.juxia.com/news/2016-5-25/194889.html">比奇城寻宝</a> <a href="http://www.juxia.com/news/2016-12-20/230980.html">冰火战场</a> <a href="http://www.juxia.com/news/2016-5-30/195889.html">世界BOSS</a> <a href="http://www.juxia.com/news/2016-10-25/221138.html">玛法秘境</a> <a href="http://www.juxia.com/news/2016-5-24/194680.html">闯天关</a> <a href="http://www.juxia.com/news/2016-10-25/221039.html">暗影之厅</a> </p>
+                        <dl>
+                            <dt> <a href="http://www.juxia.com/news/2016-11-19/226453.html"><img src="http://statics.juxia.com/uploadfile/admin/2017/2/2017021110580088.jpg"><span>蓝月传奇英雄搭配道道厉害还是道战厉害？</span></a> <a href="http://www.juxia.com/news/2016-11-2/222686.html"><img src="http://statics.juxia.com/uploadfile/admin/2017/2/2017021110561033.jpg"><span>蓝月传奇PK怎样强制锁定？</span></a> </dt>
+                            <dd><a href="http://www.juxia.com/news/2017-3-25/240568.html">蓝月传奇神级技能书合成攻略</a></dd><dd><a href="http://www.juxia.com/news/2017-3-25/240569.html">蓝月传奇神皓月·蓝月神甲I属性介绍上</a></dd><dd><a href="http://www.juxia.com/news/2017-3-25/240570.html">蓝月传奇神皓月·蓝月神甲I属性介绍下</a></dd><dd><a href="http://www.juxia.com/news/2017-3-24/240512.html">《蓝月传奇》圣天龙·蓝月神甲I属性比较一览下篇</a></dd><dd><a href="http://www.juxia.com/news/2017-3-24/240511.html">《蓝月传奇》圣天龙·蓝月神甲I属性比较一览上篇</a></dd><dd><a href="http://www.juxia.com/news/2017-3-23/240416.html">《蓝月传奇》圣虎威·蓝月神甲I属性比较一览下篇</a></dd>                        </dl>
+                    </div>
+                    <!-- jutabbox end -->
+                    <div class="jutabbox" id="jutabbox5" style="display:none">
+                        <div class="banner">
+                            <img src="http://statics.juxia.com/uploadfile/admin/2017/3/2017031311453098.jpg"> <a class="left_btn" href="javascript:;" onClick="window.open('http://xiyouacbat.com/hb/2458/0/13609/1.html?from=jxmf_0')" rel="nofollow" target="_self">开始游戏</a> <a class="right_btn" href="http://www.juxia.com/webgame/mfwzjx/">进入专区</a>
+                        </div>
+                        <p class="tags"> <a class="ml0" href="http://www.juxia.com/news/2016-9-3/212475.html">竞技场</a> <a href="http://www.juxia.com/news/2016-10-11/218213.html">守卫雅典娜</a> <a href="http://www.juxia.com/news/2016-8-27/211174.html">据点争夺</a> <a href="http://www.juxia.com/news/2016-10-13/218673.html">封魔监狱</a> <a href="http://www.juxia.com/news/2016-8-27/211167.html">跨服争霸1V1</a> <a href="http://www.juxia.com/news/2016-12-15/230403.html">镜像副本</a> <a class="ml0" href="http://www.juxia.com/news/2016-8-26/211030.html">神魔争霸</a> <a href="http://www.juxia.com/news/2016-12-28/231962.html">跨服边境</a> <a href="http://www.juxia.com/news/2016-9-10/213491.html">恶魔深渊</a> <a href="http://www.juxia.com/news/2017-1-4/232724.html">天帝宝库</a> <a href="http://www.juxia.com/news/2016-9-3/212510.html">秘境探宝</a> <a href="http://www.juxia.com/news/2017-1-25/235659.html">公会晚宴</a> </p>
+                        <dl>
+                            <dt> <a href="http://www.juxia.com/news/2016-11-5/223422.html"><img src="http://statics.juxia.com/uploadfile/admin/2017/2/2017021111455182.jpg"><span>魔法王座圣兽带什么技能厉害？</span></a> <a href="http://www.juxia.com/news/2016-10-31/222197.html"><img src="http://statics.juxia.com/uploadfile/admin/2017/2/2017021111463282.jpg"><span>魔法王座坐骑几阶时点骑兽符文最佳？</span></a> </dt>
+                            <dd><a href="http://www.juxia.com/news/2017-3-25/240563.html">魔法王座新手怎么玩厉害？新手速升技巧</a></dd><dd><a href="http://www.juxia.com/news/2017-3-25/240562.html">魔法王座怎么玩厉害？15条实用技巧分享</a></dd><dd><a href="http://www.juxia.com/news/2017-3-25/240561.html">魔法王座定时活动怎么玩？定时活动攻略</a></dd><dd><a href="http://www.juxia.com/news/2017-3-25/240559.html">魔法王座非R怎样快速提升等级？等级速升技巧分享</a></dd><dd><a href="http://www.juxia.com/news/2017-3-25/240556.html">魔法王座幽暗峡谷速刷技巧分享</a></dd><dd><a href="http://www.juxia.com/news/2017-3-24/240478.html">魔法王座怎么玩厉害？13大快速提升技巧分享</a></dd>                        </dl>
+                    </div>
+                    <!-- jutabbox end -->
+                    <div class="jutabbox" id="jutabbox6" style="display:none">
+                        <div class="banner">
+                            <img src="http://statics.juxia.com/uploadfile/admin/2017/3/201703131148408.jpg"> <a class="left_btn" href="javascript:;" onClick="window.open('http://t.tupian8.cn/tg/agqyz5/acqyz5/zhuanqu/juxia-qyz-fl/')" rel="nofollow" target="_self">开始游戏</a> <a class="right_btn" href="http://www.juxia.com/webgame/qyzjx/">进入专区</a>
+                        </div>
+                        <p class="tags"> <a class="ml0" href="http://www.juxia.com/news/2016-7-27/205381.html">青云秘境</a> <a href="http://www.juxia.com/news/2016-8-11/208387.html">经验副本</a> <a href="http://www.juxia.com/news/2016-10-22/220569.html">资源副本</a> <a href="http://www.juxia.com/news/2016-8-9/208077.html">世界boss</a> <a href="http://www.juxia.com/news/2016-8-4/207196.html">趣味灯谜</a> <a href="http://www.juxia.com/news/2016-8-24/210674.html">玲珑水阁</a> <a class="ml0" href="http://www.juxia.com/news/2016-7-27/205369.html">天奕战场</a> <a href="http://www.juxia.com/news/2016-9-3/212407.html">护送佳人</a> <a href="http://www.juxia.com/news/2016-7-23/204892.html">欢乐探宝</a> <a href="http://www.juxia.com/news/2016-9-6/212718.html">绑元副本</a> <a href="http://www.juxia.com/news/2016-8-11/208390.html">进阶副本</a> <a href="http://www.juxia.com/news/2016-9-6/212712.html">伙伴副本</a> </p>
+                        <dl>
+                            <dt> <a href="http://www.juxia.com/news/2016-10-27/221537.html"><img src="http://statics.juxia.com/uploadfile/admin/2017/2/2017021113581030.jpg"><span>青云志装备怎么融合?装备融合玩法</span></a> <a href="http://www.juxia.com/news/2016-10-22/220587.html"><img src="http://statics.juxia.com/uploadfile/admin/2017/2/201702111358243.jpg"><span>青云志如何结义?结义流程介绍</span></a> </dt>
+                            <dd><a href="http://www.juxia.com/news/2016-12-17/230749.html">青云志天命仙法怎么玩</a></dd><dd><a href="http://www.juxia.com/news/2016-12-17/230729.html">青云志灵盾如何转生?灵盾转生介绍</a></dd><dd><a href="http://www.juxia.com/news/2016-12-17/230728.html">青云志法宝如何转生 法宝转生介绍</a></dd><dd><a href="http://www.juxia.com/news/2016-12-16/230556.html">青云志定制称号怎么获得</a></dd><dd><a href="http://www.juxia.com/news/2016-12-16/230552.html">青云志诛仙戮魔玩法攻略</a></dd><dd><a href="http://www.juxia.com/news/2016-12-6/229322.html">青云志挑战青云秘境技巧分享</a></dd>                        </dl>
+                    </div>
+                    <!-- jutabbox end -->
+                    <div class="jutabbox" id="jutabbox7" style="display:none">
+                        <div class="banner">
+                            <img src="http://statics.juxia.com/uploadfile/admin/2017/3/2017031311511346.jpg"> <a class="left_btn" href="javascript:;" onClick="window.open('http://p.jf9p.com/s/1/187/18193.html?uid=719021&')" rel="nofollow" target="_self">开始游戏</a> <a class="right_btn" href="http://www.juxia.com/jxcqby/">进入专区</a>
+                        </div>
+                        <p class="tags"> <a class="ml0" href="http://www.juxia.com/jxcqby/230819.html">升龙殿</a> <a href="http://www.juxia.com/jxcqby/219325.html">神魔副本</a> <a href="http://www.juxia.com/jxcqby/223179.html">谁与争锋</a> <a href="http://www.juxia.com/jxcqby/219322.html">天空神殿</a> <a href="http://www.juxia.com/jxcqby/223168.html">元宝嘉年华</a> <a href="http://www.juxia.com/jxcqby/212160.html">夺宝奇兵</a> <a class="ml0" href="http://www.juxia.com/jxcqby/223149.html">神威狱</a> <a href="http://www.juxia.com/jxcqby/212869.html">王城危机</a> <a href="http://www.juxia.com/jxcqby/222121.html">蒙面争霸</a> <a href="http://www.juxia.com/jxcqby/207194.html">夜战比奇</a> <a href="http://www.juxia.com/jxcqby/219336.html">转生神殿</a> <a href="http://www.juxia.com/jxcqby/203802.html">炼狱魔宫</a> </p>
+                        <dl>
+                            <dt> <a href="http://www.juxia.com/jxcqby/230809.html"><img src="http://statics.juxia.com/uploadfile/admin/2017/2/2017021114150789.jpg"><span>传奇霸业冰灵龙皇怎么打？冰灵龙皇打法攻略</span></a> <a href="http://www.juxia.com/jxcqby/224483.html"><img src="http://statics.juxia.com/uploadfile/admin/2017/2/2017021114151673.jpg"><span>传奇霸业转生武器哪里爆 去哪刷转生武器</span></a> </dt>
+                            <dd><a href="http://www.juxia.com/news/2017-3-18/240065.html">传奇霸业礼包汇总 传奇霸业有哪些礼包？</a></dd><dd><a href="http://www.juxia.com/news/2017-3-16/239849.html">传奇霸业老司机称号怎么免费获得？传奇霸业老司机称号获得方法</a></dd><dd><a href="http://www.juxia.com/news/2017-3-7/239089.html">传奇霸业死了之后时装会不会掉落</a></dd><dd><a href="http://www.juxia.com/news/2017-3-7/239074.html">传奇霸业龙纹锦袍怎么获得</a></dd><dd><a href="http://www.juxia.com/news/2017-3-4/238881.html">传奇霸业经验炼制攻略 经验炼制怎么玩</a></dd><dd><a href="http://www.juxia.com/news/2017-3-2/238690.html">传奇霸业每日任务正确做法</a></dd>                        </dl>
+                    </div>
+                    <!-- jutabbox end -->
+                    <div class="jutabbox" id="jutabbox8" style="display:none">
+                        <div class="banner">
+                            <img src="http://statics.juxia.com/uploadfile/admin/2017/3/2017031313180658.jpg"> <a class="left_btn" href="javascript:;" onClick="window.open('http://t.tupian8.cn/tg/agdtx5/acdtx5/zhuanqu/juxia-dtx-fl/')" rel="nofollow" target="_self">开始游戏</a> <a class="right_btn" href="http://www.juxia.com/webgame/fwdtxjx/">进入专区</a>
+                        </div>
+                        <p class="tags"> <a class="ml0" href="http://www.juxia.com/news/2016-9-2/212213.html">练级塔</a> <a href="http://www.juxia.com/news/2016-9-2/212217.html">大海战</a> <a href="http://www.juxia.com/news/2016-9-2/212223.html">科举活动</a> <a href="http://www.juxia.com/news/2016-9-2/212226.html">材料副本</a> <a href="http://www.juxia.com/news/2017-2-8/236790.html">秘境夺宝</a> <a href="http://www.juxia.com/news/2017-1-23/235503.html">现金玩法</a> <a class="ml0" href="http://www.juxia.com/news/2017-1-22/235261.html">攻城掠地</a> <a href="http://www.juxia.com/news/2017-1-19/234927.html">跑腿任务</a> <a href="http://www.juxia.com/news/2017-1-18/234791.html">黄金大战场</a> <a href="http://www.juxia.com/news/2017-1-10/233715.html">逐鹿中原</a> <a href="http://www.juxia.com/news/2017-1-4/232763.html">海岛争夺战</a> <a href="http://www.juxia.com/news/2017-1-3/232699.html">跨服竞技</a> </p>
+                        <dl>
+                            <dt> <a href="http://www.juxia.com/news/2016-10-19/219952.html"><img src="http://statics.juxia.com/uploadfile/admin/2017/2/2017021110450731.jpg"><span>范伟打天下绑元和元宝可以互相兑换吗？</span></a> <a href="http://www.juxia.com/news/2016-10-20/220081.html"><img src="http://statics.juxia.com/uploadfile/admin/2017/2/2017021110440854.jpg"><span>范伟打天下打boss什么职业厉害？</span></a> </dt>
+                            <dd><a href="http://www.juxia.com/news/2017-3-23/240446.html">高玩间的较量 《范伟打天下》角色装备洗练攻略</a></dd><dd><a href="http://www.juxia.com/news/2017-3-20/240142.html">门徒属性提升一大招 《范伟打天下》家族祭坛攻略</a></dd><dd><a href="http://www.juxia.com/news/2017-3-17/240009.html">范伟打天下门派五行攻略 门派五行秘诀是什么</a></dd><dd><a href="http://www.juxia.com/news/2017-3-16/239884.html">范伟打天下金身玩法攻略 金身怎么玩</a></dd><dd><a href="http://www.juxia.com/news/2017-3-16/239883.html">范伟打天下征战天下玩法攻略 征战天下怎么玩</a></dd><dd><a href="http://www.juxia.com/news/2017-3-16/239880.html">范伟打天下时段活动攻略 时段活动有哪些</a></dd>                        </dl>
+                    </div>
+                    <!-- jutabbox end -->
+                </div>
+            </div>
+            <div class="column_385">
+                <div class="l_headline">
+                    <span>游戏攻略</span><a href="http://www.juxia.com/news/exp/" class="more" title="游戏攻略" rel="nofollow">更多<em class="ico-arr"></em></a><span class="xline"></span>
+                </div>
+                <ul class="strategy_list">
+                    <li><a href="http://www.juxia.com/news/2017-3-25/240572.html"><span class="date">03-25</span>神鬼无双七擒孟获怎么玩？七情孟获攻略</a></li><li><a href="http://www.juxia.com/news/2017-3-25/240571.html"><span class="date">03-25</span>神鬼无双BOSS之家怎么玩？各类BOSS攻略大全</a></li><li><a href="http://www.juxia.com/news/2017-3-25/240570.html"><span class="date">03-25</span>蓝月传奇神皓月·蓝月神甲I属性介绍下</a></li><li><a href="http://www.juxia.com/news/2017-3-25/240569.html"><span class="date">03-25</span>蓝月传奇神皓月·蓝月神甲I属性介绍上</a></li><li><a href="http://www.juxia.com/news/2017-3-25/240568.html"><span class="date">03-25</span>蓝月传奇神级技能书合成攻略</a></li><li><a href="http://www.juxia.com/news/2017-3-25/240567.html"><span class="date">03-25</span>神鬼无双魔卡怎样获取？魔卡系统详解</a></li><li><a href="http://www.juxia.com/news/2017-3-25/240563.html"><span class="date">03-25</span>魔法王座新手怎么玩厉害？新手速升技巧</a></li><li><a href="http://www.juxia.com/news/2017-3-25/240562.html"><span class="date">03-25</span>魔法王座怎么玩厉害？15条实用技巧分享</a></li><li><a href="http://www.juxia.com/news/2017-3-25/240561.html"><span class="date">03-25</span>魔法王座定时活动怎么玩？定时活动攻略</a></li><li><a href="http://www.juxia.com/news/2017-3-25/240559.html"><span class="date">03-25</span>魔法王座非R怎样快速提升等级？等级速升技巧分享</a></li><li><a href="http://www.juxia.com/news/2017-3-25/240556.html"><span class="date">03-25</span>魔法王座幽暗峡谷速刷技巧分享</a></li><li><a href="http://www.juxia.com/news/2017-3-25/240557.html"><span class="date">03-25</span>奥奇传说永恒天星辰怎么打  奥奇传说永恒天星辰平民打法</a></li><li><a href="http://www.juxia.com/news/2017-3-25/240554.html"><span class="date">03-25</span>神仙劫170级等级礼包有什么？神仙劫170级等级礼包内容</a></li><li><a href="http://www.juxia.com/news/2017-3-25/240551.html"><span class="date">03-25</span>神仙劫VIP1-15最新最正确价格表分享</a></li>                </ul>
+            </div>
+        </div>
+        <!-- wrap end -->
+        <div class="wrap">
+            <div class="column_905">
+                <div class="l_headline">
+                    <span>热门游戏</span><a href="http://www.juxia.com/webgame/list.html" class="more" title="热门游戏" rel="nofollow">更多<em class="ico-arr"></em></a><span class="xline"></span>
+                </div>
+                <div class="in_box">
+                    <ul class="hot_list">
+                        <li> <a class="imgbox" href="http://www.juxia.com/redirect.html?http://er.code.twh5.com/htmlcode/3857.html"><img src="http://statics.juxia.com/uploadfile/admin/2017/3/2017031311051585.jpg"></a>
+                                <p class="a_btns"><a href="javascript:;" onClick="window.open('http://www.juxia.com/redirect.html?http://er.code.twh5.com/htmlcode/3857.html')" rel="nofollow" target="_self">开始游戏</a><a href="http://www.juxia.com/webgame/lycqjx/">进入专区</a></p>
+                                <p><a href="http://www.juxia.com/webgame/lycqjx/" class="title">蓝月传奇</a><span>角色扮演</span></p>
+                            </li><li> <a class="imgbox" href="http://www.juxia.com/redirect.html?http://t2.web.2217.com/?aid=a100757"><img src="http://statics.juxia.com/uploadfile/admin/2017/3/2017031311053637.jpg"></a>
+                                <p class="a_btns"><a href="javascript:;" onClick="window.open('http://www.juxia.com/redirect.html?http://t2.web.2217.com/?aid=a100757')" rel="nofollow" target="_self">开始游戏</a><a href="http://www.juxia.com/webgame/rycsjx/">进入专区</a></p>
+                                <p><a href="http://www.juxia.com/webgame/rycsjx/" class="title">人鱼传说</a><span>角色扮演</span></p>
+                            </li><li> <a class="imgbox" href="http://www.juxia.com/redirect.html?http://p.zjhx520.com/s/1/187/11858.html?uid=705789&"><img src="http://statics.juxia.com/uploadfile/admin/2017/3/2017031311054152.jpg"></a>
+                                <p class="a_btns"><a href="javascript:;" onClick="window.open('http://www.juxia.com/redirect.html?http://p.zjhx520.com/s/1/187/11858.html?uid=705789&')" rel="nofollow" target="_self">开始游戏</a><a href="http://www.juxia.com/webgame/snqxzjx/">进入专区</a></p>
+                                <p><a href="http://www.juxia.com/webgame/snqxzjx/" class="title">少年群侠传</a><span>角色扮演</span></p>
+                            </li><li> <a class="imgbox" href="http://www.juxia.com/redirect.html?http://g.fim34s.com/s/1/683/15984.html?uid=519123"><img src="http://statics.juxia.com/uploadfile/admin/2017/3/2017031311070981.jpg"></a>
+                                <p class="a_btns"><a href="javascript:;" onClick="window.open('http://www.juxia.com/redirect.html?http://g.fim34s.com/s/1/683/15984.html?uid=519123')" rel="nofollow" target="_self">开始游戏</a><a href="http://www.juxia.com/webgame/shenxianjie/">进入专区</a></p>
+                                <p><a href="http://www.juxia.com/webgame/shenxianjie/" class="title">神仙劫</a><span>角色扮演</span></p>
+                            </li><li> <a class="imgbox" href="http://www.juxia.com/redirect.html?http://p.jf9p.com/s/1/187/18193.html?uid=719021&"><img src="http://statics.juxia.com/uploadfile/admin/2017/3/2017031816330688.jpg"></a>
+                                <p class="a_btns"><a href="javascript:;" onClick="window.open('http://www.juxia.com/redirect.html?http://p.jf9p.com/s/1/187/18193.html?uid=719021&')" rel="nofollow" target="_self">开始游戏</a><a href="http://www.juxia.com/jxcqby/">进入专区</a></p>
+                                <p><a href="http://www.juxia.com/jxcqby/" class="title">传奇霸业</a><span>角色扮演</span></p>
+                            </li><li> <a class="imgbox" href="http://www.juxia.com/redirect.html?http://web.7k7k.com/games/tzyx/7890009/7890009-235554.html?k=1"><img src="http://statics.juxia.com/uploadfile/admin/2017/3/2017031311060017.jpg"></a>
+                                <p class="a_btns"><a href="javascript:;" onClick="window.open('http://www.juxia.com/redirect.html?http://web.7k7k.com/games/tzyx/7890009/7890009-235554.html?k=1')" rel="nofollow" target="_self">开始游戏</a><a href="http://www.juxia.com/webgame/tzyxjx/">进入专区</a></p>
+                                <p><a href="http://www.juxia.com/webgame/tzyxjx/" class="title">特战英雄</a><span>休闲竞技</span></p>
+                            </li>                    </ul>
+                </div>
+            </div>
+            <!-- column_905 end -->
+            <div class="column_225">
+                <div class="l_headline">
+                    <span>热游排行榜</span><a href="http://www.juxia.com/toplist/renqi/" class="more" title="热游排行榜" rel="nofollow">更多<em class="ico-arr"></em></a><span class="xline"></span>
+                </div>
+                <ul class="gametop_list">
+                    <li><em 
+                            class="num1"                            >1</em><a href="http://www.juxia.com/webgame/xuanwushidai/">炫舞时代</a><span>休闲竞技</span></li><li><em 
+                            class="num2"                            >2</em><a href="http://www.juxia.com/webgame/huoxianjingying/">火线精英</a><span>休闲竞技</span></li><li><em 
+                            class="num3"                            >3</em><a href="http://www.juxia.com/webgame/ssjj/">生死狙击</a><span>战争策略</span></li><li><em 
+                                                        >4</em><a href="http://www.juxia.com/webgame/shenxiandao/">神仙道</a><span>角色扮演</span></li><li><em 
+                                                        >5</em><a href="http://www.juxia.com/webgame/csbh/">创世兵魂</a><span>战争策略</span></li><li><em 
+                                                        >6</em><a href="http://www.juxia.com/webgame/ljxz/">六界仙尊</a><span>角色扮演</span></li><li><em 
+                                                        >7</em><a href="http://www.juxia.com/webgame/mzd/">梦之队</a><span>模拟经营</span></li><li><em 
+                                                        >8</em><a href="http://www.juxia.com/webgame/chengfangsanguo/">城防三国</a><span>角色扮演</span></li><li><em 
+                                                        >9</em><a href="http://www.juxia.com/webgame/huoyingyingxiong/">火影英雄</a><span>角色扮演</span></li><li><em 
+                                                        >10</em><a href="http://www.juxia.com/webgame/dandantang/">弹弹堂</a><span>休闲竞技</span></li>                </ul>
+            </div>
+            <!-- column_225 end -->
+        </div>
+        <!-- wrap end -->
+        <div class="wrap">
+            <div class="column_370">
+                <div class="l_headline">
+                    <span>平台新闻</span><a href="http://www.juxia.com/news/platform/" class="more" title="平台新闻" rel="nofollow">更多<em class="ico-arr"></em></a><span class="xline"></span>
+                </div>
+                <ul class="news_list">
+                    <li> <span class="date">03-24</span> <a class="red" href="http://www.juxia.com/news/2017-3-24/240548.html">麻椒直播黄鳝事件后续 谁才是最完美女主播？</a> </li>
+                            <li> <span class="date">03-24</span> <a class="red" href="http://www.juxia.com/news/2017-3-24/240545.html">《Lyingman》国际狼王争霸赛全新赛制携最萌女团暖场助威</a> </li>
+                                                        <li> <span class="date">03-24</span> <a href="http://www.juxia.com/news/2017-3-24/240537.html">万事俱备只欠东风 “全民点游”要实现APP的粉丝流量</a> </li>                            <li> <span class="date">03-24</span> <a href="http://www.juxia.com/news/2017-3-24/240524.html">忘语微博引发道友狂热，《凡人修仙传》仙界篇即将开启</a> </li>                            <li> <span class="date">03-24</span> <a href="http://www.juxia.com/news/2017-3-24/240500.html">37游戏联手广州公安举办交流会 严打网游外挂</a> </li>                </ul>
+                <div class="l_headline mt10">
+                    <span>业界新闻</span><a href="http://www.juxia.com/news/yejie/" class="more" title="业界新闻" rel="nofollow">更多<em class="ico-arr"></em></a><span class="xline"></span>
+                </div>
+                <ul class="news_list">
+                    <li> <span class="date">03-24</span> <a href="http://www.juxia.com/news/2017-3-24/240526.html">ChinaJoy十五年：从青涩懵懂，到名扬四海!</a> </li><li> <span class="date">03-24</span> <a href="http://www.juxia.com/news/2017-3-24/240525.html">是造福还是革命?浅谈发展之中的人工智能</a> </li><li> <span class="date">03-23</span> <a href="http://www.juxia.com/news/2017-3-23/240435.html">VR游戏大作尽在HTC Vive展区，2017eSmart等你现场“签到”!</a> </li><li> <span class="date">03-23</span> <a href="http://www.juxia.com/news/2017-3-23/240433.html">硬件铺路、内容聚焦，VR的交互时代即将来临!</a> </li><li> <span class="date">03-23</span> <a href="http://www.juxia.com/news/2017-3-23/240429.html">2016游戏“金鸡奖”颁发 广州创思斩获四项大奖</a> </li>                </ul>
+                <div class="l_headline mt10">
+                    <span>人物专访</span><a href="http://www.juxia.com/news/renwu/" class="more" title="人物专访" rel="nofollow">更多<em class="ico-arr"></em></a><span class="xline"></span>
+                </div>
+                <ul class="news_list">
+                    <li> <span class="date">03-21</span> <a href="http://www.juxia.com/news/2017-3-21/240270.html">《新热血江湖》主策专访 为你量身打造的武侠</a> </li><li> <span class="date">03-17</span> <a href="http://www.juxia.com/news/2017-3-17/240034.html">伦敦奥运花剑冠军雷声专访：热爱游戏 为电竞发声</a> </li><li> <span class="date">03-17</span> <a href="http://www.juxia.com/news/2017-3-17/240031.html">中国动漫集团副总经理孙浩专访：影视漫游联动 IP联动奠基千亿市场</a> </li><li> <span class="date">03-17</span> <a href="http://www.juxia.com/news/2017-3-17/240019.html">科大讯飞轮值总裁消费者BG总裁胡郁专访：打破行业规则 发力人工智能语音系统</a> </li><li> <span class="date">03-17</span> <a href="http://www.juxia.com/news/2017-3-17/239979.html">GMGC碳云智能覃璞专访：大数据+人工智能 数字生命改变未来生活</a> </li>                </ul>
+            </div>
+            <!-- column_370 end -->
+            <div class="column_370 ml30">
+                <div class="l_headline">
+                    <span>游戏问答</span><a href="http://www.juxia.com/news/help/" class="more" title="游戏问答" rel="nofollow">更多<em class="ico-arr"></em></a><span class="xline"></span>
+                </div>
+                <div class="ask_list">
+                    <dl class="ask_item clearfix">
+                            <dt><a href="http://www.juxia.com/news/2017-3-21/240287.html" title="少年群侠传白蛇套装怎么样  少年群侠传白蛇套装作用介绍"><img src="http://statics.juxia.com/uploadfile/game/2017/3/2017032113441595.jpg"></a></dt>
+                            <dd> <a href="http://www.juxia.com/news/2017-3-21/240287.html">少年群侠传白蛇套装怎么样  少年群侠传白蛇套装作用介绍</a>
+                                <p>少年群侠传白蛇套装怎么样，有什么用呢，下面和聚侠网小编一起来看看详细的介绍吧。
+
+</p>
+                            </dd>
+                        </dl><dl class="ask_item clearfix">
+                            <dt><a href="http://www.juxia.com/news/2017-3-14/239597.html" title="奥奇传说功夫币怎么用  奥奇传说功夫币兑换奖励方法"><img src="http://statics.juxia.com/uploadfile/game/2017/3/2017031410382073.jpg"></a></dt>
+                            <dd> <a href="http://www.juxia.com/news/2017-3-14/239597.html">奥奇传说功夫币怎么用  奥奇传说功夫币兑换奖励方法</a>
+                                <p>奥奇传说功夫币有什么作用呢，功夫币怎么兑换奖励呢，下面和聚侠网小编一起来看看功夫币使用方法详细介绍吧。
+
+</p>
+                            </dd>
+                        </dl><dl class="ask_item clearfix">
+                            <dt><a href="http://www.juxia.com/news/2017-3-13/239523.html" title="奥拉星帝姬白浅在哪里  奥拉星帝姬白浅怎么得"><img src="http://statics.juxia.com/uploadfile/game/2017/3/2017031311144894.jpg"></a></dt>
+                            <dd> <a href="http://www.juxia.com/news/2017-3-13/239523.html">奥拉星帝姬白浅在哪里  奥拉星帝姬白浅怎么得</a>
+                                <p>奥拉星帝姬白浅在哪里呢，要怎么获得呢，下面和聚侠网小编一起来看看获得方法介绍吧。</p>
+                            </dd>
+                        </dl>                </div>
+                <div class="l_headline mt10">
+                    <span>数据分析</span><a href="http://www.juxia.com/news/shuju-list-1.html" class="more" title="数据分析" rel="nofollow">更多<em class="ico-arr"></em></a><span class="xline"></span>
+                </div>
+                <ul class="news_list">
+                    <li><a href="http://www.juxia.com/news/shuju/1052.html">2017年3月一周页游开服数据统计报告（3.13-3.19）</a></li><li><a href="http://www.juxia.com/news/shuju/1051.html">2017年3月一周页游开服数据统计报告（3.6-3.12）</a></li><li><a href="http://www.juxia.com/news/shuju/1050.html">2017年2-3月一周页游开服数据统计报告（2.27-3.5）</a></li><li><a href="http://www.juxia.com/news/shuju/1049.html">2017年2月一周页游开服数据统计报告（2.20-2.2.26）</a></li><li><a href="http://www.juxia.com/news/shuju/1048.html">2017年2月一周页游开服数据统计报告（2.13-2.2.19）</a></li>                </ul>
+            </div>
+            <!-- column_370 end -->
+            <div class="column_360 ml30">
+                <div class="l_headline">
+                    <span>新游期待榜</span><a href="http://www.juxia.com/top.html" class="more" title="新游期待榜" rel="nofollow">更多<em class="ico-arr"></em></a><span class="xline"></span>
+                </div>
+                <ul class="newgame_top">
+                    <li><em class="top1">1</em><a href="http://www.juxia.com/webgame/rxscjx/">热血赛车</a><span class="type">休闲竞技</span><span class="date">02-16</span></li>
+                            <li><em class="top2">2</em><a href="http://www.juxia.com/webgame/lscqjx/">梁山传奇</a><span class="type">角色扮演</span><span class="date">02-06</span></li>
+                            <li><em class="top3">3</em><a href="http://www.juxia.com/webgame/xyzljx/">西游之路</a><span class="type">角色扮演</span><span class="date">02-23</span></li>
+                                                        <li><em>4</em><a href="http://www.juxia.com/webgame/ly2jx/">灵域2</a><span class="type">角色扮演</span><span class="date">03-03</span></li>                            <li><em>5</em><a href="http://www.juxia.com/webgame/qjmujx/">奇迹MU：遗失的大陆</a><span class="type">角色扮演</span><span class="date">03-03</span></li>                            <li><em>6</em><a href="http://www.juxia.com/webgame/mxsjol/">冒险世界OL</a><span class="type">角色扮演</span><span class="date">02-22</span></li>                            <li><em>7</em><a href="http://www.juxia.com/webgame/zwsgjx/">真武三国</a><span class="type">角色扮演</span><span class="date">03-11</span></li>                            <li><em>8</em><a href="http://www.juxia.com/webgame/xyfypjx/">西游伏妖篇</a><span class="type">角色扮演</span><span class="date">01-10</span></li>                            <li><em>9</em><a href="http://www.juxia.com/webgame/rxcqwybjx/">传奇来了之热血传奇网页版</a><span class="type">角色扮演</span><span class="date">01-17</span></li>                            <li><em>10</em><a href="http://www.juxia.com/webgame/gsjx/">攻沙</a><span class="type">角色扮演</span><span class="date">02-22</span></li>                            <li><em>11</em><a href="http://www.juxia.com/webgame/dqyjx/">大青云 </a><span class="type">角色扮演</span><span class="date">12-16</span></li>                            <li><em>12</em><a href="http://www.juxia.com/webgame/shenxianjie/">神仙劫</a><span class="type">角色扮演</span><span class="date">12-15</span></li>                            <li><em>13</em><a href="http://www.juxia.com/webgame/wsndjjx/">五鼠闹东京</a><span class="type">角色扮演</span><span class="date">11-16</span></li>                            <li><em>14</em><a href="http://www.juxia.com/webgame/rxhwjx/">热血虎卫</a><span class="type">角色扮演</span><span class="date">11-11</span></li>                            <li><em>15</em><a href="http://www.juxia.com/webgame/snqxzjx/">少年群侠传</a><span class="type">角色扮演</span><span class="date">11-09</span></li>                            <li><em>16</em><a href="http://www.juxia.com/webgame/wmhyjx/">完美红颜</a><span class="type">角色扮演</span><span class="date">11-08</span></li>                </ul>
+            </div>
+            <!-- column_360 end -->
+        </div>
+        <!-- wrap end-->
+    </div>
+    <!-- main ju_game end-->
+    <div class="main ju_gift" id="ju_gift">
+        <div class="block_headline gift-title">
+            聚福利
+        </div>
+        <div class="wrap">
+            <div class="column_770">
+                <div class="l_headline">
+                    <span>发卡中心</span><a href="http://www.juxia.com/ka/" class="more" title="发卡中心" rel="nofollow">更多<em class="ico-arr"></em></a><span class="xline"></span>
+                </div>
+                <div class="focus_line">
+                    <div id="giftFocus" class="swiper-container">
+                        <a href="#" class="switch_btn switch_prev"></a> <a href="#" class="switch_btn switch_next"></a>
+                        <ul class="swiper-wrapper">
+                            <li class="swiper-slide"><a href="http://www.juxia.com/ka/31024.html" title="《8090热血江湖传》删档二测礼包"><img src="http://statics.juxia.com/uploadfile/admin/2017/3/2017032416320692.jpg"/></a></li><li class="swiper-slide"><a href="http://www.juxia.com/ka/31023.html" title="8090《刀枪剑传奇》删档首测礼包"><img src="http://statics.juxia.com/uploadfile/admin/2017/3/2017032410002294.jpg"/></a></li><li class="swiper-slide"><a href="http://www.juxia.com/ka/31025.html" title="51游戏《剑侠伏魔录》首服独家礼包"><img src="http://statics.juxia.com/uploadfile/admin/2017/3/2017032410203436.jpg"/></a></li><li class="swiper-slide"><a href="http://www.juxia.com/ka/31029.html" title="9377《魔龙之戒》聚侠网专属礼包"><img src="http://statics.juxia.com/uploadfile/admin/2017/3/201703241040100.jpg"/></a></li><li class="swiper-slide"><a href="http://www.juxia.com/ka/31035.html" title="360uu《大唐盛世》一统天下礼包"><img src="http://statics.juxia.com/uploadfile/admin/2017/3/2017032416302295.jpg"/></a></li>                        </ul>
+                        <div class="nav">
+                        </div>
+                        <ul id="picshow_nav" class="picshow_nav">
+                            <li>1</li><li>2</li><li>3</li><li>4</li><li>5</li>                            <li>5</li>
+                        </ul>
+                    </div>
+                    <!-- focus_show end -->
+                    <div class="focus_side b-blue">
+                        <a href="http://www.juxia.com/ka/31034.html" class="imgbox" title="少年群侠传"><img src="http://statics.juxia.com/uploadfile/admin/2017/3/201703211150200.jpg"></a> <a href="http://www.juxia.com/ka/31034.html" class="title">少年群侠传</a>
+                        <p>37《少年群侠传》通服巅峰对决礼包</p>
+                        <p><a href="http://www.juxia.com/ka/31034.html">抢号 >></a></p>
+                    </div>
+                    <div class="focus_side b-green">
+                        <a href="http://www.juxia.com/ka/31022.html" class="imgbox" title="蓝月传奇"><img src="http://statics.juxia.com/uploadfile/admin/2017/3/2017032409254586.jpg"></a> <a href="http://www.juxia.com/ka/31022.html" class="title">蓝月传奇</a>
+                        <p>贪玩游戏《蓝月传奇》周年礼包</p>
+                        <p><a href="http://www.juxia.com/ka/31022.html">抢号 >></a></p>
+                    </div>
+                </div>
+                <div class="column_left">
+                    <div class="l_headline">
+                        <span>今日推荐</span><a href="http://www.juxia.com/ka/" class="more" title="今日推荐" rel="nofollow">更多<em class="ico-arr"></em></a><span class="xline"></span>
+                    </div>
+                    <ul class="gift_list">
+                        <li><a class="red" href="http://www.juxia.com/ka/30998.html">2686《武炼巅峰》独家礼包</a><span><em>95</em>/100</span><a href="http://www.juxia.com/ka/30998.html" class="btn">领号</a></li>
+                                <li><a class="red" href="http://www.juxia.com/ka/30975.html">哥们网《乾坤战纪》凌云礼包</a><span><em>999</em>/1000</span><a href="http://www.juxia.com/ka/30975.html" class="btn">领号</a></li>
+                                                                <li><a href="http://www.juxia.com/ka/30954.html">2686《神魔传说》聚侠网独家礼包</a><span><em>92</em>/100</span><a href="http://www.juxia.com/ka/30954.html" class="btn">领号</a></li>                                <li><a href="http://www.juxia.com/ka/30927.html">蹦玩《天地诸神》媒体礼包</a><span><em>497</em>/500</span><a href="http://www.juxia.com/ka/30927.html" class="btn">领号</a></li>                                <li><a href="http://www.juxia.com/ka/30908.html">360uu《神仙劫》谁与争锋礼包</a><span><em>192</em>/200</span><a href="http://www.juxia.com/ka/30908.html" class="btn">领号</a></li>                    </ul>
+                    <div class="l_headline mt10">
+                        <span>新手礼包</span><a href="http://www.juxia.com/ka/xinshouka.html" class="more" title="新手礼包" rel="nofollow">更多<em class="ico-arr"></em></a><span class="xline"></span>
+                    </div>
+                    <ul class="gift_list">
+                        <li> <a href="http://www.juxia.com/ka/31004.html">乐趣《卧龙吟》双线650服新手卡</a><span><em>100</em>/100</span> <a href="http://www.juxia.com/ka/31004.html" class="btn">领号</a></li><li> <a href="http://www.juxia.com/ka/30962.html">塔人《遗失的大陆》新手豪华礼包</a><span><em>417</em>/500</span> <a href="http://www.juxia.com/ka/30962.html" class="btn">领号</a></li><li> <a href="http://www.juxia.com/ka/30907.html">乐趣《卧龙吟》双线645服新手礼包</a><span><em>100</em>/100</span> <a href="http://www.juxia.com/ka/30907.html" class="btn">领号</a></li><li> <a href="http://www.juxia.com/ka/30261.html">乐趣《卧龙吟》双线620服新手礼包</a><span><em>100</em>/100</span> <a href="http://www.juxia.com/ka/30261.html" class="btn">领号</a></li><li> <a href="http://www.juxia.com/ka/30221.html">乐趣《卧龙吟》怀旧30区新手礼包</a><span><em>100</em>/100</span> <a href="http://www.juxia.com/ka/30221.html" class="btn">领号</a></li>                    </ul>
+                </div>
+                <div class="column_right">
+                    <div class="l_headline">
+                        <span>激活码</span><a href="http://www.juxia.com/ka/jihuoma.html" class="more" title="激活码" rel="nofollow">更多<em class="ico-arr"></em></a><span class="xline"></span>
+                    </div>
+                    <ul class="gift_list">
+                        <li> <a href="http://www.juxia.com/ka/30984.html">37《大青云》通服凤凰浴火礼包</a><span><em>100</em>/100</span> <a href="http://www.juxia.com/ka/30984.html" class="btn">领号</a></li><li> <a href="http://www.juxia.com/ka/30981.html">9377《神谕之剑》聚侠网专属礼包</a><span><em>500</em>/500</span> <a href="http://www.juxia.com/ka/30981.html" class="btn">领号</a></li><li> <a href="http://www.juxia.com/ka/30978.html">37《五鼠闹东京》通服旋风来袭礼包</a><span><em>99</em>/100</span> <a href="http://www.juxia.com/ka/30978.html" class="btn">领号</a></li><li> <a href="http://www.juxia.com/ka/29170.html">八旗游戏《战甲》开测大礼包</a><span><em>162</em>/200</span> <a href="http://www.juxia.com/ka/29170.html" class="btn">领号</a></li><li> <a href="http://www.juxia.com/ka/28932.html">ya247《大剑传奇》删档封测激活码</a><span><em>83</em>/100</span> <a href="http://www.juxia.com/ka/28932.html" class="btn">领号</a></li>                    </ul>
+                    <div class="l_headline mt10">
+                        <span>道具卡</span><a href="http://www.juxia.com/ka/daojuka.html" class="more" title="道具卡" rel="nofollow">更多<em class="ico-arr"></em></a><span class="xline"></span>
+                    </div>
+                    <ul class="gift_list">
+                        <li> <a href="http://www.juxia.com/ka/31027.html">XY游戏《剑侠伏魔录》斩妖伏魔礼包</a><span><em>200</em>/200</span> <a href="http://www.juxia.com/ka/31027.html" class="btn">领号</a></li><li> <a href="http://www.juxia.com/ka/31019.html">37《最佳阵容》通服等级飙升礼包</a><span><em>99</em>/100</span> <a href="http://www.juxia.com/ka/31019.html" class="btn">领号</a></li><li> <a href="http://www.juxia.com/ka/31016.html">9377《雷霆之怒》扶摇直上通服礼包</a><span><em>100</em>/100</span> <a href="http://www.juxia.com/ka/31016.html" class="btn">领号</a></li><li> <a href="http://www.juxia.com/ka/31014.html">58wan《冒险世界》通服钻石礼包</a><span><em>199</em>/199</span> <a href="http://www.juxia.com/ka/31014.html" class="btn">领号</a></li><li> <a href="http://www.juxia.com/ka/30993.html">37《武神赵子龙》通服武艺超群礼包</a><span><em>100</em>/100</span> <a href="http://www.juxia.com/ka/30993.html" class="btn">领号</a></li>                    </ul>
+                </div>
+            </div>
+            <div class="column_360">
+                <div class="l_headline">
+                    <span>活动中心</span><a href="http://www.juxia.com/hd/" class="more" title="活动中心" rel="nofollow">更多<em class="ico-arr"></em></a><span class="xline"></span>
+                </div>
+                <div class="event_list">
+                    <dl class="event_item">
+                            <dt><a href="javascript:;" title="《刀枪剑传奇》新手专题"><img src="http://statics.juxia.com/uploadfile/active/2017/3/2017032414585738.jpg" style="width:100px;height:130px;"></a></dt>
+                            <dd> <a href="javascript:;" class="title">《刀枪剑传奇》新手专题</a>
+                                <p>活动时间：2017.03.24 - 2017.03.24</p>
+                                <div class="swiper-container" id="giftShow1">
+                                    <ul class="swiper-wrapper gift_show" 
+                                    style="left: 0px;"                                    >
+                                                                        </ul>
+                                </div>
+                                <a href="javascript:;" class="btn">我要参加>></a> </dd>
+                        </dl><dl class="event_item">
+                            <dt><a href="/hd/active-102" title="《新热血江湖》新手专题"><img src="http://statics.juxia.com/uploadfile/active/2017/3/2017032113525163.jpg" style="width:100px;height:130px;"></a></dt>
+                            <dd> <a href="/hd/active-102" class="title">《新热血江湖》新手专题</a>
+                                <p>活动时间：2017.03.21 - 2017.03.31</p>
+                                <div class="swiper-container" id="giftShow2">
+                                    <ul class="swiper-wrapper gift_show" 
+                                                                        >
+                                                                        </ul>
+                                </div>
+                                <a href="/hd/active-102" class="btn">我要参加>></a> </dd>
+                        </dl><dl class="event_item">
+                            <dt><a href="javascript:;" title="《冒险世界ol》浪漫白色情人节 马尔代夫双人游"><img src="http://statics.juxia.com/uploadfile/active/2017/3/2017031414080452.jpg" style="width:100px;height:130px;"></a></dt>
+                            <dd> <a href="javascript:;" class="title">《冒险世界ol》浪漫白色情人节 马尔代夫双人游</a>
+                                <p>活动时间：2017.03.13 - 2017.03.18</p>
+                                <div class="swiper-container" id="giftShow3">
+                                    <ul class="swiper-wrapper gift_show" 
+                                                                        >
+                                    <li class="swiper-slide"><img src="http://statics.juxia.com/uploadfile/active/2016/9/2016092314402044.jpg" style="width:74px;height:52px;"/></li><li class="swiper-slide"><img src="http://statics.juxia.com/uploadfile/active/2016/9/2016092314404376.jpg" style="width:74px;height:52px;"/></li><li class="swiper-slide"><img src="http://statics.juxia.com/uploadfile/active/2017/3/2017031414063994.jpg" style="width:74px;height:52px;"/></li>                                    </ul>
+                                </div>
+                                <a href="javascript:;" class="btn">我要参加>></a> </dd>
+                        </dl><dl class="event_item">
+                            <dt><a href="javascript:;" title="37游戏节千万豪礼送不停！"><img src="http://statics.juxia.com/uploadfile/active/2017/3/2017030711071886.jpg" style="width:100px;height:130px;"></a></dt>
+                            <dd> <a href="javascript:;" class="title">37游戏节千万豪礼送不停！</a>
+                                <p>活动时间：2017.03.07 - 2017.03.09</p>
+                                <div class="swiper-container" id="giftShow4">
+                                    <ul class="swiper-wrapper gift_show" 
+                                                                        >
+                                    <li class="swiper-slide"><img src="http://statics.juxia.com/uploadfile/active/2015/12/201512180929105.jpg" style="width:74px;height:52px;"/></li><li class="swiper-slide"><img src="http://statics.juxia.com/uploadfile/active/2015/12/2015123014470544.jpg" style="width:74px;height:52px;"/></li><li class="swiper-slide"><img src="http://statics.juxia.com/uploadfile/active/2016/9/201609131037239.jpg" style="width:74px;height:52px;"/></li><li class="swiper-slide"><img src="http://statics.juxia.com/uploadfile/active/2016/9/2016091310374692.jpg" style="width:74px;height:52px;"/></li><li class="swiper-slide"><img src="http://statics.juxia.com/uploadfile/active/2017/1/2017011311021414.jpg" style="width:74px;height:52px;"/></li>                                    </ul>
+                                </div>
+                                <a href="javascript:;" class="btn">我要参加>></a> </dd>
+                        </dl>                </div>
+                <!-- event_list end-->
+            </div>
+            <!-- column_360 end-->
+        </div>
+        <!-- wrap end -->
+    </div>
+    <!-- ju_gift end -->
+    <div class="main ju_mobile" id="ju_mobile">
+        <div class="block_headline mobile-title">
+            聚手游
+        </div>
+        <div class="wrap">
+            <div id="mobileFocus" class="swiper-container">
+                <a href="#" class="switch_btn switch_prev"></a> <a href="#" class="switch_btn switch_next"></a>
+                <ul class="swiper-wrapper">
+                    <li class="swiper-slide"><a href="http://www.juxia.com/sjwy/news-32018.html"><img src="http://statics.juxia.com/uploadfile/synews/2017/3/2017032409585359.jpg"/><span>首日流水过百万 《主宰无双》剧情CG震撼登场</span></a></li><li class="swiper-slide"><a href="http://www.juxia.com/sjwy/news-31970.html"><img src="http://statics.juxia.com/uploadfile/synews/2017/3/2017032310334299.jpg"/><span>《屠龙决战沙城》爆了对方一把圣屠龙</span></a></li><li class="swiper-slide"><a href="http://www.juxia.com/sjwy/news-31958.html"><img src="http://statics.juxia.com/uploadfile/synews/2017/3/2017032309475719.jpg"/><span>重新定义PVP 《刀锋无双》3月新版今日震撼上线</span></a></li><li class="swiper-slide"><a href="http://www.juxia.com/sjwy/news-31957.html"><img src="http://statics.juxia.com/uploadfile/synews/2017/3/2017032309431912.jpg"/><span>最倾城之战开幕 《烽火戏诸侯》今日全平台公测</span></a></li><li class="swiper-slide"><a href="http://www.juxia.com/sjwy/news-31921.html"><img src="http://statics.juxia.com/uploadfile/synews/2017/3/201703221039534.jpg"/><span>最强阵容养成 《三国群英传-霸王之业》武将搭配</span></a></li>                </ul>
+                <div class="nav">
+                </div>
+            </div>
+            <!-- #mobileFocus end -->
+            <div class="column_462">
+                <div class="focus_head">
+                    <div class="tith2">
+                        <a href="/news/2014-2-11/111754.html" >高玩对决《万世》三大PVE特色玩法盘点合集</a>
+                    </div>
+                    <p>
+                                                    <a href="/news/2014-2-11/111751.html" >万世坐骑获得 坐骑阶进阶介绍</a>|                            <a href="/news/2014-1-11/109771.html" >大黑《万世》首测试玩：整体系统玩法丰富 独创性强</a>                    </p>
+                    <div class="tith2">
+                        <a href="/news/2014-2-10/111649.html" >《部落守卫战》附魔系统魔装精粹 海不在深附魔则名</a>
+                    </div>
+                    <p class="mb3">
+                                                    <a href="/news/2014-1-28/111208.html" >部落守卫战小关英魂获得方法详解</a>|                            <a href="/news/2014-1-28/111207.html" >部落守卫战春节礼花获得方法详解</a>                    </p>
+                </div>
+                <div class="focus_news">
+                    <div class="l_headline">
+                        <span>今日焦点</span><a href="http://www.juxia.com/sjwy/news-list-1.html" class="more" title="今日焦点" rel="nofollow">更多<em class="ico-arr"></em></a><span class="xline"></span>
+                    </div>
+                    <ul class="news_list">
+                        <li><span class="date">03-25</span><a href="http://www.juxia.com/sjwy/news-32071.html">《剑侠江湖》IOS版强势来袭，群豪聚首夺武林霸主!</a></li><li><span class="date">03-24</span><a href="http://www.juxia.com/sjwy/news-32028.html">神契之迷 《魔法王座》战神成长体系大公开</a></li><li><span class="date">03-24</span><a href="http://www.juxia.com/sjwy/news-32027.html">《钢铁雄狮》爆出新型轻坦 美系神车T49-1引动王者之争</a></li><li><span class="date">03-24</span><a href="http://www.juxia.com/sjwy/news-32022.html">《侠客风云传》手游加入新剧情 穿越香儿结局一睹为快</a></li><li><span class="date">03-24</span><a href="http://www.juxia.com/sjwy/news-32021.html">《英雄使命》明天开启测试 10分钟极速体检</a></li><li><span class="date">03-24</span><a href="http://www.juxia.com/sjwy/news-32010.html">三生三世十里桃花即将浪漫开测 首曝四大职业家园</a></li>                    </ul>
+                    <div class="l_headline">
+                        <span>新闻活动</span><a href="http://www.juxia.com/sjwy/hd-list-1.html" class="more" title="新闻活动" rel="nofollow">更多<em class="ico-arr"></em></a><span class="xline"></span>
+                    </div>
+                    <ul class="news_list">
+                        <li><span class="date">03-25</span><a href="http://www.juxia.com/sjwy/news-32078.html">火影忍者3月幸运星活动网址 免费领宇智波止水礼包</a></li><li><span class="date">03-24</span><a href="http://www.juxia.com/sjwy/news-32013.html">梦幻西游3.24开启盛典解密 登录抽神秘幸运大礼</a></li><li><span class="date">03-22</span><a href="http://www.juxia.com/sjwy/news-31904.html">dnf体验服男法师二觉上线 宠物黄金书等你来拿</a></li><li><span class="date">03-22</span><a href="http://www.juxia.com/sjwy/news-31903.html">王者荣耀限时开启金币英雄宝箱活动 1200金币抽英雄</a></li><li><span class="date">03-21</span><a href="http://www.juxia.com/sjwy/news-31851.html">cf3月一起作战吧活动网址 登陆抽王者之影</a></li><li><span class="date">03-21</span><a href="http://www.juxia.com/sjwy/news-31849.html">阴阳师4月开启春游戏计划 曝光漫展活动内容</a></li>                    </ul>
+                </div>
+            </div>
+            <!-- column_462 end -->
+            <div class="column_237">
+                <div class="l_headline">
+                    <span>手游排行榜</span>
+                </div>
+                <div class="mobile_top">
+                    <dl>
+                                                <dd><span><a href="http://www.juxia.com/sjwy/game-1765.html" title="阴阳师"><img src="http://statics.juxia.com/uploadfile/shouyou/2016/9/2016091409184085.png" style="width:70px;height:70px;"/></a><i class="one
+                                                        "></i></span><cite><em><a href="http://www.juxia.com/sjwy/game-1765.html">阴阳师</a></em>
+                            <p><a href="http://www.juxia.com/sjwy/gametype-1-1.html">益智休闲</a></p>
+                            </cite></dd>
+                                                <dd><span><a href="http://www.juxia.com/sjwy/game-158.html" title="炉石传说"><img src="http://statics.juxia.com/uploadfile/shouyou/2014/8/2014080716481196.jpg" style="width:70px;height:70px;"/></a><i class="                            two
+                                                        "></i></span><cite><em><a href="http://www.juxia.com/sjwy/game-158.html">炉石传说</a></em>
+                            <p><a href="http://www.juxia.com/sjwy/gametype-1-1.html">益智休闲</a></p>
+                            </cite></dd>
+                                                <dd><span><a href="http://www.juxia.com/sjwy/game-435.html" title="DNF手游"><img src="http://statics.juxia.com/uploadfile/shouyou/2015/4/2015040310135087.png" style="width:70px;height:70px;"/></a><i class="                            three                            "></i></span><cite><em><a href="http://www.juxia.com/sjwy/game-435.html">DNF手游</a></em>
+                            <p><a href="http://www.juxia.com/sjwy/gametype-18-1.html">动作冒险</a></p>
+                            </cite></dd>
+                        </dl>
+                    <ul>                                                <li><em>4</em><a href="http://www.juxia.com/sjwy/game-1297.html">王者荣耀</a><span>08-09</span></li>                                                <li><em>5</em><a href="http://www.juxia.com/sjwy/game-1.html">天天酷跑</a><span>08-09</span></li>                                                <li><em>6</em><a href="http://www.juxia.com/sjwy/game-297.html">奇迹暖暖</a><span>03-14</span></li>                                                <li><em>7</em><a href="http://www.juxia.com/sjwy/game-146.html">暖暖环游世界</a><span>08-09</span></li>                                                <li><em>8</em><a href="http://www.juxia.com/sjwy/game-1530.html">CF手游</a><span>01-29</span></li>                                                <li><em>9</em><a href="http://www.juxia.com/sjwy/game-1585.html">我欲戮仙3D</a><span>08-09</span></li>                                                <li><em>10</em><a href="http://www.juxia.com/sjwy/game-1369.html">极品炸金花</a><span>06-30</span></li>                    </ul>
+                </div>
+                <!-- mobile_top end-->
+            </div>
+            <!-- column_237 end -->
+            <div class="moblie_hot">
+                <dl class="item on">
+                    <dt class="c1">热门手游<em class="arrow"></em></dt>
+                    <dd><a href="http://www.juxia.com/sjwy/game-2223.html"><img src="http://statics.juxia.com/uploadfile/shouyou/2017/3/2017030109020920.png" style="width:90px;height:90px;"/>众神征战</a>
+                            </li><dd><a href="http://www.juxia.com/sjwy/game-2180.html"><img src="http://statics.juxia.com/uploadfile/shouyou/2017/2/2017022709234052.png" style="width:90px;height:90px;"/>无间狱</a>
+                            </li><dd><a href="http://www.juxia.com/sjwy/game-2170.html"><img src="http://statics.juxia.com/uploadfile/shouyou/2017/3/2017030209031590.png" style="width:90px;height:90px;"/>少年驱魔教团</a>
+                            </li><dd><a href="http://www.juxia.com/sjwy/game-2166.html"><img src="http://statics.juxia.com/uploadfile/shouyou/2017/2/201702230904238.png" style="width:90px;height:90px;"/>战术大师</a>
+                            </li><dd><a href="http://www.juxia.com/sjwy/game-2145.html"><img src="http://statics.juxia.com/uploadfile/shouyou/2017/1/2017012109073675.png" style="width:90px;height:90px;"/>无双兵团</a>
+                            </li><dd><a href="http://www.juxia.com/sjwy/game-2140.html"><img src="http://statics.juxia.com/uploadfile/shouyou/2017/2/2017022709263659.png" style="width:90px;height:90px;"/>阴阳西游</a>
+                            </li><dd><a href="http://www.juxia.com/sjwy/game-2124.html"><img src="http://statics.juxia.com/uploadfile/shouyou/2017/1/2017010709160042.png" style="width:90px;height:90px;"/>镇魂街对决</a>
+                            </li><dd><a href="http://www.juxia.com/sjwy/game-2097.html"><img src="http://statics.juxia.com/uploadfile/shouyou/2016/12/201612170905513.png" style="width:90px;height:90px;"/>热血物语</a>
+                            </li>                </dl>
+                <dl class="item">
+                    <dt class="c2">最新入库<em class="arrow"></em></dt>
+                    <dd><a href="http://www.juxia.com/sjwy/game-2399.html"><img src="http://statics.juxia.com/uploadfile/shouyou/2017/3/2017032417011399.png" style="width:90px;height:90px;"/>剑侠江湖</a>
+                            </li><dd><a href="http://www.juxia.com/sjwy/game-2398.html"><img src="http://statics.juxia.com/uploadfile/shouyou/2017/3/2017032113430983.png" style="width:90px;height:90px;"/>激流快艇3</a>
+                            </li><dd><a href="http://www.juxia.com/sjwy/game-2397.html"><img src="http://statics.juxia.com/uploadfile/shouyou/2017/3/2017032110384572.png" style="width:90px;height:90px;"/>三国战纪OL</a>
+                            </li><dd><a href="http://www.juxia.com/sjwy/game-2396.html"><img src="http://statics.juxia.com/uploadfile/shouyou/2017/3/2017032110192382.png" style="width:90px;height:90px;"/>元气封神</a>
+                            </li><dd><a href="http://www.juxia.com/sjwy/game-2395.html"><img src="http://statics.juxia.com/uploadfile/shouyou/2017/3/2017031811515858.png" style="width:90px;height:90px;"/>斗魂</a>
+                            </li><dd><a href="http://www.juxia.com/sjwy/game-2394.html"><img src="http://statics.juxia.com/uploadfile/shouyou/2017/3/201703181146433.png" style="width:90px;height:90px;"/>小汪汪</a>
+                            </li><dd><a href="http://www.juxia.com/sjwy/game-2393.html"><img src="http://statics.juxia.com/uploadfile/shouyou/2017/3/2017031811411852.png" style="width:90px;height:90px;"/>文明与战争</a>
+                            </li><dd><a href="http://www.juxia.com/sjwy/game-2392.html"><img src="http://statics.juxia.com/uploadfile/shouyou/2017/3/201703181136330.png" style="width:90px;height:90px;"/>马踏千军</a>
+                            </li>                </dl>
+                <a class="m_all_btn" href="http://www.juxia.com/sjwy/game-list-1.html">手游大全</a>
+            </div>
+            <div class="column_400">
+                <div class="l_headline">
+                    <span>新游评测</span><a href="http://www.juxia.com/sjwy/pingce-list-1.html" class="more" title="新游评测" rel="nofollow">更多<em class="ico-arr"></em></a><span class="xline"></span>
+                </div>
+                <ul class="m_plist">
+                    <li> <a href="http://www.juxia.com/sjwy/pingce-1958-32026.html" class="ibox"><img src="http://statics.juxia.com/uploadfile/shouyou/2017/3/201703241038483.jpg"></a> <a href="http://www.juxia.com/sjwy/pingce-1958-32026.html">
+                            <p class="title">《迷雾世界》评测：解开迷雾，探索宏大的魔幻世界</p>
+                            <p class="intro">最近网易出了一款策略探索MMO手游《迷雾世界...<span>[详情]</span></p>
+                             </a> </li><li> <a href="http://www.juxia.com/sjwy/pingce-2104-31942.html" class="ibox"><img src="http://statics.juxia.com/uploadfile/shouyou/2017/3/2017032215301997.jpg"></a> <a href="http://www.juxia.com/sjwy/pingce-2104-31942.html">
+                            <p class="title">《凡人修仙传》评测：100%忠实还原原著经典</p>
+                            <p class="intro">《凡人修仙传》手游可是以原著小说为背景进行改...<span>[详情]</span></p>
+                             </a> </li><li> <a href="http://www.juxia.com/sjwy/pingce-2390-31878.html" class="ibox"><img src="http://statics.juxia.com/uploadfile/shouyou/2017/3/2017032111450055.jpg"></a> <a href="http://www.juxia.com/sjwy/pingce-2390-31878.html">
+                            <p class="title">《魔女骑士团》评测： 春光乍现，堪称绅士福利</p>
+                            <p class="intro">小编最近发现一款很绅士的游戏。那就是《魔女骑...<span>[详情]</span></p>
+                             </a> </li>                </ul>
+                <div class="l_headline mt10">
+                    <span>产业新闻</span><a href="http://www.juxia.com/sjwy/chanye-list-1.html" class="more" title="游戏攻略" rel="nofollow">更多<em class="ico-arr"></em></a><span class="xline"></span>
+                </div>
+                <ul class="news_list">
+                    <li><a href="http://www.juxia.com/sjwy/news-31651.html">上海消保委公布侵权案 网之易随意封号遭投诉1900起</a></li><li><a href="http://www.juxia.com/sjwy/news-31583.html">皮皮虾我们走 王者荣耀KPL春季赛残酷开战</a></li><li><a href="http://www.juxia.com/sjwy/news-31547.html">球球大作战携CEST开启新思路 移动电竞生态再升级</a></li><li><a href="http://www.juxia.com/sjwy/news-31472.html">全美出炉最佳雇主百强榜 暴雪上榜成唯一游戏公司</a></li><li><a href="http://www.juxia.com/sjwy/news-31497.html">5大方面改变手游产业 开启移动电竞新辉煌</a></li><li><a href="http://www.juxia.com/sjwy/news-31469.html">2017年网络虚拟财产受保护 账号装备有保险</a></li><li><a href="http://www.juxia.com/sjwy/news-31473.html">移动电竞开启新大门 5个方面改变手游产业</a></li>                </ul>
+            </div>
+            <!-- column_400 end -->
+            <div class="column_410">
+                <div class="l_headline">
+                    <span>新闻资讯</span><a href="http://www.juxia.com/sjwy/news-list-1.html" class="more" title="新闻资讯" rel="nofollow">更多<em class="ico-arr"></em></a><span class="xline"></span>
+                </div>
+                <ul class="m_tlist">
+                    <li><span class="date">03-25</span><a href="http://www.juxia.com/sjwy/news-32080.html">我的世界国服4月10日首测 国服激活码获得方法</a></li><li><span class="date">03-25</span><a href="http://www.juxia.com/sjwy/news-32071.html">《剑侠江湖》IOS版强势来袭，群豪聚首夺武林霸主!</a></li><li><span class="date">03-24</span><a href="http://www.juxia.com/sjwy/news-32049.html">王者荣耀S7赛季开启时间 新赛季段位继承规则</a></li><li><span class="date">03-24</span><a href="http://www.juxia.com/sjwy/news-32043.html">dnf男法师二觉宠物礼包体验服上线 准备好买买买吗</a></li><li><span class="date">03-24</span><a href="http://www.juxia.com/sjwy/news-32028.html">神契之迷 《魔法王座》战神成长体系大公开</a></li>                </ul>
+                <div class="l_headline">
+                    <span>游戏攻略</span><a href="http://www.juxia.com/sjwy/gonglue-list-1.html" class="more" title="游戏攻略" rel="nofollow">更多<em class="ico-arr"></em></a><span class="xline"></span>
+                </div>
+                <ul class="m_tlist">
+                    <li><span class="date">03-25</span><a href="http://www.juxia.com/sjwy/gonglue-1903-32088.html">传奇世界手游汗水与矿石副本介绍</a></li><li><span class="date">03-25</span><a href="http://www.juxia.com/sjwy/gonglue-1144-32087.html">镇魔曲手游灵枢幻境鬼狱难度打法攻略</a></li><li><span class="date">03-25</span><a href="http://www.juxia.com/sjwy/gonglue-1-32086.html">天天酷跑克隆大作战赤兔爆分阵容搭配</a></li><li><span class="date">03-25</span><a href="http://www.juxia.com/sjwy/gonglue-1144-32085.html">镇魔曲手游天罡星三阶天究星打法攻略</a></li><li><span class="date">03-25</span><a href="http://www.juxia.com/sjwy/gonglue-538-32084.html">乖离性百万亚瑟王断绝恶魔焰卡组选择推荐</a></li><li><span class="date">03-25</span><a href="http://www.juxia.com/sjwy/gonglue-1923-32083.html">放开那三国2群雄单红将阵容搭配选择</a></li>                </ul>
+            </div>
+            <!-- column_410 end -->
+            <div class="column_290">
+                <div class="t_headline" id="mTab_btns">
+                    <a href="http://www.juxia.com/sjwy/kaifu.html" class="more" title="今日开服" rel="nofollow">更多&gt;</a> <a href="http://www.juxia.com/sjwy/kaifu.html" class="current">今日开服</a> <a href="http://www.juxia.com/sjwy/kaice.html">今日开测</a>
+                </div>
+                <div class="m_list_wrap swiper-container" id="mTabs">
+                    <div class="swiper-wrapper">
+                        <ul class="m_gamelist swiper-slide">
+                            <li class="clearfix"> <a href=""> <span class="t1">离线也热血</span> <span class="time">21:00</span> <span class="t2">新服</span> <span class="icons"><i class="apple "></i><i class="android on"></i></span> </a> </li><li class="clearfix"> <a href=""> <span class="t1">血爆挂机</span> <span class="time">20:00</span> <span class="t2">新服</span> <span class="icons"><i class="apple "></i><i class="android on"></i></span> </a> </li><li class="clearfix"> <a href=""> <span class="t1">斗战OL</span> <span class="time">20:00</span> <span class="t2">新服</span> <span class="icons"><i class="apple "></i><i class="android on"></i></span> </a> </li><li class="clearfix"> <a href=""> <span class="t1">大话蜀山</span> <span class="time">18:00</span> <span class="t2">新服</span> <span class="icons"><i class="apple "></i><i class="android on"></i></span> </a> </li><li class="clearfix"> <a href=""> <span class="t1">奥特曼口袋版</span> <span class="time">12:00</span> <span class="t2">新服</span> <span class="icons"><i class="apple "></i><i class="android on"></i></span> </a> </li><li class="clearfix"> <a href=""> <span class="t1">全民神仙</span> <span class="time">12:00</span> <span class="t2">新服</span> <span class="icons"><i class="apple "></i><i class="android on"></i></span> </a> </li><li class="clearfix"> <a href=""> <span class="t1">黎明之光</span> <span class="time">11:00</span> <span class="t2">新服</span> <span class="icons"><i class="apple "></i><i class="android on"></i></span> </a> </li><li class="clearfix"> <a href=""> <span class="t1">天天打三国</span> <span class="time">11:00</span> <span class="t2">新服</span> <span class="icons"><i class="apple "></i><i class="android on"></i></span> </a> </li><li class="clearfix"> <a href=""> <span class="t1">三国归来</span> <span class="time">11:00</span> <span class="t2">新服</span> <span class="icons"><i class="apple "></i><i class="android on"></i></span> </a> </li><li class="clearfix"> <a href=""> <span class="t1">三国龙翔传</span> <span class="time">11:00</span> <span class="t2">新服</span> <span class="icons"><i class="apple "></i><i class="android on"></i></span> </a> </li>                        </ul>
+                        <!-- m_gamelist end -->
+                        <ul class="m_gamelist swiper-slide">
+                                                    </ul>
+                        <!-- m_gamelist end -->
+                    </div>
+                </div>
+                <!-- m_list_wrap end -->
+            </div>
+            <!-- column_290 end-->
+            <div class="column_730">
+                <div class="l_headline mt10">
+                    <span>热门礼包</span><a href="http://www.juxia.com/libao/" class="more" title="热门礼包" rel="nofollow">更多<em class="ico-arr"></em></a><span class="xline"></span>
+                </div>
+                <ul class="m_gifts clearfix">
+                    <li> <a href="http://www.juxia.com/libao/2296-24.html" class="ibox"><img src="http://statics.juxia.com/uploadfile/shouyou/2017/3/2017032309221342.png"></a>
+                            <p class="title"><a href="http://www.juxia.com/libao/2296-24.html">主宰无双</a><i class="android "></i></p>
+                            <p class="intro">《主宰无双》安卓不删档测试媒体礼包</p>
+                            <p class="btns"><a class="c_orange" href="http://www.juxia.com/libao/2296-24.html">领礼包</a><a class="c_green" href="http://www.juxia.com/sjwy/game-2296.html">下游戏</a></p>
+                        </li><li> <a href="http://www.juxia.com/libao/2058-23.html" class="ibox"><img src="http://statics.juxia.com/uploadfile/shouyou/2016/11/2016112916381618.png"></a>
+                            <p class="title"><a href="http://www.juxia.com/libao/2058-23.html">驯龙三国</a><i class="android "></i></p>
+                            <p class="intro">驯龙三国聚侠网封测礼包</p>
+                            <p class="btns"><a class="c_orange" href="http://www.juxia.com/libao/2058-23.html">领礼包</a><a class="c_green" href="http://www.juxia.com/sjwy/game-2058.html">下游戏</a></p>
+                        </li><li> <a href="http://www.juxia.com/libao/1454-22.html" class="ibox"><img src="http://statics.juxia.com/uploadfile/shouyou/2017/3/2017031611232995.png"></a>
+                            <p class="title"><a href="http://www.juxia.com/libao/1454-22.html">造化之门</a><i class="android "></i></p>
+                            <p class="intro">《造化之门》终极豪华礼包</p>
+                            <p class="btns"><a class="c_orange" href="http://www.juxia.com/libao/1454-22.html">领礼包</a><a class="c_green" href="http://www.juxia.com/sjwy/game-1454.html">下游戏</a></p>
+                        </li><li> <a href="http://www.juxia.com/libao/1995-15.html" class="ibox"><img src="http://statics.juxia.com/uploadfile/shouyou/2016/11/2016112309041136.png"></a>
+                            <p class="title"><a href="http://www.juxia.com/libao/1995-15.html">少女咖啡枪</a><i class="android "></i></p>
+                            <p class="intro">《少女咖啡枪》独家礼包</p>
+                            <p class="btns"><a class="c_orange" href="http://www.juxia.com/libao/1995-15.html">领礼包</a><a class="c_green" href="http://www.juxia.com/sjwy/game-1995.html">下游戏</a></p>
+                        </li><li> <a href="http://www.juxia.com/libao/1561-13.html" class="ibox"><img src="http://statics.juxia.com/uploadfile/shouyou/2016/7/2016070509095620.png"></a>
+                            <p class="title"><a href="http://www.juxia.com/libao/1561-13.html">少年西游记</a><i class="android "></i></p>
+                            <p class="intro">《少年西游记》元宵节礼包</p>
+                            <p class="btns"><a class="c_orange" href="http://www.juxia.com/libao/1561-13.html">领礼包</a><a class="c_green" href="http://www.juxia.com/sjwy/game-1561.html">下游戏</a></p>
+                        </li><li> <a href="http://www.juxia.com/libao/1875-12.html" class="ibox"><img src="http://statics.juxia.com/uploadfile/shouyou/2016/9/2016092316121259.png"></a>
+                            <p class="title"><a href="http://www.juxia.com/libao/1875-12.html">儒道至圣</a><i class="android "></i></p>
+                            <p class="intro">《儒道至圣》首发珍惜礼包</p>
+                            <p class="btns"><a class="c_orange" href="http://www.juxia.com/libao/1875-12.html">领礼包</a><a class="c_green" href="http://www.juxia.com/sjwy/game-1875.html">下游戏</a></p>
+                        </li>                </ul>
+            </div>
+        </div>
+        <!-- wrap end -->
+    </div>
+    <!-- ju_mobile end -->
+    <div class="main ju_gossip" id="ju_gossip">
+        <div class="block_headline gossip-title">
+            聚八卦
+        </div>
+        <div class="wrap">
+            <div class="">
+                <div class="column_770">
+                    <ul class="gossip_pics">
+                        <li> <a href="http://bg.juxia.com/article/240383.html"><img src="http://statics.juxia.com/uploadfile/game/2017/3/201703221516128.jpg" style="width:182px;height:133px;"/></a> <a class="title" href="http://bg.juxia.com/article/240383.html">厂长王者归来却惨遭恶搞  赛文哥要被玩坏了</a> </li><li> <a href="http://bg.juxia.com/article/239995.html"><img src="http://statics.juxia.com/uploadfile/game/2017/3/2017031714065616.jpg" style="width:182px;height:133px;"/></a> <a class="title" href="http://bg.juxia.com/article/239995.html">超高还原！阴阳师阎魔伊邪那美cosplay赏析</a> </li><li> <a href="http://bg.juxia.com/article/239901.html"><img src="http://statics.juxia.com/uploadfile/game/2017/3/2017031709112313.jpg" style="width:182px;height:133px;"/></a> <a class="title" href="http://bg.juxia.com/article/239901.html">这声音听得我都酥了！《不败传说》配音大赛作品曝光</a> </li><li> <a href="http://bg.juxia.com/article/239806.html"><img src="http://statics.juxia.com/uploadfile/game/2017/3/2017031709143625.jpg" style="width:182px;height:133px;"/></a> <a class="title" href="http://bg.juxia.com/article/239806.html">毒姐超美的！剑网三定国毒姐cosplay赏析</a> </li>                    </ul>
+                    <div class="gossip_left">
+                        <div class="l_headline">
+                            <span>火爆八卦</span><a href="http://bg.juxia.com" class="more" title="火爆八卦" rel="nofollow">更多<em class="ico-arr"></em></a><span class="xline"></span>
+                        </div>
+                        <ul class="news_list">
+                            <li><span class="date">03-22</span><a href="http://bg.juxia.com/article/240387.html">骚男入坑王者荣耀一周上铂金  2V4逆风翻盘告诉你什么才叫真大神</a></li><li><span class="date">03-22</span><a href="http://bg.juxia.com/article/240384.html">一个版本一代神  盘点DOTA当前版本的神级选手</a></li><li><span class="date">03-22</span><a href="http://bg.juxia.com/article/240383.html">厂长王者归来却惨遭恶搞  赛文哥要被玩坏了</a></li><li><span class="date">03-17</span><a href="http://bg.juxia.com/article/239995.html">超高还原！阴阳师阎魔伊邪那美cosplay赏析</a></li><li><span class="date">03-17</span><a href="http://bg.juxia.com/article/239993.html">不败传说撩妹也疯狂 爆笑七日漫画</a></li><li><span class="date">03-16</span><a href="http://bg.juxia.com/article/239901.html">这声音听得我都酥了！《不败传说》配音大赛作品曝光</a></li>                        </ul>
+                    </div>
+                    <div class="gossip_right">
+                        <div class="l_headline">
+                            <span>热门话题</span><a href="http://bg.juxia.com/huati/" class="more" title="热门话题" rel="nofollow">更多<em class="ico-arr"></em></a><span class="xline"></span>
+                        </div>
+                        <ul class="news_list">
+                            <li><span class="date">03-15</span><a href="http://bg.juxia.com/article/239738.html">冯提莫甜蜜MV发布 斗鱼主播转型偶像歌手</a></li><li><span class="date">03-15</span><a href="http://bg.juxia.com/article/239679.html">微软上线新主机天蝎座产品页面 定价豪华版？</a></li><li><span class="date">02-06</span><a href="http://bg.juxia.com/article/236480.html">张继科直播首曝600平豪宅？真相竟是...</a></li><li><span class="date">12-29</span><a href="http://bg.juxia.com/article/232203.html">终于能好好过个年了！微信宣布退出春节红包大战 </a></li><li><span class="date">12-09</span><a href="http://bg.juxia.com/article/229657.html">公交小哥神似王思聪 网友：开的都是百万的车</a></li><li><span class="date">08-17</span><a href="http://bg.juxia.com/article/209523.html">支持宝宝的都在这儿 圈内好友纷纷力挺王宝强！</a></li>                        </ul>
+                    </div>
+                </div>
+                <!--column_770 end-->
+                <div class="column_372">
+                    <a href="http://www.juxia.com/video/2017-3-13/239536.html" class="upper_a"><i class="player"></i><img src="http://statics.juxia.com/uploadfile/admin/2017/3/2017031409135949.jpg" style="width:372px;height:202px;"><span>《一剑倾城》精彩视频首发</span></a> <a href="http://www.juxia.com/video/2017-3-13/239533.html" class="lower_a"><i class="player"></i><img src="http://statics.juxia.com/uploadfile/admin/2017/3/2017031409104142.jpg" style="width:184px;height:100px;"><span>英魂之刃圣枪使怎么玩？</span></a> <a href="http://www.juxia.com/video/2017-3-9/239224.html" class="lower_a r"><i class="player"></i><img src="http://statics.juxia.com/uploadfile/admin/2017/3/2017031409114720.jpg" style="width:184px;height:100px;"><span>9377《赤月传说2》张涵予片场视频曝光</span></a> <a class="more" href="http://www.juxia.com/video/" rel="nofollow">更多精彩视频</a>
+                </div>
+            </div>
+            <div class="clear">
+            </div>
+            <div class="l_headline">
+                <span>娱乐美图</span><a href="http://bg.juxia.com/cosplay/" class="more" title="游戏截图" rel="nofollow">更多<em class="ico-arr"></em></a><span class="xline"></span>
+            </div>
+            <div class="gossip_gallery clearfix">
+                <dl>
+                    <dt> <a href="http://bg.juxia.com/article/239234.html"><img src="http://statics.juxia.com/uploadfile/admin/2017/3/2017031411355428.jpg" style="width:260px;height:174px;"/><em class="navtitle">天使小姐姐奶我一口</em></a>
+                        </li>
+                        <a href="http://bg.juxia.com/article/239393.html"><img  src="http://statics.juxia.com/uploadfile/admin/2017/3/201703141136027.jpg" style="width:260px;height:174px;"/><em class="navtitle">快来收藏扁鹊的肉体</em></a>
+                        </li>
+                    </dt>
+                    <dd> <a href="http://bg.juxia.com/article/239469.html"> <img src="http://statics.juxia.com/uploadfile/admin/2017/3/2017031411354519.jpg" style="width:320px;height:358px;"/> <em class="navtitle">花阳绘里来捕捉你的心啦</em></a>
+                </dl>
+                <ul>
+                    <li class="w230"><a href="http://bg.juxia.com/article/239481.html"><img src="http://statics.juxia.com/uploadfile/admin/2017/3/2017031411361338.jpg" style="width:230px;height:174px;"/><em class="navtitle">再见之时必是强大之日</em></a></li>
+                    <li class="w320"><a href="http://bg.juxia.com/article/238982.html"><img src="http://statics.juxia.com/uploadfile/admin/2017/3/2017031411362021.jpg" style="width:320px;height:174px;"/><em class="navtitle">人渣的本愿 小姐姐在撩我</em></a></li>
+                    <li class="w320"><a href="http://bg.juxia.com/article/239300.html"><img src="http://statics.juxia.com/uploadfile/admin/2017/3/2017031411362747.jpg" style="width:320px;height:174px;"/><em class="navtitle">不能fu吸了 最美风暴之怒迦娜</em></a></li>
+                    <li class="w230"><a href="http://bg.juxia.com/article/239096.html"><img src="http://statics.juxia.com/uploadfile/admin/2017/3/2017031411363432.jpg" style="width:230px;height:174px;"/><em class="navtitle">银发半精灵艾米莉娅碳</em></a></li>
+                </ul>
+            </div>
+        </div>
+        <!-- wrap end -->
+    </div>
+    <!-- ju_gossip end -->
+    <div class="main m10 p10">
+        <div class="ibox1160">
+            <script type="text/javascript">Juxia_A_D("index_foot")</script>
+        </div>
+    </div>
+</div>
+<!--  mian_body end  --> 
+<div class="update">
+	<div class="update_tit"><span>即时更新</span></div>
+    <div class="update_txt">
+    	<ul>
+    		<li><a href="http://www.juxia.com/news/2017-3-25/240573.html" target="_blank" >少年群侠传提升战力关键是什么？</a><em>03-25</em></li><li><a href="http://www.juxia.com/news/2017-3-25/240572.html" target="_blank" >神鬼无双七擒孟获怎么玩？七情孟获攻略</a><em>03-25</em></li><li><a href="http://www.juxia.com/news/2017-3-25/240571.html" target="_blank" >神鬼无双BOSS之家怎么玩？各类BOSS攻略大全</a><em>03-25</em></li><li><a href="http://www.juxia.com/news/2017-3-25/240570.html" target="_blank" >蓝月传奇神皓月·蓝月神甲I属性介绍下</a><em>03-25</em></li><li><a href="http://www.juxia.com/news/2017-3-25/240569.html" target="_blank" >蓝月传奇神皓月·蓝月神甲I属性介绍上</a><em>03-25</em></li><li><a href="http://www.juxia.com/news/2017-3-25/240568.html" target="_blank" >蓝月传奇神级技能书合成攻略</a><em>03-25</em></li><li><a href="http://www.juxia.com/news/2017-3-25/240567.html" target="_blank" >神鬼无双魔卡怎样获取？魔卡系统详解</a><em>03-25</em></li><li><a href="http://www.juxia.com/picture/2017-3-25/240566.html" target="_blank" >神鬼无双游戏截图赏析</a><em>03-25</em></li><li><a href="http://www.juxia.com/news/2017-3-25/240565.html" target="_blank" >生死狙击MP5风行者礼包怎么得    玩谍报危机免费获得</a><em>03-25</em></li><li><a href="http://www.juxia.com/picture/2017-3-25/240564.html" target="_blank" >神鬼无双好玩吗？神鬼无双精美原画赏析</a><em>03-25</em></li><li><a href="http://www.juxia.com/news/2017-3-25/240563.html" target="_blank" >魔法王座新手怎么玩厉害？新手速升技巧</a><em>03-25</em></li><li><a href="http://www.juxia.com/news/2017-3-25/240562.html" target="_blank" >魔法王座怎么玩厉害？15条实用技巧分享</a><em>03-25</em></li><li><a href="http://www.juxia.com/news/2017-3-25/240561.html" target="_blank" >魔法王座定时活动怎么玩？定时活动攻略</a><em>03-25</em></li><li><a href="http://www.juxia.com/video/2017-3-25/240560.html" target="_blank" >奥奇传说永恒天星辰怎么打  奥奇传说永恒天星辰通关视频</a><em>03-25</em></li><li><a href="http://www.juxia.com/news/2017-3-25/240559.html" target="_blank" >魔法王座非R怎样快速提升等级？等级速升技巧分享</a><em>03-25</em></li><li><a href="http://www.juxia.com/video/2017-3-25/240558.html" target="_blank" >奥奇传说永恒天星辰实战怎么样   永恒天星辰实战视频解析</a><em>03-25</em></li><li><a href="http://www.juxia.com/news/2017-3-25/240557.html" target="_blank" >奥奇传说永恒天星辰怎么打  奥奇传说永恒天星辰平民打法</a><em>03-25</em></li><li><a href="http://www.juxia.com/news/2017-3-25/240556.html" target="_blank" >魔法王座幽暗峡谷速刷技巧分享</a><em>03-25</em></li><li><a href="http://www.juxia.com/news/2017-3-25/240555.html" target="_blank" >密道有惊喜 8090热血江湖传你敢战我就敢送</a><em>03-25</em></li><li><a href="http://www.juxia.com/news/2017-3-25/240554.html" target="_blank" >神仙劫170级等级礼包有什么？神仙劫170级等级礼包内容</a><em>03-25</em></li><li><a href="http://www.juxia.com/news/2017-3-25/240553.html" target="_blank" >老铁你礼物没拿 哥们网《攻沙》每日福利送不停</a><em>03-25</em></li><li><a href="http://www.juxia.com/news/2017-3-25/240552.html" target="_blank" >这是我的大怪物!哥们网《攻沙》个人BOSS玩法曝光</a><em>03-25</em></li><li><a href="http://www.juxia.com/news/2017-3-25/240551.html" target="_blank" >神仙劫VIP1-15最新最正确价格表分享</a><em>03-25</em></li><li><a href="http://www.juxia.com/news/2017-3-25/240550.html" target="_blank" >奥比岛03.24-03.30活动汇总</a><em>03-25</em></li>        </ul>
+    </div>
+</div>
+<div class="bg_footer">
+    <div class="bg_footer_txt">
+        <div class="bg_footer_txt_yx">
+            <span>找游戏</span>
+            <ul>
+                <li><a href="http://www.juxia.com/webgame/war/">战争策略</a></li>
+                <li><a href="http://www.juxia.com/webgame/juese/">角色扮演</a></li>
+                <li><a href="http://www.juxia.com/webgame/sport/">体育运动</a></li>
+                <li><a href="http://www.juxia.com/webgame/moni/">模拟经营</a></li>
+                <li><a href="http://www.juxia.com/webgame/shequ/">社区养成</a></li>
+                <li><a href="http://www.juxia.com/webgame/qban/">Ｑ版</a></li>
+                <li><a href="http://www.juxia.com/webgame/sanguo/">三国</a></li>
+                <li><a href="http://www.juxia.com/webgame/wuxia/">武侠</a></li>
+                <li><a href="http://www.juxia.com/webgame/mohuan/">魔幻</a></li>
+                <li><a href="http://www.juxia.com/webgame/xingji/">星际</a></li>
+                <li><a href="http://www.juxia.com/webgame/junshi/">军事</a></li>
+                <li><a href="http://www.juxia.com/webgame/tiyu/">体育</a></li>
+                <li><a href="http://www.juxia.com/webgame/hanghai/">航海</a></li>
+                <li><a href="http://www.juxia.com/webgame/xianxia/">仙侠</a></li>
+                <li><a href="http://www.juxia.com/webgame/other/">其他</a></li>
+            </ul>
+        </div>
+        <div class="bg_footer_txt_yx bg_line pingt">
+            <span>找平台</span>
+            <ul>
+                <li><a href="http://www.juxia.com/platform/">全部</a></li>
+                <li><a href="http://www.juxia.com/platform/A/">A</a></li>
+                <li><a href="http://www.juxia.com/platform/B/">B</a></li>
+                <li><a href="http://www.juxia.com/platform/C/">C</a></li>
+                <li><a href="http://www.juxia.com/platform/D/">D</a></li>
+                <li><a href="http://www.juxia.com/platform/E/">E</a></li>
+                <li><a href="http://www.juxia.com/platform/F/">F</a></li>
+                <li><a href="http://www.juxia.com/platform/G/">G</a></li>
+                <li><a href="http://www.juxia.com/platform/H/">H</a></li>
+                <li><a href="http://www.juxia.com/platform/I/">I</a></li>
+                <li><a href="http://www.juxia.com/platform/J/">J</a></li>
+                <li><a href="http://www.juxia.com/platform/K/">K</a></li>
+                <li><a href="http://www.juxia.com/platform/L/">L</a></li>
+                <li><a href="http://www.juxia.com/platform/M/">M</a></li>
+                <li><a href="http://www.juxia.com/platform/N/">N</a></li>
+                <li><a href="http://www.juxia.com/platform/O/">O</a></li>
+                <li><a href="http://www.juxia.com/platform/P/">P</a></li>
+                <li><a href="http://www.juxia.com/platform/Q/">Q</a></li>
+                <li><a href="http://www.juxia.com/platform/R/">R</a></li>
+                <li><a href="http://www.juxia.com/platform/S/">S</a></li>
+                <li><a href="http://www.juxia.com/platform/T/">T</a></li>
+                <li><a href="http://www.juxia.com/platform/U/">U</a></li>
+                <li><a href="http://www.juxia.com/platform/V/">V</a></li>
+                <li><a href="http://www.juxia.com/platform/W/">W</a></li>
+                <li><a href="http://www.juxia.com/platform/X/">X</a></li>
+                <li><a href="http://www.juxia.com/platform/Y/">Y</a></li>
+                <li><a href="http://www.juxia.com/platform/Z/">Z</a></li>
+                <li><a href="http://www.juxia.com/platform/0/">0-9</a></li>
+            </ul>
+        </div>
+        <div class="bg_footer_txt_yx bg_line">
+            <span>看资讯</span>
+            <ul>
+                <li><a href="http://www.juxia.com/news/game/">游戏资讯</a></li>
+                <li><a href="http://www.juxia.com/news/renwu/">人物专访</a></li>
+                <li><a href="http://www.juxia.com/news/yejie/">业界新闻</a></li>
+                <li><a href="http://www.juxia.com/news/platform/">平台新闻</a></li>
+                <li><a href="http://www.juxia.com/news/exp/">游戏攻略</a></li>
+                <li><a href="http://www.juxia.com/news/player/">玩家新闻</a></li>
+                <li><a href="http://www.juxia.com/video/">游戏视频</a></li>
+                <li><a href="http://www.juxia.com/picture/">游戏图库</a></li>
+            </ul>
+        </div>
+        <div class="bg_footer_txt_yx bg_line bg_none mr0">
+            <span>其他分类</span>
+            <ul>
+                <li><a href="http://www.juxia.com/kc.html">新游开测</a></li>
+                <li><a href="http://www.juxia.com/news/huodong/">热门活动</a></li>
+                <li><a href="http://www.juxia.com/newgame/">新游戏</a></li>
+                <li><a href="http://www.juxia.com/news/newgame/">游戏评测</a></li>
+                <li><a href="http://www.juxia.com/ka/">发卡抢号</a></li>
+                <li><a href="http://www.juxia.com/top.html">游戏排行榜</a></li>
+                <li><a href="http://bg.juxia.com/bagua/">游戏八卦</a></li>
+                <li><a href="http://bg.juxia.com/shehui/">社会百态</a></li>
+                <li><a href="http://bg.juxia.com/leiren/">雷人囧事</a></li>
+                <li><a href="http://bg.juxia.com/baoliao/">大爆料</a></li>
+                <li><a href="http://bg.juxia.com/cosplay/">COS图集</a></li>
+            </ul>
+        </div>
+    </div>
+</div>
+<div class="index_link">
+    <div class="index_link_txt">
+        <div class="index_link_tit">
+            <span><em>友情链接</em>(权重低的连接已经转移到内页,请见谅.)</span><a href="http://www.juxia.com/friendlink.html" title="更多友情链接">更多连接>></a>
+        </div>
+        <div class="index_link_nei">
+            <a href="http://www.2280.com/">周公解梦</a><a href="http://www.youzu.com/">游族网络</a><a href="/sjwy/">手机网游</a><a href="http://www.2cto.com/">红黑联盟   </a><a href="http://www.99zuowen.com">初中作文</a><a href="http://www.ys8.com/">养生吧</a><a href="http://www.gezila.com/">格子啦</a><a href="http://www.lieqi.me/">猎奇</a><a href="http://www.duanwenxue.com/">短篇原创文学</a><a href="http://www.jqr5.com/  ">机器人</a><a href="http://www.easyzw.com/ ">作文大全</a><a href="http://www.benshouji.com/">笨手机游戏网</a><a href="http://www.tanwan.com/">贪玩游戏</a><a href="http://www.6681.com/">养生</a><a href="http://www.wmpic.me/">唯美图片</a><a href="http://www.4493.com/">美女图片</a><a href="http://www.3454.com/">MM小游戏</a><a href="http://www.ai7.com/">手机游戏下载</a><a href="http://www.ali213.net">单机游戏</a><a href="/h5game/">h5游戏</a><a href="http://bg.juxia.com/">聚八卦</a><a href="/qipai/">棋牌游戏</a><a href="http://web.7k7k.com/">7k7k网页游戏</a><a href="/tool/">游戏辅助工具</a><a href="/lol/">lol战斗力查询</a><a href="/jxgcld">攻城掠地</a><a href="http://www.d.cn/">当乐手机游戏</a><a href="/jxhazg">黑暗之光</a><a href="http://www.woyoo.com/">手机游戏</a><a href="http://37wan.juxia.com/">37游戏大全</a><a href="http://www.wulin.cn/">中国功夫</a><a href="http://www.178.com">178游戏网</a><a href="http://www.mianbao99.com/">奇热剧集</a><a href="http://www.4399.cn/">4399手机游戏网</a><a href="http://wanwan.sina.com.cn/">新浪网页游戏</a><a href="http://wan.renren.com/">人人网页游戏</a><a href="http://www.37.com/">37游戏</a><a href="http://www.doyo.cn/">单机游戏下载</a><a href="http://wow.tgbus.com/">魔兽世界</a><a href="http://game.3533.com/">手机应用</a><a href="http://www.07073.com/">网页游戏</a><a href="http://www.91wan.com">网页游戏</a><a href="http://iwan.juxia.com/">热门游戏排行</a><a href="http://www.3234.com/">单机游戏下载</a><a href="http://www.9553.com/">软件下载</a><a href="http://www.bamuyu.com/">网页游戏</a><a href="http://www.9k9k.com/">9K9K开服表</a><a href="http://web.52pk.com/">52PK网页游戏</a><a href="http://www.51wan.com/">51wan网页游戏</a><a href="http://game.51.com/ ">网页游戏</a><a href="http://07073.baidu.com/">网页游戏开服表</a><a href="http://web.ali213.net">游侠网页游戏</a><a href="http://www.39yst.com">养生堂</a><a href="http://games.ifeng.com ">凤凰网游戏</a><a href="http://www.86wan.com">86wan网页游戏</a><a href="http://www.kaifu.com/">最新网游</a><a href="http://www.game2.cn/">哥们网</a><a href="http://android.gamedog.cn/">安卓游戏</a><a href="http://bbs.houdao.com">猴岛游戏论坛</a><a href="http://www.youba.com/">游吧</a><a href="http://www.danji6.com ">游乐网</a><a href="http://www.77L.com/">手机游戏</a><a href="http://game.weibo.com/">网页游戏</a><a href="http://www.iapps.im">爱应用</a><a href="http://www.down.cc/">西西下载</a><a href="http://www.shouyoutv.com/">手游TV</a><a href="http://www.anfan.com">手机网游</a><a href="http://www.tcgame.com.cn">手机游戏</a><a href="http://www.yoyou.com">手机游戏</a><a href="http://www.eeyy.com">一游网</a><a href="http://mydown.yesky.com/">软件下载</a>        </div>
+    </div>
+</div>
+<div class="index_bq">
+    <p><a target="_blank" href="http://www.juxia.com/about.html" rel="nofollow">关于聚侠网</a> | <a target="_blank" href="http://www.juxia.com/friendlink.html" rel="nofollow">友情链接</a> | <a target="_blank" href="http://www.juxia.com/advertising.html" rel="nofollow">广告服务</a> | <a target="_blank" href="http://www.juxia.com/contactus.html" rel="nofollow">联系我们</a> | <a target="_blank" href="http://www.juxia.com/sitemap.html">网站地图</a> | <a target="_blank" href="http://www.juxia.com/job.html" rel="nofollow">网站招聘</a> | <a target="_blank" href="http://www.juxia.com/allgames.html">全部游戏</a> | <a target="_blank" href="http://www.juxia.com/allplatform.html">全部平台</a></p>
+    <p><a target="_blank" href="http://www.juxia.com/">聚侠网</a> | <a target="_blank" href="http://www.2280.com/">周公解梦</a> | <a target="_blank" href="http://www.77l.com/">手机游戏</a> | <a target="_blank" href="http://www.3234.com/">3234单机游戏</a> | <a target="_blank" href="http://www.45575.com/">45575小游戏</a> | ICP证：赣B2-20150090</p>
+    <p>Copyright @ 2010-2013 www.juxia.com 江西巨网科技股份有限公司 赣ICP备12001941号-15</p>
+</div>
+<div class="fixed_bar">
+    <span class="title">关注公众号</span> <span class="qrcode"></span>
+    <p class="links"> <a href="#webgame" target="_self">网页游戏</a> <a href="#ju_gift" target="_self">礼包福利</a> <a href="#ju_mobile" target="_self">手机游戏</a> <a href="#ju_gossip" target="_self">八卦美图</a> </p>
+    <span class="gotoTop">返回顶部</span>
+</div>
+<script type="text/javascript">Juxia_A_D("index_mid_fixed")</script> 
+<script type="text/javascript" src="http://rwq.youle55.com/r/mr_19123_7796.js"></script> 
+<script type="text/javascript" >
+    var is_index = '1';
+</script> 
+<script>
+    function random_hotgame(){
+        var length = $(".ju_tab_title li").length;
+        var ran_num = Math.floor(Math.random()*length);
+        $(".ju_tab_title li.current").removeClass("current");
+        $(".ju_tab_title li").eq(ran_num).addClass("current");
+        $(".jutabbox").css("display","none");
+        $(".jutabbox").eq(ran_num).css("display","block");
+    }
+    random_hotgame();
+</script>
+<script type="text/javascript" src="/public/js/indexfoot.js"></script> 
+<span style="display:none"><script type="text/javascript" src="/public/js/tongji.js"></script></span>
+</body>
+</html>

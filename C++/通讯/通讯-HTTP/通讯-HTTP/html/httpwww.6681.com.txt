@@ -1,0 +1,2308 @@
+HTTP/1.1 200 OK
+Date: Sat, 25 Mar 2017 04:35:08 GMT
+Content-Type: text/html
+Transfer-Encoding: chunked
+Connection: close
+Expires: Fri, 24 Mar 2017 06:46:30 GMT
+Server: nginx
+Vary: Accept-Encoding
+X-Powered-By: PHP/5.4.41
+Pragma: cache
+Cache-Control: max-age=3600
+Last-Modified: Fri, 24 Mar 2017 05:41:08 GMT
+X-Ser: BC144_dx-lt-yd-zhejiang-ningbo-2-cache-2, BC214_dx-zhejiang-jinhua-2-cache-3
+
+1dd8
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<title>养生_养生之道_中医养生之道_养生网_6681养生网</title>
+	<meta name="description" content="养生_养生之道_中医养生之道_养生网_6681养生网" />
+	<meta http-equiv="Cache-Control" content="no-transform" />
+	<meta http-equiv="Cache-Control" content="no-siteapp" />
+	<script src="/jump.php" type="text/javascript"></script>
+	<link rel="stylesheet" type="text/css" href="/assets/yshb/css/index.css" />
+	<script src="/assets/yshb/js/js_2014/time.js" type="text/javascript"></script>
+	<script src="/assets/yshb/js/js_2014/house.js" type="text/javascript"></script>
+	<script src="/assets/yshb/js/js_2014/ysshiping.js" type="text/javascript"></script>
+	<script src="/assets/yshb/js/js_2014/jquery-1.4.4.min.js" type="text/javascript"></script>
+	<script src="/assets/yshb/js/js_2014/index.js" type="text/javascript"></script>
+	<script src='/js/uaredirect.js' type='text/javascript'></script>
+	<script type="text/javascript">uaredirect("http://m.6681.com/");</script>
+	<meta name="shenma-site-verification" content="f4688fe39c9c3964fd68a8e3ccf29945_1445913636">
+</head>
+<body>
+<div id="top">
+    <div id="top_nav"> <a href="http://m.6681.com/"  class="shou">手机版</a> <span class="time">| 今天是: <script>showCal()</script></span> </div>
+</div>
+<!--导航-->
+<div class="menu">
+    <div class="logo"><a href="/" title="6681养生网">
+            <h1>6681养生网</h1>
+        </a></div>
+    <div class="nav">
+        <p><a href="/yinshi/"><b>饮食养生</b></a><a href="/caipu/">食谱</a><a href="/shiliao/">食疗</a><br>
+            <a href="/ranqun/"><b>养生人群</b></a><a href="/ranqun/nanxing/">男人</a><a href="/ranqun/nvxing/">女人</a></p>
+        <p><a href="/zhongyi/"><b>中医养生</b></a><a href="/zhongyi/baguan/">拔罐</a><a href="/zhongyi/guasha/">刮痧</a><br>
+            <a href="/xinliyangsheng/"><b>心理养生</b></a><a href="/xinliyangsheng/xingzuo/">星座</a><a href="/xinliyangsheng/shengxiao/">生肖</a></p>
+        <p><a href="/baojian/"><b>养生保健</b></a><a href="/baojian/jianfei/">减肥</a><a href="/baojian/meirong/">美容</a><br>
+            <a href="/yundong/"><b>运动养生</b></a><a href="/yundong/jianshen/">健身</a><a href="/yundong/yujia/">瑜伽</a></p>
+        <p><a href="/jibing/"><b>常见疾病</b></a><a href="/jibing/weizhang/">胃胀</a><a href="/jibing/jiyan/">鸡眼</a><br>
+            <a href="/sex/"><b>两性养生</b></a><a href="/sex/baojian/">保健</a><a href="/jiedu/"><font color="#FF0000">戒毒</font></a></p>
+        <p class="ri"><a href="/yszt/">养生专题</a><a href="/xiyiyaocai/">西医养生</a><br>
+            <a href="/jkzt/">健康专题</a><a href="http://ask.6681.com/">养生问答</a></p>
+    </div>
+    <div class="zhuanlan">
+        <div class="zhuanlan_left"><b>养生专栏</b></div>
+        <div class="zhuanlan_right">
+            <a href="/yule/shijie/">世界之最</a> | <a href="/zhongyi/yaofang/">中医偏方</a> | <a class="red" href="/zhongyi/xuewei/">中医穴位</a>| <a
+
+                    href="/xinliyangsheng/fengshui/">风水学</a> | <a href="/xiyiyaocai/paiduyangyan/">排毒养颜</a> | <a href="/ranqun/laozhen/">落枕治疗</a> | <a
+
+                    href="/yinshi/csgxzy/">功效与作用</a> | <a href="/xiyiyaocai//">西医药材</a> | <a href="/yinshi/yyjz/">营养价值</a> | <a href="/zhoutang/">养生粥汤</a> | <a
+
+                    href="/zhoutang/cha/">养生茶</a> | <a href="/caipu/jianfei/">减肥食谱</a> | <a href="/baojian/anmo/">保健按摩</a> | <a href="/guangcahngwu/">广场舞</a> |
+        </div>
+    </div>
+</div>
+
+<!--搜索-->
+<div class="search">
+    <form action="http://so.6681.com/cse/search" accept-charset="utf-8" onsubmit="document.charset='utf-8';" class="search_left">
+    <input type="hidden" name="s" value="5468359756913754592">
+    
+        <input type="text" name="q" class="stext" value="搜一下，了解春季养生" onblur="if(this.value=='')this.value='搜一下，了解春季养生';" onfocus="if(this.value=='搜一下，了解春季养生')this.value='';" style="border:0;">
+        <input type="submit" class="sbt" value="养生搜索">
+    </form>
+    <div class="sosobg_2011_right">
+        <div class="sosobg_2011_right1">热门搜索：
+        
+                <a href="http://so.6681.com/cse/search?q=葛根粉 &click=1&s=5468359756913754592&nsid=">葛根粉 </a> 
+                <a href="http://so.6681.com/cse/search?q=食谱 &click=1&s=5468359756913754592&nsid=">食谱 </a> 
+                <a href="http://so.6681.com/cse/search?q=春季&click=1&s=5468359756913754592&nsid=">春季 </a> 
+                <a href="http://so.6681.com/cse/search?q=护肤 &click=1&s=5468359756913754592&nsid=">护肤 </a> 
+                <a href="http://so.6681.com/cse/search?q=美白 &click=1&s=5468359756913754592&nsid=">美白 </a> 
+                <a href="http://so.6681.com/cse/search?q=枸杞 &click=1&s=5468359756913754592&nsid=">枸杞 </a> 
+                <a href="http://so.6681.com/cse/search?q=芦荟胶 &click=1&s=5468359756913754592&nsid=">芦荟胶 </a> 
+                <a href="http://so.6681.com/cse/search?q=跑步&click=1&s=5468359756913754592&nsid=">跑步</a> 
+                <a href="http://so.6681.com/cse/search?q= 养生汤&click=1&s=5468359756913754592&nsid="> 养生汤</a> 
+                </div>
+    </div>
+</div>
+
+<!--主要内容-->
+<!--养生ys1-->
+<div class="all">
+	<div class="main_ys1">
+		<div class="main_ys1_left">
+			<!-- 代码 开始 -->
+			<div class="focus" id="slideContainer">
+				<div class="block">
+					<div class="cl">
+						<ul class="slideshow" id="slidesImgs">
+															<li><a target="_blank" href="http://www.6681.com/caipu/gaodian/dangao/2017/0324/142736.html" title="草莓蛋糕的做法 视觉与味觉的双重享受"><img src="/uploads/2017/3/odmoo_odmoo.jpg" width="320" height="400"  /></a><span class="yule_title">
+								草莓蛋糕的做法 视觉与味觉的双</span></li>
+															<li><a target="_blank" href="http://www.6681.com/zhongyiyaocai/ningmengpian/2017/0323/142658.html" title="柠檬泡水喝的功效与禁忌 柠檬和什么搭配好"><img src="/uploads/2017/3/lvclt.jpg" width="320" height="400"  /></a><span class="yule_title">
+								柠檬泡水喝的功效与禁忌 柠檬和</span></li>
+															<li><a target="_blank" href="http://www.6681.com/yinshi/yumi/20170322_142575.html" title="玉米的家常吃法 玉米蔬菜肉丸"><img src="/uploads/2017/3/QQobmio20170321154530_obmio.jpg" width="320" height="400"  /></a><span class="yule_title">
+								玉米的家常吃法 玉米蔬菜肉丸</span></li>
+															<li><a target="_blank" href="http://www.6681.com/yinshi/doufu/20170321_142449.html" title="麻婆豆腐的家常做法 豆腐这样搭配才营养"><img src="/uploads/2017/3/supsy_supsy.jpg" width="320" height="400"  /></a><span class="yule_title">
+								麻婆豆腐的家常做法 豆腐这样搭</span></li>
+															<li><a target="_blank" href="http://www.6681.com/baojian/chunfen/2017/0320/142396.html" title="春分养生的禁忌 三大禁忌要警惕"><img src="/uploads/2017/3/soaje_soaje.jpg" width="320" height="400"  /></a><span class="yule_title">
+								春分养生的禁忌 三大禁忌要警惕</span></li>
+							
+						</ul>
+					</div>
+					<div class="slidebar" id="slideBar">
+						<ul>
+							<li class="on">1
+1ff8
+</li>
+							<li>2</li>
+							<li>3</li>
+							<li>4</li>
+							<li>5</li>
+						</ul>
+					</div>
+				</div>
+			</div>
+			<script type="text/javascript">
+				SlideShow(5000);
+			</script>
+			<!-- 代码 结束 -->
+			<div class="chunjiys">		
+																						<div class="title"><span>春季养生</span><i><a href="http://www.6681.com/baojian/chunji" >更多</a></i></div>
+					<div class="cjys">
+					<a target="_blank" href="http://www.6681.com/baojian/chunji/2017/0322/142626.html"><img src="http://www.6681.com/uploads/2017/3/360fppgp20170322151103122_fppgp.jpg" /></a>
+					<span><a target="_blank" href="http://www.6681.com/baojian/chunji/2017/0322/142626.html" >春季养生的禁忌 避开它们身体健康</a></span>
+					<p>春季养生的禁忌有哪些?春季万物生长，但是也是非常容易发生疾病的季节。那么在春季养<a target="_blank" href="http://www.6681.com/baojian/chunji/2017/0322/142626.html" class="xiangyi">[详细]</a></p>
+					</div>
+							
+			<ul>
+									<li><a target="_blank" href="http://www.6681.com/baojian/chunji/2017/0322/142626.html" >春季养生的禁忌 避开它们身体健康</a></li>
+			    					<li><a target="_blank" href="http://www.6681.com/baojian/chunji/2017/0317/142226.html" >春季饮食小常识  吃这些更健康</a></li>
+			    					<li><a target="_blank" href="http://www.6681.com/baojian/chunji/2017/0317/142220.html" >春季养生保健秘籍  做好它们身体健康</a></li>
+			    					<li><a target="_blank" href="http://www.6681.com/baojian/chunji/2017/0308/141712.html" >春季的养生知识 七大秘诀养好身体</a></li>
+			    					<li><a target="_blank" href="http://www.6681.com/baojian/chunji/2017/0227/140878.html" >二月二养生攻略 龙抬头养好身体</a></li>
+			    					<li><a target="_blank" href="http://www.6681.com/baojian/chunji/2017/0225/140771.html" >春季养生的妙招 做好它们健康百倍</a></li>
+			    					<li><a target="_blank" href="http://www.6681.com/baojian/chunji/2017/0220/140157.html" >春季男人预防疾病的方法 做好它们远离疾病</a></li>
+			    					<li><a target="_blank" href="http://www.6681.com/baojian/chunji/2017/0216/139839.html" >春季如何养肝护肝 七种食物是肝脏的卫士</a></li>
+			    					<li><a target="_blank" href="http://www.6681.com/baojian/chunji/2017/0216/139792.html" >春季如何养肝 养肝茶来帮你</a></li>
+			    					<li><a target="_blank" href="http://www.6681.com/baojian/chunji/2017/0216/139790.html" >春季该如何降火 教你如何去春火</a></li>
+			    			</ul>
+			</div>
+
+		</div>
+
+		<!--资讯中间-->
+		<div class="main_ys1_content">
+			<div class="w410">
+									<div class="headline"><a target="_blank" href="http://www.6681.com/chengchangxinli/sxjy/2017/0324/142780.html"  title="如何提高学习效率 三方法让大脑更专注">如何提高学习效率 三方法让大脑更专注</a></div>
+								<p>
+									<a href="http://www.6681.com/xinliyangsheng/xinlixue/xwxlx/2017/0323/142686.html" target="_blank" title="洁癖是什么意思 洁癖患者的自我调适">洁癖是什么意思 洁癖</a>
+				 					<a href="http://www.6681.com/zhongyiyaocai/chuanbei/2017/0323/142675.html" target="_blank" title="川贝炖雪梨一天吃几次 川贝炖雪梨的功效">川贝炖雪梨一天吃几次</a>
+				 					<a href="http://www.6681.com/jibing/shenjieshi/shiliao/2017/0323/142663.html" target="_blank" title="吃核桃能治疗肾结石吗 消坚排石食疗方推荐">吃核桃能治疗肾结石吗</a>
+				 				</p>
+				<ul>
+											<li><em>柠檬片</em>|<a target="_blank" href="http://www.6681.com/zhongyiyaocai/ningmengpian/2017/0324/142771.html"  title="早上喝柠檬蜂蜜水好吗 喝柠檬蜂蜜水的好处">早上喝柠檬蜂蜜水好吗 喝柠檬蜂蜜水的好处</a></li>
+											<li><em>柠檬片</em>|<a target="_blank" href="http://www.6681.com/zhongyiyaocai/ningmengpian/2017/0324/142770.html"  title="柠檬可以去狐臭吗 柠檬治感冒有奇效">柠檬可以去狐臭吗 柠檬治感冒有奇效</a></li>
+											<li><em>柠檬片</em>|<a target="_blank" href="http://www.6681.com/zhongyiyaocai/ningmengpian/2017/0324/142768.html"  title="柠檬可以降血糖吗 柠檬还能治疗皮肤过敏">柠檬可以降血糖吗 柠檬还能治疗皮肤过敏</a></li>
+											<li><em>焦虑症</em>|<a target="_blank" href="http://www.6681.com/xinliyangsheng/jlz/2017/0324/142769.html"  title="老年焦虑症的表现 老人吃这些水果缓解焦虑">老年焦虑症的表现 老人吃这些水果缓解焦虑</a></li>
+											<li><em>柠檬片</em>|<a target="_blank" href="http://www.6681.com/zhongyiyaocai/ningmengpian/2017/0324/142767.html"  title="柠檬榨汁要去皮吗 鲜柠檬片泡水要去皮吗">柠檬榨汁要去皮吗 鲜柠檬片泡水要去皮吗</a></li>
+									</ul>
+				<div class="clearh8"></div>
+									<div class="headline"><a target="_blank" href="http://www.6681.com/baojian/meirong/mkcd/2017/0323/142712.html"  title="缩小毛孔的秘诀 让毛孔不再粗大">缩小毛孔的秘诀 让毛孔不再粗大</a></div>
+								<p>
+											<a target="_blank" href="http://www.6681.com/baojian/chunji/2017/0322/142630.html"  title="春季女性养生茶 常饮茶更加健康">春季女性养生茶 常饮</a>
+											<a target="_blank" href="http://www.6681.com/jibing/ruxianai/20170322_142607.html"  title="乳腺癌的食疗方法 乳腺癌术后滋补就吃这">乳腺癌的食疗方法 乳</a>
+											<a target="_blank" href="http://www.6681.com/yinshi/xiaomi/20170322_142606.html"  title="来月经可以吃小米吗 小米粥怎么熬粘稠又香">来月经可以吃小米吗 </a>
+									</p>
+				<ul>
+										   <li><em>柠檬片</em>|<a target="_blank" href="http://www.6681.com/zhongyiyaocai/ningmengpian/2017/0324/142766.html"  title="柠檬面膜的功效与作用 柠檬面膜的做法">柠檬面膜的功效与作用 柠檬面膜的</a></li>
+				    					   <li><em>事业测试</em>|<a target="_blank" href="http://www.6681.com/xinliyangsheng/sycs/2017/0324/142765.html"  title="测测现在是不是你换工作的好时机">测测现在是不是你换工作的好时机</a></li>
+				    					   <li><em>黄道吉日</em>|<a target="_blank" href="http://www.6681.com/xinliyangsheng/huangdaojiri/20170324_142763.html"  title="2017年4月出行吉日查询">2017年4月出行吉日查询</a></li>
+				    					   <li><em>热菜菜谱</em>|<a target="_blank" href="http://www.6681.com/caipu/recaicaipu/2017/0324/142737.html"  title="红烧肉的家常做法 红烧肉的营养价值">红烧肉的家常做法 红烧肉的营养价</a></li>
+				    					   <li><em>蛋糕</em>|<a target="_blank" href="http://www.6681.com/caipu/gaodian/dangao/2017/0324/142736.html"  title="草莓蛋糕的做法 视觉与味觉的双重享受">草莓蛋糕的做法 视觉与味觉的双重</a></li>
+				    				</ul>
+			</div>
+
+			<div class="ysshiping">
+				<div class="title">
+					<span>养生视频节目</span>
+					<i>
+						<a href="/shipin/gzwsys/" >养生</a>|
+						<a href="/shipin/">万家灯火</a>|
+						<a href="/shipin/yst/" >养生堂</a>
+					</i>
+				</div>
+				<div class="yssp">
+					<a href="javascript:;" onmousedown="ISL_GoDown()" onmouseup="ISL_StopDown()" onmouseout="ISL_StopDown()" class="img1" hidefocus="true"></a>
+					<div class="zong" id="ISL_zong">
+						<div class="Scrzong">
+							<div id="List1">
+								<!-- 图片列表 begin -->
+								<ul>
+																			<li><a target="_blank" href="http://www.6681.com/shipin/gzwsys/2014/0814/50362.html"><img src="http://www.6681.com/uploads/2017/1/360mvpcx20160927195435457_mvpcx.jpg" width="106px;" height="75px;" />贵州卫视养生之不上火的夏季好补药</a></li>
+																			<li><a target="_blank" href="http://www.6681.com/shipin/gzwsys/2014/0807/49858.html"><img src="http://www.6681.com/uploads/2017/1/360dwajd20161122145000694_dwajd.jpg" width="106px;" height="75px;" />贵州卫视养生之夏天为什么会怕冷</a></li>
+																			<li><a target="_blank" href="http://www.6681.com/shipin/gzwsys/2014/0801/49379.html"><img src="http://www.6681.com
+1ff8
+/uploads/2017/1/360knxrv20161026110057630_knxrv.jpg" width="106px;" height="75px;" />贵州卫视养生之吃对豆 健康又长寿</a></li>
+																			<li><a target="_blank" href="http://www.6681.com/shipin/ysydt/2013/0126/24497.html"><img src="http://www.6681.com/uploads/allimg/130126/1-1301261421310-L.jpg" width="106px;" height="75px;" />《养生一点通》揭秘甄嬛传里的中药秘方</a></li>
+																			<li><a target="_blank" href="http://www.6681.com/shipin/gzwsys/2015/0722/69525.html"><img src="http://www.6681.com/uploads/2017/1/360jlszb20160927195435457_jlszb.jpg" width="106px;" height="75px;" />贵州卫视养生之拿什么拯救脆弱的肾</a></li>
+																			<li><a target="_blank" href="http://www.6681.com/shipin/yst/2017/0113/126279.html"><img src="http://www.6681.com/uploads/allimg/170113/54-1F1131146380-L.jpg" width="106px;" height="75px;" />北京卫视养生堂尿路上皮癌的危险因素和</a></li>
+																	</ul>
+								<!-- 图片列表 end -->
+							</div>
+							<div id="List2"></div>
+						</div>
+					</div>
+					<a href="javascript:;"  onmousedown="ISL_GoUp()" onmouseup="ISL_StopUp()" onmouseout="ISL_StopUp()" class="img2" hidefocus="true"></a>
+				</div>
+				<ul class="sp">
+											<li><a target="_blank" href="http://www.6681.com/shipin/yst/2017/0112/126206.html"  title="北京卫视养生堂急性心机梗死怎么急救">北京卫视养生堂急性心机梗死怎么急救</a></li>
+											<li><a target="_blank" href="http://www.6681.com/shipin/yst/2017/0111/125995.html"  title="北京卫视养生堂三大强壮心脏的增强剂">北京卫视养生堂三大强壮心脏的增强剂</a></li>
+											<li><a target="_blank" href="http://www.6681.com/shipin/yst/2017/0110/125941.html"  title="北京卫视养生堂控糖怎么吃">北京卫视养生堂控糖怎么吃</a></li>
+											<li><a target="_blank" href="http://www.6681.com/shipin/yst/2017/0109/125844.html"  title="北京卫视养生堂阳气不足的症状">北京卫视养生堂阳气不足的症状</a></li>
+											<li><a target="_blank" href="http://www.6681.com/shipin/yst/2017/0107/125788.html"  title="北京卫视养生堂脾气虚的表现">北京卫视养生堂脾气虚的表现</a></li>
+											<li><a target="_blank" href="http://www.6681.com/shipin/yst/2017/0106/125742.html"  title="北京卫视养生堂胃溃疡胃炎的症状">北京卫视养生堂胃溃疡胃炎的症状</a></li>
+											<li><a target="_blank" href="http://www.6681.com/shipin/yst/2017/0105/125664.html"  title="北京卫视养生堂诱发肾病加重的三大原因">北京卫视养生堂诱发肾病加重的三大原因</a></li>
+											<li><a target="_blank" href="http://www.6681.com/shipin/yst/2017/0104/125597.html"  title="北京卫视养生堂气虚血虚的症状">北京卫视养生堂气虚血虚的症状</a></li>
+											<li><a target="_blank" href="http://www.6681.com/shipin/yst/2017/0103/125534.html"  title="北京卫视养生堂什么是胸痹">北京卫视养生堂什么是胸痹</a></li>
+											<li><a target="_blank" href="http://www.6681.com/shipin/yst/2016/1231/125340.html"  title="北京卫视养生堂控糖三宝">北京卫视养生堂控糖三宝</a></li>
+									</ul>
+			</div>
+		</div>
+
+		
+		<div class="main_ys1_right">
+			<div class="yszhuanti">
+				<div class="title"><span>养生专题</span>
+					<i>
+				
+					  				<a target="_blank" href="/ranqun/toutong/">头痛|</a>
+	  				  				<a target="_blank" href="/yszt/ganhuowang.html">养肝|</a>
+	  				  				<a target="_blank" href="/xiyiyaocai/paiduyangyan/">排毒养颜</a>
+	  						
+					</i>
+				</div>
+				<dl>
+											<dt><a target="_blank" href="http://www.6681.com/yszt/2017/0323/142735.html"  title="腰酸是怎么回事">腰酸是怎么回事</a></dt>
+						<dd><img src="http://www.6681.com/uploads/2017/3/360cgdsz20170323163519553_cgdsz.jpg"><p>腰酸，证名，指腰部酸楚不适。临床以肾虚较为常见。《张氏医通·诸痛门》：“腰酸悉属房劳肾虚，惟有峻补”。腰酸常兼见腰痛 ，须辨析兼证以定其治法。</p></dd>
+											<dt><a target="_blank" href="http://www.6681.com/yszt/2017/0323/142734.html"  title="白酒的功效">白酒的功效</a></dt>
+						<dd><img src="http://www.6681.com/uploads/2017/3/360beksn20170323162514313_beksn.jpg"><p>白酒以茅台酒、贵州贵酒、双沟酒、郎酒为代表，属大曲酒类。其酱香突出，幽雅细致，酒体醇厚，回味悠长，清澈透明，色泽微黄。以酱香为主，略有焦香，香味细腻、复杂、柔顺</p></dd>
+											<dt><a target="_blank" href="http://www.6681.com/yszt/2017/0321/142541.html"  title="下午茶吃什么 尽享悠闲时光">下午茶吃什么 尽享悠闲时光</a></dt>
+						<dd><img src="http://www.6681.com/uploads/2017/3/zzaow_zzaow.jpg"><p>下午茶可以追溯到英国17世纪时期，绵延至今，渐变成现代人休闲习惯。一边吃着西式糕点一边喝茶。下午茶在中国逐渐流行，随着各地餐饮文化的融合，悄然在世界各地发展起来</p></dd>
+									</dl>
+			</div>
+
+			<div class="hotpaihang">				
+				<div class="title"><span>节气养生</span>
+					<i>
+					
+							  				<a href="/baojian/chunfen/">春分|</a>
+		  					  				<a href="/baojian/jingzhe/">惊蛰|</a>
+		  					  				<a href="/baojian/yushui/">雨水</a>
+		  								
+					</i>
+				</div>
+								  				
+			  							  						<div class="hot12090">
+					<ul>
+													<li><a target="_blank" href="http://www.6681.com/baojian/chunfen/2017/0317/142217.html"  title="春分养生饮食的原则  四大原则不可忘"><img src="http://www.6681.com/uploads/2017/3/360gtgdf20170317144449275_gtgdf.jpg"><i></i><span>春分养生饮食的原则  四大原则不可忘</span></a></li>
+													<li><a target="_blank" href="http://www.6681.com/baojian/chunfen/2017/0317/142215.html"  title="春分养生吃什么  错过它们肯定后悔"><img src="http://www.6681.com/uploads/2017/3/360zkaeq20170317144420898_zkaeq.jpg"><i></i><span>春分养生吃什么  错过它们肯定后悔</span></a></li>
+													<li><a target="_blank" href="http://www.6681.com/baojian/chunfen/2017/0112/126172.html"  title="春分养生要点 四大方面要警惕"><img src="http://www.6681.com/uploads/170112/42-1F11214263T46.jpg"><i></i><span>春分养生要点 四大方面要警惕</span></a></li>
+													<li><a target="_blank" href="http://www.6681.com/baojian/chunfen/2016/0322/90787.html"  title="春分湿气重怎么办　多款靓汤除湿气"><img src="http://www.6681.com/uploads/161029/42-161029152030345.jpg"><i></i><span>春分湿气重怎么办　多款靓汤除湿气</span></a></li>
+													<li><a target="_blank" href="http://www.6681.com/baojian/chunfen/2016/0322/90784.html"  title="春分吃什么　它们让你没毛病"><img src="http://www.6681.com/uploads/161029/42-161029152155221.jpg"><i></i><span>春分吃什么　它们让你没毛病</span></a></li>
+											</ul>
+				</div>
+				<div class="w250">
+					<ul>
+													<li><a target="_blank" href="http://www.6681.com/baojian/chunfen/2017/0320/142358.html" >春分养生六大诀窍 春分吃什么</a></li>
+													<li><a target="_blank" href="http://www.6681.com/baojian/chunfen/2017/0320/142354.html" >春分是什么意思 春分前后吃这些很养生</a></li>
+													<li><a target="_blank" href="http://www.6681.com/baojian/chunfen/2017/0320/142349.html" >春分节气养生食物 六种时令食物不能少</a></li>
+													<li><a target="_blank" href="http://www.6681.com/baojian/chunfen/2017/0320/142342.html" >春分的五大习俗 立春蛋吃春菜</a></li>
+											</ul>
+				</div>
+			</div>
+		</div><!-- main_ys1_right end -->
+	</div><!-- main_ys1 end -->
+						
+						<div class="main_ys2">
+						<div class="tit1000">
+							<span>饮食养生</span>
+							<i>
+								<a href="/yinshi/jkys/" >健康营养</a><em>/</em>
+								<a href="/shiliao/">食疗药膳</a><em>/</em>
+								<a href="/caipu/" >养生食谱</a><em>/</em>
+								<a href="/yinshi/siji/" >四季饮食</a><em>/</em>
+								<a href=
+1ff8
+"/yinshi/shicai/" >食材饮品</a><em>/</em>
+								<a href="/yinshi/wenhua/" >饮食文化</a>
+							</i>
+						</div>
+						<!--第二块左边-->
+						<div class="main_ys2_left">
+						<div class="shiliao">
+						<div class="tit_xiao">
+							<span>食疗养生</span>
+							<i>
+								<a href="/shiliao/jbtl/" >疾病调理</a><em>|</em>
+								<a href="/shiliao/rqss/" >人群膳食</a><em>|</em>
+								<a href="/shiliao/zftl/" >脏腑调理</a>
+							</i>
+						</div>
+						<div class="tu740">
+															<a target="_blank" href="http://www.6681.com/jibing/shenjieshi/shiliao/2017/0323/142663.html"  class="piclink"><img src="/uploads/2017/3/360dzcvg20170323102553665_dzcvg.jpg" /><i></i><span>吃核桃能治疗肾结石吗 消坚排石食疗方推荐</span></a>
+													<div class="new410174">
+
+															<div class="headline"><a target="_blank" href="http://www.6681.com/yinshi/tfdys/2017/0322/142552.html"  title="痛风患者饮食黑名单 盘点痛风的禁忌食物">痛风患者饮食黑名单 盘点痛风的禁忌食物
+									</a>
+															</div>
+							<dl>
+								<dt>·</dt>
+								<dd>
+
+																			<a target="_blank" href="http://www.6681.com/jibing/tuofa/chishemehao/2017/0324/142777.html">脱发如何治疗效果好 八大食疗方助</a>
+																			<a target="_blank" href="http://www.6681.com/yinshi/tfdys/2017/0322/142552.html">痛风患者饮食黑名单 盘点痛风的禁</a>
+																	</dd>
+								<dt>·</dt>
+								<dd>
+
+																			<a target="_blank" href="http://www.6681.com/ruxianzengsheng/shiliao/2017/0321/142476.html">乳腺增生煲什么好 试试九款食疗方</a>
+																			<a target="_blank" href="http://www.6681.com/qianliexianyan/shiliao/2017/0317/142164.html">青少年前列腺炎自愈吗 中医治前列</a>
+																	</dd>
+								
+								
+								<dl>
+																			<div class="headline"><a target="_blank" href="http://www.6681.com/ruxianzengsheng/shiliao/2017/0321/142476.html">乳腺增生煲什么好 试试九款食疗方
+											</a></div>
+																	</dl>
+								
+								<dt>·</dt>
+								<dd>
+																			<a target="_blank" href="http://www.6681.com/naotan/yinshi/2017/0306/141478.html">小儿脑瘫怎么预防 小儿脑瘫的饮食</a>
+																			<a target="_blank" href="http://www.6681.com/jibing/kqky/chishenmehao/2017/0303/141303.html">口腔溃疡吃什么好得快 多吃六种水</a>
+																	</dd>
+								
+								<dt>·</dt>
+								<dd>
+																			<a target="_blank" href="http://www.6681.com/dianxian/yinshi/2017/0302/141191.html">癫痫病人食疗吃什么 不同症状要对</a>
+																			<a target="_blank" href="http://www.6681.com/jibing/gaoxueya/yinshi/2017/0228/140943.html">高血压饮食吃些什么 七款适合高血</a>
+																	</dd>
+							</dl>
+						</div>
+						</div>
+						</div>
+						<div class="shipu">
+						<div class="tit_xiao"><span>养生食谱</span><i><a href="/caipu/jiachangcai/" >家常菜谱</a><em>|</em><a href="/zhoutang/" >养生粥汤</a><em>|</em><a href="/caipu/jianfei/" >减肥食谱</a></i></div>
+						<div class="img100">
+						<ul>
+															<li><a target="_blank" href="http://www.6681.com/gaodian/guihuagao/2017/0324/142773.html" ><img src="http://www.6681.com/uploads/2017/3/360ddyee20170324113217140_ddyee.jpg" />正宗桂花糕的制作方法 六种清甜爽口的做法</a></li>
+															<li><a target="_blank" href="http://www.6681.com/gaodian/quqi/2017/0323/142667.html" ><img src="http://www.6681.com/uploads/2017/3/360ojtmx20170323103725664_ojtmx.jpg" />丹麦皇家曲奇多少钱 美味饼干在家做</a></li>
+															<li><a target="_blank" href="http://www.6681.com/gaodian/huafubing/2017/0322/142549.html" ><img src="http://www.6681.com/uploads/2017/3/360lvrlu20170322102515966_lvrlu.jpg" />做华夫饼用什么面粉 教你五种简单好吃的做法</a></li>
+															<li><a target="_blank" href="http://www.6681.com/gaodian/musidangao/2017/0321/142472.html" ><img src="http://www.6681.com/uploads/2017/3/360knqdf20170321112030696_knqdf.jpg" />慕斯蛋糕的口感 各种口味任你挑</a></li>
+															<li><a target="_blank" href="http://www.6681.com/gaodian/laopobing/2017/0320/142351.html" ><img src="http://www.6681.com/uploads/2017/3/360szhmr20170320102549709_szhmr.jpg" />自制简易老婆饼做法 皮薄馅厚的家常做法</a></li>
+															<li><a target="_blank" href="http://www.6681.com/gaodian/lvdougao/2017/0318/142257.html" ><img src="http://www.6681.com/uploads/2017/3/360mqvwu20170318100825321_mqvwu.jpg" />蒸绿豆糕的做法大全 绿豆糕怎么蒸好吃</a></li>
+													</ul>
+						</div>
+						<div class="ul320">
+						<ul>
+															<li><a target="_blank" href="http://www.6681.com/gaodian/sanmingzhi/2017/0322/142631.html" >番茄三明治的做法 五分钟搞定的营养早餐</a></li>
+															<li><a target="_blank" href="http://www.6681.com/caipu/ersuicaipu/2017/0322/142627.html" >二岁宝宝晚餐吃什么 推荐8款营养粥做法</a></li>
+															<li><a target="_blank" href="http://www.6681.com/caipu/wancan/20170322_142624.html" >超简单的晚饭做法大全 懒人版盖饭怎么做</a></li>
+															<li><a target="_blank" href="http://www.6681.com/gaodian/huafubing/2017/0322/142549.html" >做华夫饼用什么面粉 教你五种简单好吃的做法</a></li>
+															<li><a target="_blank" href="http://www.6681.com/caipu/shuizhuroupian/20170321_142520.html" >鲜嫩水煮肉片怎么做 在家做出正宗口味</a></li>
+															<li><a target="_blank" href="http://www.6681.com/caipu/shanxixiaochi/2017/0321/142518.html" >猪血灌肠的制作方法 嫩软清香的山西美味</a></li>
+															<li><a target="_blank" href="http://www.6681.com/zhoutang/donggua/2017/0321/142514.html" >冬瓜虾仁汤的做法 清热瘦身必备养生汤</a></li>
+															<li><a target="_blank" href="http://www.6681.com/caipu/sansuicaipu/2017/0321/142509.html" >3岁宝宝补锌吃什么 宝宝缺锌怎么食补</a></li>
+															<li><a target="_blank" href="http://www.6681.com/gaodian/musidangao/2017/0321/142472.html" >慕斯蛋糕的口感 各种口味任你挑</a></li>
+															<li><a target="_blank" href="http://www.6681.com/caipu/liangcai/2017/0321/142468.html" >海带丝的凉拌做法 春季不可错过的凉菜</a></li>
+							
+						</ul>
+						</div>
+						</div>
+						<div class="jiankang">
+						<div class="tit_xiao">
+							<span>健康营养</span>
+							<i>
+								<a href="/yinshi/yingyang/" >营养搭配</a><em>|</em>
+								<a href="/yinshi/yyjz/" >营养价值</a><em>|</em>
+								<a href="/yinshi/ysjj/" >饮食禁忌</a>
+							</i>
+						</div>
+						<div class="imgleft">
+															<a target="_blank" href="http://www.6681.com/yinshi/ysjj/2017/0323/142673.html" ><img src="http://www.6681.com/uploads/2017/3/360lhptt20170323105147809_lhptt.jpg" />胆固醇高不能吃什么 15种食物千万别吃</a>
+													</div>
+						<ul>
+															<li><a target="_blank" href="http://www.6681.com/yinshi/ysjj/2017/0323/142673.html" >胆固醇高不能吃什么 15种食物千万别吃</a></li>
+															<li><a target="_blank" href="http://www.6681.com/yinshi/yingyang/2017/0322/142571.html" >蔬菜怎么搭配有营养 蔬菜食用搭配小技巧</a></li>
+															<li><a target="_blank" href="http://www.6681.com/yinshi/jkys/ysxcs/2017/0322/142569.html" >吃什么水果可以去火 八种水果降火快</a></li>
+															<li><a target="_blank" href="http://www.6681.com/yinshi/ysjj/2017/0321/142498.html" >男人吃什么会肾虚 竟是吃它们导致的</a></li>
+															<li><a target="_blank" href="http://www.6681.com/yinshi/yyjz/2017/0321/142490.html" >小油菜的营养价值 吃油菜的五大好处</a></li>
+															<li><a target="_blank" href="http://www.6681.com/yinshi/yingyang/2017/0320/142356.html" >蒜苗怎么做好吃 推荐五款最宜搭配菜谱</a></li>
+													</ul>
+						</div>
+
+						<div class="jiankang">
+						<div class="tit_xiao">
+1000
+
+							<span>四季饮食</span>
+							<i>
+								<a href="/yinshi/siji/cjys/" >春季饮食</a><em>|</em>
+								<a href="/yinshi/siji/xjys/" >夏季饮食</a><em>|</em>
+								<a href="/yinshi/siji/djys/" >冬季饮食</a>
+							</i>
+						</div>
+						<div class="imgleft">
+															<a target="_blank" href="http://www.6681.com/yinshi/siji/cjys/2017/0323/142676.html" ><img src="http://www.6681.com/uploads/2017/3/360vrmwt20170323105951383_vrmwt.jpg"/>春季祛湿汤食谱 健脾祛湿六款汤少不了</a>
+													</div>
+						<ul>
+															<li><a target="_blank" href="http://www.6681.com/yinshi/siji/cjys/2017/0322/142634.html" >春天煲什么汤好 养肝护肝七款汤</a></li>
+															<li><a target="_blank" href="http://www.6681.com/yinshi/siji/cjys/2017/0320/142362.html" >春分吃什么传统食物 适合春分喝的养生粥</a></li>
+															<li><a target="_blank" href="http://www.6681.com/yinshi/siji/cjys/2017/0318/142268.html" >春季喝什么花茶好 美容养颜多喝它们</a></li>
+															<li><a target="_blank" href="http://www.6681.com/yinshi/siji/cjys/2017/0315/142135.html" >春天吃什么家常菜好 推荐4款补气养血菜</a></li>
+															<li><a target="_blank" href="http://www.6681.com/yinshi/siji/cjys/2017/0310/141837.html" >春季女人喝什么茶好 不同体质喝不同茶</a></li>
+															<li><a target="_blank" href="http://www.6681.com/yinshi/siji/cjys/2017/0309/141738.html" >红豆薏米的美味 薏米的做法及功效</a></li>
+													</ul>
+						</div>
+						</div>
+						<!--第二块右边-->
+						<div class="main_ys2_right">
+						<div class="ph250">
+						<div class="tit_xiao"><span>热文排行榜</span></div>
+						<ul>
+															<li><em class="col">1</em><a target="_blank" href="http://www.6681.com/caipu/jiachangcai/2013/0411/27914.html"
+
+								>烧烤材料清单及腌制方法</a></li>
+															<li><em class="col">2</em><a target="_blank" href="http://www.6681.com/caipu/zaocan/20131011_36217.html"
+
+								>发糕的家庭的做法 7个蒸锅版发糕的做法</a></li>
+															<li><em class="col">3</em><a target="_blank" href="http://www.6681.com/caipu/jianfei/2013/0723/32335.html"
+
+								>三种减肥食谱 一周瘦10斤哦</a></li>
+																						<li><em >4</em><a target="_blank" href="http://www.6681.com/yinshi/gouqi/20120521_10294.html"
+
+									>枸杞的功效与作用及食用方法</a></li>
+															<li><em >5</em><a target="_blank" href="http://www.6681.com/yinshi/juemingzi/20111214_2468.html"
+
+									>决明子泡水喝的副作用简介</a></li>
+															<li><em >6</em><a target="_blank" href="http://www.6681.com/yinshi/dasuan/2013/0620/30767.html"
+
+									>大蒜的各种腌制方法</a></li>
+															<li><em >7</em><a target="_blank" href="http://www.6681.com/yinshi/kafei/2012/0528/10947.html"
+
+									>喝咖啡的利弊</a></li>
+															<li><em >8</em><a target="_blank" href="http://www.6681.com/caipu/wancan/20121120_21329.html"
+
+									>简单易做的晚餐食谱大全</a></li>
+															<li><em >9</em><a target="_blank" href="http://www.6681.com/caipu/jiachangcai/2013/0803/32993.html"
+
+									>家常素菜 家常素菜的做法大全</a></li>
+															<li><em >10</em><a target="_blank" href="http://www.6681.com/zhoutang/hongcha/20130829_34404.html"
+
+									>喝红茶的好处和坏处   红茶的功效与禁忌</a></li>
+													</ul>
+						</div>
+						<div class="shicai">
+						<div class="tit_xiao"><span>食材饮品</span></div>
+						<div class="clearh10"></div>
+															<a href='yinshi/juecai'>蕨菜</a>
+															<a href='yinshi/heidou'>黑豆</a>
+															<a href='yinshi/yumi'>玉米</a>
+															<a href='yinshi/yanmai'>燕麦</a>
+															<a href='yinshi/candou'>蚕豆</a>
+															<a href='yinshi/ximi'>西米</a>
+															<a href='yinshi/xiaomi'>小米</a>
+															<a href='yinshi/guiyuan'>桂圆</a>
+															<a href='yinshi/shancha'>山楂</a>
+											
+1ff8
+				<a href='yinshi/lianzi'>莲子</a>
+															<a href='yinshi/baiguo'>白果</a>
+															<a href='yinshi/paigu'>排骨</a>
+															<a href='yinshi/liyu'>鲤鱼</a>
+															<a href='yinshi/doufu'>豆腐</a>
+															<a href='yinshi/suannai'>酸奶</a>
+															<a href='yinshi/niunai'>牛奶</a>
+															<a href='yinshi/xia'>虾</a>
+															<a href='yinshi/maotaijiu'>茅台酒</a>
+															<a href='yinshi/fengmi'>蜂蜜</a>
+															<a href='yinshi/juemingzi'>决明子</a>
+															<a href='yinshi/qiaokeli'>巧克力</a>
+															<a href='yinshi/kaixinguo'>开心果</a>
+															<a href='yinshi/taozi'>桃子</a>
+															<a href='yinshi/ganlanyou'>橄榄油</a>
+															<a href='yinshi/baoyu'>鲍鱼</a>
+															<a href='yinshi/lajiao'>辣椒</a>
+															<a href='yinshi/niurous'>牛肉</a>
+															<a href='yinshi/yangrous'>羊肉</a>
+															<a href='yinshi/shanyao'>山药</a>
+															<a href='yinshi/gouqi'>枸杞</a>
+															<a href='yinshi/youzi'>柚子</a>
+															<a href='yinshi/huolongguo'>火龙果</a>
+															<a href='yinshi/xiangjiao'>香蕉</a>
+															<a href='yinshi/xingren'>杏仁</a>
+															<a href='yinshi/wuhuaguo'>无花果</a>
+															<a href='yinshi/jirou'>鸡肉</a>
+															<a href='yinshi/dabaicai'>大白菜</a>
+															<a href='yinshi/tudou'>土豆</a>
+															<a href='yinshi/heikafei'>黑咖啡</a>
+															<a href='yinshi/kafei'>咖啡</a>
+															<a href='zhoutang/cha'>养生茶</a>
+															<a href='yinshi/donggua'>冬瓜</a>
+															<a href='shicai/jidan'>鸡蛋</a>
+															<a href='yinshi/huanggua'>黄瓜</a>
+															<a href='yinshi/xigua'>西瓜</a>
+															<a href='yinshi/lanmei'>蓝莓</a>
+															<a href='yinshi/xihongshi'>西红柿</a>
+															<a href='yinshi/jingmi'>粳米</a>
+													</div>
+						</div>
+
+						</div>
+
+						<!--养生ys3-->
+						<div class="main_ys3">
+						<div class="tit1000">
+							<span>养生人群</span>
+							<i>
+								<a href="/ranqun/dazhong/" >大众健康</a><em>/</em>
+								<a href="/ranqun/nanxing/" >男性</a><em>/</em>
+								<a href="/ranqun/nvxing/" >女性</a><em>/</em>
+								<a href="/ranqun/laonian/" >老人</a><em>/</em>
+								<a href="/ranqun/yunfu/" >孕妇</a><em>/</em>
+								<a href="/ranqun/youer/" >幼儿</a>
+							</i>
+						</div>
+						<!--第三部分左边-->
+						<div class="main_ys3_left">
+						<div class="leftnew">
+						<div class="img320">
+															<a target="_blank" href="http://www.6681.com/ranqun/weiai/20170322_142566.html" ><img src="http://www.6681.com/uploads/2017/3/360ormzu20170322110745144_ormzu.jpg" /><i></i><span>胃癌的早期能治好吗 胃癌最青睐的</span></a>
+													</div>
+						<div class="new410">
+															<div class="headline"><a target="_blank" href="http://www.6681.com/ranqun/nanxing/2017/0320/142391.html"  title="男性养生保健 男性最不可缺少的五大元素">男性养生保健 男性最不可缺少的五</a></div>
+													<dl>
+						<dt>·</dt><dd>
+																	<a target="_blank" href="http://www.6681.com/ranqun/nvxing/2017/0320/142392.html" >女性化妆知识 这几个冷知识你知道</a>
+																	<a target="_blank" href="http://www.6681.com/ranqun/nanxing/2017/0320/142391.html" >男性养生保健 男性最不可缺少的五</a>
+														</dd>
+						<dt>·</dt><dd>
+																	<a target="_blank" href="http://www.6681.com/ranqun/nanxing/2017/0313/142029.html" >男生护肤的正确步骤 这十种东西千</a>
+																	<a target="_blank" href="http://www.6681.com/ranqun/nvxing/2017/0313/142028.html" >阴道炎有哪些症状 做好几点远离阴</a>
+														</dd>
+						<dt>·</dt><dd>
+																	<a target="_blank" href="http://www.6681.com/ranqun/nanxing/2017/0306/141483.html" >男性肥胖的危害 肥胖为什么容易高</a>
+																	<a target="_blank" href="http://www.6681.com/ranqun/nvxing/2017/0306/141482.html" >女性吃燕麦的好处 燕麦神奇的美容</a>
+														</dd>
+						</dl>
+															<div class="headline"><a target="_blank" href="http://www.6681.com/ranqun/nanxing/2017/0313/142029.html"  title="男生护肤的正确步骤 这十种东西千万别往脸上涂">男生护肤的正确步骤 这十种东西千
+
+								</a></div>
+													<dl>
+						<dt>·</dt><dd>
+																	<a target="_blank" href="http://www.6681.com/ranqun/nanxing/2017/0227/140860.html" >男性春季养生原则 春季健身记住六</a>
+																	<a target="_blank" href="http://www.6681.com/ranqun/nvxing/2017/0227/140859.html" >女性裸睡的好处 女人裸睡注意六点</a>
+														</dd>
+						<dt>·</dt><dd>
+																	<a target="_blank" href="http://www.6681.com/ranqun/laonianban/2017/0224/140568.html" >淡化老年斑的小妙招 老年斑患者注</a>
+																	<a target="_blank" href="http://www.6681.com/ranqun/nanxing/2017/0223/140481.html" >男人健脾吃什么好 最常见的九种健</a>
+														</dd>
+						<dt>·</dt><dd>
+																	<a target="_blank" href="http://www.6681.com/ranqun/nvxing/2017/0223/140480.html" >女人更年期吃什么好 这七种食物不</a>
+																	<a target="_blank" href="http://www.6681.com/ranqun/bibu/2017/0221/140203.html" >鼻涕带血是怎么回事 解决感冒流鼻</a>
+														</dd>
+						</dl>
+						</div>
+						</div>
+						<div class="w365 mr10">
+						<div class="tit_xiao">
+							<span>男性</span>
+								<i><a href="/ranqun/nanxing/">更多</a></i>
+						</div>
+						<div class="all365">
+															<a target="_blank" href="http://www.6681.com/ranqun/nanxing/2017/0320/142391.html"><img src="http://www.6681.com/uploads/2017/3/360cutvw20170320134420005_cutvw.jpg"></a>
+								<span><a target="_blank" href="http://www.6681.com/ranqun/nanxing/2017/0320/142391.html">男性养生保健 男性最不可缺少的五</a></span>
+								<p>男性养生保健要做好哪些？现在的人越来越注重养生，那大家知道男性养生保健要怎么做吗？下<a target="_blank" href="http://www.6681.com/ranqun/nanxing/2017/0320/142391.html" class="xiangyi">[详细]</a></p>
+													</div>
+						<ul>
+															<li><a target="_blank" href="http://www.6681.com/ranqun/nanxing/2017/0313/142029.html" >男生护肤的正确步骤 这十种东西千</a></li>
+															<li><a target="_blank" href="http://www.6681.com/ranqun/nanxing/2017/0306/141483.html" >男性肥胖的危害 肥胖为什么容易高</a></li>
+															<li><a target="_blank" href="http://www.6681.com/ranqun/nanxing/2017/0227/140860.html" >男性春季养生原则 春季健身记住六</a></li>
+															<li><a target="_blank" href="http://www.6681.com/ranqun/nanxing/2017/0223/140481.html" >男人健脾吃什么好 最常见的九种健</a></li>
+													</ul>
+						</div>
+						<div class="w365">
+						<div class="tit_xiao">
+							<span>女性</span>
+							<i>
+								<a href="/ranqun/yunqi/" >孕期</a><em>|</em>
+								<a href="/ranqun/taijiao/" >胎教</a><em>|</em>
+								<a href="/ranqun/chanhou/" >产后</a>
+							</i>
+						</div>
+						<div class="ul365">
+						<ul>
+															<li><a target="_blank" href="http://www.6681.com/xinliyangsheng/yunqi/20170320_142417.html" ><img src="http://www.6681.com/uploads/2017/3/360xvcfc20170320153053975_xvcfc.jpg" ><i></i><span>怎样缓解孕期抑郁症 孕期抑郁的原</span></a></li>
+															<li><a target="_blank" href="http://www.6681.com/xinliyangsheng/yunqi/20170320_142416.html" ><img src="http://www.6681.com/uploads/2017/3/360amcww20170320153110578_amcww.jpg" ><i></i><span>孕妇怎么控制体重 控制孕妇体重的</span></a></li>
+															<li><a target="_blank" href="http://www.6681.com/ranqun/yunqi/20170320_142411.html" ><img src="http://www.6681.com/uploads/2017/3/360noqkk20170320151942667_noqkk.jpg" ><i></i><span>孕晚期胎动看男女 胎动频繁会是男</span></a></li>
+							
+1ff8
+						</ul>
+						</div>
+						<ul>
+															<li><a target="_blank" href="http://www.6681.com/ranqun/yunqi/20170320_142411.html" >孕晚期胎动看男女 胎动频繁会是男</a></li>
+															<li><a target="_blank" href="http://www.6681.com/ranqun/taijiao/2017/0320/142410.html" >胎教和不胎教的区别 受过胎教的孩</a></li>
+															<li><a target="_blank" href="http://www.6681.com/ranqun/chanhou/2017/0320/142408.html" >产后腰疼如何恢复 产后腰痛四大真</a></li>
+															<li><a target="_blank" href="http://www.6681.com/ranqun/yunqian/2017/0320/142407.html" >备孕注意事项 二手烟对孕妇的危害</a></li>
+													</ul>
+						</div>
+						<div class="w365 mr10">
+							<div class="tit_xiao">
+								<span>幼儿</span>
+								<i><a href="/ranqun/youer/">更多</a></i>
+							</div>
+							<ul>
+																	<li><a target="_blank" href="http://www.6681.com/ranqun/yingeqi/2017/0204/138535.html" >九个月宝宝辅食食谱 这几款食谱营</a></li>
+																	<li><a target="_blank" href="http://www.6681.com/ranqun/xinshenger/2017/0120/137460.html" >新生儿睡眠特征 怎样读懂宝宝睡醒</a></li>
+																	<li><a target="_blank" href="http://www.6681.com/ranqun/xueling/2016/1228/125147.html" >学龄期儿童 早教的误区</a></li>
+																	<li><a target="_blank" href="http://www.6681.com/ranqun/yeq/2016/1124/122841.html" >幼儿园早教 上幼儿园的最佳年龄</a></li>
+																	<li><a target="_blank" href="http://www.6681.com/ranqun/xueling/2016/1118/122380.html" >学龄期儿童 多大BB需穿内裤</a></li>
+																	<li><a target="_blank" href="http://www.6681.com/ranqun/xinshenger/2016/1103/121340.html" >新生儿睡姿 新生儿哭闹不睡觉</a></li>
+														</ul>
+						</div>
+						<div class="w365">
+						<div class="tit_xiao">
+							<span>大众健康</span>
+							<i>
+								<a href="/ranqun/laozhen/" >落枕</a><em>|</em>
+								<a href="/ranqun/jiejiu/" >戒酒</a><em>|</em>
+								<a href="/ranqun/changweiyan/" >肠胃炎</a>
+							</i>
+						</div>
+						<ul>
+															<li><a target="_blank" href="http://www.6681.com/ranqun/laonianban/2017/0224/140568.html" >淡化老年斑的小妙招 老年斑患者注</a></li>
+															<li><a target="_blank" href="http://www.6681.com/renqun/yajiankang/2017/0218/139992.html" >亚健康调理的重要性 男人亚健康该</a></li>
+															<li><a target="_blank" href="http://www.6681.com/ranqun/laduzi/2017/0217/139849.html" >拉肚子不能吃什么 拉肚子食谱推荐</a></li>
+															<li><a target="_blank" href="http://www.6681.com/renqun/yajiankang/2017/0211/139280.html" >亚健康症状 八个坏习惯让你患上亚</a></li>
+															<li><a target="_blank" href="http://www.6681.com/ranqun/dazhong/ranqun/dahan/2017/0208/138874.html" >女生打呼噜的原因 睡觉打鼾的危害</a></li>
+															<li><a target="_blank" href="http://www.6681.com/ranqun/dongchuang/2017/0126/138229.html" >冬天长冻疮怎么办 学会这几招冻疮</a></li>
+													</ul>
+						</div>
+						</div>
+						<!--第三部分右边-->
+						<div class="main_ys3_right">
+						<div class="ph250">
+						<div class="tit_xiao"><span>热文排行榜</span></div>
+						<ul>
+															<li><em class="col">1</em><a target="_blank" href="http://www.6681.com/ranqun/nvxing/2012/1023/19517.html"
+
+								>女性养生：用醋洗脸，祛斑养颜</a></li>
+															<li><em class="col">2</em><a target="_blank" href="http://www.6681.com/ranqun/yanpitiao/20121129_21783.html"
+
+								>风水学看左眼皮跳是什么预兆</a></li>
+															<li><em class="col">3</em><a target="_blank" href="http://www.6681.com/ranqun/kesou/20141029_54698.html"
+
+								>咳嗽吃什么好的快 六个快速治咳嗽的食疗秘方</a></li>
+																						<li><em>4</em><a target="_blank" href="http://www.6681.com/ranqun/nvxing/2013/1014/36332.html"
+
+									>女性养生：从6个部位看女人性衰老程度</a></li>
+															<li><em>5</em><a target="_blank" href="http://www.6681.com/ranqun/laozhen/2013/0117/24044.html"
+
+									>落枕30分钟治愈方法</a></li>
+															<li><em>6</em><a target="_blank" href="http://www.6681.com/ranqun/changweiyan/20141025_54519.html"
+
+									>怎样预防肠胃炎 肠胃炎的8个预防方法</a></li>
+															<li><em>7</em><a target="_blank" href="http://www.6681.com/ranqun/bugai/20141028_54631.html"
+
+									>吃什么能补钙 盘点常见的补钙食物有哪些</a></li>
+															<li><em>8</em><a target="_blank" href="http://www.6681.com/ranqun/yunqi/20120401_7089.html"
+
+									>教你从B超单上判断男女</a></li>
+															<li><em>9</em><a target="_blank" href="http://www.6681.com/ranqun/nanxing/2014/0919/52173.html"
+
+									>男人看女人胸部有益健康</a></li>
+															<li><em>10</em><a target="_blank" href="http://www.6681.com/ranqun/nvxing/2012/0716/14022.html"
+
+									>阴毛变白的真正原因是什么？</a></li>
+													</ul>
+						</div>
+						<div class="zhiche">
+						<div class="tit_xiao">
+							<span>养身自测</span>
+						</div>
+						<ul>
+							<li><a href="/tools/bmi.html" ><img src="/assets/yshb/images/che50a.jpg" />BMI测试</a></li>
+							
+							<li><a href="/tools/yjk.html" ><img src="/assets/yshb/images/che50c.jpg" />健康评估</a></li>
+							<li><a href="/tools/tt.html" ><img src="/assets/yshb/images/che50d.jpg" />头痛自测</a></li>
+							
+							<li><a href="/tools/kll.html" ><img src="/assets/yshb/images/che50f.jpg" />卡里路计算</a></li>
+							<li><a href="/tools/bmr.html" ><img src="/assets/yshb/images/che50g.jpg" />基础代谢</a></li>
+							<li><a href="/tools/aqq.html" ><img src="/assets/yshb/images/che50h.jpg" />安全期</a></li>
+						</ul>
+						</div>
+						</div>
+						</div>
+						<!--养生ys4-->
+						<div class="main_ys4">
+						<div class="tit1000">
+							<span>中医养生</span>
+							<i>
+								<a href="/zhongyiyaocai/" >中药大全</a><em>/</em>
+								<a href="/zhongyi/liaofa/" >特色疗法</a><em>/</em>
+								<a href="/baojian/jingluo/" >经络养生</a><em>/</em>
+								<a href="/zhongyi/tizhi/" >体质养生</a><em>/</em>
+								<a href="/zhongyi/xuewei/" >穴位</a><em>/</em>
+								<a href="/zhongyi/yaofang/" >药方</a>
+							</i>
+						</div>
+						<!--第四部分左边-->
+						<div class="main_ys4_left">
+						<div class="leftnew">
+						<div class="img320">
+															<a target="_blank" href="http://www.6681.com/zhongyiyaocai/chuanbei/2017/0323/142675.html" ><img src="http://www.6681.com/uploads/2017/3/360vteid20170323105733505_vteid.jpg" /><i></i><span>川贝炖雪梨一天吃几次 川贝炖雪梨</span></a>
+													</div>
+						<div class="new410">
+															<div class="headline"><a target="_blank" href="http://www.6681.com/zhongyi/pianfang/2017/0322/142594.html"  title="降血压较好的方法 降血压超有效的食物">降血压较好的方法 降血压超有效的
+
+								</a></div>
+													<dl>
+						<dt>·</dt><dd>		
+															<a target="_blank" href="http://www.6681.com/zhongyiyaocai/ningmengpian/2017/0324/142775.html" >柠檬怎么做面膜 用柠檬面膜的</a>
+															<a target="_blank" href="http://www.6681.com/zhongyiyaocai/ningmengpian/2017/0324/142776.html" >柠檬薄荷可以吃吗 怎样分辨柠</a>
+													</dd>
+						<dt>·</dt><dd>
+																	<a target="_blank" href="http://www.6681.com/zhongyiyaocai/ningmengpian/2017/0324/142772.html" >柠檬会过敏吗 柠檬水什么时候</a>
+																	<a target="_blank" href="http://www.6681.com/zhongyiyaocai/ningmengpian/2017/0324/142771.html" >早上喝柠檬蜂蜜水好吗 喝柠檬</a>
+														</dd>
+						<dt>·</dt><dd>
+																	<a target="_blank" href="http://www.6681.com/zhongyiyaocai/ningmengpian/2017/0324/142770.html" >柠檬可以去狐臭吗 柠檬治感冒</a>
+																	<a target="_blank" href="http://www.6681.com/zhongyiyaocai/ningmengpian/2017/0324/142768.html" >柠檬可以降血糖吗 柠檬还能�
+1ff8
+��</a>
+														</dd>
+						</dl>
+															<div class="headline"><a target="_blank" href="http://www.6681.com/zhongyi/kesou/2017/0322/142586.html"  title="咳嗽不能吃的东西 解决咳嗽的食疗方">咳嗽不能吃的东西 解决咳嗽的食疗
+
+								</a></div>
+													<dl>
+						<dt>·</dt><dd>
+																	<a target="_blank" href="http://www.6681.com/zhongyi/tizhi/2017/0321/142491.html" >虚胖体质如何减肥 虚胖体质吃</a>
+																	<a target="_blank" href="http://www.6681.com/zhongyi/zydjj/2017/0317/142218.html" >服用中药的禁忌 中药过敏的误</a>
+														</dd>
+						<dt>·</dt><dd>
+																	<a target="_blank" href="http://www.6681.com/zhongyiyaocai/hongzao/20170323_142725.html" >红枣醋如何能不上火 红枣汤的</a>
+																	<a target="_blank" href="http://www.6681.com/zhongyiyaocai/hongzao/20170323_142724.html" >木耳红枣汤什么时间喝 常吃红</a>
+														</dd>
+						<dt>·</dt><dd>
+																	<a target="_blank" href="http://www.6681.com/zhongyiyaocai/hongzao/20170323_142723.html" >红枣醋如何能不上火 红枣的几</a>
+																	<a target="_blank" href="http://www.6681.com/zhongyiyaocai/hongzao/20170323_142722.html" >黄芪红枣茶的副作用 黄芪红枣</a>
+														</dd>
+						</dl>
+						</div>
+						</div>
+						<div class="w365 mr10">
+						<div class="tit_xiao"><span>特色疗法</span><i><a
+
+						href="/zhongyi/liaofa/">更多>></a></i></div>
+						<div class="all365">
+															<a target="_blank" href="http://www.6681.com/zhongyi/aijiu/2017/0321/142500.html"><img src="http://www.6681.com/uploads/2017/3/360ljmqz20170321140753123_ljmqz.jpg"></a>
+													<ul class="w255">
+															<li><a target="_blank" href="http://www.6681.com/zhongyi/liaofa/fxlf/2017/0315/142146.html" >中医放血疗法 放血疗法有科学</a></li>
+															<li><a target="_blank" href="http://www.6681.com/zhongyi/guasha/2017/0307/141620.html" >刮痧的方法 面部刮痧注意事项</a></li>
+															<li><a target="_blank" href="http://www.6681.com/zhongyi/baguan/2017/0302/141190.html" >拔罐能去除体内湿气吗 拔罐祛</a></li>
+															<li><a target="_blank" href="http://www.6681.com/zhongyi/guasha/2017/0220/140085.html" >刮痧适应症 刮痧疗法的禁忌及</a></li>
+													</ul>
+						</div>
+						</div>
+						<div class="w365">
+						<div class="tit_xiao">
+							<span>中药大全</span><i><a href="/zhongyiyaocai/">更多>></a></i>
+						</div>
+						<div class="all365">
+															<a target="_blank" href="http://www.6681.com/zhongyiyaocai/tianma/20170321_142504.html"><img src="http://www.6681.com/uploads/2017/3/360anzbv20170321141528472_anzbv.jpg"></a>
+													<ul class="w255">
+															<li><a target="_blank" href="http://www.6681.com/zhongyiyaocai/ningmengpian/2017/0313/142008.html" >柠檬枸杞菊花茶 原来他们搭配</a></li>
+															<li><a target="_blank" href="http://www.6681.com/zhongyiyaocai/ningmengpian/2017/0310/141835.html" >柠檬怎么吃 三款柠檬食谱推荐</a></li>
+															<li><a target="_blank" href="http://www.6681.com/zhongyiyaocai/taoren/2015/0527/66146.html" >桃仁红花煎的食疗功效与家常做</a></li>
+															<li><a target="_blank" href="http://www.6681.com/zhongyiyaocai/honghua/2017/0307/141600.html" >藏红花泡脚好吗 睡前泡脚注意</a></li>
+													</ul>
+						</div>
+						</div>
+						<div class="w365 mr10">
+						<div class="tit_xiao">
+							<span>经络养生</span><i><a href="/baojian/jingluo/">更多>></a></i>
+						</div>
+						<div class="all365">
+															<a target="_blank" href="http://www.6681.com/baojian/jingluo/2017/0321/142492.html"><img src="http://www.6681.com/uploads/2017/3/360julve20170321134850403_julve.jpg"></a>
+													<ul class="w255">
+															<li><a target="_blank" href="http://www.6681.com/baojian/jingluo/2017/0313/142044.html" >经络不通怎么办 这六种感觉说</a></li>
+															<li><a target="_blank" href="http://www.6681.com/baojian/jingluo/2017/0307/141625.html" >经络丰胸真的有用吗 想丰胸多</a></li>
+															<li><a target="_blank" href="http://www.6681.com/baojian/jingluo/2017/0302/141192.html" >气血不足怎么调理 敲打这些经</a></li>
+															<li><a target="_blank" href="http://www.6681.com/baojian/jingluo/2017/0221/140238.html" >疏通经络的方法 中医推荐八大</a></li>
+													</ul>
+						</div>
+						</div>
+						<div class="w365">
+						<div class="tit_xiao">
+							<span>体质养生</span><i><a href="/zhongyi/tizhi/">更多>></a></i>
+						</div>
+						<div class="all365">
+															<a target="_blank" href="http://www.6681.com/zhongyi/tizhi/2017/0321/142491.html"><img src="http://www.6681.com/uploads/2017/3/360epwwh20170321134910919_epwwh.jpg"></a>
+													<ul class="w255">
+															<li><a target="_blank" href="http://www.6681.com/zhongyi/tizhi/2017/0313/142043.html" >血瘀体质如何调理 调理体质的六大方法</a></li>
+															<li><a target="_blank" href="http://www.6681.com/zhongyi/tizhi/2017/0307/141624.html" >体质差怎么调理 心气虚怎么调理</a></li>
+															<li><a target="_blank" href="http://www.6681.com/zhongyi/tizhi/2017/0302/141177.html" >血瘀体质的表现及调养 血瘀体质的调理</a></li>
+															<li><a target="_blank" href="http://www.6681.com/zhongyi/tizhi/2017/0223/140500.html" >阳虚体质如何调理 温肾补阳多吃它们</a></li>
+													</ul>
+						</div>
+						</div>
+						</div>
+						<!--第四部分右边-->
+						<div class="main_ys4_right">
+						<div class="ph250_b">
+						<div class="tit_xiao"><span>热文排行榜</span></div>
+						<ul>
+															<li><em class="col">1</em><a target="_blank" href="http://www.6681.com/zhongyi/xuewei/2014/0905/51420.html"
+
+								>男性养生穴 3个穴位一碰就补肾强精</a></li>
+															<li><em class="col">2</em><a target="_blank" href="http://www.6681.com/zhongyi/xuewei/2012/0914/17432.html"
+
+								>8个穴位治8种常见病 记住一生受益</a></li>
+															<li><em class="col">3</em><a target="_blank" href="http://www.6681.com/baojian/jingluo/2012/1020/19367.html"
+
+								>中医养生：21个泡脚秘方顺畅经络有效排寒</a></li>
+																						<li><em>4</em><a target="_blank" href="http://www.6681.com/zhongyiyaocai/danggui/2013/0715/31965.html">当归的五大功效与作用 当归配伍禁忌</a></li>
+															<li><em>5</em><a target="_blank" href="http://www.6681.com/zhongyiyaocai/lurong/20120320_6180.html">鹿茸的七种煲汤方法</a></li>
+															<li><em>6</em><a target="_blank" href="http://www.6681.com/zhongyiyaocai/machiwan/20121022_19402.html">马齿苋的功效与作用及食用禁忌</a></li>
+															<li><em>7</em><a target="_blank" href="http://www.6681.com/baojian/jingluo/2014/1029/54778.html">打通经络除百病 揭秘经络的9大养生秘诀</a></li>
+															<li><em>8</em><a target="_blank" href="http://www.6681.com/zhongyiyaocai/ningmengpian/2013/0121/24209.html">柠檬减肥方法 一周掉12磅</a></li>
+															<li><em>9</em><a target="_blank" href="http://www.6681.com/zhongyiyaocai/lingzhi/2012/0323/6396.html">灵芝的功效与作用及食用方法</a></li>
+															<li><em>10</em><a target="_blank" href="http://www.6681.com/zhongyi/baguan/2013/0917/35382.html">拔罐操作不当对身体有哪些危害</a></li>
+													</ul>
+						</div>
+						<div class="xiyao">
+						<div class="tit_xiao">
+							<span>西医综合</span>
+							<i><a href="/xiyiyaocai/">更多>></a></i>
+						</div>
+						<ul>
+															<li><a target="_blank" href="http://www.6681.com/xiyiyaocai/weishengsua/2017/0322/142647.html" >缺少维生素都有哪些 缺乏维生素会脱发</a></li>
+															<li><a target="_blank" href="http://www.6681.com/xiyiyaocai/weishengsue/2017/0322/142646.html" >维生素对头发的作用 补脑吃什么维生素</a></li>
+															<li><a target="_blank" href="http://www.6681.com/xiyiyaocai/
+fce
+weishengsue/2017/0322/142644.html" >人体需要哪些维生素 缺少维生素的症状</a></li>
+															<li><a target="_blank" href="http://www.6681.com/xiyiyaocai/weishengsub6/2017/0322/142643.html" >维生素B6的作用与功效 维生素如何治疗皮肤病</a></li>
+															<li><a target="_blank" href="http://www.6681.com/xiyiyaocai/ejiao/20170321_142529.html" >阿胶对女性的好处 阿胶膏怎么做</a></li>
+															<li><a target="_blank" href="http://www.6681.com/xiyiyaocai/ejiao/20170321_142527.html" >阿胶膏的家常制作法 阿胶膏的好处</a></li>
+															<li><a target="_blank" href="http://www.6681.com/xiyiyaocai/paiduyangyan/2017/0321/142517.html" >排毒营养食谱 白萝卜排骨汤</a></li>
+															<li><a target="_blank" href="http://www.6681.com/xiyiyaocai/paiduyangyan/2017/0321/142516.html" >清肠排毒的方法 能排毒的食物</a></li>
+													</ul>
+						</div>
+						</div>
+						</div>
+
+						<!--养生ys5-->
+						<div class="main_ys5">
+						<div class="tit1000">
+							<span>养生保健</span>
+							<i>
+								<a href="/baojian/siji/" >四季养生</a><em>/</em>
+								<a href="/baojian/anmo/" >保健按摩</a><em>/</em>
+								<a href="/baojian/zatan/" >养生小常识</a><em>/</em>
+								<a href="/baojian/meirong/" >养生美容</a><em>/</em>
+								<a href="/baojian/jianfei/" >健康减肥</a><em>/</em>
+								<a href="/baojian/zxmr/" >整形美容</a>
+							</i>
+						</div>
+						<!--第五部分左边-->
+						<div class="main_ys5_left">
+						<div class="leftnew">
+						<div class="img320">
+															<a target="_blank" href="http://www.6681.com/baojian/meirong/mkcd/2017/0323/142712.html" ><img src="http://www.6681.com/uploads/2017/3/360jlpww20170323140543411_jlpww.jpg" /><i></i><span>缩小毛孔的秘诀 让毛孔不再粗大</span></a>
+													</div>
+						<div class="new410">
+															<div class="headline"><a target="_blank" href="http://www.6681.com/baojian/chunfen/2017/0317/142217.html"  title="春分养生饮食的原则  四大原则不可忘">春分养生饮食的原则  四大原则不可忘</a></div>
+													<dl>
+						<dt>·</dt><dd>
+																	<a target="_blank" href="http://www.6681.com/baojian/meirong/cbhl/2017/0323/142718.html">唇部护理小妙招 七个方法打造</a>
+																	<a target="_blank" href="http://www.6681.com/baojian/meirong/hs/2017/0323/142716.html">护理手部的方法 小妙招给你玉</a>
+														</dd>
+						<dt>·</dt><dd>
+																	<a target="_blank" href="http://www.6681.com/baojian/meirong/mkcd/2017/0323/142712.html">缩小毛孔的秘诀 让毛孔不再粗</a>
+																	<a target="_blank" href="http://www.6681.com/baojian/meirong/zfl/2017/0323/142708.html">什么是脂肪粒 去除脂肪粒的绝</a>
+														</dd>
+						<dt>·</dt><dd>
+																	<a target="_blank" href="http://www.6681.com/baojian/meirong/fenci/2017/0323/142703.html">怎么彻底去粉刺 帮你和粉刺说</a>
+																	<a target="_blank" href="http://www.6681.com/baojian/meirong/ky/2017/0323/142702.html">脸上出油怎么办 控油小妙招来</a>
+														</dd>
+						</dl>
+															<div class="headline"><a target="_blank" href="http://www.6681.com/baojian/chunfen/2017/0317/142215.html"  title="春分养生吃什么  错过它们肯定后悔">春分养生吃什么  错过它们肯定后
+
+								</a></div>
+													<dl>
+						<dt>·</dt><dd>
+																	<a target="_blank" href="http://www.6681.com/baojian/chunji/2017/0322/142630.html">春季女性养生茶 常饮茶更加健</a>
+																	<a target="_blank" href="http://www.6681.com/baojian/chunji/2017/0322/142626.html">春季养生的禁忌 避开它们身体</a>
+														</dd>
+						<dt>·</dt><dd>
+																	<a target="_blank" href="http://www.6681.com/baojian/zxmr/gznf/2017/0322/142622.html">光子嫩肤什么原理 光子嫩肤后</a>
+																	<a target="_blank" href="http://www.6681.com/baoj
+1ff8
+ian/zxmr/mbxz/2017/0322/142620.html">面部吸脂的手术步骤 详解面部</a>
+														</dd>
+						<dt>·</dt><dd>
+																	<a target="_blank" href="http://www.6681.com/baojian/zxmr/jgtm/2017/0322/142618.html">激光脱毛术后注意事项 三件事</a>
+																	<a target="_blank" href="http://www.6681.com/baojian/zxmr/cnmxf/2017/0322/142615.html">处女膜修复会影响生育吗 处女</a>
+														</dd>
+						</dl>
+						</div>
+						</div>
+						<div class="w365 mr10">
+						<div class="tit_xiao">
+							<span>足疗</span>
+							<i>
+								<a href="/baojian/zuliao/">更多>></a>
+							</i>
+						</div>
+						<div class="all365">
+														   <a target="_blank" href="http://www.6681.com/baojian/zuliao/2017/0310/141903.html" ><img src="http://www.6681.com/uploads/2017/3/360wryew20170310141510366_wryew.jpg" /></a>
+													<ul class="w255">
+															<li><a target="_blank" href="http://www.6681.com/baojian/zuliao/2017/0222/140391.html" >自己做足疗的方法 在家也能专业足疗</a></li>
+															<li><a target="_blank" href="http://www.6681.com/baojian/zuliao/2017/0207/138834.html" >足疗后的良性反应 这些情况别慌张</a></li>
+															<li><a target="_blank" href="http://www.6681.com/baojian/zuliao/2017/0110/125928.html" >足疗保健的误区 三大误区你犯了吗</a></li>
+															<li><a target="_blank" href="http://www.6681.com/baojian/zuliao/2016/1231/125318.html" >女人做足疗有什么好处 养生美容去疲劳</a></li>
+													</ul>
+						</div>
+						</div>
+						<div class="w365">
+						<div class="tit_xiao">
+							<span>SPA</span><i><a href="/baojian/spa/">更多>></a></i>
+						</div>
+						<div class="all365">
+														   <a target="_blank" href="http://www.6681.com/baojian/spa/2017/0310/141902.html" ><img src="http://www.6681.com/uploads/2017/3/360jtjix20170310141305926_jtjix.jpg" /></a>
+													<ul class="w255">
+															<li><a target="_blank" href="http://www.6681.com/baojian/spa/2017/0223/140512.html" >头发spa的步骤 教你养出迷人秀发</a></li>
+															<li><a target="_blank" href="http://www.6681.com/baojian/spa/2017/0207/138832.html" >女性spa注意事项 谨慎这些事情</a></li>
+															<li><a target="_blank" href="http://www.6681.com/baojian/spa/2017/0111/126029.html" >spa保健的常识 十件你不可不知的事情</a></li>
+															<li><a target="_blank" href="http://www.6681.com/baojian/spa/2016/1231/125341.html" >精油spa的功效 去除眼睛疲劳</a></li>
+													</ul>
+						</div>
+						</div>
+						<div class="w365 mr10">
+						<div class="tit_xiao">
+							<span>按摩</span><i><a href="/baojian/aomo/">更多>></a></i>
+						</div>
+						<div class="all365">
+															<a target="_blank" href="http://www.6681.com/baojian/aomo/2017/0310/141899.html" ><img src="http://www.6681.com/uploads/2017/3/360dfelv20170310141056452_dfelv.jpg" /></a>
+													<ul class="w255">
+															<li><a target="_blank" href="http://www.6681.com/baojian/aomo/2017/0222/140388.html" >按摩去皱的方法有哪些 简单方法告别皱纹</a></li>
+															<li><a target="_blank" href="http://www.6681.com/baojian/aomo/2012/1027/19785.html" >女性养生：常揉三阴交穴有助养颜</a></li>
+															<li><a target="_blank" href="http://www.6681.com/baojian/aomo/2017/0207/138827.html" >按摩有哪些功效 神奇功效知多少</a></li>
+															<li><a target="_blank" href="http://www.6681.com/baojian/aomo/2017/0111/126026.html" >按摩的原理 你不知道的按摩作用</a></li>
+													</ul>
+						</div>
+						</div>
+						<div class="w365">
+						<div class="tit_xiao">
+							<span>推拿</span><i><a href="/baojian/tuina/">更多>></a></i>
+						</div>
+						<div class="all365">
+															<a target="_blank" href="http://www.6681.com/baojian/tuina/2017/0310/141898.html" ><img src="http://www.6681.com/uploads/2017/3/360ungke20170310140735606.jpg" /></a>
+													<ul class="w255">
+															<li><a target="_blank" href="http://www.6681.com/baojian/tuina/2017/0222/140389.html" >常用的推拿手法有哪些 推拿常识知多少</a></li>
+															<li><a target="_blank" href="http://www.6681.com/baojian/tuina/2017/0207/138825.html" >中医推拿的禁忌 以下情况别推拿</a></li>
+															<li><a target="_blank" href="http://www.6681.com/baojian/tuina/2017/0111/126025.html" >推拿的治疗手法 如此推拿才有效</a></li>
+															<li><a target="_blank" href="http://www.6681.com/baojian/tuina/2016/1231/125338.html" >推拿的次数过多 会有这四种副作用</a></li>
+													</ul>
+						</div>
+						</div>
+						<div class="w365 mr10">
+						<div class="tit_xiao">
+							<span>减肥</span><i><a href="/baojian/jianfei/">更多>></a></i>
+						</div>
+						<div class="all365">
+															<a target="_blank" href="http://www.6681.com/baojian/jianfei/chjf/2017/0304/141390.html" ><img src="http://www.6681.com/uploads/2017/3/360mdeyd20170304103906906_mdeyd.jpg" /></a>
+													<ul class="w255">
+															<li><a target="_blank" href="http://www.6681.com/baojian/jianfei/kll/2017/0313/142071.html" >低卡路里减肥食品 它们让你更苗条</a></li>
+															<li><a target="_blank" href="http://www.6681.com/baojian/jianfei/fbjf/2017/0311/141973.html" >腹部减肥的运动 九大运动帮你瘦腹</a></li>
+															<li><a target="_blank" href="http://www.6681.com/baojian/zjjf/2017/0311/141987.html" >针灸减肥有哪些误区 这些事情要小心</a></li>
+															<li><a target="_blank" href="http://www.6681.com/baojian/jianfei/chjf/2017/0311/141984.html" >产后减肥瘦身的方法 想做辣妈做好这些</a></li>
+													</ul>
+						</div>
+						</div>
+						<div class="w365">
+						<div class="tit_xiao">
+							<span>美容</span><i><a href="/baojian/meirong/">更多>></a></i>
+						</div>
+						<div class="all365">
+															<a target="_blank" href="http://www.6681.com/baojian/meirong/qb/2017/0306/141529.html" ><img src="http://www.6681.com/uploads/2017/3/360nocpi20170306142509245_nocpi.jpg" /></a>
+													<ul class="w255">
+															<li><a target="_blank" href="http://www.6681.com/baojian/meirong/hs/2017/0323/142716.html" >护理手部的方法 小妙招给你玉手</a></li>
+															<li><a target="_blank" href="http://www.6681.com/baojian/meirong/mkcd/2017/0323/142712.html" >缩小毛孔的秘诀 让毛孔不再粗大</a></li>
+															<li><a target="_blank" href="http://www.6681.com/baojian/meirong/zfl/2017/0323/142708.html" >什么是脂肪粒 去除脂肪粒的绝招</a></li>
+															<li><a target="_blank" href="http://www.6681.com/baojian/meirong/fenci/2017/0323/142703.html" >怎么彻底去粉刺 帮你和粉刺说再见</a></li>
+													</ul>
+						</div>
+						</div>
+						<div class="w365 mr10">
+						<div class="tit_xiao">
+							<span>运动养生</span><i><a href="/yundong/">更多</a></i>
+						</div>
+						<div class="all365">
+															<a target="_blank" href="http://www.6681.com/yundong/tiyu/yumaoqiu/2017/0323/142733.html" ><img src="/uploads/2017/3/QQhefss20170323160949_hefss.jpg" /></a>
+								<span><a target="_blank" href="http://www.6681.com/yundong/tiyu/yumaoqiu/2017/0323/142733.html">打羽毛球的两种步法 羽毛球的基本技巧</a></span>
+								<p>打羽毛球的两种步法，羽毛球是一种比较常见的健身养体运动，坚持打羽毛球不仅仅是有很好的减肥效果，更是有很好的锻炼效果，...<a target="_blank" href="http://www.6681.com/yundong/tiyu/yumaoqiu/2017/0323/142733.html" class="xiangyi">[详细]</a></p>
+													</div>
+						<ul>
+															<li><a target="_blank" href="http://www.6681.com/yundong/yjjf/2017/0322/142632.html" >面部瑜伽的做法 练瑜伽需注意事项</a></li>
+															<li><a target="_blank" href="http://www.6681.com/yundong/yjdz/2017/0322/142628.html" >初学瑜伽的九个动作 初学瑜伽需注意</a></li>
+															<li><a target="_blank" href="http://www.6681.com/yundong/tiyu/jj/2017/0321/14
+1ff8
+2506.html" >单人击剑的好处 击剑练习技巧</a></li>
+															<li><a target="_blank" href="http://www.6681.com/yundong/yjfl/2017/0314/142109.html" >瑜伽有哪几种分类 密宗瑜伽</a></li>
+															<li><a target="_blank" href="http://www.6681.com/yundong/zixingche/20170314_142106.html" >骑车减肥需注意的细节 正确的骑自行车姿势</a></li>
+															<li><a target="_blank" href="http://www.6681.com/yundong/tiyu/yumaoqiu/2017/0314/142102.html" >羽毛球拍断线的原因 羽毛球拍怎么穿线</a></li>
+															<li><a target="_blank" href="http://www.6681.com/yundong/yjdz/2017/0313/142079.html" >必须学的几个瑜伽动作 瑜伽注意事项</a></li>
+															<li><a target="_blank" href="http://www.6681.com/yundong/yjjf/2017/0313/142078.html" >新手瑜伽减肥的动作 仰卧扭转式</a></li>
+															<li><a target="_blank" href="http://www.6681.com/yundong/tiaosheng/20170311_141992.html" >如何选择一根跳绳 跳绳的几种方法</a></li>
+															<li><a target="_blank" href="http://www.6681.com/yundong/tiyu/yumaoqiu/2017/0307/141658.html" >打羽毛球如何减肥 羽毛球预判技巧</a></li>
+															<li><a target="_blank" href="http://www.6681.com/yundong/zixingche/20170307_141654.html" >自行车对健身的好处 为什么要骑自行车</a></li>
+															<li><a target="_blank" href="http://www.6681.com/yundong/yjzs/2017/0303/141332.html" >不适合练瑜伽的四种人 初学瑜伽的动作</a></li>
+													</ul>
+						</div>
+						<div class="w365">
+						<div class="tit_xiao">
+							<span>瑜伽</span><i><a href="/yundong/yujia/">更多>></a></i>
+						</div>
+						<div class="all365">
+															<a target="_blank" href="http://www.6681.com/yundong/yjdz/2017/0322/142628.html" ><img src="http://www.6681.com/uploads/2017/3/QQyvxlp20170322145415_yvxlprg.jpg" /></a>
+													<ul class="w255">
+															<li><a target="_blank" href="http://www.6681.com/yundong/yfyj/2017/0322/142629.html" >瑜伽如何改善皮肤 练瑜伽需注意这些</a></li>
+															<li><a target="_blank" href="http://www.6681.com/yundong/yjdz/2017/0322/142628.html" >初学瑜伽的九个动作 初学瑜伽需注意</a></li>
+															<li><a target="_blank" href="http://www.6681.com/yundong/yjzs/2017/0322/142625.html" >每日瑜伽注意事项 练瑜伽不能空腹</a></li>
+															<li><a target="_blank" href="http://www.6681.com/yundong/yjzs/2017/0314/142112.html" >瑜伽常见的几种呼吸法 练习瑜伽对女人的好处</a></li>
+													</ul>
+						</div>
+						</div>
+						<div class="w365">
+						<div class="tit_xiao">
+							<span>健身</span><i><a href="/yundong/jianshen/" >更多>></a></i>
+						</div>
+						<div class="all365">
+															<a target="_blank" href="http://www.6681.com/yundong/tiaosheng/20170311_141992.html" ><img src="http://www.6681.com/uploads/2017/3/QQwarhf20170311145523_warhf.jpg" /></a>
+													<ul class="w255">
+															<li><a target="_blank" href="http://www.6681.com/yundong/jianshencao/2017/0314/142128.html" >办公室保健操训练 健身操的基本动作</a></li>
+															<li><a target="_blank" href="http://www.6681.com/yundong/jianshencao/2017/0314/142126.html" >简单健身操的几种跳法 简单健身操的几种跳法</a></li>
+															<li><a target="_blank" href="http://www.6681.com/yundong/jianshencao/2017/0314/142125.html" >健身操怎样出汗排湿 跳健身操注意事项</a></li>
+															<li><a target="_blank" href="http://www.6681.com/yundong/jianshen/fuwocheng/2017/0311/141995.html" >女生怎么做俯卧撑 俯卧撑的练习方式</a></li>
+													</ul>
+						</div>
+						</div>
+						</div>
+						<!--第五部分右边-->
+						<div class="main_ys5_right">
+						<div class="ph250_b">
+						<div class="tit_xiao"><span>热文排行榜</span></div>
+						<ul>
+															<li><em class="col">1</em><a target="_blank" href="http://www.6681.com/baojian/zatan/2014/1110/55336.html">
+										最易忽视的15个癌信号
+									</a></li>
+															<li><em class="col">2</em><a target="_blank" href="http://www.6681.com/baojian/zatan/2014/1104/55103.html">
+										隔夜饭菜会致癌？ 警惕4类隔夜菜堪比毒药
+									</a></li>
+															<li><em class="col">3</em><a target="_blank" href="http://www.6681.com/baojian/jianfei/jqjf/2014/1010/53420.html">
+										减肥常识 在经期千万别做五件事
+									</a></li>
+																						<li><em>4</em><a target="_blank" href="http://www.6681.com/baojian/zuliao/2013/0129/24653.html">中医脚底养生法 百病全消</a></li>
+															<li><em>5</em><a target="_blank" href="http://www.6681.com/baojian/meirong/2013/0311/26531.html">女人一生最离不开的10种食物</a></li>
+															<li><em>6</em><a target="_blank" href="http://www.6681.com/baojian/dongji/2013/0131/24800.html">冬季如何排毒 要抓住16个黄金时间点</a></li>
+															<li><em>7</em><a target="_blank" href="http://www.6681.com/baojian/zatan/2014/1101/54963.html">一天睡几个小时会短命？</a></li>
+															<li><em>8</em><a target="_blank" href="http://www.6681.com/baojian/chunji/2012/0423/8192.html">春季养生小常识 九种食物补脑健脑</a></li>
+															<li><em>9</em><a target="_blank" href="http://www.6681.com/baojian/zatan/2012/0524/10594.html">不可不知的健康小常识</a></li>
+															<li><em>10</em><a target="_blank" href="http://www.6681.com/baojian/aomo/2013/0118/24080.html">脚底养生 11招脚底按摩方法</a></li>
+													</ul>
+						</div>
+
+						<div class="zhishi">
+						<div class="tit_xiao">
+							<span>广场舞</span><i><a target="_blank" href="/guangcahngwu/" >更多>></a></i>
+						</div>
+						<div class="hot120130">
+						<ul>
+															<li><a target="_blank" href="http://www.6681.com/guangcahngwu/wd/wgcwd/2017/0112/126201.html" ><img src="http://www.6681.com/uploads/allimg/170112/54-1F1121506440-L.jpg" /><i></i><span>王广成广场舞《爱疯了》附教学</span></a></li>
+															<li><a target="_blank" href="http://www.6681.com/guangcahngwu/xuanxuan/2017/0105/125658.html" ><img src="http://www.6681.com/uploads/allimg/170105/54-1F1051100040-L.jpg" /><i></i><span>萱萱广场舞《辣妹子的爱》高清示范</span></a></li>
+													</ul>
+						</div>
+						<div class="w250">
+						<ul>
+															<li><a target="_blank" href="http://www.6681.com/guangcahngwu/wd/wgcwd/2017/0112/126201.html" >王广成广场舞《爱疯了》附教学</a></li>
+															<li><a target="_blank" href="http://www.6681.com/guangcahngwu/wd/wgcwd/2017/0112/126196.html" >王广成广场舞《千年等一回》示范</a></li>
+															<li><a target="_blank" href="http://www.6681.com/guangcahngwu/jsc/jiamusi/2017/0111/125988.html" >佳木斯广场健身操 麒麟广场舞示范</a></li>
+															<li><a target="_blank" href="http://www.6681.com/guangcahngwu/jsc/jiamusi/2017/0111/125987.html" >佳木斯广场健身操《雪山大哥》高清示范</a></li>
+															<li><a target="_blank" href="http://www.6681.com/guangcahngwu/jiaoxue/2017/0110/125945.html" >广场舞教学《燃烧吧蔬菜》高清示范</a></li>
+													</ul>
+						</div>
+						</div>
+
+						<div class="xinli">
+						<div class="tit_xiao">
+							<span>心理养生</span>
+							<i><a href="/xinliyangsheng/" >更多>></a></i>
+						</div>
+						<div class="xinli_125">
+							<a href="/xinliyangsheng/ceshi/" ><img src="/assets/yshb/images/b24_57x66.jpg" />心理测试</a>
+							<a href="/xinliyangsheng/shengxiao/" ><img src="/assets/yshb/images/b24_57x66a.jpg" />生肖</a>
+							<a href="/xinliyangsheng/xingzuo/" ><img src="/assets/yshb/images/b24_57x66b.jpg" />星座</a>
+							<a href="/xinliyangsheng/yunqi/" ><img src="/assets/yshb/images/b24_57x66c.jpg" />孕期</a>
+							<a href="/xinliyangsheng/jiemeng/" ><img src="/assets/yshb/images/b24_57x66d.jpg" />解梦</a>
+							<a href="/xinliyangsheng/jiemeng/" ><img src="/assets/yshb/images/b24_57x66e.jpg" />青春期</a>
+						</div>
+						<u
+1ff8
+l>
+															<li><a target="_blank" href="http://www.6681.com/chengchangxinli/sxjy/2017/0324/142780.html" >如何提高学习效率 三方法让大脑更专注</a></li>
+															<li><a target="_blank" href="http://www.6681.com/xinliyangsheng/xinlijb/syz/2017/0324/142779.html" >运动性失语症如何治疗 早期语言训练这样做</a></li>
+															<li><a target="_blank" href="http://www.6681.com/xinliyangsheng/qingchun/20170324_142774.html" >青春期心理问题 青春期孩子需做到这些</a></li>
+															<li><a target="_blank" href="http://www.6681.com/xinliyangsheng/jlz/2017/0324/142769.html" >老年焦虑症的表现 老人吃这些水果缓解焦虑</a></li>
+													</ul>
+						</div>
+						</div>
+						</div>
+
+						<!--养生ys6-->
+						<div class="main_ys6">
+						<div class="tit1000">
+							<span>疾病分类</span>
+							<i>
+								<a href="/naotan/" >小儿脑瘫</a><em>/</em>
+								<a href="/baidianfeng/">白癜风</a><em>/</em>
+								<a href="/qianliexianyan/" >前列腺炎</a><em>/</em>
+								<a href="/jianruishiyou/">尖锐湿疣</a><em>/</em>
+								<a href="/ruxianzengsheng/" >乳腺增生</a><em>/</em>
+								<a href="/jibing/zhangdoudou/">长痘痘</a>
+							</i>
+						</div>
+						<!--第六部分左边-->
+						<div class="main_ys6_left">
+						<div class="jibing">
+						<dl>
+						<dt><a href="/jibing/" ><em></em>妇科疾病</a></dt>
+						<ul>
+							<li><a href="/jibing/yuezi/" >月子</a></li>
+							<li><a href="/jibing/ruxianai/" >乳腺癌</a></li>
+							<li><a href="/ruxianzengsheng/" >乳腺增生</a></li>
+							<li><a href="/jibing/gongjingmilan/" >宫颈糜烂</a></li>
+							<li><a href="/jibing/penqiangyan/" >盆腔炎</a></li>
+							<li><a href="/jibing/nafenmishidiao/" >内分泌失调</a></li>
+							<li><a href="/jibing/wutongrenliu/" >无痛人流</a></li>
+							<li><a href="/jibing/gongwaiyun/" >宫外孕</a></li>
+							<li><a href="/jibing/zigong/" >子宫肌瘤</a></li>
+						</ul>
+						</dl>
+						<dl>
+						<dt>
+							<a href="/jibing/" ><em></em>妇科疾病</a>
+						</dt>
+
+
+						<ul>
+							<li><a href="/jibing/shuluanguandusai/" >输卵管堵塞</a></li>
+							<li><a href="/jibing/zigongneimoyiwei/" >子宫内膜异位症</a></li>
+							<li><a href="/jibing/luanchaonanzhong/" >卵巢囊肿</a></li>
+							<li><a href="/jibing/wysy/" >外阴瘙痒</a></li>
+							<li><a href="/ranqun/yuejing/" >月经不调</a></li>
+							<li><a href="/ranqun/suoyin/" >缩阴</a></li>
+							<li><a href="/jibing/yiyuzheng/" >产后抑郁</a></li>
+							<li><a href="/jibing/shenjingshuairuo/" >神经衰弱</a></li>
+						</ul>
+						</dl>
+						<dl>
+						<dt><a href="/jibing/" ><em></em>男科疾病</a></dt>
+
+
+						<ul>
+							<li><a href="/qianliexianyan/" >前列腺炎</a></li>
+							<li><a href="/jianruishiyou/" >尖锐湿疣</a></li>
+							<li><a href="/jibing/yijing/" >遗精</a></li>
+							<li><a href="/jibing/fgy/" >附睾炎</a></li>
+							<li><a href="/jibing/bpgty/" >包皮龟头炎</a></li>
+							<li><a href="/zaoxie/" >早泄</a></li>
+							<li><a href="/jibing/buyunbuyu/" >不孕不育</a></li>
+							<li><a href="/jibing/ynsy/" >阴囊瘙痒</a></li>
+							<li><a href="/ranqun/yinnan/" >阴囊湿疹</a></li>
+						</ul>
+						</dl>
+						<dl>
+						<dt><a href="/jibing/" ><em></em>内科疾病</a></dt>
+
+
+						<ul>
+							<li><a href="/jibing/xiaochuan/" >哮喘</a></li>
+							<li><a href="/jibing/weikuiyang/" >胃溃疡</a></li>
+							<li><a href="/jibing/ganyinghua/" >肝硬化</a></li>
+							<li><a href="/jibing/shenyan/" >肾炎</a></li>
+							<li><a href="/jibing/fengshibing/" >风湿病</a></li>
+							<li><a href="/jibing/yigan/" >乙肝</a></li>
+							<li><a href="/guanxinbing/" >冠心病</a></li>
+							<li><a href="/jibing/dabianchuxue/" >大便出血</a></li>
+							<li><a href="/jibing/weikuiyang/" >咽炎</a></li>
+						</ul>
+						</dl>
+						<dl>
+						<dt><a href="/jibing/" ><em></em>外科疾病</a></dt>
+
+
+						<ul>
+							<li><a href="/jibing/gugutou/" >股骨头</a></li>
+							<li><a href="/jibing/yixianai/" >胰腺癌</a></li>
+							<li><a href="/jibing/niaoduzheng/" >尿毒症</a></li>
+							<li><a href="/jibing/shidaoai/" >食道癌</a></li>
+							<li><a href="/jibing/ganyinghua/" >肝硬化</a></li>
+							<li><a href="/jibing/xinzangbing/" >心脏病</a></li>
+							<li><a href="/jibing/zhifanggan/" >脂肪肝</a></li>
+							<li><a href="/jibing/weizhang/" >胃胀</a></li>
+							<li><a href="/jibing/zhuananmei/" >转氨酶</a></li>
+						</ul>
+						</dl>
+						<dl>
+						<dt><a href="/jibing/" ><em></em>五官科疾病</a></dt>
+
+
+						<ul>
+							<li><a href="/jibing/erming/" >耳鸣</a></li>
+							<li><a href="/jibing/biantaoti/" >扁桃体</a></li>
+							<li><a href="/jibing/hongyanbing/" >红眼病</a></li>
+							<li><a href="/jibing/dahulu/" >打呼噜</a></li>
+							<li><a href="/jibing/jinshiyan/" >近视眼</a></li>
+							<li><a href="/jibing/guominxingbiyan/" >鼻炎</a></li>
+							<li><a href="/jibing/kqky/" >口腔溃疡</a></li>
+							<li><a href="/jibing/tuofa/" >脱发</a></li>
+							<li><a href="/baifa/" >白发</a></li>
+						</ul>
+						</dl>
+						<dl>
+						<dt><a href="/jibing/" ><em></em>皮肤科疾病</a></dt>
+
+
+						<ul>
+							<li><a href="/jibing/niupixuan/" >牛皮癣</a></li>
+							<li><a href="/jibing/shizhen/" >湿疹</a></li>
+							<li><a href="/jibing/pfsy/" >皮肤瘙痒</a></li>
+							<li><a href="/jibing/qianmazhen/" >荨麻疹</a></li>
+							<li><a href="/jibing/hongbanlangchuang/" >红斑狼疮</a></li>
+							<li><a href="/jibing/jiyan/" >鸡眼</a></li>
+							<li><a href="/jibing/zhangdoudou/" >长痘痘</a></li>
+							<li><a href="/baidianfeng/" >白癜风</a></li>
+							<li><a href="/jibing/gugutou/" >破伤风</a></li>
+						</ul>
+						</dl>
+						</div>
+						</div>
+						<!--第六部分右边-->
+						<div class="main_ys6_right">
+						<div class="w365 mr10">
+
+
+						<div class="tit_xiao"><span>胃胀</span><i><a href="/jibing/weizhang/" >更多>></a></i></div>
+						<div class="all365">
+															<a target="_blank" href="http://www.6681.com/jibing/weizhang/2017/0323/142704.html" ><img src="http://www.6681.com/uploads/2017/3/360syziz20170323142244146_syzizs.jpg" /></a>
+													<ul class="w255">
+															<li><a target="_blank" href="http://www.6681.com/jibing/weizhang/2017/0310/141871.html" >胃胀的食疗方法 这些食疗促消化</a></li>
+															<li><a target="_blank" href="http://www.6681.com/jibing/weizhang/2017/0303/141329.html" >胃胀气吃什么药效果好 远离这些胃胀气的元凶</a></li>
+															<li><a target="_blank" href="http://www.6681.com/jibing/weizhang/2017/0224/140680.html" >胃不好就别吃三种水果 上班族胃酸护理要点</a></li>
+															<li><a target="_blank" href="http://www.6681.com/jibing/weizhang/2017/0216/139739.html" >胃胀气怎么办快速排气 多吃这些清肠排气</a></li>
+													</ul>
+						</div>
+						</div>
+						<div class="w365">
+						<div class="tit_xiao"><span>扁桃体</span><i><a href="/jibing/biantaoti/" >更多>></a></i></div>
+						<div class="all365">
+															<a target="_blank" href="http://www.6681.com/jibing/biantaoti/20170318_142265.html" ><img src="http://www.6681.com/uploads/2017/3/360gpgxk20170318103905870_gpgxks.jpg" /></a>
+													<ul class="w255">
+															<li><a target="_blank" href="http://www.6681.com/jibing/biantaoti/20170304_141420.html" >小儿扁桃体发炎发烧怎么办 食疗有效缓解</a></li>
+															<li><a target="_blank" href="http://www.6681.com/jibing/biantaoti/20170225_140758.html" >嗓子疼怎么办 这些水果有效缓解嗓子疼</a></li>
+															<li><a target="_blank" href="http://www.6681.com/jibing/biantaoti/20170217_139847.html" >治疗扁桃体发炎的妙招 这些方法让你喉咙清爽</a></li>
+															<li><a target="_blank" href="http://www.6681.com/jibing/biantaoti/20170211_139292.html" >扁桃体发炎吃什么 九种水果消炎止咳</a></li>
+													</ul>
+						</div>
+						</div>
+						<div class="w365 mr10">
+			
+1ff8
+			<div class="tit_xiao"><span>荨麻疹</span><i><a href="/jibing/jiyan/" >更多>></a></i></div>
+						<div class="all365">
+															<a target="_blank" href="http://www.6681.com/jibing/qianmazhen/20170322_142587.html" ><img src="http://www.6681.com/uploads/2017/3/360hjyko20170322135836517_hjykos.jpg" /></a>
+													<ul class="w255">
+															<li><a target="_blank" href="http://www.6681.com/jibing/qianmazhen/20170308_141687.html" >荨麻疹的食疗方法 美味食疗还你光洁肌肤</a></li>
+															<li><a target="_blank" href="http://www.6681.com/jibing/qianmazhen/20170301_141107.html" >荨麻疹吃什么食物好 做到这些有助康复</a></li>
+															<li><a target="_blank" href="http://www.6681.com/jibing/qianmazhen/20170221_140276.html" >荨麻疹吃什么药 对症下药好得快</a></li>
+															<li><a target="_blank" href="http://www.6681.com/jibing/qianmazhen/20170215_139601.html" >荨麻疹止痒方法 中医治疗疗效好</a></li>
+													</ul>
+						</div>
+						</div>
+						<div class="w365">
+						<div class="tit_xiao"><span>鸡眼</span><i><a href="/jibing/jiyan/" >更多>></a></i></div>
+						<div class="all365">
+															<a target="_blank" href="http://www.6681.com/jibing/jiyan/20170320_142390.html" ><img src="http://www.6681.com/uploads/2017/3/360buygm20170320120620576_buygms.jpg" /></a>
+													<ul class="w255">
+															<li><a target="_blank" href="http://www.6681.com/jibing/jiyan/20170306_141518.html" >鸡眼的食疗方法 女性保养足部有技巧</a></li>
+															<li><a target="_blank" href="http://www.6681.com/jibing/jiyan/20170227_140862.html" >风油精治鸡眼 操作简单效果好</a></li>
+															<li><a target="_blank" href="http://www.6681.com/jibing/jiyan/20170220_140109.html" >鸡眼与跖疣的鉴别 这样治疗不再闹心</a></li>
+															<li><a target="_blank" href="http://www.6681.com/jibing/jiyan/20170213_139406.html" >鸡眼膏多少钱 鸡眼膏的正确使用方法</a></li>
+													</ul>
+						</div>
+						</div>
+						<div class="w365 mr10">
+						<div class="tit_xiao"><span>遗精</span><i><a href="/jibing/yijing/" >更多>></a></i></div>
+						<div class="all365">
+															<a target="_blank" href="http://www.6681.com/jibing/yijing/2017/0317/142194.html" ><img src="http://www.6681.com/uploads/2017/3/360euagu20170317141557337_euagus.jpg" /></a>
+													<ul class="w255">
+															<li><a target="_blank" href="http://www.6681.com/jibing/yijing/2017/0303/141335.html" >经常遗精是什么原因 这样练功可治遗精</a></li>
+															<li><a target="_blank" href="http://www.6681.com/jibing/yijing/2017/0224/140685.html" >男人滑精是什么原因 八招让男人更持久</a></li>
+															<li><a target="_blank" href="http://www.6681.com/jibing/yijing/2017/0217/139843.html" >治疗遗精早泄方法 食疗偏方有奇效</a></li>
+															<li><a target="_blank" href="http://www.6681.com/jibing/yijing/2017/0210/139169.html" >什么是滑精 男性春季补肾这么做</a></li>
+													</ul>
+						</div>
+						</div>
+						<div class="w365">
+						<div class="tit_xiao"><span>子宫肌瘤</span><i><a href="/jibing/zigong/" >更多>></a></i></div>
+						<div class="all365">
+															<a target="_blank" href="http://www.6681.com/jibing/zigong/2017/0322/142596.html" ><img src="http://www.6681.com/uploads/2017/3/360euoli20170322141157701_euoli.jpg" /></a>
+													<ul class="w255">
+															<li><a target="_blank" href="http://www.6681.com/jibing/zigong/2017/0309/141783.html" >子宫肌瘤的食疗方法 十大食疗方赶走子宫肌瘤</a></li>
+															<li><a target="_blank" href="http://www.6681.com/jibing/zigong/2017/0301/141113.html" >子宫切除后有什么影响 性生活会受影响吗</a></li>
+															<li><a target="_blank" href="http://www.6681.com/jibing/zigong/2017/0222/140392.html" >子宫内膜厚度多少正常 子宫内膜增厚竟暗示这事</a></li>
+															<li><a target="_blank" href="http://www.6681.com/jibing/zigong/2017/0215/139608.html" >子宫癌的早期症状 子宫癌爱找这九种女性</a></li>
+													</ul>
+						</div>
+						</div>
+						<div class="w365 mr10">
+						<div class="tit_xiao"><span>大便出血</span><i><a href="/jibing/dabianchuxue/" >更多
+
+						</a></i></div>
+						<div class="all365">
+															<a target="_blank" href="http://www.6681.com/jibing/dabianchuxue/20170321_142501.html" ><img src="http://www.6681.com/uploads/2017/3/360qoymd20170321141051405_qoymds.jpg" /></a>
+								<span><a target="_blank" href="http://www.6681.com/jibing/dabianchuxue/20170321_142501.html">大便出血要吃什么中药 这些食物润肠又通便</a></span>
+								<p>大便出血要吃什么中药?中药，是人们常会选择的治疗疾病的方式之一，对于大便出血也是如此。那么，大便出血..<a target="_blank" href="http://www.6681.com/jibing/dabianchuxue/20170321_142501.html" class="xiangyi">[详细]</a></p>
+													</div>
+						<ul>
+															<li><a target="_blank" href="http://www.6681.com/jibing/dabianchuxue/20170307_141606.html" >大便出血的食疗方法 七款食疗通便排毒</a></li>
+															<li><a target="_blank" href="http://www.6681.com/jibing/dabianchuxue/20170228_140971.html" >拉屎拉出血怎么回事 大便出血这么办</a></li>
+															<li><a target="_blank" href="http://www.6681.com/jibing/dabianchuxue/20170221_140263.html" >便血吃什么食物好得快 痔疮便血就吃它</a></li>
+															<li><a target="_blank" href="http://www.6681.com/jibing/dabianchuxue/20170214_139515.html" >大便潜血是怎么回事 便血或是肠癌信号</a></li>
+															<li><a target="_blank" href="http://www.6681.com/jibing/dabianchuxue/20170207_138761.html" >便血治疗多少钱 四种方法治便血</a></li>
+															<li><a target="_blank" href="http://www.6681.com/jibing/dabianchuxue/20170123_137899.html" >便秘出血怎么回事 五种食物消除便秘</a></li>
+															<li><a target="_blank" href="http://www.6681.com/jibing/dabianchuxue/20170116_126404.html" >肛裂便血是怎么回事 饮食保健需做好</a></li>
+															<li><a target="_blank" href="http://www.6681.com/jibing/dabianchuxue/20170110_125913.html" >痔疮便血怎么治 需养成良好生活习惯</a></li>
+															<li><a target="_blank" href="http://www.6681.com/jibing/dabianchuxue/20170103_125515.html" >上大便出血怎么回事 做到这些可预防</a></li>
+															<li><a target="_blank" href="http://www.6681.com/jibing/dabianchuxue/20161227_125074.html" >便血怎么回事 常做这事可防痔疮便血</a></li>
+															<li><a target="_blank" href="http://www.6681.com/jibing/dabianchuxue/20161220_124725.html" >大便出血鲜红不痛怎么回事 便血疾病危害大</a></li>
+															<li><a target="_blank" href="http://www.6681.com/jibing/dabianchuxue/20161213_124187.html" >女性大便有血怎么回事 自疗有妙招</a></li>
+													</ul>
+						</div>
+						<div class="w365">
+						<div class="tit_xiao"><span>宫颈糜烂</span><i><a href="/jibing/gongjingmilan/" >更多
+
+						</a></i></div>
+						<div class="all365">
+															<a target="_blank" href="http://www.6681.com/jibing/gongjingmilan/20170323_142692.html" ><img src="http://www.6681.com/uploads/2017/3/360kgcxe20170323135953859_kgcxes.jpg" /></a>
+								<span><a target="_blank" href="http://www.6681.com/jibing/gongjingmilan/20170323_142692.html">宫颈糜烂要吃什么中药 外用中成药疗效佳</a></span>
+								<p>宫颈糜烂要吃什么中药?宫颈糜烂困扰着非常多的女性朋友，是一种非常常见的妇科疾病。中药调理对于改善宫颈...<a target="_blank" href="http://www.6681.com/jibing/gongjingmilan/20170323_142692.html" class="xiangyi">[详细]</a></p>
+													</div>
+						<ul>
+															<li><a target="_blank" href="http://www.6681.com/jibing/gongjingmilan/20170310_141868.html" >宫颈糜烂的食疗方法 女性这五件傻事别做</a></li>
+															<li><a targe
+ff8
+t="_blank" href="http://www.6681.com/jibing/gongjingmilan/20170302_141220.html" >宫颈癌是怎么引起的 预防宫颈癌这样做</a></li>
+															<li><a target="_blank" href="http://www.6681.com/jibing/gongjingmilan/20170223_140510.html" >重度宫颈糜烂的治疗 警惕重度宫颈糜烂癌变</a></li>
+															<li><a target="_blank" href="http://www.6681.com/jibing/gongjingmilan/20170216_139736.html" >宫颈癌的早期症状 五大方法治疗宫颈癌</a></li>
+															<li><a target="_blank" href="http://www.6681.com/jibing/gongjingmilan/20170208_138925.html" >中度宫颈糜烂的症状 这些食物疗效好</a></li>
+															<li><a target="_blank" href="http://www.6681.com/jibing/gongjingmilan/20170125_138120.html" >治疗宫颈糜烂多少钱 预防宫颈糜烂需观察</a></li>
+															<li><a target="_blank" href="http://www.6681.com/jibing/gongjingmilan/20170118_126801.html" >宫颈糜烂原因 三大食疗方攻克宫颈糜烂</a></li>
+															<li><a target="_blank" href="http://www.6681.com/jibing/gongjingmilan/20170111_126041.html" >宫颈糜烂是什么症状 宫颈糜烂用什么药</a></li>
+															<li><a target="_blank" href="http://www.6681.com/jibing/gongjingmilan/20170105_125637.html" >利普刀治疗宫颈糜烂优势 三方式治疗宫颈糜烂</a></li>
+															<li><a target="_blank" href="http://www.6681.com/jibing/gongjingmilan/20161228_125156.html" >宫颈糜烂治疗费用 这些因素影响费用的高低</a></li>
+															<li><a target="_blank" href="http://www.6681.com/jibing/gongjingmilan/20161221_124791.html" >宫颈息肉有哪些症状 护理注重饮食和清洁</a></li>
+															<li><a target="_blank" href="http://www.6681.com/jibing/gongjingmilan/20161214_124295.html" >宫颈糜烂有什么症状 女性宫颈糜烂性生活需注意</a></li>
+													</ul>
+						</div>
+						</div>
+						</div>
+
+						<!--养生ys7-->
+						<div class="main_ys7">
+						<div class="tit1000">
+							<span>两性养生</span>
+							<i>
+								<a href="/sex/baojian/">两性保健</a><em>/</em>
+								<a href="/ranqun/liangxing/" >两性健康</a><em>/</em>
+								<a href="/sex/shenghuo/">两性生活</a><em>/</em>
+								<a href="/sex/zhishi/" >两性知识</a><em>/</em>
+								<a href="/xinliyangsheng/liangxing/">两性心理</a><em>/</em>
+								<a href="/sex/jiqiao/">性爱技巧</a>
+							</i>
+						</div>
+						<!--第七部分左边-->
+						<div class="main_ys7_left">
+						<div class="w365 mr10">
+						<div class="tit_xiao"><span>性爱技巧</span><i><a href="/sex/jiqiao/">更多>></a></i></div>
+						<div class="ul365">
+						<ul>
+															<li><a target="_blank" href="http://www.6681.com/sex/jiqiao/2017/0311/141968.html" ><img src="http://www.6681.com/uploads/2017/3/360udlao20170311113153638_udlao.jpg" ><i></i><span>完美性爱的技巧 小技巧带你高潮</span></a></li>
+															<li><a target="_blank" href="http://www.6681.com/sex/jiqiao/2017/0311/141964.html" ><img src="http://www.6681.com/uploads/2017/3/360rlrij20170311113133980_rlrij.jpg" ><i></i><span>俘获女人心的性爱技巧 学会它们让她离不</span></a></li>
+															<li><a target="_blank" href="http://www.6681.com/sex/jiqiao/2017/0301/141112.html" ><img src="http://www.6681.com/uploads/2017/3/360ghbzq20170301114110780_ghbzq.jpg" ><i></i><span>男人受不了女人哪些性反应</span></a></li>
+													</ul>
+						</div>
+						<ul>
+															<li><a target="_blank" href="http://www.6681.com/sex/jiqiao/2017/0301/141112.html" >男人受不了女人哪些性反应</a></li>
+															<li><a target="_blank" href="http://www.6681.com/sex/jiqiao/2017/0301/141108.html" >如何提高性爱潜力 八大绝招让你更威猛</a></li>
+															<li><a target="_blank" href="http://www.6681.com/sex/jiqiao/2017/0208/138910.html" >实用的性爱技巧  简单七步让女人高潮迭起</a></li>
+															<li><a target="_blank" href="http://www.6681.com/sex/jiqiao/2017/0218/140051.html" >怎么勾起男人�
+1ff8
+�欲 让你们激情常在</a></li>
+															<li><a target="_blank" href="http://www.6681.com/sex/jiqiao/2017/0208/138908.html" >女人必学的五种性技巧 让他离不开你</a></li>
+															<li><a target="_blank" href="http://www.6681.com/sex/jiqiao/2017/0120/137491.html" >让男人受不了的挑逗 让他对你欲罢不能</a></li>
+															<li><a target="_blank" href="http://www.6681.com/sex/jiqiao/2017/0126/138245.html" >怎样性爱能使女人容易怀孕</a></li>
+															<li><a target="_blank" href="http://www.6681.com/sex/jiqiao/2017/0116/126469.html" >男人的敏感点在哪 这个地方让他欲罢不能</a></li>
+															<li><a target="_blank" href="http://www.6681.com/sex/jiqiao/2017/0116/126464.html" >男人性爱持久的方法 十个方法让你更持久</a></li>
+															<li><a target="_blank" href="http://www.6681.com/sex/jiqiao/2017/0111/126005.html" >男性房事养生技巧 它们让你如鱼得水</a></li>
+															<li><a target="_blank" href="http://www.6681.com/sex/jiqiao/2017/0111/126004.html" >特殊的性爱技巧 八个最佳的性爱时刻</a></li>
+															<li><a target="_blank" href="http://www.6681.com/sex/jiqiao/2017/0103/125537.html" >正确的性爱技巧 让彼此都疯狂</a></li>
+													</ul>
+						</div>
+						<div class="w365">
+						<div class="tit_xiao"><span>两性健康</span><i><a href="/ranqun/liangxing/">更多>></a></i></div>
+						<div class="all365">
+															<a target="_blank" href="http://www.6681.com/ranqun/liangxing/2017/0308/141702.html" title="女人性冷淡怎么办 做好它们告别性冷淡"><img src="http://www.6681.com/uploads/2017/3/4480.jpg_wh860_qlwcg_qlwcg.jpg" /></a>
+													<ul class="w255">
+															<li><a target="_blank" href="http://www.6681.com/ranqun/liangxing/2017/0318/142324.html" >性爱健康的五大误区 这些错误你犯了吗</a></li>
+															<li><a target="_blank" href="http://www.6681.com/ranqun/liangxing/2017/0308/141702.html" >女人性冷淡怎么办 做好它们告别性冷淡</a></li>
+															<li><a target="_blank" href="http://www.6681.com/ranqun/liangxing/2017/0304/141401.html" >补肾壮阳食疗方 男性多吃它们益精填髓</a></li>
+															<li><a target="_blank" href="http://www.6681.com/ranqun/liangxing/2017/0227/140885.html" >房事劳伤的类型 房事劳伤的原因</a></li>
+													</ul>
+						</div>
+						</div>
+
+						<div class="w365">
+						<div class="tit_xiao"><span>两性心理</span><i><a href="/xinliyangsheng/liangxing/" >更多>></a></i></div>
+						<div class="all365">
+															<a target="_blank" href="http://www.6681.com/xinliyangsheng/liangxing/2017/0314/142117.html" title="女人暧昧动作的含义 帮你读懂女人"><img src="http://www.6681.com/uploads/2017/3/360jzcrp20170314111636700_jzcrp.jpg" /></a>
+													<ul class="w255">
+															<li><a target="_blank" href="http://www.6681.com/xinliyangsheng/liangxing/2017/0307/141630.html" >女人出轨是什么原因 原来是为了这种满足</a></li>
+															<li><a target="_blank" href="http://www.6681.com/xinliyangsheng/liangxing/2017/0222/140384.html" >女人有性欲的表现 教你更懂女人</a></li>
+															<li><a target="_blank" href="http://www.6681.com/xinliyangsheng/liangxing/2017/0213/139457.html" >情人节的由来 情人节的各种表白方式</a></li>
+															<li><a target="_blank" href="http://www.6681.com/xinliyangsheng/liangxing/2017/0211/139301.html" >男人常见的性心理习惯 你有这种嗜好吗</a></li>
+													</ul>
+						</div>
+						</div>
+						</div>
+						<!--第七部分右边-->
+						<div class="main_ys7_right">
+						<div class="zhishi">
+						<div class="tit_xiao"><span>两性生活</span><i><a href="/sex/shenghuo/">更多>></a></i></div>
+						<div class="hot120130">
+						<ul>
+															<li><a target="_blank" href="http://www.6681.com/sex/zhishi/2017/0323/142697.html" title="女性如何保养子宫 四招告别子宫疾病"><img src="http://www.6681.com/uploads/2017/3/360qomvl20170323140030288_qomvl.jpg" /><i></i><span>女性如何保养子宫 四招告别子宫疾病</span></a></li>
+															<li><a target="_blank" href="http://www.6681.com/sex/zhishi/2017/0314/142118.html" title="女性私处保养的小秘籍 教你如何爱护它"><img src="http://www.6681.com/uploads/2017/3/360aietw20170314111716365_aietw.jpg" /><i></i><span>女性私处保养的小秘籍 教你如何爱护它</span></a></li>
+													</ul>
+						</div>
+						<div class="w250">
+						<ul>
+															<li><a target="_blank" href="http://www.6681.com/sex/zhishi/2017/0306/141524.html" >大部分人不知道的女性生理常识</a></li>
+															<li><a target="_blank" href="http://www.6681.com/sex/zhishi/2017/0304/141398.html" >女性生理知识 这11条你一定要知道</a></li>
+															<li><a target="_blank" href="http://www.6681.com/sex/zhishi/2017/0222/140385.html" >关于男人的性知识 让你更了解男人</a></li>
+															<li><a target="_blank" href="http://www.6681.com/sex/zhishi/2017/0210/139174.html" >男女都必备的性知识 保健常识不可不知</a></li>
+															<li><a target="_blank" href="http://www.6681.com/sex/zhishi/2017/0203/138458.html" >女人自慰有什么好处 十大好处知多少</a></li>
+													</ul>
+						</div>
+						</div>
+
+
+						</div>
+						</div>
+
+						<!--养生ys8-->
+						<div class="main_ys8">
+						<!--第八部分左边-->
+						<div class="main_ys8_left">
+						<div class="title100">
+							<span>美图推荐</span>
+						</div>
+						
+                		            			
+						<ul>
+															<li><a target="_blank" href="http://www.6681.com/chengchangxinli/sxjy/2017/0324/142780.html" title="如何提高学习效率 三方法让大脑更专注"><img src="http://www.6681.com/uploads/2017/3/360jbumr20170324122104773_jbumr.jpg"  />如何提高学习效率 三方法让大脑更专注</a></li>
+															<li><a target="_blank" href="http://www.6681.com/xinliyangsheng/xinlijb/syz/2017/0324/142779.html" title="运动性失语症如何治疗 早期语言训练这样做"><img src="http://www.6681.com/uploads/2017/3/360bxlog20170324115543612_bxlog.jpg"  />运动性失语症如何治疗 早期语言训练这样做</a></li>
+															<li><a target="_blank" href="http://www.6681.com/qianliexianyan/zatan/2017/0324/142778.html" title="什么人容易得前列腺炎 你的职业上榜了吗"><img src="http://www.6681.com/uploads/2017/3/360ujwho20170324115123996_ujwho.jpg"  />什么人容易得前列腺炎 你的职业上榜了吗</a></li>
+															<li><a target="_blank" href="http://www.6681.com/zhongyiyaocai/ningmengpian/2017/0324/142775.html" title="柠檬怎么做面膜 用柠檬面膜的注意事项"><img src="http://www.6681.com/uploads/2017/3/360aclxt20170324114301087_aclxt.jpg"  />柠檬怎么做面膜 用柠檬面膜的注意事项</a></li>
+															<li><a target="_blank" href="http://www.6681.com/zhongyiyaocai/ningmengpian/2017/0324/142776.html" title="柠檬薄荷可以吃吗 怎样分辨柠檬薄荷"><img src="http://www.6681.com/uploads/2017/3/360gaxhh20170324114249001_gaxhh.jpg"  />柠檬薄荷可以吃吗 怎样分辨柠檬薄荷</a></li>
+															<li><a target="_blank" href="http://www.6681.com/xinliyangsheng/qingchun/20170324_142774.html" title="青春期心理问题 青春期孩子需做到这些"><img src="http://www.6681.com/uploads/2017/3/360tdghh20170324114121658_tdghh.jpg"  />青春期心理问题 青春期孩子需做到这些</a></li>
+															<li><a target="_blank" href="http://www.6681.com/zhongyiyaocai/ningmengpian/2017/0324/142772.html" title="柠檬会过敏吗 柠檬水什么时候喝"><img src="http://www.6681.com/uploads/2017/3/360sgixp20170324113053694_sgixp.jpg"  />柠檬会过敏吗 柠檬水什么时候喝</a></li>
+															<li><a target="_blank" href="http://www.6681.com/zhongyiyaocai/ningmengpian/2017/0324/142771.html" title="早上喝柠檬蜂蜜水好吗 喝柠檬蜂蜜水的好处"><img src="http://www.6681.com/uploads/2017/3/360kzvjd20
+1ff8
+170324113055746_kzvjd.jpg"  />早上喝柠檬蜂蜜水好吗 喝柠檬蜂蜜水的好处</a></li>
+															<li><a target="_blank" href="http://www.6681.com/zhongyiyaocai/ningmengpian/2017/0324/142770.html" title="柠檬可以去狐臭吗 柠檬治感冒有奇效"><img src="http://www.6681.com/uploads/2017/3/360mftzz20170324111715841_mftzz.jpg"  />柠檬可以去狐臭吗 柠檬治感冒有奇效</a></li>
+															<li><a target="_blank" href="http://www.6681.com/zhongyiyaocai/ningmengpian/2017/0324/142768.html" title="柠檬可以降血糖吗 柠檬还能治疗皮肤过敏"><img src="http://www.6681.com/uploads/2017/3/360qnhlc20170324111700991_qnhlc.jpg"  />柠檬可以降血糖吗 柠檬还能治疗皮肤过敏</a></li>
+													</ul>
+						</div>
+						<!--第八部分右边-->
+						<div class="main_ys8_right zhishi">
+
+						<div class="title100"><span>休闲养生</span><i><a href="/yule/" >更多>></a></i></div>
+						<div class="hot120130">
+						<ul>
+															<li><a target="_blank" href="http://www.6681.com/yule/lvyoujinji/2016/0206/86567.html" title="除夕的由来 除夕的风俗禁忌"><img src="http://www.6681.com/uploads/2017/1/360gvrki20170123150804428_gvrki.jpg"/><i></i><span>除夕的由来 除夕的风俗禁忌</span></a></li>
+															<li><a target="_blank" href="http://www.6681.com/yule/shijie/20161214_124296.html" title="世界性欲最强的动物 一天啪啪多次乱伦高手"><img src="http://www.6681.com/uploads/161214/51-16121410210B38.jpg"/><i></i><span>世界性欲最强的动物 一天啪啪多次乱伦高</span></a></li>
+													</ul>
+						</div>
+						<div class="w250">
+						<ul>
+															<li><a target="_blank" href="http://www.6681.com/yule/7984.html" >世界各国货币一览</a></li>
+															<li><a target="_blank" href="http://www.6681.com/yule/11406.html" >触动心弦的10篇微小说</a></li>
+															<li><a target="_blank" href="http://www.6681.com/yule/lvyoujinji/2016/0206/86567.html" >除夕的由来 除夕的风俗禁忌</a></li>
+															<li><a target="_blank" href="http://www.6681.com/yule/lvyoujinnan/2017/0113/126246.html" >枸杞岛旅游攻略 枸杞岛二日游形行程</a></li>
+															<li><a target="_blank" href="http://www.6681.com/yule/lvyoujinnan/2017/0112/126141.html" >枸杞岛在哪里 枸杞岛的著名景点有哪些</a></li>
+													</ul>
+						</div>
+						</div>
+						</div>
+						<div class="clear"></div>
+						<!--养生ys9养生标签-->
+	                   <div class="container1">
+    <div class="changeMenu tag_title">
+        <div class="black_title">养生标签</div>
+        <ul class="tab left new_tags">
+            <li class="on">食疗养生</li>
+            <li>养生保健</li>
+            <li>养生人群</li>
+            <li>心理养生</li>
+            <li>运动养生</li>
+            <li>常见疾病</li>
+            <li>中医养生</li>
+            <li>西医药材</li>
+            <li>健康专题</li>
+            <li>两性养生</li>
+        </ul>
+    </div>
+    <div class="ui-tabs-panel tags clear">
+        
+        
+        
+                <a target="_blank" href="http://www.6681.com/shiliao/rqss" >人群膳食</a>
+                <a target="_blank" href="http://www.6681.com/shiliao/gnxtl" >功能性调理</a>
+                <a target="_blank" href="http://www.6681.com/shiliao/jbtl" >疾病调理</a>
+                <a target="_blank" href="http://www.6681.com/shiliao/zftl" >脏腑调理</a>
+                
+        
+        
+                    <a target="_blank" href="http://www.6681.com/caipu" >养生食谱</a>
+                    <a target="_blank" href="http://www.6681.com/yinshi/jkys" >健康营养</a>
+                    <a target="_blank" href="http://www.6681.com/yinshi/wenhua" >饮食文化</a>
+                    <a target="_blank" href="http://www.6681.com/yinshi/shicai" >食材饮品</a>
+                    <a target="_blank" href="http://www.6681.com/shiliao" >食疗药膳</a>
+                    <a target="_blank" href="http://www.6681.com/yinshi/siji" >四季饮食</a>
+                    <a target="_blank" href="http://www.6681.com/yinshi/bjsp" >保健食品</a>
+                
+        
+        
+                    <a target="_blank" href="http://www.6681.com/zhoutang" >养生粥汤</a>
+                    <a target="_blank" href="http://www.6681.com/caipu/jiachangcai" >家常菜谱</a>
+                    <a target="_blank" href="http://www.6681.com/caipu/gaodian" >糕点</a>
+                    <a target="_blank" href="http://www.6681.com/caipu/xiaochi" >小吃</a>
+                    <a target="_blank" href="http://www.6681.com/caipu/caixi" >中国菜系</a>
+                    <a target="_blank" href="http://www.6681.com/caipu/xican" >西餐</a>
+                
+        
+        
+                    <a target="_blank" href="http://www.6681.com/zhoutang/tang" >养生汤</a>
+                    <a target="_blank" href="http://www.6681.com/zhoutang/zhou" >养生粥</a>
+                    <a target="_blank" href="http://www.6681.com/zhoutang/jianfeitangzhou" >减肥汤粥</a>
+                
+        
+        
+                    <a target="_blank" href="http://www.6681.com/yinshi/juecai" >蕨菜</a>
+                    <a target="_blank" href="http://www.6681.com/yinshi/heidou" >黑豆</a>
+                    <a target="_blank" href="http://www.6681.com/yinshi/yumi" >玉米</a>
+                    <a target="_blank" href="http://www.6681.com/yinshi/yanmai" >燕麦</a>
+                    <a target="_blank" href="http://www.6681.com/yinshi/candou" >蚕豆</a>
+                    <a target="_blank" href="http://www.6681.com/yinshi/ximi" >西米</a>
+                    <a target="_blank" href="http://www.6681.com/yinshi/xiaomi" >小米</a>
+                    <a target="_blank" href="http://www.6681.com/yinshi/guiyuan" >桂圆</a>
+                    <a target="_blank" href="http://www.6681.com/yinshi/shancha" >山楂</a>
+                    <a target="_blank" href="http://www.6681.com/yinshi/lianzi" >莲子</a>
+                    <a target="_blank" href="http://www.6681.com/yinshi/baiguo" >白果</a>
+                    <a target="_blank" href="http://www.6681.com/yinshi/paigu" >排骨</a>
+                    <a target="_blank" href="http://www.6681.com/yinshi/liyu" >鲤鱼</a>
+                    <a target="_blank" href="http://www.6681.com/yinshi/doufu" >豆腐</a>
+                    <a target="_blank" href="http://www.6681.com/yinshi/suannai" >酸奶</a>
+                    <a target="_blank" href="http://www.6681.com/yinshi/niunai" >牛奶</a>
+                    <a target="_blank" href="http://www.6681.com/yinshi/xia" >虾</a>
+                    <a target="_blank" href="http://www.6681.com/yinshi/maotaijiu" >茅台酒</a>
+                    <a target="_blank" href="http://www.6681.com/yinshi/fengmi" >蜂蜜</a>
+                    <a target="_blank" href="http://www.6681.com/yinshi/juemingzi" >决明子</a>
+                    <a target="_blank" href="http://www.6681.com/yinshi/qiaokeli" >巧克力</a>
+                    <a target="_blank" href="http://www.6681.com/yinshi/kaixinguo" >开心果</a>
+                    <a target="_blank" href="http://www.6681.com/yinshi/taozi" >桃子</a>
+                    <a target="_blank" href="http://www.6681.com/yinshi/ganlanyou" >橄榄油</a>
+                    <a target="_blank" href="http://www.6681.com/yinshi/baoyu" >鲍鱼</a>
+                    <a target="_blank" href="http://www.6681.com/yinshi/lajiao" >辣椒</a>
+                    <a target="_blank" href="http://www.6681.com/yinshi/niurous" >牛肉</a>
+                    <a target="_blank" href="http://www.6681.com/yinshi/yangrous" >羊肉</a>
+                    <a target="_blank" href="http://www.6681.com/yinshi/shanyao" >山药</a>
+                    <a target="_blank" href="http://www.6681.com/yinshi/gouqi" >枸杞</a>
+                    <a target="_blank" href="http://www.6681.com/yinshi/youzi" >柚子</a>
+                    <a target="_blank" href="http://www.6681.com/yinshi/huolongguo" >火龙果</a>
+                    <a target="_bl
+1ff8
+ank" href="http://www.6681.com/yinshi/xiangjiao" >香蕉</a>
+                    <a target="_blank" href="http://www.6681.com/yinshi/xingren" >杏仁</a>
+                    <a target="_blank" href="http://www.6681.com/yinshi/wuhuaguo" >无花果</a>
+                    <a target="_blank" href="http://www.6681.com/yinshi/jirou" >鸡肉</a>
+                    <a target="_blank" href="http://www.6681.com/yinshi/dabaicai" >大白菜</a>
+                    <a target="_blank" href="http://www.6681.com/yinshi/tudou" >土豆</a>
+                    <a target="_blank" href="http://www.6681.com/yinshi/heikafei" >黑咖啡</a>
+                    <a target="_blank" href="http://www.6681.com/yinshi/kafei" >咖啡</a>
+                    <a target="_blank" href="http://www.6681.com/zhoutang/cha" >养生茶</a>
+                    <a target="_blank" href="http://www.6681.com/yinshi/donggua" >冬瓜</a>
+                    <a target="_blank" href="http://www.6681.com/shicai/jidan" >鸡蛋</a>
+                    <a target="_blank" href="http://www.6681.com/yinshi/huanggua" >黄瓜</a>
+                    <a target="_blank" href="http://www.6681.com/yinshi/xigua" >西瓜</a>
+                    <a target="_blank" href="http://www.6681.com/yinshi/lanmei" >蓝莓</a>
+                    <a target="_blank" href="http://www.6681.com/yinshi/xihongshi" >西红柿</a>
+                    <a target="_blank" href="http://www.6681.com/yinshi/jingmi" >粳米</a>
+                    <a target="_blank" href="http://www.6681.com/yinshi/dami" >大米</a>
+                    <a target="_blank" href="http://www.6681.com/yinshi/csgxzy" >功效与作用</a>
+                    <a target="_blank" href="http://www.6681.com/yinshi/boluo" >菠萝</a>
+                    <a target="_blank" href="http://www.6681.com/yinshi/mugua" >木瓜</a>
+                    <a target="_blank" href="http://www.6681.com/yinshi/shizi" >柿子</a>
+                    <a target="_blank" href="http://www.6681.com/yinshi/caoyu" >草鱼</a>
+                    <a target="_blank" href="http://www.6681.com/yinshi/zhurou" >猪肉</a>
+                    <a target="_blank" href="http://www.6681.com/yinshi/mihoutao" >猕猴桃</a>
+                    <a target="_blank" href="http://www.6681.com/yinshi/nangua" >南瓜</a>
+                    <a target="_blank" href="http://www.6681.com/yinshi/youyu" >鱿鱼</a>
+                    <a target="_blank" href="http://www.6681.com/yinshi/huasheng" >花生</a>
+                    <a target="_blank" href="http://www.6681.com/yinshi/huangdou" >黄豆</a>
+                    <a target="_blank" href="http://www.6681.com/yinshi/hongshu" >红薯</a>
+                    <a target="_blank" href="http://www.6681.com/yinshi/putao" >葡萄</a>
+                    <a target="_blank" href="http://www.6681.com/yinshi/xianggu" >香菇</a>
+                    <a target="_blank" href="http://www.6681.com/yinshi/pingguo" >苹果</a>
+                    <a target="_blank" href="http://www.6681.com/yinshi/heizhima" >黑芝麻</a>
+                    <a target="_blank" href="http://www.6681.com/yinshi/liulian" >榴莲</a>
+                    <a target="_blank" href="http://www.6681.com/yinshi/dasuan" >大蒜</a>
+                    <a target="_blank" href="http://www.6681.com/yinshi/yingtao" >樱桃</a>
+                    <a target="_blank" href="http://www.6681.com/yinshi/shicai/yinshi/miantiao" >面条</a>
+                    <a target="_blank" href="http://www.6681.com/yinshi/shicai/yinshi/shicai/doujiang" >豆浆</a>
+                    <a target="_blank" href="http://www.6681.com/yinshi/shicai/yinshi/shicai/shengjiang" >生姜</a>
+                    <a target="_blank" href="http://www.6681.com/caipu/caipu/baihe" >百合</a>
+                    <a target="_blank" href="http://www.6681.com/yinshi/shicai/yinshi/shicai/damai" >大麦</a>
+                
+        
+        
+                    <a target="_blank" href="http://www.6681.com/caipu/lucai" >鲁菜</a>
+                    <a target="_blank" href="http://www.6681.com/caipu/chuancai" >川菜</a>
+                    <a target="_blank" href="http://www.6681.com/caipu/yuecai" >粤菜</a>
+                    <a target="_blank" href="http://www.6681.com/caipu/sucai" >苏菜</a>
+                    <a target="_blank" href="http://www.6681.com/caipu/zhecai" >浙菜</a>
+                    <a target="_blank" href="http://www.6681.com/caipu/xiangcai" >湘菜</a>
+                    <a target="_blank" href="http://www.6681.com/caipu/jingcai" >京菜</a>
+                    <a target="_blank" href="http://www.6681.com/caipu/huicai" >徽菜</a>
+                    <a target="_blank" href="http://www.6681.com/caipu/mincai" >闽菜</a>
+                
+        
+        
+                    <a target="_blank" href="http://www.6681.com/caipu/sigeyuecaipu" >4个月宝宝食谱</a>
+                    <a target="_blank" href="http://www.6681.com/caipu/wugeyuecaipu" >五个月宝宝食谱</a>
+                    <a target="_blank" href="http://www.6681.com/caipu/liugeyuecaipu" >六个月宝宝食谱</a>
+                    <a target="_blank" href="http://www.6681.com/caipu/qigeyuecaipu" >七个月宝宝食谱</a>
+                    <a target="_blank" href="http://www.6681.com/caipu/bageyuecaipu" >八个月宝宝食谱</a>
+                    <a target="_blank" href="http://www.6681.com/caipu/jiugeyuecaipu" >九个月宝宝食谱</a>
+                    <a target="_blank" href="http://www.6681.com/caipu/shigeyuecaipu" >十个月宝宝食谱</a>
+                    <a target="_blank" href="http://www.6681.com/caipu/shiyigeyuecaipu" >十一个月宝宝食谱</a>
+                    <a target="_blank" href="http://www.6681.com/caipu/shisuicaipu" >一岁宝宝食谱</a>
+                    <a target="_blank" href="http://www.6681.com/caipu/yisuibancaipu" >一岁半宝宝食谱</a>
+                    <a target="_blank" href="http://www.6681.com/caipu/ersuicaipu" >二岁宝宝食谱</a>
+                    <a target="_blank" href="http://www.6681.com/caipu/sansuicaipu" >3岁宝宝食谱</a>
+                    <a target="_blank" href="http://www.6681.com/caipu/liusuicaipu" >3-6岁宝宝食谱</a>
+            </div>
+
+    <div class="ui-tabs-panel tags clear conNo">
+        
+        
+        
+                    <a target="_blank" href="http://www.6681.com/baojian/meirong" >养生美容</a>
+                    <a target="_blank" href="http://www.6681.com/baojian/jianfei" >健康减肥</a>
+                    <a target="_blank" href="http://www.6681.com/baojian/anmo" >保健按摩</a>
+                    <a target="_blank" href="http://www.6681.com/baojian/zatan" >养生小常识</a>
+                    <a target="_blank" href="http://www.6681.com/baojian/siji" >四季养生</a>
+                    <a target="_blank" href="http://www.6681.com/baojian/zxmr" >整形美容</a>
+                    <a target="_blank" href="http://www.6681.com/baojian/jj" >急救</a>
+                    <a target="_blank" href="http://www.6681.com/baojian/yangshengwuqu" >养生误区</a>
+                    <a target="_blank" href="http://www.6681.com/baojian/biguyangsheng" >辟谷养生</a>
+                    <a target="_blank" href="http://www.6681.com/baojian/yaoshanshiliao" >药膳食疗</a>
+                
+        
+        
+                    <a target="_blank" href="http://www.6681.com/baojian/chunji" >春季养生</a>
+                    <a target="_blank" href="http://www.6681.com/baojian/xiaji" >夏季养生</a>
+                    <a target="_blank" href="http://www.6681.com/baojian/qiuji" >秋季养生</a>
+                    <a target="_blank" href="http://www.6681.com/baojian/dongji" >冬季养生</a>
+                    <a target="_blank" href="http://www.6681.com/baojian/jieqiyangsheng" >节气养生</a>
+                
+        
+        
+                    <a target="_blank" href="http://www.6681.com/baojian/zuliao" >足疗</a>
+                    <a target="_blank" href="http://www.6681.com/baojian/aomo" >按摩</a>
+                    <a target="_blank" href="http://www.6681.com/baojian/tuina" >推拿</a>
+                    <a target="_b
+1ff8
+lank" href="http://www.6681.com/baojian/spa" >spa</a>
+                    <a target="_blank" href="http://www.6681.com/baojian/anmo/hz" >汗蒸</a>
+                    <a target="_blank" href="http://www.6681.com/baojian/anmo/sl" >水疗</a>
+                    <a target="_blank" href="http://www.6681.com/baojian/anmo/yl" >鱼疗</a>
+                    <a target="_blank" href="http://www.6681.com/baojian/paowenquan" >泡温泉</a>
+            </div>
+
+    <div class="ui-tabs-panel tags clear conNo">
+        
+        
+        
+                    <a target="_blank" href="http://www.6681.com/ranqun/youer" >幼儿保健</a>
+                    <a target="_blank" href="http://www.6681.com/ranqun/laonian" >老年养生</a>
+                    <a target="_blank" href="http://www.6681.com/ranqun/bailing" >白领养生</a>
+                    <a target="_blank" href="http://www.6681.com/ranqun/dazhong" >大众健康</a>
+                    <a target="_blank" href="http://www.6681.com/ranqun/yunfu" >孕妇</a>
+                    <a target="_blank" href="http://www.6681.com/ranqun/nanxing" >男性养生</a>
+                    <a target="_blank" href="http://www.6681.com/ranqun/nvxing" >女性养生</a>
+                    <a target="_blank" href="http://www.6681.com/ranqun/mingren" >名人养生</a>
+                    <a target="_blank" href="http://www.6681.com/ranqun/jiankangtijian" >健康体检</a>
+                    <a target="_blank" href="http://www.6681.com/ranqun/buweiyangsheng" >部位养生</a>
+                
+        
+        
+                    <a target="_blank" href="http://www.6681.com/ranqun/xiaohua" >消化不良</a>
+                    <a target="_blank" href="http://www.6681.com/ranqun/kesou" >咳嗽</a>
+                    <a target="_blank" href="http://www.6681.com/ranqun/yanpitiao" >眼皮跳</a>
+                    <a target="_blank" href="http://www.6681.com/ranqun/suoyin" >缩阴</a>
+                    <a target="_blank" href="http://www.6681.com/ranqun/weiai" >胃癌</a>
+                    <a target="_blank" href="http://www.6681.com/ranqun/bugai" >补钙</a>
+                    <a target="_blank" href="http://www.6681.com/ranqun/yabing" >牙病</a>
+                    <a target="_blank" href="http://www.6681.com/ranqun/changweiyan" >肠胃炎</a>
+                    <a target="_blank" href="http://www.6681.com/ranqun/tangniaobing" >糖尿病</a>
+                    <a target="_blank" href="http://www.6681.com/ranqun/yinnan" >阴囊</a>
+                    <a target="_blank" href="http://www.6681.com/ranqun/xinjiquexue" >心肌缺血</a>
+                    <a target="_blank" href="http://www.6681.com/ranqun/yuejing" >月经</a>
+                    <a target="_blank" href="http://www.6681.com/renqun/yajiankang" >亚健康</a>
+                    <a target="_blank" href="http://www.6681.com/ranqun/laozhen" >落枕</a>
+                    <a target="_blank" href="http://www.6681.com/ranqun/dage" >打嗝</a>
+                    <a target="_blank" href="http://www.6681.com/ranqun/xsedg" >新生儿打嗝</a>
+                    <a target="_blank" href="http://www.6681.com/ranqun/jiejiu" >戒酒</a>
+                    <a target="_blank" href="http://www.6681.com/ranqun/huchou" >狐臭</a>
+                    <a target="_blank" href="http://www.6681.com/ranqun/dazhong/ranqun/dahan" >打鼾</a>
+                    <a target="_blank" href="http://www.6681.com/ranqun/dongchuang" >冻疮</a>
+                    <a target="_blank" href="http://www.6681.com/ranqun/yunche" >晕车</a>
+                    <a target="_blank" href="http://www.6681.com/ranqun/liubixue" >流鼻血</a>
+                    <a target="_blank" href="http://www.6681.com/ranqun/kouchou" >口臭</a>
+                    <a target="_blank" href="http://www.6681.com/ranqun/laduzi" >拉肚子</a>
+                    <a target="_blank" href="http://www.6681.com/ranqun/ganmao" >感冒</a>
+                    <a target="_blank" href="http://www.6681.com/ranqun/jiaoqi" >脚气</a>
+                    <a target="_blank" href="http://www.6681.com/ranqun/paojiao" >泡脚</a>
+                    <a target="_blank" href="http://www.6681.com/ranqun/toutong" >头痛</a>
+                    <a target="_blank" href="http://www.6681.com/ranqun/yaotong" >腰痛</a>
+                    <a target="_blank" href="http://www.6681.com/ranqun/houlongtong" >喉咙痛</a>
+                    <a target="_blank" href="http://www.6681.com/ranqun/bijing" >闭经</a>
+                    <a target="_blank" href="http://www.6681.com/ranqun/luanchaozaoshuai" >卵巢早衰</a>
+                    <a target="_blank" href="http://www.6681.com/ranqun/laonianban" >老年斑</a>
+                    <a target="_blank" href="http://www.6681.com/ranqun/xinjiaotong" >心绞痛</a>
+                    <a target="_blank" href="http://www.6681.com/ranqun/niushan" >扭伤</a>
+                    <a target="_blank" href="http://www.6681.com/ranqun/choujin" >抽筋</a>
+                
+        
+        
+                    <a target="_blank" href="http://www.6681.com/ranqun/yunqi" >孕期</a>
+                    <a target="_blank" href="http://www.6681.com/xinliyangsheng/yunqi" >孕期心理</a>
+                    <a target="_blank" href="http://www.6681.com/ranqun/taijiao" >胎教</a>
+                    <a target="_blank" href="http://www.6681.com/ranqun/yunqian" >孕前</a>
+                    <a target="_blank" href="http://www.6681.com/ranqun/chanhou" >产后</a>
+                    <a target="_blank" href="http://www.6681.com/ranqun/fenmian" >分娩</a>
+                    <a target="_blank" href="http://www.6681.com/ranqun/nannv" >生男生女</a>
+            </div>
+
+    <div class="ui-tabs-panel tags clear conNo">
+        
+        
+        
+                    <a target="_blank" href="http://www.6681.com/xinliyangsheng/ceshi" >心理测试</a>
+                    <a target="_blank" href="http://www.6681.com/xinliyangsheng/gengnianqi" >更年期</a>
+                    <a target="_blank" href="http://www.6681.com/xinliyangsheng/qingchun" >青春期</a>
+                    <a target="_blank" href="http://www.6681.com/xinliyangsheng/xinlijb" >心理健康</a>
+                    <a target="_blank" href="http://www.6681.com/xinliyangsheng/xinlixue" >心理学</a>
+                    <a target="_blank" href="http://www.6681.com/xinliyangsheng/xxml" >星相命理</a>
+                    <a target="_blank" href="http://www.6681.com/xinliyangsheng/shenghuo" >心理学与生活</a>
+                
+        
+        
+                    <a target="_blank" href="http://www.6681.com/xinliyangsheng/tianxiezuo" >天蝎座</a>
+                    <a target="_blank" href="http://www.6681.com/xinliyangsheng/shuangyuzuo" >双鱼座</a>
+                    <a target="_blank" href="http://www.6681.com/xinliyangsheng/shizizuo" >狮子座</a>
+                    <a target="_blank" href="http://www.6681.com/xinliyangsheng/mojiezuo" >摩羯座</a>
+                    <a target="_blank" href="http://www.6681.com/xinliyangsheng/tianchengzuo" >天秤座</a>
+                    <a target="_blank" href="http://www.6681.com/shuangzizuo" >双子座</a>
+                    <a target="_blank" href="http://www.6681.com/xinliyangsheng/baiyangzuo" >白羊座</a>
+                    <a target="_blank" href="http://www.6681.com/xinliyangsheng/jinniuzuo" >金牛座</a>
+                    <a target="_blank" href="http://www.6681.com/xinliyangsheng/juxiezuo" >巨蟹座</a>
+                    <a target="_blank" href="http://www.6681.com/xinliyangsheng/chunvzuo" >处女座</a>
+                    <a target="_blank" href="http://www.6681.com/xinliyangsheng/shuipingzuo" >水瓶座</a>
+                    <a target="_blank" href="http://www.6681.com/xinliyangsheng/sheshouzuo" >射手座</a>
+                
+        
+        
+                    <a target="_blank" href="http://www.6681.com/xinliyangsheng/shengxiao/shu" >属鼠</a>
+                    <a target="_blank" href="http://www.6681.com/xinliyangsheng/shengxiao/niu" >属牛</a>
+                    <a target="_blank" href="http://www.6681.com/xinliyangsheng/shengxiao/hu" >�
+1000
+��虎</a>
+                    <a target="_blank" href="http://www.6681.com/xinliyangsheng/shengxiao/long" >属龙</a>
+                    <a target="_blank" href="http://www.6681.com/xinliyangsheng/shengxiao/she" >属蛇</a>
+                    <a target="_blank" href="http://www.6681.com/xinliyangsheng/shengxiao/ma" >属马</a>
+                    <a target="_blank" href="http://www.6681.com/xinliyangsheng/shengxiao/yang" >属羊</a>
+                    <a target="_blank" href="http://www.6681.com/xinliyangsheng/shengxiao/hou" >属猴</a>
+                    <a target="_blank" href="http://www.6681.com/xinliyangsheng/shengxiao/ji" >属鸡</a>
+                    <a target="_blank" href="http://www.6681.com/xinliyangsheng/shengxiao/gou" >属狗</a>
+                    <a target="_blank" href="http://www.6681.com/xinliyangsheng/shengxiao/tu" >属兔</a>
+                    <a target="_blank" href="http://www.6681.com/xinliyangsheng/shengxiao/zhu" >属猪</a>
+                
+        
+        
+                    <a target="_blank" href="http://www.6681.com/yule/shijie" >世界之最</a>
+                    <a target="_blank" href="http://www.6681.com/yule/2012" >娱乐养心</a>
+                    <a target="_blank" href="http://www.6681.com/yule/scgf" >诗词歌赋</a>
+                    <a target="_blank" href="http://www.6681.com/yule/qqsh" >琴棋书画</a>
+                    <a target="_blank" href="http://www.6681.com/yule/hnyc" >花鸟鱼虫</a>
+                    <a target="_blank" href="http://www.6681.com/yule/ysyy" >影视音乐</a>
+                    <a target="_blank" href="http://www.6681.com/yule/dushu" >读书笔记</a>
+                    <a target="_blank" href="http://www.6681.com/yule/lvyouchangshi" >旅游常识</a>
+            </div>
+
+    <div class="ui-tabs-panel tags clear conNo">
+        
+        
+        
+                    <a target="_blank" href="http://www.6681.com/yundong/tiyu" >体育运动</a>
+                    <a target="_blank" href="http://www.6681.com/yundong/taijiquan" >太极拳</a>
+                    <a target="_blank" href="http://www.6681.com/yundong/yujia" >瑜伽</a>
+                    <a target="_blank" href="http://www.6681.com/yundong/jianshen" >健身</a>
+                    <a target="_blank" href="http://www.6681.com/yundong/youyangyd" >有氧运动</a>
+                    <a target="_blank" href="http://www.6681.com/yundong/qigong" >气功</a>
+                
+        
+        
+                    <a target="_blank" href="http://www.6681.com/yundong/dupiwu" >肚皮舞</a>
+                    <a target="_blank" href="http://www.6681.com/yundong/ladingwu" >拉丁舞</a>
+                    <a target="_blank" href="http://www.6681.com/yundong/zenggao" >增高</a>
+                    <a target="_blank" href="http://www.6681.com/yundong/tiaosheng" >跳绳</a>
+                    <a target="_blank" href="http://www.6681.com/yundong/yangwoqizuo" >仰卧起坐</a>
+                    <a target="_blank" href="http://www.6681.com/yundong/jianshencao" >健身操</a>
+                    <a target="_blank" href="http://www.6681.com/yundong/jianshen/fuwocheng" >俯卧撑</a>
+                    <a target="_blank" href="http://www.6681.com/yundong/jianshen/dgdc" >动感单车</a>
+                    <a target="_blank" href="http://www.6681.com/yundong/jianshen/yl" >哑铃</a>
+                    <a target="_blank" href="http://www.6681.com/yundong/jianshen/ytxs" >引体向上</a>
+                    <a target="_blank" href="http://www.6681.com/yundong/jianshen/xj" >胸肌</a>
+                    <a target="_blank" href="http://www.6681.com/yundong/jianshen/mjx" >马甲线</a>
+                    <a target="_blank" href="http://www.6681.com/yundong/jianshen/ryx" >人鱼线</a>
+                    <a target="_blank" href="http://www.6681.com/yundong/jianshen/tgyd" >提肛运动</a>
+                    <a target="_blank" href="http://www.6681.com/yundong/jianshen/stj" >三头肌</a>
+                    <a target="_blank" href="http://www.6681.com/yundong/jianshen/wt" >卧推</a>
+ 
+1ff8
+                   <a target="_blank" href="http://www.6681.com/yundong/jianshen/gl" >杠铃</a>
+                
+        
+        
+                    <a target="_blank" href="http://www.6681.com/yundong/zixingche" >自行车</a>
+                    <a target="_blank" href="http://www.6681.com/yundong/ganlanqiu" >橄榄球</a>
+                    <a target="_blank" href="http://www.6681.com/yundong/pingpangqiu" >乒乓球</a>
+                    <a target="_blank" href="http://www.6681.com/yundong/tiyu/yumaoqiu" >羽毛球</a>
+                    <a target="_blank" href="http://www.6681.com/yundong/tiyu/zuqiu" >足球</a>
+                    <a target="_blank" href="http://www.6681.com/yundong/tiyu/jj" >击剑</a>
+                    <a target="_blank" href="http://www.6681.com/yundong/tiyu/bh" >拔河</a>
+                    <a target="_blank" href="http://www.6681.com/yundong/tiyu/bangqiu" >棒球</a>
+                    <a target="_blank" href="http://www.6681.com/yundong/tiyu/qj" >拳击</a>
+                    <a target="_blank" href="http://www.6681.com/yundong/tiyu/pht" >皮划艇</a>
+                    <a target="_blank" href="http://www.6681.com/yundong/tiyu/tg" >跳高</a>
+                    <a target="_blank" href="http://www.6681.com/yundong/tiyu/wq" >网球</a>
+                    <a target="_blank" href="http://www.6681.com/yundong/tiyu/lanqiu" >篮球</a>
+                    <a target="_blank" href="http://www.6681.com/yundong/tiyu/bq" >冰球</a>
+                    <a target="_blank" href="http://www.6681.com/yundong/tiyu/mls" >马拉松</a>
+                    <a target="_blank" href="http://www.6681.com/yundong/tiyu/jz" >竞走</a>
+                    <a target="_blank" href="http://www.6681.com/yundong/tiyu/blq" >保龄球</a>
+                    <a target="_blank" href="http://www.6681.com/yundong/tiyu/ws" >武术</a>
+                    <a target="_blank" href="http://www.6681.com/yundong/tiyu/ksd" >空手道</a>
+                    <a target="_blank" href="http://www.6681.com/yundong/tiyu/hyhb" >花样滑冰</a>
+                    <a target="_blank" href="http://www.6681.com/yundong/tiyu/tq" >台球</a>
+                    <a target="_blank" href="http://www.6681.com/yundong/tiyu/sg" >双杠</a>
+            </div>
+
+    <div class="ui-tabs-panel tags clear conNo">
+        
+        
+        
+                    <a target="_blank" target="_blank" href="http://www.6681.com/jibing/gugutou" >股骨头</a>
+                    <a target="_blank" target="_blank" href="http://www.6681.com/jibing/erming" >耳鸣</a>
+                    <a target="_blank" target="_blank" href="http://www.6681.com/jibing/qianmazhen" >荨麻疹</a>
+                    <a target="_blank" target="_blank" href="http://www.6681.com/jibing/aizibing" >艾滋病</a>
+                    <a target="_blank" target="_blank" href="http://www.6681.com/jibing/yigan" >乙肝</a>
+                    <a target="_blank" target="_blank" href="http://www.6681.com/jibing/ganai" >肝癌</a>
+                    <a target="_blank" target="_blank" href="http://www.6681.com/jibing/yixianyan" >胰腺炎</a>
+                    <a target="_blank" target="_blank" href="http://www.6681.com/jibing/ruxianai" >乳腺癌</a>
+                    <a target="_blank" target="_blank" href="http://www.6681.com/jibing/dabianchuxue" >大便出血</a>
+                    <a target="_blank" target="_blank" href="http://www.6681.com/jibing/luanchaonanzhong" >卵巢囊肿</a>
+                    <a target="_blank" target="_blank" href="http://www.6681.com/jibing/zhuananmei" >转氨酶</a>
+                    <a target="_blank" target="_blank" href="http://www.6681.com/jibing/yixianai" >胰腺癌</a>
+                    <a target="_blank" target="_blank" href="http://www.6681.com/jibing/xinzangzaobo" >心脏早搏</a>
+                    <a target="_blank" target="_blank" href="http://www.6681.com/jibing/gongjingmilan" >宫颈糜烂</a>
+                    <a target="_blank" target="_blank" href="http://www.6681.com/jibing/yuezi" >月子</a>
+                    <a target="_blank" target="_blank" href="http://www.6681.com/jibing/yanyan" >咽炎</a>
+                    <a target="_blank" target="_blank" href="http://www.6681.com/jibing/weikuiyang" >胃溃疡</a>
+                    <a target="_blank" target="_blank" href="http://www.6681.com/jibing/houyan" >喉炎</a>
+                    <a target="_blank" target="_blank" href="http://www.6681.com/jibing/dahulu" >打呼噜</a>
+                    <a target="_blank" target="_blank" href="http://www.6681.com/jibing/tongfeng" >痛风</a>
+                    <a target="_blank" target="_blank" href="http://www.6681.com/jibing/nafenmishidiao" >内分泌失调</a>
+                    <a target="_blank" target="_blank" href="http://www.6681.com/jibing/biantaoti" >扁桃体</a>
+                    <a target="_blank" target="_blank" href="http://www.6681.com/jibing/biyan" >鼻炎</a>
+                    <a target="_blank" target="_blank" href="http://www.6681.com/jibing/jiyan" >鸡眼</a>
+                    <a target="_blank" target="_blank" href="http://www.6681.com/jibing/jianzhouyan" >肩周炎</a>
+                    <a target="_blank" target="_blank" href="http://www.6681.com/jibing/shizhen" >湿疹</a>
+                    <a target="_blank" target="_blank" href="http://www.6681.com/jibing/hongyanbing" >红眼病</a>
+                    <a target="_blank" target="_blank" href="http://www.6681.com/jibing/guominxingbiyan" >过敏性鼻炎</a>
+                    <a target="_blank" target="_blank" href="http://www.6681.com/jibing/yiyuzheng" >抑郁症</a>
+                    <a target="_blank" target="_blank" href="http://www.6681.com/jibing/fengshibing" >风湿病</a>
+                    <a target="_blank" target="_blank" href="http://www.6681.com/jibing/zhiqiguanyan" >支气管炎</a>
+                    <a target="_blank" target="_blank" href="http://www.6681.com/jibing/shouzukoubing" >手足口病</a>
+                    <a target="_blank" target="_blank" href="http://www.6681.com/jibing/niupixuan" >牛皮癣</a>
+                    <a target="_blank" target="_blank" href="http://www.6681.com/jibing/shimian" >失眠</a>
+                    <a target="_blank" target="_blank" href="http://www.6681.com/jibing/niaoduzheng" >尿毒症</a>
+                    <a target="_blank" target="_blank" href="http://www.6681.com/jibing/shenyan" >肾炎</a>
+                    <a target="_blank" target="_blank" href="http://www.6681.com/jibing/jiaolvzheng" >焦虑症</a>
+                    <a target="_blank" target="_blank" href="http://www.6681.com/jibing/ganyinghua" >肝硬化</a>
+                    <a target="_blank" target="_blank" href="http://www.6681.com/jibing/feiqizhong" >肺气肿</a>
+                    <a target="_blank" target="_blank" href="http://www.6681.com/jibing/xiaochuan" >哮喘</a>
+                    <a target="_blank" target="_blank" href="http://www.6681.com/jibing/feiai" >肺癌</a>
+                    <a target="_blank" target="_blank" href="http://www.6681.com/jibing/shidaoai" >食道癌</a>
+                    <a target="_blank" target="_blank" href="http://www.6681.com/jibing/penqiangyan" >盆腔炎</a>
+                    <a target="_blank" target="_blank" href="http://www.6681.com/jibing/jiagan" >甲肝</a>
+                    <a target="_blank" target="_blank" href="http://www.6681.com/jibing/weizhang" >胃胀</a>
+                    <a target="_blank" target="_blank" href="http://www.6681.com/jibing/zhifanggan" >脂肪肝</a>
+                    <a target="_blank" target="_blank" href="http://www.6681.com/jibing/xinxueguan" >心血管</a>
+                    <a target="_blank" target="_blank" href="http://www.6681.com/jibing/xinzangbing" >心脏病</a>
+                    <a target="_blank" target="_blank" href="http://www.6681.com/jibing/shenjingshuairuo" >神经衰弱</a>
+                    <a target="_blank" target="_blank" href="http://www.6681.com/jibing/jsb" >精神病</a>
+                    <a target="_blank" target="_blank" href="http://www.6681.com/jibing/poshangfeng" >破伤风</a>
+                    <
+614f
+a target="_blank" target="_blank" href="http://www.6681.com/jibing/ganyan" >肝炎</a>
+                    <a target="_blank" target="_blank" href="http://www.6681.com/jibing/feiyan" >肺炎</a>
+                    <a target="_blank" target="_blank" href="http://www.6681.com/jibing/yijing" >遗精</a>
+                    <a target="_blank" target="_blank" href="http://www.6681.com/jibing/huangdan" >新生儿黄疸</a>
+                    <a target="_blank" target="_blank" href="http://www.6681.com/jibing/zigong" >子宫肌瘤</a>
+                    <a target="_blank" target="_blank" href="http://www.6681.com/jibing/shsy" >四环素牙</a>
+                    <a target="_blank" target="_blank" href="http://www.6681.com/jibing/hongbanlangchuang" >红斑狼疮</a>
+                    <a target="_blank" target="_blank" href="http://www.6681.com/jibing/zigongneimoyiwei" >子宫内膜异位</a>
+                    <a target="_blank" target="_blank" href="http://www.6681.com/jibing/jingshenfenliezheng" >精神分裂症</a>
+                    <a target="_blank" target="_blank" href="http://www.6681.com/jibing/yangjiaofeng" >羊角风</a>
+                    <a target="_blank" target="_blank" href="http://www.6681.com/jibing/shuluanguandusai" >输卵管堵塞</a>
+                    <a target="_blank" target="_blank" href="http://www.6681.com/jibing/pfsy" >皮肤瘙痒</a>
+                    <a target="_blank" target="_blank" href="http://www.6681.com/jibing/wysy" >外阴瘙痒</a>
+            </div>
+
+    <div class="ui-tabs-panel tags clear conNo">
+        
+        
+        
+                    <a target="_blank" href="http://www.6681.com/zhongyi/sysj" >名医书籍</a>
+                    <a target="_blank" href="http://www.6681.com/zhongyi/yaofang" >药方</a>
+                    <a target="_blank" href="http://www.6681.com/zhongyiyaocai" >中药大全</a>
+                    <a target="_blank" href="http://www.6681.com/zhongyi/zydjj" >中药的禁忌</a>
+                    <a target="_blank" href="http://www.6681.com/baojian/jingluo" >经络养生</a>
+                    <a target="_blank" href="http://www.6681.com/zhongyi/tizhi" >体质养生</a>
+                    <a target="_blank" href="http://www.6681.com/zhongyi/xuewei" >穴位</a>
+                    <a target="_blank" href="http://www.6681.com/zhongyi/liaofa" >特色疗法</a>
+                    <a target="_blank" href="http://www.6681.com/zhongyi/wzlf" >五脏六腑</a>
+                
+        
+        
+                    <a target="_blank" href="http://www.6681.com/zhongyiyaocai/aigao" >艾草</a>
+                    <a target="_blank" href="http://www.6681.com/zhongyiyaocai/hongzao" >红枣</a>
+                    <a target="_blank" href="http://www.6681.com/zhongyiyaocai/dancan" >丹参</a>
+                    <a target="_blank" href="http://www.6681.com/zhongyiyaocai/tianma" >天麻</a>
+                    <a target="_blank" href="http://www.6681.com/zhongyiyaocai/duzhong" >杜仲</a>
+                    <a target="_blank" href="http://www.6681.com/zhongyiyaocai/hongjingtian" >红景天</a>
+                    <a target="_blank" href="http://www.6681.com/zhongyiyaocai/baishu" >白术</a>
+                    <a target="_blank" href="http://www.6681.com/zhongyiyaocai/ciwujia" >刺五加</a>
+                    <a target="_blank" href="http://www.6681.com/zhongyiyaocai/wuweizi" >五味子</a>
+                    <a target="_blank" href="http://www.6681.com/zhongyiyaocai/huangchi" >黄芪</a>
+                    <a target="_blank" href="http://www.6681.com/zhongyiyaocai/machiwan" >马齿苋</a>
+                    <a target="_blank" href="http://www.6681.com/zhongyiyaocai/lurong" >鹿茸</a>
+                    <a target="_blank" href="http://www.6681.com/zhongyiyaocai/gegenfen" >葛根粉</a>
+                    <a target="_blank" href="http://www.6681.com/zhongyiyaocai/dcxc" >冬虫夏草</a>
+                    <a target="_blank" href="http://www.6681.com/zhongyiyaocai/maodongqing" >毛冬青</a>
+                    <a target="_blank" href="http://www.6681.com/zhongyiyaocai/pangdahai" >胖大海</a>
+                    <a target="_blank" href="http://www.6681.com/zhongyiyaocai/yanwo" >燕窝</a>
+                    <a target="_blank" href="http://www.6681.com/zhongyiyaocai/xiyangshen" >西洋参</a>
+                    <a target="_blank" href="http://www.6681.com/zhongyiyaocai/lingzhi" >灵芝</a>
+                    <a target="_blank" href="http://www.6681.com/zhongyiyaocai/chuanbei" >川贝</a>
+                    <a target="_blank" href="http://www.6681.com/zhongyiyaocai/taoren" >桃仁</a>
+                    <a target="_blank" href="http://www.6681.com/zhongyiyaocai/aiye" >艾叶</a>
+                    <a target="_blank" href="http://www.6681.com/zhongyiyaocai/sanqifen" >三七粉</a>
+                    <a target="_blank" href="http://www.6681.com/zhongyiyaocai/ningmengpian" >柠檬片</a>
+                    <a target="_blank" href="http://www.6681.com/zhongyiyaocai/sanqi" >三七</a>
+                    <a target="_blank" href="http://www.6681.com/zhongyiyaocai/honghua" >红花</a>
+                    <a target="_blank" href="http://www.6681.com/zhongyiyaocai/danggui" >当归</a>
+                    <a target="_blank" href="http://www.6681.com/zhongyiyaocai/jinyinhua" >金银花</a>
+                    <a target="_blank" href="http://www.6681.com/zhongyiyaocai/yangtaisu" >羊胎素</a>
+                    <a target="_blank" href="http://www.6681.com/zhongyiyaocai/yuxingcao" >鱼腥草</a>
+                    <a target="_blank" href="http://www.6681.com/zhongyiyaocai/banlangen" >板蓝根</a>
+                    <a target="_blank" href="http://www.6681.com/zhongyiyaocai/zhongyiyaocai/yimucao" >益母草</a>
+                    <a target="_blank" href="http://www.6681.com/zhongyiyaocai/gancao" >甘草</a>
+                    <a target="_blank" href="http://www.6681.com/zhongyiyaocai/heshouwu" >何首乌</a>
+                    <a target="_blank" href="http://www.6681.com/zhongyiyaocai/dangshen" >党参</a>
+                    <a target="_blank" href="http://www.6681.com/zhongyiyaocai/chenpi" >陈皮</a>
+                    <a target="_blank" href="http://www.6681.com/zhongyiyaocai/rh" >芦荟</a>
+                    <a target="_blank" href="http://www.6681.com/zhongyiyaocai/hj" >黄精</a>
+                    <a target="_blank" href="http://www.6681.com/zhongyi/sh" >石斛</a>
+                    <a target="_blank" href="http://www.6681.com/zhongyiyaocai/xkc" >夏枯草</a>
+                    <a target="_blank" href="http://www.6681.com/zhongyi/sd" >熟地</a>
+                    <a target="_blank" href="http://www.6681.com/zhongyiyaocai/ch" >柴胡</a>
+                    <a target="_blank" href="http://www.6681.com/zhongyiyaocai/fs" >佛手</a>
+                    <a target="_blank" href="http://www.6681.com/zhongyiyaocai/lq" >连翘</a>
+                    <a target="_blank" href="http://www.6681.com/zhongyiyaocai/md" >麦冬</a>
+                    <a target="_blank" href="http://www.6681.com/zhongyiyaocai/fl" >茯苓</a>
+                    <a target="_blank" href="http://www.6681.com/zhongyiyaocai/qs" >芡实</a>
+                    <a target="_blank" href="http://www.6681.com/zhongyiyaocai/tsz" >菟丝子</a>
+                    <a target="_blank" href="http://www.6681.com/zhongyiyaocai/lcr" >肉苁蓉</a>
+                    <a target="_blank" href="http://www.6681.com/zhongyiyaocai/cx" >川芎</a>
+                    <a target="_blank" href="http://www.6681.com/zhongyiyaocai/sx" >麝香</a>
+                    <a target="_blank" href="http://www.6681.com/zhongyiyaocai/bh" >薄荷叶</a>
+                    <a target="_blank" href="http://www.6681.com/zhongyiyaocai/hl" >黄连</a>
+                    <a target="_blank" href="http://www.6681.com/zhongyiyaocai/bs" >白芍</a>
+                    <a target="_blank" href="http://www.6681.com/zhongyiyaocai/xf" >香附</a>
+                    <a target="_blank" href="http://www.6681.com/zhongyiyaocai/jxt" >鸡血藤</a>
+                    <a target="_blank" href="http://www.6681.com/zhongyiyaocai/cm" >苍术</a>
+                    <a target="_blank" href="http://www.6681.com/zhongyiyaocai/ff" >防风</a>
+                    <a target="_blank" href="http://www.6681.com/zhongyiyaocai/yc" >茵陈</a>
+                    <a target="_blank" href="http://www.6681.com/zhongyiyaocai/dh" >地黄</a>
+                    <a target="_blank" href="http://www.6681.com/zhongyiyaocai/shemei" >蛇莓</a>
+                    <a target="_blank" href="http://www.6681.com/zhongyiyaocai/ss" >沙参</a>
+                    <a target="_blank" href="http://www.6681.com/zhongyiyaocai/jqc" >金钱草</a>
+                    <a target="_blank" href="http://www.6681.com/zhongyiyaocai/cqc" >车前草</a>
+                    <a target="_blank" href="http://www.6681.com/zhongyiyaocai/jg" >桔梗</a>
+                    <a target="_blank" href="http://www.6681.com/zhongyiyaocai/fpz" >覆盆子</a>
+                    <a target="_blank" href="http://www.6681.com/zhongyiyaocai/cxl" >穿心莲</a>
+                    <a target="_blank" href="http://www.6681.com/zhongyiyaocai/cez" >苍耳子</a>
+                    <a target="_blank" href="http://www.6681.com/zhongyiyaocai/xx" > 细辛</a>
+                    <a target="_blank" href="http://www.6681.com/zhongyiyaocai/hx" >藿香</a>
+                    <a target="_blank" href="http://www.6681.com/zhongyiyaocai/hp" >厚朴</a>
+                    <a target="_blank" href="http://www.6681.com/zhongyiyaocai/zr" >竹茹</a>
+                    <a target="_blank" href="http://www.6681.com/zhongyiyaocai/mtl" >曼陀罗</a>
+                    <a target="_blank" href="http://www.6681.com/zhongyiyaocai/tianshanxuelian" >天山雪莲</a>
+                
+        
+        
+                    <a target="_blank" href="http://www.6681.com/zhongyi/wwwq" >望闻问切</a>
+                    <a target="_blank" href="http://www.6681.com/zhongyi/zhenjiu" >针灸</a>
+                    <a target="_blank" href="http://www.6681.com/zhongyi/aijiu" >艾灸</a>
+                    <a target="_blank" href="http://www.6681.com/zhongyi/guasha" >刮痧</a>
+                    <a target="_blank" href="http://www.6681.com/zhongyi/baguan" >拔罐</a>
+                    <a target="_blank" href="http://www.6681.com/zhongyi/liaofa/fxlf" >放血疗法</a>
+                
+        
+        
+                    <a target="_blank" href="http://www.6681.com/zhongyi/pianfang" >民间偏方</a>
+                    <a target="_blank" href="http://www.6681.com/zhongyi/kesou" >咳嗽偏方</a>
+                    <a target="_blank" href="http://www.6681.com/zhongyi/kqky" >口腔溃疡偏方</a>
+                    <a target="_blank" href="http://www.6681.com/yaofang/tfpf" >痛风偏方</a>
+                    <a target="_blank" href="http://www.6681.com/yaofang/zkhtpf" >止咳化痰偏方</a>
+                    <a target="_blank" href="http://www.6681.com/yaofang/sfpf" >生发偏方</a>
+                    <a target="_blank" href="http://www.6681.com/yaofang/hcpf" >狐臭偏方</a>
+                    <a target="_blank" href="http://www.6681.com/yaofang/bmpf" >便秘偏方</a>
+                    <a target="_blank" href="http://www.6681.com/yaofang/gxypf" >高血压偏方</a>
+                    <a target="_blank" href="http://www.6681.com/yaofang/tspf" >退烧偏方</a>
+                    <a target="_blank" href="http://www.6681.com/yaofang/xnpf" >下奶偏方</a>
+                    <a target="_blank" href="http://www.6681.com/yaofang/bypf" >鼻炎偏方</a>
+                    <a target="_blank" href="http://www.6681.com/yaofang/hzjpf" >灰指甲偏方</a>
+                    <a target="_blank" href="http://www.6681.com/yaofang/qlxypf" >前列腺炎偏方</a>
+                    <a target="_blank" href="http://www.6681.com/yaofang/smpf" >失眠偏方</a>
+                    <a target="_blank" href="http://www.6681.com/yaofang/jqpf" >脚气偏方</a>
+                    <a target="_blank" href="http://www.6681.com/yaofang/zcpf" >痔疮偏方</a>
+                    <a target="_blank" href="http://www.6681.com/yaofang/ytpf" >牙痛偏方</a>
+            </div>
+
+    <div class="ui-tabs-panel tags clear conNo">
+        
+        
+        
+                    <a target="_blank" href="http://www.6681.com/xiyiyaocai/lilun" >西医理论</a>
+                    <a target="_blank" href="http://www.6681.com/xiyiyaocai/weishengsu" >维生素</a>
+                    <a target="_blank" href="http://www.6681.com/xiyiyaocai/jydb" >胶原蛋白</a>
+                    <a target="_blank" href="http://www.6681.com/xiyiyaocai/zxrj" >左旋肉碱</a>
+                    <a target="_blank" href="http://www.6681.com/xiyiyaocai/xiyao" >西药大全</a>
+                    <a target="_blank" href="http://www.6681.com/xiyiyaocai/paiduyangyan" >排毒养颜</a>
+                
+        
+        
+                    <a target="_blank" href="http://www.6681.com/xiyiyaocai/jiaweixiaoyaowan" >加味逍遥丸</a>
+                    <a target="_blank" href="http://www.6681.com/xiyiyaocai/ejiao" >阿胶</a>
+                    <a target="_blank" href="http://www.6681.com/xiyiyaocai/jianfeiyao" >减肥药</a>
+                    <a target="_blank" href="http://www.6681.com/xiyiyaocai/amoxilin" >阿莫西林</a>
+                    <a target="_blank" href="http://www.6681.com/xiyiyaocai/lhms" >罗红霉素</a>
+                    <a target="_blank" href="http://www.6681.com/xiyiyaocai/hms" >红霉素</a>
+                    <a target="_blank" href="http://www.6681.com/xiyiyaocai/qms" >青霉素</a>
+                    <a target="_blank" href="http://www.6681.com/xiyiyaocai/aspl" >阿司匹林</a>
+                    <a target="_blank" href="http://www.6681.com/xiyiyaocai/ysp" >叶酸片</a>
+                    <a target="_blank" href="http://www.6681.com/xiyiyaocai/yesuan" >叶酸</a>
+                    <a target="_blank" href="http://www.6681.com/xiyiyaocai/jjbyy" >紧急避孕药</a>
+                    <a target="_blank" href="http://www.6681.com/xiyiyaocai/byy" >避孕药</a>
+                
+        
+        
+                    <a target="_blank" href="http://www.6681.com/xiyiyaocai/weishengsue" >维生素e</a>
+                    <a target="_blank" href="http://www.6681.com/xiyiyaocai/weishengsuc" >维生素c</a>
+                    <a target="_blank" href="http://www.6681.com/xiyiyaocai/weishengsub" >维生素b</a>
+                    <a target="_blank" href="http://www.6681.com/xiyiyaocai/weishengsub2" >维生素b2</a>
+                    <a target="_blank" href="http://www.6681.com/xiyiyaocai/weishengsub6" >维生素b6</a>
+                    <a target="_blank" href="http://www.6681.com/xiyiyaocai/weishengsua" >维生素a</a>
+            </div>
+
+    <div class="ui-tabs-panel tags clear conNo">
+        
+        
+        
+                    <a target="_blank" href="http://www.6681.com/jibing/zhangdoudou" >长痘痘</a>
+                    <a target="_blank" href="http://www.6681.com/naotan" >小儿脑瘫</a>
+                    <a target="_blank" href="http://www.6681.com/jibing/jinshiyan" >近视眼</a>
+                    <a target="_blank" href="http://www.6681.com/jibing/shenjieshi" >肾结石</a>
+                    <a target="_blank" href="http://www.6681.com/jibing/tuofa" >脱发</a>
+                    <a target="_blank" href="http://www.6681.com/guanxinbing" >冠心病</a>
+                    <a target="_blank" href="http://www.6681.com/qianliexianyan" >前列腺炎</a>
+                    <a target="_blank" href="http://www.6681.com/jibing/gaoxueya" >高血压</a>
+                    <a target="_blank" href="http://www.6681.com/jibing/wutongrenliu" >无痛人流</a>
+                    <a target="_blank" href="http://www.6681.com/baidianfeng" >白癜风</a>
+                    <a target="_blank" href="http://www.6681.com/dianxian" >癫痫</a>
+                    <a target="_blank" href="http://www.6681.com/jibing/kqky" >口腔溃疡</a>
+                    <a target="_blank" href="http://www.6681.com/jibing/fgy" >附睾炎</a>
+                    <a target="_blank" href="http://www.6681.com/jibing/bpgty" >包皮龟头炎</a>
+                    <a target="_blank" href="http://www.6681.com/jibing/gongwaiyun" >宫外孕</a>
+                    <a target="_blank" href="http://www.6681.com/jianruishiyou" >尖锐湿疣</a>
+                    <a target="_blank" href="http://www.6681.com/baifa" >白发</a>
+                    <a target="_blank" href="http://www.6681.com/ruxianzengsheng" >乳腺增生</a>
+                    <a target="_blank" href="http://www.6681.com/zaoxie" >早泄</a>
+                    <a target="_blank" href="http://www.6681.com/jibing/buyunbuyu" >不孕不育</a>
+                    <a target="_blank" href="http://www.6681.com/jibing/ynsy" >阴囊瘙痒</a>
+                    <a target="_blank" href="http://www.6681.com/jiedu" >戒毒</a>
+                    <a target="_blank" href="http://www.6681.com/zc" >痔疮</a>
+            </div>
+
+    <div class="ui-tabs-panel tags clear conNo">
+        
+        
+        
+                    <a target="_blank" href="http://www.6681.com/xinliyangsheng/liangxing" >两性心理</a>
+                    <a target="_blank" href="http://www.6681.com/ranqun/liangxing" >两性健康</a>
+                    <a target="_blank" href="http://www.6681.com/sex/baojian" >两性保健</a>
+                    <a target="_blank" href="http://www.6681.com/sex/shenghuo" >两性生活</a>
+                    <a target="_blank" href="http://www.6681.com/sex/zhishi" >两性知识</a>
+                    <a target="_blank" href="http://www.6681.com/sex/jiqiao" >性爱技巧</a>
+            </div>
+</div>
+						<!--养生ys10友情连接-->
+						<div class="container">
+						<div class="link_title">
+						<span class="left headline">友情链接</span>
+						</div>
+							<div class="link clear">
+								<ul>
+										  								
+	  									<li><a href="http://www.3234.com/" target="_blank">3234单机游戏</a>
+	  									  								
+	  									<li><a href="http://www.mmbang.com/" target="_blank">母婴教育</a>
+	  									  								
+	  									<li><a href="http://www.wmpic.me/" target="_blank">唯美图片</a>
+	  									  								
+	  									<li><a href="http://www.45575.com/" target="_blank">4475小游戏</a>
+	  									  								
+	  									<li><a href="http://www.jqr5.com/" target="_blank">机器人</a>
+	  									  								
+	  									<li><a href="http://www.2280.com/" target="_blank">周公解梦</a>
+	  									  								
+	  									<li><a href="http://www.99zuowen.com/" target="_blank">初中作文</a>
+	  									  								
+	  									<li><a href="http://www.2cto.com/" target="_blank">红黑联盟</a>
+	  									  								
+	  									<li><a href="http://www.lieqi.me/" target="_blank">猎奇</a>
+	  									  								
+	  									<li><a href="http://www.juxia.com/" target="_blank">聚侠网页游戏</a>
+	  									  								
+	  									<li><a href="http://www.4493.com/" target="_blank">美女图片</a>
+	  									  								
+	  									<li><a href="http://www.duanwenxue.com/" target="_blank">短篇原创文学</a>
+	  									  								
+	  									<li><a href="http://www.easyzw.com/" target="_blank">作文大全</a>
+	  									  								
+	  									<li><a href="http://www.fx120.net/" target="_blank">放心医苑网</a>
+	  									  								
+	  									<li><a href="http://www.jiankang.com/" target="_blank">百姓健康网</a>
+	  									  								
+	  									<li><a href="https://www.ys137.com/" target="_blank">养生</a>
+	  									  								
+	  									<li><a href="http://www.easyzw.com/" target="_blank">小学作文</a>
+	  									  								
+	  									<li><a href="http://www.6681.com/yinshi/xiaomi/" target="_blank">小米</a>
+	  									  								
+	  									<li><a href="http://www.qiuyi.cn/" target="_blank">求医问药</a>
+	  									  								
+	  									<li><a href="http://health.pclady.com.cn/" target="_blank">PClady健康</a>
+	  									  								
+	  									<li><a href="http://club.xywy.com/" target="_blank">有问必答</a>
+	  									  								
+	  									<li><a href="href="http://www.69jk.cn" target="_blank">69健康</a>
+	  									  								
+	  									<li><a href="href="http://www.99xr.com/" target="_blank">久久养生网</a>
+	  									  								
+	  									<li><a href="http://www.zyctd.com/" target="_blank">中药材</a>
+	  									  								
+	  									<li><a href="http://www.fancai.com/" target="_blank">菜谱大全</a>
+	  									  								
+	  									<li><a href="http://www.a-hospital.com/" target="_blank">医学百科</a>
+	  									  								
+	  									<li><a href="http://www.meishic.com/" target="_blank">美食城</a>
+	  									  								
+	  									<li><a href="http://zyk.99.com.cn/" target="_blank">中医养生</a>
+	  									  								
+	  									<li><a href="http://www.psy525.cn/" target="_blank">心理咨询</a>
+	  									  								
+	  									<li><a href="http://www.yaofang.cn/" target="_blank">药房网</a>
+	  									  								
+	  									<li><a href="http://www.familydoctor.com.cn/" target="_blank">家庭医生在线</a>
+	  									  								
+	  									<li><a href="http://baike.onlylady.com/" target="_blank">女性百科</a>
+	  									  								
+	  									<li><a href="http://www.cnys.com/" target="_blank">养生</a>
+	  									  								
+	  									<li><a href="http://www.qbaobei.com/" target="_blank">亲亲宝贝</a>
+	  									  								
+	  									<li><a href="http://www.ys8.com/" target="_blank">养生吧</a>
+	  									  								
+	  									<li><a href="http://erge.qqbaobao.com/" target="_blank">儿歌视频大全</a>
+	  									  								
+	  									<li><a href="http://www.cndzys.com/" target="_blank">夏季养生</a>
+	  									  								
+	  									<li><a href="http://www.99166.com/" target="_blank">免费算命网</a>
+	  									  								
+	  									<li><a href="http://www.meimingteng.com/" target="_blank">宝宝起名</a>
+	  									  								
+	  									<li><a href="http://www.buyiju.com/" target="_blank">算命网</a>
+	  									  								
+	  									<li><a href="http://wannianli.tianqi.com/" target="_blank">万年历农历查询</a>
+	  									  								
+	  									<li><a href="http://www.pingguolv.com/" target="_blank">苹果绿养生网</a>
+	  									  								
+	  									<li><a href="http://www.wannianli.com.cn/" target="_blank">万年历</a>
+	  									  								
+	  									<li><a href="http://www.fx120.net/" target="_blank">放心医苑网</a>
+	  																</ul>
+							</div>
+
+							<div class="hpcy-linkimg">
+								<li><a href="http://health.pcbaby.com.cn/" target="_blank"><img src="/assets/yshb/images/pcbaby.jpg" width="88" height="31" border="0"></a> </li>
+							</div>
+						</div>
+						</div>
+						<!--底部-->
+						<div class="dibu">				
+							<div class="footer clear">
+    <a href='/'>养生</a>|<a href='/about/about.html' >关于我们</a>|<a href='/about/job.html'>人才招聘</a>|<a href='/'>养生之道</a>|<a href='/zhongyi/'>中医养生</a>|<a href='/baojian/'>健康养生</a>|<a href='/yinshi/'>食疗养生</a>丨<a href='/data/sitemap.html'>网站地图</a>|<a href='/about/mianze.html'>免责声明</a>|<a href='/about/banquan.html'>版权声明</a> <br><br>  <a target="_blank"  rel="nofollow" href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=36110202000048"><img src="http://www.beian.gov.cn/img/ghs.png" class="ga" />赣公网安备 36110202000048号</a>
+    广告合作<a target="_blank" href="http://wpa.qq.com/msgrd?v=3&uin=97653777&site=qq&menu=yes" title="广告合作"><img border="0" src="http://wpa.qq.com/pa?p=2:97653777:46"></a>
+    友情链接<a target="_blank" href="http://wpa.qq.com/msgrd?v=3&uin=97653791&site=qq&menu=yes" title="友情链接"><img border="0" src="http://wpa.qq.com/pa?p=2:97653791:46"></a>
+    <script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_30061913'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "w.cnzz.com/c.php%3Fid%3D30061913' type='text/javascript'%3E%3C/script%3E"));</script>
+    <span style="display:none"><script type="text/javascript" src="/js/tongji.js"></script></span>
+        
+    <span style="display:none"><script type="text/javascript">usertongji();</script></span>
+
+	<script type="text/javascript">pc_A_D('pc_6')</script>
+    <!-- 6681_视窗 -->
+    <script type="text/javascript">pc_A_D('pc_5')</script>
+</div>
+<div>
+</div>
+<span style="display:none"><script type="text/javascript" src="/js/tj.js"></script></span>
+						</div>
+						
+	</body>
+</html>
+0
+
+

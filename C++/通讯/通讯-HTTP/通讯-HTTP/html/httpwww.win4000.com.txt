@@ -1,0 +1,813 @@
+HTTP/1.1 200 OK
+Date: Sat, 25 Mar 2017 04:38:30 GMT
+Server: nginx/1.9.8
+Content-Type: text/html; charset=utf-8
+Transfer-Encoding: chunked
+Set-Cookie: PHPSESSID=5rjk282cr20s9vmheemiiqvlm7; path=/
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Set-Cookie: BUSER=6ccee5f4e86fa694f35b5562a3f0ef98; expires=Sun, 25-Mar-2018 04:38:29 GMT; Max-Age=31536000; path=/; domain=.win4000.com
+X-Via: 1.1 zhshx14:3 (Cdn Cache Server V2.0), 1.1 qzh229:2 (Cdn Cache Server V2.0)
+Connection: close
+
+15111
+<!DOCTYPE html>
+<head>
+<meta charset="utf-8" />
+<title>电脑主题之家,桌面主题下载,电脑桌面壁纸,高清桌面壁纸_美桌网</title>
+<meta name="description" content="美桌网提供多款电脑主题、桌面主题下载包括xp和win7电脑主题，还有电脑桌面壁纸都是高清桌面壁纸，是美化您的电脑下载电脑桌面主题和电脑桌面壁纸的最佳网站。" />
+<link rel="shortcut icon" href="/favicon.ico" /> 
+<link href="http://pic.win4000.com/css/new_base.css?v=2017010503" rel="stylesheet" type="text/css" /><script type="text/javascript" src="http://pic.win4000.com/js/jquery.js?v=2017010503"></script><script type="text/javascript" src="http://pic.win4000.com/js/new_common.js?v=2017010503"></script><script type="text/javascript" src="http://pic.win4000.com/js/jquery.lazyload.min.js?v=2017010503"></script><script type="text/javascript" src="http://js.139y.com/js/ds.js"></script><base target="_blank" /><script type="text/javascript" src="http://pic.win4000.com/js/jquery.tab.js?v=2017010503"></script></head>
+<body>
+<div class="hwrap">
+    <div class="header clearfix">
+        <div class="clearfix">
+            <div class="logo-mei"><a href="http://www.win4000.com" title="提供精美桌面主题下载和高清桌面壁纸下载"></a></div>
+            <strong class="logo-title">超过10万种桌面主题和桌面壁纸下载！</strong>
+            <!-- Baidu Button BEGIN -->
+            <div id="bdshare" class="bdshare_t bds_tools_32 get-codes-bdshare">
+                <a class="bds_qzone"></a>
+                <a class="bds_tsina"></a>
+                <a class="bds_renren"></a>
+                <a class="bds_tqq"></a>
+                <span class="bds_more">更多</span>
+                <a class="shareCount"></a>
+            </div>
+            <script type="text/javascript" id="bdshare_js" data="type=tools&amp;uid=11425" ></script>
+            <script type="text/javascript" id="bdshell_js"></script>
+            <script type="text/javascript">
+                document.getElementById("bdshell_js").src = "http://bdimg.share.baidu.com/static/js/shell_v2.js?cdnversion=" + new Date().getHours();
+            </script>
+            <!-- Baidu Button END -->
+            <form id="top-search" action="http://so.win4000.com/cse/search" target="_blank">
+                <input type="hidden" name="c" value="search" />
+                <input type="hidden" id="search_type" name="search_type" value="common" />
+                <input type="hidden" name="s" value="9025502891246305794">
+                <input type="text" id="keyword" name="q" class="mtext02" value="输入您要搜索主题和壁纸的关键词"><input type="submit" id="btn_search" class="mbtn01" value="搜索">
+            </form>
+        </div>
+        <ul class="navlist clearfix">
+            <li class="current"><a href="http://www.win4000.com/">首页</a></li>
+            <li ><a href="http://www.win4000.com/wallpaper_0_0_0_1.html">桌面壁纸</a></li> 
+            <li ><a href="http://www.win4000.com/mobile_0_0_0_1.html">手机壁纸</a></li> 
+            <li class=""><a href="http://www.win4000.com/zt/index.html">壁纸专题</a></li>
+            
+            <li class="more"><a href="javascript:void(0);">桌面主题</a>
+                 <ul>
+                    <li ><a href="http://www.win4000.com/theme_1_0_0_1.html">Xp主题</a></li>
+                    <li ><a href="http://www.win4000.com/theme_3_0_0_1.html">Win7主题</a></li>
+                    <li ><a href="http://www.win4000.com/diy_13_0_1.html">屏幕保护</a></li> 
+                 </ul>
+            </li>
+            <li class="more"><a href="javascript:void(0);">美化素材</a>
+                <ul>
+                    <li ><a href="http://www.win4000.com/diy_16_0_1.html">登录界面</a></li>
+                    <li ><a href="http://www.win4000.com/diy_14_0_1.html">电脑图标</a></li>
+                    <li ><a href="http://www.win4000.com/diy_15_0_1.html">鼠标指针</a></li>
+                    <li ><a href="http://www.win4000.com/font_0_0_1.html">字体下载</a></li>
+                    <li ><a href="http://www.win4000.com/font_tag_index_1.html">字体专题</a></li>
+                </ul>
+            </li>
+            <li class=""><a href="http://www.win4000.com/mt/index.html">专题图片</a></li>
+            <li class=""><a href="http://www.win4000.com/hj/index.html" target="_blank">精选合集</a></li>
+            <li class=""><a href="http://www.win4000.com/mt/star_0_0_0.html">明星图片</a></li>
+            <li class=""><a href="http://www.win4000.com/retu.html">图片大全</a></li>
+            <li class="last  "><a href="http://www.win4000.com/meitu.html">图库</a></li>
+        </ul>
+        <p class="tip-beta">
+            <span>
+                <a href="/tags_wallpaper.html">壁纸大全</a>|<a href="/tags_meinv.html">美女大全</a>|<a href="/tags_retu.html">图片大全</a>|<a href="/tags_heji.html">合集大全</a>|<a href="http://www.win4000.com/course_1.html">电脑教程</a>|<a href="/feedback.html">反馈留言</a>
+            </span>美桌网精选推荐高清<a href="http://www.win4000.com/zt/rili.html" style="color:red;"><b>2017年04月日历壁纸</b></a>，希望大家喜欢！
+        </p>
+    </div>
+</div>
+<!-- end hwrap--> 
+<div class="a1000 mt10">
+<script>lzslot.fill(53)</script>
+</div>
+<div class="main-content clearfix">
+    <div class="col-main">
+        <div class="main-wrap">
+            <div id="banner" class="banner">
+                <ul class="bxslider">
+                                        <li><a href="http://www.win4000.com/hj/wangluoremen.html" target="_blank"><img alt="美桌网2017热门网络图片大全" title="美桌网2017热门网络图片大全" src="http://pic1.win4000.com/tj/201702/58b4d6aeb8c60.jpg"></a><strong>美桌网2017热门网络图片大全</strong></li>
+                                        <li><a href="http://www.win4000.com/hj/wangzherongyao.html" target="_blank"><img alt="王者荣耀壁纸图片大全" title="王者荣耀壁纸图片大全" src="http://pic1.win4000.com/tj/201612/586674976a819.jpg"></a><strong>王者荣耀壁纸图片大全</strong></li>
+                                        <li><a href="http://www.win4000.com/hj/2017yings.html" target="_blank"><img alt="2017年全年影视合集图片大全" title="2017年全年影视合集图片大全" src="http://pic1.win4000.com/tj/201702/58b00032b697e.jpg"></a><strong>2017年全年影视合集图片大全</strong></li>
+                                        <li><a href="http://www.win4000.com/hj/jieribizhitupiandaquan.html" target="_blank"><img alt="全年节日图片大全" title="全年节日图片大全" src="http://pic1.win4000.com/tj/201701/586c61d7ec173.jpg"></a><strong>全年节日图片大全</strong></li>
+                                        <li><a href="http://www.win4000.com/hj/2017rili.html" target="_blank"><img alt="2017年全年高清日历壁纸" title="2017年全年高清日历壁纸" src="http://pic1.win4000.com/tj/201702/58b39e3024299.jpg"></a><strong>2017年全年高清日历壁纸</strong></li>
+                                    </ul>
+                <div id="bx-pager">
+                    <ul class="fi_tab">
+                                                <li><img src="http://pic1.win4000.com/tj/201702/58b4d6aeb8c60.jpg_s.jpg" /></li>
+                                                <li><img src="http://pic1.win4000.com/tj/201612/586674976a819.jpg_s.jpg" /></li>
+                                                <li><img src="http://pic1.win4000.com/tj/201702/58b00032b697e.jpg_s.jpg" /></li>
+                                                <li><img src="http://pic1.win4000.com/tj/201701/586c61d7ec173.jpg_s.jpg" /></li>
+                                                <li><img src="http://pic1.win4000.com/tj/201702/58b39e3024299.jpg_s.jpg" /></li>
+                                            </ul>
+                </div>
+            </div>
+            <!--end banner-->
+            <div class="mbox theme-paper">
+                <div class="mhd">
+            <h2>精选桌面壁纸</h2>
+    <div class="color-choose">
+    <span>颜色：</span>
+        <a id="c-yellow" href="http://www.win4000.com/wallpaper_0_1_0_1.html" title="黄色壁纸" >黄色壁纸</a>
+        <a id="c-orange" href="http://www.win4000.com/wallpaper_0_2_0_1.html" title="橙色壁纸" >橙色壁纸</a>
+        <a id="c-red" href="http://www.win4000.com/wallpaper_0_3_0_1.html" title="红色壁纸" >红色壁纸</a>
+        <a id="c-pink" href="http://www.win4000.com/wallpaper_0_4_0_1.html" title="粉红壁纸" >粉红壁纸</a>
+        <a id="c-purple" href="http://www.win4000.com/wallpaper_0_5_0_1.html" title="紫色壁纸" >紫色壁纸</a>
+        <a id="c-green" href="http://www.win4000.com/wallpaper_0_6_0_1.html" title="绿色壁纸" >绿色壁纸</a>
+        <a id="c-blue" href="http://www.win4000.com/wallpaper_0_7_0_1.html" title="蓝色壁纸" >蓝色壁纸</a>
+        <a id="c-gray" href="http://www.win4000.com/wallpaper_0_8_0_1.html" title="灰色壁纸" >灰色壁纸</a>
+        <a id="c-black" href="http://www.win4000.com/wallpaper_0_9_0_1.html" title="黑色壁纸" >黑色壁纸</a>
+        <a id="c-white" href="http://www.win4000.com/wallpaper_0_11_0_1.html" title="白色壁纸" >白色壁纸</a>
+        <a id="c-dazzle" href="http://www.win4000.com/wallpaper_0_10_0_1.html" title="炫彩壁纸" >炫彩壁纸</a>
+        </div>
+</div>                <div class="mbd">
+                        <div class="labels">
+        <a href="http://www.win4000.com/wallpaper_2286_0_0_1.html"  title="日历壁纸"><span>日历壁纸</span></a>
+        <a href="http://www.win4000.com/wallpaper_208_0_0_1.html"  title="风景壁纸"><span>风景壁纸</span></a>
+        <a href="http://www.win4000.com/wallpaper_191_0_0_1.html"  title="游戏壁纸"><span>游戏壁纸</span></a>
+        <a href="http://www.win4000.com/wallpaper_2285_0_0_1.html"  title="美女壁纸"><span>美女壁纸</span></a>
+        <a href="http://www.win4000.com/wallpaper_2358_0_0_1.html"  title="风格壁纸"><span>风格壁纸</span></a>
+        <a href="http://www.win4000.com/wallpaper_192_0_0_1.html"  title="卡通动漫"><span>卡通动漫</span></a>
+        <a href="http://www.win4000.com/wallpaper_197_0_0_1.html"  title="设计创意"><span>设计创意</span></a>
+        <a href="http://www.win4000.com/wallpaper_207_0_0_1.html"  title="高清壁纸"><span>高清壁纸</span></a>
+        <a href="http://www.win4000.com/wallpaper_2361_0_0_1.html"  title="美食壁纸"><span>美食壁纸</span></a>
+        <a href="http://www.win4000.com/wallpaper_209_0_0_1.html"  title="植物壁纸"><span>植物壁纸</span></a>
+        <a href="http://www.win4000.com/wallpaper_206_0_0_1.html"  title="动物壁纸"><span>动物壁纸</span></a>
+        <a href="http://www.win4000.com/wallpaper_195_0_0_1.html"  title="汽车壁纸"><span>汽车壁纸</span></a>
+        <a href="http://www.win4000.com/wallpaper_205_0_0_1.html"  title="大陆明星"><span>大陆明星</span></a>
+        <a href="http://www.win4000.com/wallpaper_201_0_0_1.html"  title="大陆影视"><span>大陆影视</span></a>
+        <a href="http://www.win4000.com/wallpaper_202_0_0_1.html"  title="港台明星"><span>港台明星</span></a>
+        <a href="http://www.win4000.com/wallpaper_198_0_0_1.html"  title="港台影视"><span>港台影视</span></a>
+        <a href="http://www.win4000.com/wallpaper_203_0_0_1.html"  title="欧美明星"><span>欧美明星</span></a>
+        <a href="http://www.win4000.com/wallpaper_199_0_0_1.html"  title="欧美影视"><span>欧美影视</span></a>
+        <a href="http://www.win4000.com/wallpaper_204_0_0_1.html"  title="日韩明星"><span>日韩明星</span></a>
+        <a href="http://www.win4000.com/wallpaper_200_0_0_1.html"  title="日韩影视"><span>日韩影视</span></a>
+        <a href="http://www.win4000.com/wallpaper_2357_0_0_1.html"  title="体育壁纸"><span>体育壁纸</span></a>
+        <a href="http://www.win4000.com/wallpaper_2287_0_0_1.html"  title="节日壁纸"><span>节日壁纸</span></a>
+        <a href="http://www.win4000.com/wallpaper_193_0_0_1.html"  title="家居壁纸"><span>家居壁纸</span></a>
+        <a href="http://www.win4000.com/wallpaper_196_0_0_1.html"  title="广告壁纸"><span>广告壁纸</span></a>
+        <a href="http://www.win4000.com/wallpaper_194_0_0_1.html"  title="军事壁纸"><span>军事壁纸</span></a>
+            <a title="全部分类" href="/tags_wallpaper.html" style="color: #ff8d12;"><span>全部分类</span></a>
+        </div>
+
+                    <div id="tab-paper">
+                        <ul class="tabmenu menu-paper clearfix">
+                            <li class="current"><a href="javascript:void(0);">合集推荐</a></li>
+                            <li><a href="javascript:void(0);">最新推荐</a></li>
+                            <li><a href="javascript:void(0);">本周热门</a></li>
+                        </ul>
+                        <div class="con-paper text-con">
+                            <div style="display: block;">
+                                <ul class="main-img clearfix">
+                                                                        <li>
+                                        <a href="http://www.win4000.com/hj/qichebiaozhi.html"><img class="lazy" data-original="http://pic1.win4000.com/tj/201606/57514d42d04f6.jpg" src="http://pic.win4000.com/images/lazyload.gif" alt="美桌网汽车车标大全" title="美桌网汽车车标大全"></a>
+                                        <p><a href="http://www.win4000.com/hj/qichebiaozhi.html">美桌网汽车车标大全</a></p>
+                                    </li>
+                                                                        <li>
+                                        <a href="http://www.win4000.com/hj/2017cxszx.html"><img class="lazy" data-original="http://pic1.win4000.com/tj/201702/58b3cf8d18ca4.jpg" src="http://pic.win4000.com/images/lazyload.gif" alt="2017春夏时装秀图片大全" title="2017春夏时装秀图片大全"></a>
+                                        <p><a href="http://www.win4000.com/hj/2017cxszx.html">2017春夏时装秀图片大全</a></p>
+                                    </li>
+                                                                        <li>
+                                        <a href="http://www.win4000.com/hj/niao.html"><img class="lazy" data-original="http://pic1.win4000.com/tj/201508/55cbf1d61318c.jpg" src="http://pic.win4000.com/images/lazyload.gif" alt="鸟类合集图片壁纸大全" title="鸟类合集图片壁纸大全"></a>
+                                        <p><a href="http://www.win4000.com/hj/niao.html">鸟类合集图片壁纸大全</a></p>
+                                    </li>
+                                                                        <li>
+                                        <a href="http://www.win4000.com/hj/2017rili.html"><img class="lazy" data-original="http://pic1.win4000.com/tj/201608/57a2d1851a624.jpg" src="http://pic.win4000.com/images/lazyload.gif" alt="2017年日历壁纸图片大全" title="2017年日历壁纸图片大全"></a>
+                                        <p><a href="http://www.win4000.com/hj/2017rili.html">2017年日历壁纸图片大全</a></p>
+                                    </li>
+                                                                        <li>
+                                        <a href="http://www.win4000.com/hj/dog.html"><img class="lazy" data-original="http://pic1.win4000.com/tj/201508/55cbf290ced4f.jpg" src="http://pic.win4000.com/images/lazyload.gif" alt="狗狗图片壁纸大全" title="狗狗图片壁纸大全"></a>
+                                        <p><a href="http://www.win4000.com/hj/dog.html">狗狗图片壁纸大全</a></p>
+                                    </li>
+                                                                        <li>
+                                        <a href="http://www.win4000.com/hj/yingguofengjing.html"><img class="lazy" data-original="http://pic1.win4000.com/tj/201508/55cbf3152eabf.jpg" src="http://pic.win4000.com/images/lazyload.gif" alt="英国风景图片壁纸大全" title="英国风景图片壁纸大全"></a>
+                                        <p><a href="http://www.win4000.com/hj/yingguofengjing.html">英国风景图片壁纸大全</a></p>
+                                    </li>
+                                     
+                                </ul>
+                            </div>
+                            <div>
+                                <ul class="main-img clearfix">
+                                                                        <li>
+                                        <a href="http://www.win4000.com/wallpaper_detail_118420.html"><img class="lazy" data-original="http://pic1.win4000.com/wallpaper/9/5858f88f62dd2_270_185.jpg" src="http://pic.win4000.com/images/lazyload.gif" alt="气质美女户外唯美写真高清电脑桌面壁纸下载" title="气质美女户外唯美写真高清电脑桌面壁纸下载"></a>
+                                        <p><a href="http://www.win4000.com/wallpaper_detail_118420.html">气质美女户外唯美写真高清电脑桌面壁纸下载</a></p>
+                                    </li>
+                                                                        <li>
+                                        <a href="http://www.win4000.com/wallpaper_detail_118408.html"><img class="lazy" data-original="http://pic1.win4000.com/wallpaper/3/5858f2b6ecb3d_270_185.jpg" src="http://pic.win4000.com/images/lazyload.gif" alt="2017年1月日历精选美女写真高清电脑壁纸下载（二）" title="2017年1月日历精选美女写真高清电脑壁纸下载（二）"></a>
+                                        <p><a href="http://www.win4000.com/wallpaper_detail_118408.html">2017年1月日历精选美女写真高清电脑壁纸下载（二）</a></p>
+                                    </li>
+                                                                        <li>
+                                        <a href="http://www.win4000.com/wallpaper_detail_118406.html"><img class="lazy" data-original="http://pic1.win4000.com/wallpaper/4/5858f205a5e86_270_185.jpg" src="http://pic.win4000.com/images/lazyload.gif" alt="2017年1月日历精选美女写真高清电脑壁纸下载（一）" title="2017年1月日历精选美女写真高清电脑壁纸下载（一）"></a>
+                                        <p><a href="http://www.win4000.com/wallpaper_detail_118406.html">2017年1月日历精选美女写真高清电脑壁纸下载（一）</a></p>
+                                    </li>
+                                                                        <li>
+                                        <a href="http://www.win4000.com/wallpaper_detail_118361.html"><img class="lazy" data-original="http://pic1.win4000.com/wallpaper/0/5858a84217817_270_185.jpg" src="http://pic.win4000.com/images/lazyload.gif" alt="2017年1月日历冬季雪景高清电脑桌面壁纸下载（二）" title="2017年1月日历冬季雪景高清电脑桌面壁纸下载（二）"></a>
+                                        <p><a href="http://www.win4000.com/wallpaper_detail_118361.html">2017年1月日历冬季雪景高清电脑桌面壁纸下载（二）</a></p>
+                                    </li>
+                                                                        <li>
+                                        <a href="http://www.win4000.com/wallpaper_detail_118360.html"><img class="lazy" data-original="http://pic1.win4000.com/wallpaper/b/5858a7f8d9008_270_185.jpg" src="http://pic.win4000.com/images/lazyload.gif" alt="2017年1月日历冬季雪景高清电脑桌面壁纸下载（一）" title="2017年1月日历冬季雪景高清电脑桌面壁纸下载（一）"></a>
+                                        <p><a href="http://www.win4000.com/wallpaper_detail_118360.html">2017年1月日历冬季雪景高清电脑桌面壁纸下载（一）</a></p>
+                                    </li>
+                                                                        <li>
+                                        <a href="http://www.win4000.com/wallpaper_detail_118358.html"><img class="lazy" data-original="http://pic1.win4000.com/wallpaper/7/5858a52fa7432_270_185.jpg" src="http://pic.win4000.com/images/lazyload.gif" alt="气质养眼美女唐艺昕唯美写真电脑壁纸图片" title="气质养眼美女唐艺昕唯美写真电脑壁纸图片"></a>
+                                        <p><a href="http://www.win4000.com/wallpaper_detail_118358.html">气质养眼美女唐艺昕唯美写真电脑壁纸图片</a></p>
+                                    </li>
+                                     
+                                </ul>
+                            </div>
+                            <div>
+                                <ul class="main-img clearfix">
+                                                                        <li>
+                                        <a href="http://www.win4000.com/wallpaper_detail_45426.html"><img class="lazy" data-original="http://pic1.win4000.com/wallpaper/8/5338e59a85497_270_185.jpg" src="http://pic.win4000.com/images/lazyload.gif" alt="小清新唯美意境高清壁纸" title="小清新唯美意境高清壁纸"></a>
+                                        <p><a href="http://www.win4000.com/wallpaper_detail_45426.html">小清新唯美意境高清壁纸</a></p>
+                                    </li>
+                                                                        <li>
+                                        <a href="http://www.win4000.com/wallpaper_detail_108863.html"><img class="lazy" data-original="http://pic1.win4000.com/wallpaper/5/5791d82343465_270_185.jpg" src="http://pic.win4000.com/images/lazyload.gif" alt="微软Win10官方宽屏高清壁纸" title="微软Win10官方宽屏高清壁纸"></a>
+                                        <p><a href="http://www.win4000.com/wallpaper_detail_108863.html">微软Win10官方宽屏高清壁纸</a></p>
+                                    </li>
+                                                                        <li>
+                                        <a href="http://www.win4000.com/wallpaper_detail_22556.html"><img class="lazy" data-original="http://pic1.win4000.com/wallpaper/2/4ff4eebe508ed_270_185.jpg" src="http://pic.win4000.com/images/lazyload.gif" alt="windows xp自带经典壁纸超大通用" title="windows xp自带经典壁纸超大通用"></a>
+                                        <p><a href="http://www.win4000.com/wallpaper_detail_22556.html">windows xp自带经典壁纸超大通用</a></p>
+                                    </li>
+                                                                        <li>
+                                        <a href="http://www.win4000.com/wallpaper_detail_113280.html"><img class="lazy" data-original="http://pic1.win4000.com/wallpaper/4/57cfb2109254b_270_185.jpg" src="http://pic.win4000.com/images/lazyload.gif" alt="热门手游王者荣耀李白皮肤图片桌面壁纸" title="热门手游王者荣耀李白皮肤图片桌面壁纸"></a>
+                                        <p><a href="http://www.win4000.com/wallpaper_detail_113280.html">热门手游王者荣耀李白皮肤图片桌面壁纸</a></p>
+                                    </li>
+                                                                        <li>
+                                        <a href="http://www.win4000.com/wallpaper_detail_48999.html"><img class="lazy" data-original="http://pic1.win4000.com/wallpaper/7/53a934342e0fc_270_185.jpg" src="http://pic.win4000.com/images/lazyload.gif" alt="蓝天白云草地经典xp壁纸高清桌面壁纸" title="蓝天白云草地经典xp壁纸高清桌面壁纸"></a>
+                                        <p><a href="http://www.win4000.com/wallpaper_detail_48999.html">蓝天白云草地经典xp壁纸高清桌面壁纸</a></p>
+                                    </li>
+                                                                        <li>
+                                        <a href="http://www.win4000.com/wallpaper_detail_113295.html"><img class="lazy" data-original="http://pic1.win4000.com/wallpaper/a/57cfb775d7434_270_185.jpg" src="http://pic.win4000.com/images/lazyload.gif" alt="王者荣耀英雄赵云皮肤图片电脑壁纸" title="王者荣耀英雄赵云皮肤图片电脑壁纸"></a>
+                                        <p><a href="http://www.win4000.com/wallpaper_detail_113295.html">王者荣耀英雄赵云皮肤图片电脑壁纸</a></p>
+                                    </li>
+                                     
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!--end theme-paper-->
+            <div class="mbox theme-xp">
+                <div class="mhd">
+            <h2>精选xp主题</h2>
+    <div class="color-choose">
+    <span>颜色：</span>
+        <a id="c-yellow" href="http://www.win4000.com/theme_1_0_1_1.html" title="黄色主题" >黄色主题</a>
+        <a id="c-orange" href="http://www.win4000.com/theme_1_0_2_1.html" title="橙色主题" >橙色主题</a>
+        <a id="c-red" href="http://www.win4000.com/theme_1_0_3_1.html" title="红色主题" >红色主题</a>
+        <a id="c-pink" href="http://www.win4000.com/theme_1_0_4_1.html" title="粉红主题" >粉红主题</a>
+        <a id="c-purple" href="http://www.win4000.com/theme_1_0_5_1.html" title="紫色主题" >紫色主题</a>
+        <a id="c-green" href="http://www.win4000.com/theme_1_0_6_1.html" title="绿色主题" >绿色主题</a>
+        <a id="c-blue" href="http://www.win4000.com/theme_1_0_7_1.html" title="蓝色主题" >蓝色主题</a>
+        <a id="c-gray" href="http://www.win4000.com/theme_1_0_8_1.html" title="灰色主题" >灰色主题</a>
+        <a id="c-black" href="http://www.win4000.com/theme_1_0_9_1.html" title="黑色主题" >黑色主题</a>
+        <a id="c-white" href="http://www.win4000.com/theme_1_0_11_1.html" title="白色主题" >白色主题</a>
+        <a id="c-dazzle" href="http://www.win4000.com/theme_1_0_10_1.html" title="炫彩主题" >炫彩主题</a>
+        </div>
+</div>                <div class="mbd">
+                        <div class="labels">
+        <a href="http://www.win4000.com/theme_1_136_0_1.html"  title="帅哥主题"><span>帅哥主题</span></a>
+        <a href="http://www.win4000.com/theme_1_137_0_1.html"  title="情侣主题"><span>情侣主题</span></a>
+        <a href="http://www.win4000.com/theme_1_138_0_1.html"  title="美女主题"><span>美女主题</span></a>
+        <a href="http://www.win4000.com/theme_1_139_0_1.html"  title="风景主题"><span>风景主题</span></a>
+        <a href="http://www.win4000.com/theme_1_140_0_1.html"  title="苹果主题"><span>苹果主题</span></a>
+        <a href="http://www.win4000.com/theme_1_141_0_1.html"  title="新简约主题"><span>新简约主题</span></a>
+        <a href="http://www.win4000.com/theme_1_142_0_1.html"  title="游戏主题"><span>游戏主题</span></a>
+        <a href="http://www.win4000.com/theme_1_143_0_1.html"  title="爱情主题"><span>爱情主题</span></a>
+        <a href="http://www.win4000.com/theme_1_144_0_1.html"  title="可爱主题"><span>可爱主题</span></a>
+        <a href="http://www.win4000.com/theme_1_145_0_1.html"  title="非主流主题"><span>非主流主题</span></a>
+        <a href="http://www.win4000.com/theme_1_146_0_1.html"  title="动漫主题"><span>动漫主题</span></a>
+        <a href="http://www.win4000.com/theme_1_147_0_1.html"  title="卡通主题"><span>卡通主题</span></a>
+        <a href="http://www.win4000.com/theme_1_148_0_1.html"  title="汽车主题"><span>汽车主题</span></a>
+        <a href="http://www.win4000.com/theme_1_149_0_1.html"  title="影视主题"><span>影视主题</span></a>
+        <a href="http://www.win4000.com/theme_1_150_0_1.html"  title="女孩主题"><span>女孩主题</span></a>
+        <a href="http://www.win4000.com/theme_1_151_0_1.html"  title="节日主题"><span>节日主题</span></a>
+        <a href="http://www.win4000.com/theme_1_152_0_1.html"  title="动物主题"><span>动物主题</span></a>
+        <a href="http://www.win4000.com/theme_1_2288_0_1.html"  title="明星主题"><span>明星主题</span></a>
+            </div>
+
+                    <div id="tab-xp">
+                        <ul class="tabmenu menu-xp clearfix">
+                            <li class="current"><a href="javascript:void(0);">最新推荐</a></li>
+                            <li><a href="javascript:void(0);">本周热门</a></li>
+                        </ul>
+                        <div class="con-xp text-con">
+                            <div style="display: block;">
+                                <ul class="main-img clearfix">
+                                                                        <li>
+                                        <a href="http://www.win4000.com/theme_detail_45560.html"><img class="lazy" data-original="http://pic1.win4000.com/theme/xp/b/533e443f9081b/thumb.jpg" src="http://pic.win4000.com/images/lazyload.gif" alt="性感胸膜美女高清XP桌面主题" title="性感胸膜美女高清XP桌面主题"></a>
+                                        <p><a href="http://www.win4000.com/theme_detail_45560.html">性感胸膜美女高清XP桌面主题</a></p>
+                                    </li>
+                                                                        <li>
+                                        <a href="http://www.win4000.com/theme_detail_45553.html"><img class="lazy" data-original="http://pic1.win4000.com/theme/xp/b/533e0f5748f51/thumb.jpg" src="http://pic.win4000.com/images/lazyload.gif" alt="魔卡少女樱xp动漫主题" title="魔卡少女樱xp动漫主题"></a>
+                                        <p><a href="http://www.win4000.com/theme_detail_45553.html">魔卡少女樱xp动漫主题</a></p>
+                                    </li>
+                                                                        <li>
+                                        <a href="http://www.win4000.com/theme_detail_44257.html"><img class="lazy" data-original="http://pic1.win4000.com/theme/xp/9/52e36687a2c7c/thumb.jpg" src="http://pic.win4000.com/images/lazyload.gif" alt="性感诱惑美女XP桌面主题" title="性感诱惑美女XP桌面主题"></a>
+                                        <p><a href="http://www.win4000.com/theme_detail_44257.html">性感诱惑美女XP桌面主题</a></p>
+                                    </li>
+                                                                        <li>
+                                        <a href="http://www.win4000.com/theme_detail_42482.html"><img class="lazy" data-original="http://pic1.win4000.com/theme/xp/d/5281cc836abb9/thumb.jpg" src="http://pic.win4000.com/images/lazyload.gif" alt="欢度万圣节卡通XP电脑主题" title="欢度万圣节卡通XP电脑主题"></a>
+                                        <p><a href="http://www.win4000.com/theme_detail_42482.html">欢度万圣节卡通XP电脑主题</a></p>
+                                    </li>
+                                                                        <li>
+                                        <a href="http://www.win4000.com/theme_detail_42452.html"><img class="lazy" data-original="http://pic1.win4000.com/theme/xp/b/527c87e7338b4/thumb.jpg" src="http://pic.win4000.com/images/lazyload.gif" alt="爱情树浪漫爱情XP主题" title="爱情树浪漫爱情XP主题"></a>
+                                        <p><a href="http://www.win4000.com/theme_detail_42452.html">爱情树浪漫爱情XP主题</a></p>
+                                    </li>
+                                                                        <li>
+                                        <a href="http://www.win4000.com/theme_detail_41601.html"><img class="lazy" data-original="http://pic1.win4000.com/theme/xp/6/5249337a4b22e/thumb.jpg" src="http://pic.win4000.com/images/lazyload.gif" alt="AngelaBaby杨颖性感公主XP主题" title="AngelaBaby杨颖性感公主XP主题"></a>
+                                        <p><a href="http://www.win4000.com/theme_detail_41601.html">AngelaBaby杨颖性感公主XP主题</a></p>
+                                    </li>
+                                                                    </ul>
+                            </div>
+                            <div>
+                                <ul class="main-img clearfix">
+                                                                        <li>
+                                        <a href="http://www.win4000.com/theme_detail_44257.html"><img class="lazy" data-original="http://pic1.win4000.com/theme/xp/9/52e36687a2c7c/thumb.jpg" src="http://pic.win4000.com/images/lazyload.gif" alt="性感诱惑美女XP桌面主题" title="性感诱惑美女XP桌面主题"></a>
+                                        <p><a href="http://www.win4000.com/theme_detail_44257.html">性感诱惑美女XP桌面主题</a></p>
+                                    </li>
+                                                                        <li>
+                                        <a href="http://www.win4000.com/theme_detail_45560.html"><img class="lazy" data-original="http://pic1.win4000.com/theme/xp/b/533e443f9081b/thumb.jpg" src="http://pic.win4000.com/images/lazyload.gif" alt="性感胸膜美女高清XP桌面主题" title="性感胸膜美女高清XP桌面主题"></a>
+                                        <p><a href="http://www.win4000.com/theme_detail_45560.html">性感胸膜美女高清XP桌面主题</a></p>
+                                    </li>
+                                                                        <li>
+                                        <a href="http://www.win4000.com/theme_detail_42765.html"><img class="lazy" data-original="http://pic1.win4000.com/theme/xp/8/52904a62c9f61/thumb.jpg" src="http://pic.win4000.com/images/lazyload.gif" alt="清新绿色养眼XP桌面主题" title="清新绿色养眼XP桌面主题"></a>
+                                        <p><a href="http://www.win4000.com/theme_detail_42765.html">清新绿色养眼XP桌面主题</a></p>
+                                    </li>
+                                                                        <li>
+                                        <a href="http://www.win4000.com/theme_detail_42452.html"><img class="lazy" data-original="http://pic1.win4000.com/theme/xp/b/527c87e7338b4/thumb.jpg" src="http://pic.win4000.com/images/lazyload.gif" alt="爱情树浪漫爱情XP主题" title="爱情树浪漫爱情XP主题"></a>
+                                        <p><a href="http://www.win4000.com/theme_detail_42452.html">爱情树浪漫爱情XP主题</a></p>
+                                    </li>
+                                                                        <li>
+                                        <a href="http://www.win4000.com/theme_detail_39622.html"><img class="lazy" data-original="http://pic1.win4000.com/theme/xp/1/51d3de14ee3f7/thumb.jpg" src="http://pic.win4000.com/images/lazyload.gif" alt="仿win8黑色简约XP主题" title="仿win8黑色简约XP主题"></a>
+                                        <p><a href="http://www.win4000.com/theme_detail_39622.html">仿win8黑色简约XP主题</a></p>
+                                    </li>
+                                                                        <li>
+                                        <a href="http://www.win4000.com/theme_detail_41548.html"><img class="lazy" data-original="http://pic1.win4000.com/theme/xp/9/52453e1335e4a/thumb.jpg" src="http://pic.win4000.com/images/lazyload.gif" alt="绿色纯净风景XP主题" title="绿色纯净风景XP主题"></a>
+                                        <p><a href="http://www.win4000.com/theme_detail_41548.html">绿色纯净风景XP主题</a></p>
+                                    </li>
+                                                                    </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="mbox theme-win7">
+                <div class="mhd">
+            <h2>精选win7主题</h2>
+    <div class="color-choose">
+    <span>颜色：</span>
+        <a id="c-yellow" href="http://www.win4000.com/theme_3_0_1_1.html" title="黄色主题" >黄色主题</a>
+        <a id="c-orange" href="http://www.win4000.com/theme_3_0_2_1.html" title="橙色主题" >橙色主题</a>
+        <a id="c-red" href="http://www.win4000.com/theme_3_0_3_1.html" title="红色主题" >红色主题</a>
+        <a id="c-pink" href="http://www.win4000.com/theme_3_0_4_1.html" title="粉红主题" >粉红主题</a>
+        <a id="c-purple" href="http://www.win4000.com/theme_3_0_5_1.html" title="紫色主题" >紫色主题</a>
+        <a id="c-green" href="http://www.win4000.com/theme_3_0_6_1.html" title="绿色主题" >绿色主题</a>
+        <a id="c-blue" href="http://www.win4000.com/theme_3_0_7_1.html" title="蓝色主题" >蓝色主题</a>
+        <a id="c-gray" href="http://www.win4000.com/theme_3_0_8_1.html" title="灰色主题" >灰色主题</a>
+        <a id="c-black" href="http://www.win4000.com/theme_3_0_9_1.html" title="黑色主题" >黑色主题</a>
+        <a id="c-white" href="http://www.win4000.com/theme_3_0_11_1.html" title="白色主题" >白色主题</a>
+        <a id="c-dazzle" href="http://www.win4000.com/theme_3_0_10_1.html" title="炫彩主题" >炫彩主题</a>
+        </div>
+</div>                <div class="mbd">
+                        <div class="labels">
+        <a href="http://www.win4000.com/theme_3_2249_0_1.html"  title="美女主题"><span>美女主题</span></a>
+        <a href="http://www.win4000.com/theme_3_2250_0_1.html"  title="帅哥主题"><span>帅哥主题</span></a>
+        <a href="http://www.win4000.com/theme_3_2251_0_1.html"  title="情侣主题"><span>情侣主题</span></a>
+        <a href="http://www.win4000.com/theme_3_2252_0_1.html"  title="风景主题"><span>风景主题</span></a>
+        <a href="http://www.win4000.com/theme_3_2253_0_1.html"  title="苹果主题"><span>苹果主题</span></a>
+        <a href="http://www.win4000.com/theme_3_2254_0_1.html"  title="新简约主题"><span>新简约主题</span></a>
+        <a href="http://www.win4000.com/theme_3_2255_0_1.html"  title="游戏主题"><span>游戏主题</span></a>
+        <a href="http://www.win4000.com/theme_3_2256_0_1.html"  title="爱情主题"><span>爱情主题</span></a>
+        <a href="http://www.win4000.com/theme_3_2257_0_1.html"  title="可爱主题"><span>可爱主题</span></a>
+        <a href="http://www.win4000.com/theme_3_2258_0_1.html"  title="非主流主题"><span>非主流主题</span></a>
+        <a href="http://www.win4000.com/theme_3_2259_0_1.html"  title="动漫卡通"><span>动漫卡通</span></a>
+        <a href="http://www.win4000.com/theme_3_2260_0_1.html"  title="汽车主题"><span>汽车主题</span></a>
+        <a href="http://www.win4000.com/theme_3_2261_0_1.html"  title="影视主题"><span>影视主题</span></a>
+        <a href="http://www.win4000.com/theme_3_2262_0_1.html"  title="女孩主题"><span>女孩主题</span></a>
+        <a href="http://www.win4000.com/theme_3_2263_0_1.html"  title="节日主题"><span>节日主题</span></a>
+        <a href="http://www.win4000.com/theme_3_2264_0_1.html"  title="动物主题"><span>动物主题</span></a>
+        <a href="http://www.win4000.com/theme_3_2289_0_1.html"  title="明星主题"><span>明星主题</span></a>
+            </div>
+
+                    <div id="tab-win7">
+                        <ul class="tabmenu menu-win7 clearfix">
+                            <li class="current"><a href="javascript:void(0);">最新推荐</a></li>
+                            <li><a href="javascript:void(0);">本周热门</a></li>
+                        </ul>
+                        <div class="con-win7 text-con">
+                            <div style="display: block;">
+                                <ul class="main-img clearfix">
+                                                                        <li>
+                                        <a href="http://www.win4000.com/theme_detail_45702.html"><img class="lazy" data-original="http://pic1.win4000.com/theme/win7/8/534ba347f31b8/thumb.jpg" src="http://pic.win4000.com/images/lazyload.gif" alt="2014年世界杯win7主题" title="2014年世界杯win7主题"></a>
+                                        <p><a href="http://www.win4000.com/theme_detail_45702.html">2014年世界杯win7主题</a></p>
+                                    </li>
+                                                                        <li>
+                                        <a href="http://www.win4000.com/theme_detail_45633.html"><img class="lazy" data-original="http://pic1.win4000.com/theme/win7/b/53451b40cc534/thumb.jpg" src="http://pic.win4000.com/images/lazyload.gif" alt="里约大冒险2win7电脑主题" title="里约大冒险2win7电脑主题"></a>
+                                        <p><a href="http://www.win4000.com/theme_detail_45633.html">里约大冒险2win7电脑主题</a></p>
+                                    </li>
+                                                                        <li>
+                                        <a href="http://www.win4000.com/theme_detail_45609.html"><img class="lazy" data-original="http://pic1.win4000.com/theme/win7/5/5343a81e38cb1/thumb.jpg" src="http://pic.win4000.com/images/lazyload.gif" alt="韩国美女郑丽媛win7主题" title="韩国美女郑丽媛win7主题"></a>
+                                        <p><a href="http://www.win4000.com/theme_detail_45609.html">韩国美女郑丽媛win7主题</a></p>
+                                    </li>
+                                                                        <li>
+                                        <a href="http://www.win4000.com/theme_detail_45532.html"><img class="lazy" data-original="http://pic1.win4000.com/theme/win7/0/533cd36fee04a/thumb.jpg" src="http://pic.win4000.com/images/lazyload.gif" alt="少女时代机场制服诱惑win7主题" title="少女时代机场制服诱惑win7主题"></a>
+                                        <p><a href="http://www.win4000.com/theme_detail_45532.html">少女时代机场制服诱惑win7主题</a></p>
+                                    </li>
+                                                                        <li>
+                                        <a href="http://www.win4000.com/theme_detail_45507.html"><img class="lazy" data-original="http://pic1.win4000.com/theme/win7/7/533bd85a50c6c/thumb.jpg" src="http://pic.win4000.com/images/lazyload.gif" alt="美国队长2冬日战士win7桌面主题" title="美国队长2冬日战士win7桌面主题"></a>
+                                        <p><a href="http://www.win4000.com/theme_detail_45507.html">美国队长2冬日战士win7桌面主题</a></p>
+                                    </li>
+                                                                        <li>
+                                        <a href="http://www.win4000.com/theme_detail_44147.html"><img class="lazy" data-original="http://pic1.win4000.com/theme/win7/d/52df25877f01c/thumb.jpg" src="http://pic.win4000.com/images/lazyload.gif" alt="湖边小屋美景高清win7桌面主题" title="湖边小屋美景高清win7桌面主题"></a>
+                                        <p><a href="http://www.win4000.com/theme_detail_44147.html">湖边小屋美景高清win7桌面主题</a></p>
+                                    </li>
+                                                                    </ul>
+                            </div>
+                            <div>
+                                <ul class="main-img clearfix">
+                                                                        <li>
+                                        <a href="http://www.win4000.com/theme_detail_44147.html"><img class="lazy" data-original="http://pic1.win4000.com/theme/win7/d/52df25877f01c/thumb.jpg" src="http://pic.win4000.com/images/lazyload.gif" alt="湖边小屋美景高清win7桌面主题" title="湖边小屋美景高清win7桌面主题"></a>
+                                        <p><a href="http://www.win4000.com/theme_detail_44147.html">湖边小屋美景高清win7桌面主题</a></p>
+                                    </li>
+                                                                        <li>
+                                        <a href="http://www.win4000.com/theme_detail_44604.html"><img class="lazy" data-original="http://pic1.win4000.com/theme/win7/0/5306aeb9044c1/thumb.jpg" src="http://pic.win4000.com/images/lazyload.gif" alt="刺客信条游戏win7高清桌面主题" title="刺客信条游戏win7高清桌面主题"></a>
+                                        <p><a href="http://www.win4000.com/theme_detail_44604.html">刺客信条游戏win7高清桌面主题</a></p>
+                                    </li>
+                                                                        <li>
+                                        <a href="http://www.win4000.com/theme_detail_45532.html"><img class="lazy" data-original="http://pic1.win4000.com/theme/win7/0/533cd36fee04a/thumb.jpg" src="http://pic.win4000.com/images/lazyload.gif" alt="少女时代机场制服诱惑win7主题" title="少女时代机场制服诱惑win7主题"></a>
+                                        <p><a href="http://www.win4000.com/theme_detail_45532.html">少女时代机场制服诱惑win7主题</a></p>
+                                    </li>
+                                                                        <li>
+                                        <a href="http://www.win4000.com/theme_detail_45609.html"><img class="lazy" data-original="http://pic1.win4000.com/theme/win7/5/5343a81e38cb1/thumb.jpg" src="http://pic.win4000.com/images/lazyload.gif" alt="韩国美女郑丽媛win7主题" title="韩国美女郑丽媛win7主题"></a>
+                                        <p><a href="http://www.win4000.com/theme_detail_45609.html">韩国美女郑丽媛win7主题</a></p>
+                                    </li>
+                                                                        <li>
+                                        <a href="http://www.win4000.com/theme_detail_45633.html"><img class="lazy" data-original="http://pic1.win4000.com/theme/win7/b/53451b40cc534/thumb.jpg" src="http://pic.win4000.com/images/lazyload.gif" alt="里约大冒险2win7电脑主题" title="里约大冒险2win7电脑主题"></a>
+                                        <p><a href="http://www.win4000.com/theme_detail_45633.html">里约大冒险2win7电脑主题</a></p>
+                                    </li>
+                                                                        <li>
+                                        <a href="http://www.win4000.com/theme_detail_43789.html"><img class="lazy" data-original="http://pic1.win4000.com/theme/win7/6/52ca25dbe0acf/thumb.jpg" src="http://pic.win4000.com/images/lazyload.gif" alt="黑色背景win7仿win8主题" title="黑色背景win7仿win8主题"></a>
+                                        <p><a href="http://www.win4000.com/theme_detail_43789.html">黑色背景win7仿win8主题</a></p>
+                                    </li>
+                                                                    </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!--end theme-win7-->
+            <div class="mbox all-choose">
+                <div class="mbd">
+                    <div id="tab-all">
+                        <ul class="menu-all clearfix">
+                            <li class="current"><a href="javascript:void(0);">登录界面</a></li>
+                            <li><a href="javascript:void(0);">屏幕保护</a></li>
+                            <li><a href="javascript:void(0);">桌面图标</a></li>
+                            <li><a href="javascript:void(0);">鼠标指针</a></li>
+                            <li><a href="javascript:void(0);">字体下载</a></li>
+                        </ul>
+                        <div class="con-all text-con">
+                            <div style="display: block;">
+                                <ul class="main-img clearfix">
+                                                                        <li>
+                                        <a href="http://www.win4000.com/diy_detail_43026.html"><img class="lazy" data-original="http://pic1.win4000.com/login/f/529d8696f1c24/thumb.jpg" src="http://pic.win4000.com/images/lazyload.gif" alt="白色云朵蓝色天空XP登录界面" title="白色云朵蓝色天空XP登录界面"></a>
+                                        <p><a href="http://www.win4000.com/diy_detail_43026.html">白色云朵蓝色天空XP登录界面</a></p>
+                                    </li>
+                                                                        <li>
+                                        <a href="http://www.win4000.com/diy_detail_43208.html"><img class="lazy" data-original="http://pic1.win4000.com/login/6/52a804ffae203/thumb.jpg" src="http://pic.win4000.com/images/lazyload.gif" alt="绿色的沙漠XP登录界面" title="绿色的沙漠XP登录界面"></a>
+                                        <p><a href="http://www.win4000.com/diy_detail_43208.html">绿色的沙漠XP登录界面</a></p>
+                                    </li>
+                                                                        <li>
+                                        <a href="http://www.win4000.com/diy_detail_43147.html"><img class="lazy" data-original="http://pic1.win4000.com/login/e/52a57ce6728ef/thumb.jpg" src="http://pic.win4000.com/images/lazyload.gif" alt="炫彩水彩画XP登录界面" title="炫彩水彩画XP登录界面"></a>
+                                        <p><a href="http://www.win4000.com/diy_detail_43147.html">炫彩水彩画XP登录界面</a></p>
+                                    </li>
+                                                                        <li>
+                                        <a href="http://www.win4000.com/diy_detail_43059.html"><img class="lazy" data-original="http://pic1.win4000.com/login/c/529eddc1a226f/thumb.jpg" src="http://pic.win4000.com/images/lazyload.gif" alt="好看的鹅卵石XP登录界面" title="好看的鹅卵石XP登录界面"></a>
+                                        <p><a href="http://www.win4000.com/diy_detail_43059.html">好看的鹅卵石XP登录界面</a></p>
+                                    </li>
+                                                                        <li>
+                                        <a href="http://www.win4000.com/diy_detail_42852.html"><img class="lazy" data-original="http://pic1.win4000.com/login/4/5294522e40404/thumb.jpg" src="http://pic.win4000.com/images/lazyload.gif" alt="绿色梦幻城堡XP登录界面" title="绿色梦幻城堡XP登录界面"></a>
+                                        <p><a href="http://www.win4000.com/diy_detail_42852.html">绿色梦幻城堡XP登录界面</a></p>
+                                    </li>
+                                                                        <li>
+                                        <a href="http://www.win4000.com/diy_detail_42771.html"><img class="lazy" data-original="http://pic1.win4000.com/login/e/529055b86789c/thumb.jpg" src="http://pic.win4000.com/images/lazyload.gif" alt="时尚少女XP登录界面" title="时尚少女XP登录界面"></a>
+                                        <p><a href="http://www.win4000.com/diy_detail_42771.html">时尚少女XP登录界面</a></p>
+                                    </li>
+                                      
+                                </ul>
+                            </div>
+                            <div>
+                                <ul class="main-img clearfix">
+                                                                        <li>
+                                        <a href="http://www.win4000.com/diy_detail_44032.html"><img class="lazy" data-original="http://pic1.win4000.com/pingbao/5/52d63a2c12565/thumb.jpg" src="http://pic.win4000.com/images/lazyload.gif" alt="清纯性感小美女屏幕保护程序" title="清纯性感小美女屏幕保护程序"></a>
+                                        <p><a href="http://www.win4000.com/diy_detail_44032.html">清纯性感小美女屏幕保护程序</a></p>
+                                    </li>
+                                                                        <li>
+                                        <a href="http://www.win4000.com/diy_detail_43175.html"><img class="lazy" data-original="http://pic1.win4000.com/pingbao/b/52a6cb2cd27d5/thumb.jpg" src="http://pic.win4000.com/images/lazyload.gif" alt="NBA林书豪篮球明星屏幕保护" title="NBA林书豪篮球明星屏幕保护"></a>
+                                        <p><a href="http://www.win4000.com/diy_detail_43175.html">NBA林书豪篮球明星屏幕保护</a></p>
+                                    </li>
+                                                                        <li>
+                                        <a href="http://www.win4000.com/diy_detail_43146.html"><img class="lazy" data-original="http://pic1.win4000.com/pingbao/8/52a57c47d89a5/thumb.jpg" src="http://pic.win4000.com/images/lazyload.gif" alt="可爱天真无邪童年屏幕保护" title="可爱天真无邪童年屏幕保护"></a>
+                                        <p><a href="http://www.win4000.com/diy_detail_43146.html">可爱天真无邪童年屏幕保护</a></p>
+                                    </li>
+                                                                        <li>
+                                        <a href="http://www.win4000.com/diy_detail_43110.html"><img class="lazy" data-original="http://pic1.win4000.com/pingbao/0/52a17acd58e87/thumb.jpg" src="http://pic.win4000.com/images/lazyload.gif" alt="童颜巨乳黄色比基尼美女屏幕保护" title="童颜巨乳黄色比基尼美女屏幕保护"></a>
+                                        <p><a href="http://www.win4000.com/diy_detail_43110.html">童颜巨乳黄色比基尼美女屏幕保护</a></p>
+                                    </li>
+                                                                        <li>
+                                        <a href="http://www.win4000.com/diy_detail_43025.html"><img class="lazy" data-original="http://pic1.win4000.com/pingbao/b/529d8546309fc/thumb.jpg" src="http://pic.win4000.com/images/lazyload.gif" alt="植物大战僵尸2游戏屏幕保护" title="植物大战僵尸2游戏屏幕保护"></a>
+                                        <p><a href="http://www.win4000.com/diy_detail_43025.html">植物大战僵尸2游戏屏幕保护</a></p>
+                                    </li>
+                                                                        <li>
+                                        <a href="http://www.win4000.com/diy_detail_42770.html"><img class="lazy" data-original="http://pic1.win4000.com/pingbao/2/5290555a747d8/thumb.jpg" src="http://pic.win4000.com/images/lazyload.gif" alt="性感比基尼美女屏幕保护" title="性感比基尼美女屏幕保护"></a>
+                                        <p><a href="http://www.win4000.com/diy_detail_42770.html">性感比基尼美女屏幕保护</a></p>
+                                    </li>
+                                      
+                                </ul>
+                            </div>
+                            <div>
+                                <ul class="main-img clearfix">
+                                                                        <li>
+                                        <a href="http://www.win4000.com/diy_detail_44827.html"><img class="lazy" data-original="http://pic1.win4000.com/icon/c/53153cce76944/thumb.jpg" src="http://pic.win4000.com/images/lazyload.gif" alt="索契冬奥会桌面图标安装程序" title="索契冬奥会桌面图标安装程序"></a>
+                                        <p><a href="http://www.win4000.com/diy_detail_44827.html">索契冬奥会桌面图标安装程序</a></p>
+                                    </li>
+                                                                        <li>
+                                        <a href="http://www.win4000.com/diy_detail_44825.html"><img class="lazy" data-original="http://pic1.win4000.com/icon/9/53153c4283469/thumb.jpg" src="http://pic.win4000.com/images/lazyload.gif" alt="世界杯足球桌面图标安装程序" title="世界杯足球桌面图标安装程序"></a>
+                                        <p><a href="http://www.win4000.com/diy_detail_44825.html">世界杯足球桌面图标安装程序</a></p>
+                                    </li>
+                                                                        <li>
+                                        <a href="http://www.win4000.com/diy_detail_44564.html"><img class="lazy" data-original="http://pic1.win4000.com/icon/6/53045f6a92e55/thumb.jpg" src="http://pic.win4000.com/images/lazyload.gif" alt="地球模型桌面图标安装程序" title="地球模型桌面图标安装程序"></a>
+                                        <p><a href="http://www.win4000.com/diy_detail_44564.html">地球模型桌面图标安装程序</a></p>
+                                    </li>
+                                                                        <li>
+                                        <a href="http://www.win4000.com/diy_detail_44002.html"><img class="lazy" data-original="http://pic1.win4000.com/icon/3/52d4f9ae2cfc8/thumb.jpg" src="http://pic.win4000.com/images/lazyload.gif" alt="灰色质感桌面图标安装程序" title="灰色质感桌面图标安装程序"></a>
+                                        <p><a href="http://www.win4000.com/diy_detail_44002.html">灰色质感桌面图标安装程序</a></p>
+                                    </li>
+                                                                        <li>
+                                        <a href="http://www.win4000.com/diy_detail_44001.html"><img class="lazy" data-original="http://pic1.win4000.com/icon/8/52d4f96fae9f7/thumb.jpg" src="http://pic.win4000.com/images/lazyload.gif" alt="麻将风格桌面图标安装程序" title="麻将风格桌面图标安装程序"></a>
+                                        <p><a href="http://www.win4000.com/diy_detail_44001.html">麻将风格桌面图标安装程序</a></p>
+                                    </li>
+                                                                        <li>
+                                        <a href="http://www.win4000.com/diy_detail_43860.html"><img class="lazy" data-original="http://pic1.win4000.com/icon/5/52ccf3534ee63/thumb.jpg" src="http://pic.win4000.com/images/lazyload.gif" alt="灰色小清新电脑桌面图标" title="灰色小清新电脑桌面图标"></a>
+                                        <p><a href="http://www.win4000.com/diy_detail_43860.html">灰色小清新电脑桌面图标</a></p>
+                                    </li>
+                                      
+                                </ul>
+                            </div>
+                            <div>
+                                <ul class="main-img clearfix">
+                                                                        <li>
+                                        <a href="http://www.win4000.com/diy_detail_42694.html"><img class="lazy" data-original="http://pic1.win4000.com/mouse/2/528c6b66b14ba/thumb.jpg" src="http://pic.win4000.com/images/lazyload.gif" alt="LOL金属大师游戏酷黑鼠标指针" title="LOL金属大师游戏酷黑鼠标指针"></a>
+                                        <p><a href="http://www.win4000.com/diy_detail_42694.html">LOL金属大师游戏酷黑鼠标指针</a></p>
+                                    </li>
+                                                                        <li>
+                                        <a href="http://www.win4000.com/diy_detail_42505.html"><img class="lazy" data-original="http://pic1.win4000.com/mouse/1/52832e14e600a/thumb.jpg" src="http://pic.win4000.com/images/lazyload.gif" alt="绿色叶子箭头鼠标指针" title="绿色叶子箭头鼠标指针"></a>
+                                        <p><a href="http://www.win4000.com/diy_detail_42505.html">绿色叶子箭头鼠标指针</a></p>
+                                    </li>
+                                                                        <li>
+                                        <a href="http://www.win4000.com/diy_detail_42458.html"><img class="lazy" data-original="http://pic1.win4000.com/mouse/2/527c9ce33c59a/thumb.jpg" src="http://pic.win4000.com/images/lazyload.gif" alt="玫瑰花瓣鼠标指针" title="玫瑰花瓣鼠标指针"></a>
+                                        <p><a href="http://www.win4000.com/diy_detail_42458.html">玫瑰花瓣鼠标指针</a></p>
+                                    </li>
+                                                                        <li>
+                                        <a href="http://www.win4000.com/diy_detail_41971.html"><img class="lazy" data-original="http://pic1.win4000.com/mouse/d/52665f562a85b/thumb.jpg" src="http://pic.win4000.com/images/lazyload.gif" alt="土豪金鼠标指针安装程序" title="土豪金鼠标指针安装程序"></a>
+                                        <p><a href="http://www.win4000.com/diy_detail_41971.html">土豪金鼠标指针安装程序</a></p>
+                                    </li>
+                                                                        <li>
+                                        <a href="http://www.win4000.com/diy_detail_41700.html"><img class="lazy" data-original="http://pic1.win4000.com/mouse/c/52579b7998e54/thumb.jpg" src="http://pic.win4000.com/images/lazyload.gif" alt="蓝色蝴蝶鼠标指针" title="蓝色蝴蝶鼠标指针"></a>
+                                        <p><a href="http://www.win4000.com/diy_detail_41700.html">蓝色蝴蝶鼠标指针</a></p>
+                                    </li>
+                                                                        <li>
+                                        <a href="http://www.win4000.com/diy_detail_41368.html"><img class="lazy" data-original="http://pic1.win4000.com/mouse/0/5236c9e935bfc/thumb.jpg" src="http://pic.win4000.com/images/lazyload.gif" alt="黑色炫酷鼠标指针" title="黑色炫酷鼠标指针"></a>
+                                        <p><a href="http://www.win4000.com/diy_detail_41368.html">黑色炫酷鼠标指针</a></p>
+                                    </li>
+                                      
+                                </ul>
+                            </div>
+                            <div>
+                                <ul class="main-img clearfix">
+                                                                        <li>
+                                        <a href="http://www.win4000.com/font_detail_45449.html"><img class="lazy" data-original="http://pic1.win4000.com/font/en/e/533937980d294/middle.jpg" src="http://pic.win4000.com/images/lazyload.gif" alt="Walker on the Moon字体" title="Walker on the Moon字体"></a>
+                                        <p><a href="http://www.win4000.com/font_detail_45449.html">Walker on the Moon字体</a></p>
+                                    </li>
+                                                                        <li>
+                                        <a href="http://www.win4000.com/font_detail_45377.html"><img class="lazy" data-original="http://pic1.win4000.com/font/en/0/5332bad3efc8b/middle.jpg" src="http://pic.win4000.com/images/lazyload.gif" alt="Corki-Regular字体" title="Corki-Regular字体"></a>
+                                        <p><a href="http://www.win4000.com/font_detail_45377.html">Corki-Regular字体</a></p>
+                                    </li>
+                                                                        <li>
+                                        <a href="http://www.win4000.com/font_detail_45376.html"><img class="lazy" data-original="http://pic1.win4000.com/font/en/7/5332baa872fc1/middle.jpg" src="http://pic.win4000.com/images/lazyload.gif" alt="Dan Toth字体" title="Dan Toth字体"></a>
+                                        <p><a href="http://www.win4000.com/font_detail_45376.html">Dan Toth字体</a></p>
+                                    </li>
+                                                                        <li>
+                                        <a href="http://www.win4000.com/font_detail_45375.html"><img class="lazy" data-original="http://pic1.win4000.com/font/cn/6/5332ba740c764/middle.jpg" src="http://pic.win4000.com/images/lazyload.gif" alt="田氏金铃体_DEMO字体" title="田氏金铃体_DEMO字体"></a>
+                                        <p><a href="http://www.win4000.com/font_detail_45375.html">田氏金铃体_DEMO字体</a></p>
+                                    </li>
+                                                                        <li>
+                                        <a href="http://www.win4000.com/font_detail_45273.html"><img class="lazy" data-original="http://pic1.win4000.com/font/en/8/532c03a155112/middle.jpg" src="http://pic.win4000.com/images/lazyload.gif" alt="Team-Captain字体" title="Team-Captain字体"></a>
+                                        <p><a href="http://www.win4000.com/font_detail_45273.html">Team-Captain字体</a></p>
+                                    </li>
+                                                                        <li>
+                                        <a href="http://www.win4000.com/font_detail_45272.html"><img class="lazy" data-original="http://pic1.win4000.com/font/cn/9/532c02cc69937/middle.jpg" src="http://pic.win4000.com/images/lazyload.gif" alt="良怀行书体字体" title="良怀行书体字体"></a>
+                                        <p><a href="http://www.win4000.com/font_detail_45272.html">良怀行书体字体</a></p>
+                                    </li>
+                                                                    </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="col-sub">
+        <div class="fast-down">
+            <h3>主题壁纸下载快速通道</h3>
+            <p>当前您的电脑系统为：<span id="client_os"></span></p>
+            <a class="check-mine" id="client_theme" href="http://www.win4000.com/theme_1_0_0_1.html">查看适合我的电脑主题</a>
+            <p>当前您的电脑分辨率：<span id="client_screen"></span></p>
+            <a class="check-mine" id="client_wallpaper" href="http://www.win4000.com/wallpaper_0_0_0_1.html">查看适合我的桌面壁纸</a>
+        </div>
+        <div class="a300 mb10">
+            <script type="text/javascript" >BAIDU_CLB_SLOT_ID = "621490";</script>
+            <script type="text/javascript" src="http://cbjs.baidu.com/js/o.js"></script>
+        </div>
+        <div class="sbox">
+            <img src="http://pic.win4000.com/images/wxh.jpg?v=2017010503"/>
+        </div>
+        <div class="sbox">
+            <div class="shd">
+                <h3>电脑壁纸下载排行</h3>
+            </div>
+            <div class="sbd">
+                <dl class="num-list">
+                                        <dt class="clearfix">
+                        <a href="http://www.win4000.com/wallpaper_detail_124588.html"><img alt="性感长腿美女丝袜写真桌面壁纸下载" title="性感长腿美女丝袜写真桌面壁纸下载" class="lazy" data-original="http://pic1.win4000.com/wallpaper/4/58d5e3d55f7af_120_80.jpg" src="http://pic.win4000.com/images/lazyload.gif"></a>
+                        <p>性感长腿美女丝袜写真桌面壁纸下载</p>
+                        <a class="now-down" href="http://www.win4000.com/wallpaper_detail_124588.html">立即下载</a>
+                    </dt>
+                                        <dd><span class="or">2</span><a href="http://www.win4000.com/wallpaper_detail_124587.html" title="唯美自然的花束桌面壁纸下载" target="_blank">唯美自然的花束桌面壁纸下载</a></dd>
+                                        <dd><span class="or">3</span><a href="http://www.win4000.com/wallpaper_detail_124586.html" title="唯美樱花风景桌面壁纸下载" target="_blank">唯美樱花风景桌面壁纸下载</a></dd>
+                                        <dd><span>4</span><a href="http://www.win4000.com/wallpaper_detail_124585.html" title="好看的美景高清桌面壁纸" target="_blank">好看的美景高清桌面壁纸</a></dd>
+                                        <dd><span>5</span><a href="http://www.win4000.com/wallpaper_detail_124584.html" title="自然风光唯美壮阔高清桌面壁纸" target="_blank">自然风光唯美壮阔高清桌面壁纸</a></dd>
+                                        <dd><span>6</span><a href="http://www.win4000.com/wallpaper_detail_124583.html" title="唯美的自然风景高清桌面壁纸" target="_blank">唯美的自然风景高清桌面壁纸</a></dd>
+                                        <dd><span>7</span><a href="http://www.win4000.com/wallpaper_detail_124582.html" title="美丽的自然风景高清桌面壁纸" target="_blank">美丽的自然风景高清桌面壁纸</a></dd>
+                                        <dd><span>8</span><a href="http://www.win4000.com/wallpaper_detail_124581.html" title="好看的风景电脑桌面壁纸" target="_blank">好看的风景电脑桌面壁纸</a></dd>
+                                        <dd><span>9</span><a href="http://www.win4000.com/wallpaper_detail_124579.html" title="2017年4月清新的唯美小花高清桌面日历壁纸" target="_blank">2017年4月清新的唯美小花高清桌面日历壁纸</a></dd>
+                                        <dd><span>10</span><a href="http://www.win4000.com/wallpaper_detail_124580.html" title="2017年4月清新护眼的植物桌面日历壁纸" target="_blank">2017年4月清新护眼的植物桌面日历壁纸</a></dd>
+                                    </dl>
+            </div>
+        </div>
+        <div class="sbox">
+            <div class="shd">
+                <h3>XP主题下载排行</h3>
+            </div>
+            <div class="sbd">
+                <dl class="num-list">
+                                        <dt class="clearfix">
+                        <a href="http://www.win4000.com/theme_detail_45527.html"><img alt="性感美女图片高清XP桌面主题" title="性感美女图片高清XP桌面主题" class="lazy" data-original="http://pic1.win4000.com/theme/xp/b/533ccbe028860/thumb.jpg" src="http://pic.win4000.com/images/lazyload.gif"></a>
+                        <p>性感美女图片高清XP桌面主题</p>
+                        <a class="now-down" href="http://www.win4000.com/theme_detail_45527.html">立即下载</a>
+                    </dt>
+                                        <dd><span class="or">2</span><a href="http://www.win4000.com/theme_detail_45560.html" title="性感胸膜美女高清XP桌面主题" target="_blank">性感胸膜美女高清XP桌面主题</a></dd>
+                                        <dd><span class="or">3</span><a href="http://www.win4000.com/theme_detail_45553.html" title="魔卡少女樱xp动漫主题" target="_blank">魔卡少女樱xp动漫主题</a></dd>
+                                        <dd><span>4</span><a href="http://www.win4000.com/theme_detail_41548.html" title="绿色纯净风景XP主题" target="_blank">绿色纯净风景XP主题</a></dd>
+                                        <dd><span>5</span><a href="http://www.win4000.com/theme_detail_45488.html" title="性感迷人美女高清XP桌面主题" target="_blank">性感迷人美女高清XP桌面主题</a></dd>
+                                        <dd><span>6</span><a href="http://www.win4000.com/theme_detail_45451.html" title="小清新美女XP桌面主题" target="_blank">小清新美女XP桌面主题</a></dd>
+                                        <dd><span>7</span><a href="http://www.win4000.com/theme_detail_45420.html" title="性感爆乳美女XP桌面主题" target="_blank">性感爆乳美女XP桌面主题</a></dd>
+                                        <dd><span>8</span><a href="http://www.win4000.com/theme_detail_45378.html" title="精灵可爱的狗狗XP桌面主题" target="_blank">精灵可爱的狗狗XP桌面主题</a></dd>
+                                        <dd><span>9</span><a href="http://www.win4000.com/theme_detail_45358.html" title="可爱萌猫高清XP桌面主题" target="_blank">可爱萌猫高清XP桌面主题</a></dd>
+                                        <dd><span>10</span><a href="http://www.win4000.com/theme_detail_45323.html" title="可爱机灵猫咪XP桌面主题" target="_blank">可爱机灵猫咪XP桌面主题</a></dd>
+                                    </dl>
+            </div>
+        </div>
+        <div class="sbox">
+            <div class="shd">
+                <h3>WIN7主题下载排行</h3>
+            </div>
+            <div class="sbd">
+                <dl class="num-list">
+                                        <dt class="clearfix">
+                        <a href="http://www.win4000.com/theme_detail_45702.html"><img alt="2014年世界杯win7主题" title="2014年世界杯win7主题" class="lazy" data-original="http://pic1.win4000.com/theme/win7/8/534ba347f31b8/thumb.jpg" src="http://pic.win4000.com/images/lazyload.gif"></a>
+                        <p>2014年世界杯win7主题</p>
+                        <a class="now-down" href="http://www.win4000.com/theme_detail_45702.html">立即下载</a>
+                    </dt>
+                                        <dd><span class="or">2</span><a href="http://www.win4000.com/theme_detail_45633.html" title="里约大冒险2win7电脑主题" target="_blank">里约大冒险2win7电脑主题</a></dd>
+                                        <dd><span class="or">3</span><a href="http://www.win4000.com/theme_detail_45610.html" title="创意文字高清win7桌面主题" target="_blank">创意文字高清win7桌面主题</a></dd>
+                                        <dd><span>4</span><a href="http://www.win4000.com/theme_detail_45609.html" title="韩国美女郑丽媛win7主题" target="_blank">韩国美女郑丽媛win7主题</a></dd>
+                                        <dd><span>5</span><a href="http://www.win4000.com/theme_detail_45564.html" title="清纯可人美女高清win7桌面主题" target="_blank">清纯可人美女高清win7桌面主题</a></dd>
+                                        <dd><span>6</span><a href="http://www.win4000.com/theme_detail_45532.html" title="少女时代机场制服诱惑win7主题" target="_blank">少女时代机场制服诱惑win7主题</a></dd>
+                                        <dd><span>7</span><a href="http://www.win4000.com/theme_detail_45530.html" title="清纯御姐高清win7桌面主题" target="_blank">清纯御姐高清win7桌面主题</a></dd>
+                                        <dd><span>8</span><a href="http://www.win4000.com/theme_detail_45507.html" title="美国队长2冬日战士win7桌面主题" target="_blank">美国队长2冬日战士win7桌面主题</a></dd>
+                                        <dd><span>9</span><a href="http://www.win4000.com/theme_detail_41552.html" title="可口鲜红樱桃win7电脑主题" target="_blank">可口鲜红樱桃win7电脑主题</a></dd>
+                                        <dd><span>10</span><a href="http://www.win4000.com/theme_detail_45505.html" title="可爱猫咪高清win7桌面主题" target="_blank">可爱猫咪高清win7桌面主题</a></dd>
+                                    </dl>
+            </div>
+        </div>
+        <div class="sbox">
+            <div class="shd">
+                <h3>美女图库浏览排行</h3>
+            </div>
+            <div class="sbd">
+                <ul class="sub-img clearfix">
+                                        <li><a href="http://www.win4000.com/meinv111187.html"><img class="lazy" data-original="http://pic1.win4000.com/pic/5/6c/f23b1328138.jpg_150_200.jpg" src="http://pic.win4000.com/images/lazyload.gif" alt="欢乐喜剧人吴秀波图片" title="欢乐喜剧人吴秀波图片"></a></li>
+                                        <li><a href="http://www.win4000.com/meinv111183.html"><img class="lazy" data-original="http://pic1.win4000.com/pic/d/a9/9c4b1328075.jpg_150_200.jpg" src="http://pic.win4000.com/images/lazyload.gif" alt="欢乐喜剧人第一季海报图片" title="欢乐喜剧人第一季海报图片"></a></li>
+                                        <li><a href="http://www.win4000.com/meinv111186.html"><img class="lazy" data-original="http://pic1.win4000.com/pic/9/b5/c1191328105.jpg_150_200.jpg" src="http://pic.win4000.com/images/lazyload.gif" alt="《欢乐喜剧人第二季》海报图片" title="《欢乐喜剧人第二季》海报图片"></a></li>
+                                        <li><a href="http://www.win4000.com/meinv111185.html"><img class="lazy" data-original="http://pic1.win4000.com/pic/8/be/fc4d1328094.jpg_150_200.jpg" src="http://pic.win4000.com/images/lazyload.gif" alt="性感大胸美女诱惑撩人人体艺术写真" title="性感大胸美女诱惑撩人人体艺术写真"></a></li>
+                                        <li><a href="http://www.win4000.com/meinv111184.html"><img class="lazy" data-original="http://pic1.win4000.com/pic/6/2d/2be91328091.jpg_150_200.jpg" src="http://pic.win4000.com/images/lazyload.gif" alt="性感迷人美女模特大胸美腿诱惑脱丝秀人体写真" title="性感迷人美女模特大胸美腿诱惑脱丝秀人体写真"></a></li>
+                                        <li><a href="http://www.win4000.com/meinv111182.html"><img class="lazy" data-original="http://pic1.win4000.com/pic/5/f0/a3ff1328067.jpg_150_200.jpg" src="http://pic.win4000.com/images/lazyload.gif" alt="深夜宾馆美女少妇酥胸翘臀诱惑撩人睡衣写真" title="深夜宾馆美女少妇酥胸翘臀诱惑撩人睡衣写真"></a></li>
+                                    </ul>
+            </div>
+        </div>
+        <div class="sbox">
+            <div class="shd">
+                <h3>最新手机壁纸</h3>
+            </div>
+            <div class="sbd">
+                <dl class="num-list">
+                                        <dt class="clearfix">
+                        <a href="http://www.win4000.com/wallpaper_detail_124243.html"><img alt="美女与野兽手机壁纸" title="美女与野兽手机壁纸" class="lazy" data-original="http://pic1.win4000.com/mobile/4/58cf68b714179_120_80.jpg" src="http://pic.win4000.com/images/lazyload.gif"></a>
+                        <p>美女与野兽手机壁纸</p>
+                        <a class="now-down" href="http://www.win4000.com/wallpaper_detail_124243.html">立即下载</a>
+                    </dt>
+                                        <dd><span class="or">2</span><a href="http://www.win4000.com/wallpaper_detail_124203.html" title="可爱宠物萨摩高清图片手机壁纸" target="_blank">可爱宠物萨摩高清图片手机壁纸</a></dd>
+                                        <dd><span class="or">3</span><a href="http://www.win4000.com/wallpaper_detail_124201.html" title="小清新樱花手机壁纸" target="_blank">小清新樱花手机壁纸</a></dd>
+                                        <dd><span>4</span><a href="http://www.win4000.com/wallpaper_detail_123887.html" title="唯美清纯女神范高清壁纸" target="_blank">唯美清纯女神范高清壁纸</a></dd>
+                                        <dd><span>5</span><a href="http://www.win4000.com/wallpaper_detail_123558.html" title="粉色渐变创意图片手机壁纸下载" target="_blank">粉色渐变创意图片手机壁纸下载</a></dd>
+                                        <dd><span>6</span><a href="http://www.win4000.com/wallpaper_detail_123537.html" title="精选动漫高清手机壁纸" target="_blank">精选动漫高清手机壁纸</a></dd>
+                                    </dl>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="main-content">
+<div id="friendlink">
+    <div class="area">
+        <div class="links">
+            <span class="t">友情链接：</span>
+            <span class="link-tip">（欢迎权重4以上的电脑桌面主题、桌面壁纸等同类下载站点友情链接，QQ:2667482833）</span>
+            <p class="con"><a href="http://www.newyx.net" title="单机游戏大全" target="_blank">单机游戏大全</a><a href="http://www.wanyx.com/" title="单机游戏下载" target="_blank">单机游戏下载</a><a href="http://www.yxbao.com/" title="单机游戏" target="_blank">单机游戏</a><a href="http://so.ooopic.com" title="图片下载" target="_blank">图片下载</a><a href="http://www.win7china.com/" title="Win7之家" target="_blank">Win7之家</a><a href="http://www.52z.com" title="飞翔下载" target="_blank">飞翔下载</a><a href="http://www.16sucai.com/" title="素材中国" target="_blank">素材中国</a><a href="http://www.jj20.com/" title="桌面壁纸高清" target="_blank">桌面壁纸高清</a><a href="http://desk.zol.com.cn" title="桌面壁纸" target="_blank">桌面壁纸</a><a href="http://so.ooopic.com" title="图片下载" target="_blank">图片下载</a><a href="http://www.laomaotao.net/" title="老毛桃winpe" target="_blank">老毛桃winpe</a><a href="http://www.windows7en.com" title="windows7之家" target="_blank">windows7之家</a><a href="http://www.goupuzi.com/" title="宠物狗" target="_blank">宠物狗</a><a href="http://www.wmpic.me/" title="唯美图片" target="_blank">唯美图片</a><a href="http://www.xitongcheng.com/" title="win7系统下载" target="_blank">win7系统下载</a><a href="http://www.qqgexingqianming.com" title="QQ个性签名" target="_blank">QQ个性签名</a><a href="http://www.365j.com" title="剧情介绍" target="_blank">剧情介绍</a><a href="http://xiaoguotu.to8to.com/" title="装修效果图" target="_blank">装修效果图</a><a href="http://www.7399.com" title="7399小游戏" target="_blank">7399小游戏</a><a href="http://www.139y.com" title="手机游戏攻略" target="_blank">手机游戏攻略</a><a href="http://www.7kk.com/" title="壁纸图片" target="_blank">壁纸图片</a><a href="http://www.enterdesk.com/" title="壁纸" target="_blank">壁纸</a><a href="http://p.ik123.com/" title="唯美图片" target="_blank">唯美图片</a><a href="http://www.7kk.com/" title="7kk壁纸" target="_blank">7kk壁纸</a><a href="http://www.laonanren.com/" title="老男人" target="_blank">老男人</a><a href="http://www.yxj18.com/" title="优先级新闻网" target="_blank">优先级新闻网</a></p>
+        </div>
+    </div>
+</div>
+</div>
+
+<script type="text/javascript" src="http://pic.win4000.com/js/banner.js?v=2017010503"></script><script type="text/javascript">
+$("#banner").focusImg({ flag: "banner", hoverStop: true,speed:5000,clickTabToNav:false});
+
+$(document).ready(function() {
+    $(".banner").hover(function(){
+        $(this).addClass("hover");
+        },function(){
+        $(this).removeClass("hover");
+    })
+
+
+    if (Util.isXP) {
+        $('#client_os').html('Xp');
+        $('#client_theme').attr('href', '/theme_1_0_0_1.html');
+    } else {
+        $('#client_os').html('Win7');
+        $('#client_theme').attr('href', '/theme_3_0_0_1.html');
+    }
+
+    $('#client_screen').html(Util.screen);
+    $('#client_wallpaper').attr('href', getScreenUrl());
+});
+</script>
+<script type="text/javascript" src="http://pic.win4000.com/js/common_footer.js?v=2017010503"></script><div class="a1000">
+</div>
+
+<!-- end main-content-->
+<div class="fwrap">
+    <div class="new-footer">
+        <p class="f_tip">本站提供的<a href="http://www.win4000.com">电脑主题</a>,<a href="http://www.win4000.com">桌面壁纸</a>，美女图片等资素材收集于互联网，如果侵犯了您的版权请来信告知,我们会及时处理和回复。</p>
+        <p>美桌网欢迎和各大网站进行合作，也欢迎用户的投稿，详情请发邮件告知（邮件地址：win4000@126.com）商务合作QQ2496576677 。
+</p>
+        <p>CopyRight © 2008-2013 www.win4000.com 美桌网<span>All Rights Reserved</span><a target="_blank" rel="nofollow" href="http://www.miitbeian.gov.cn">湘ICP备16020871号</a><script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F5a7b36f45ba980723924ec33d991bb80' type='text/javascript'%3E%3C/script%3E"));
+</script></p>
+    </div>
+</div>
+
+<script>
+(function(){
+    var bp = document.createElement('script');
+    bp.src = '//push.zhanzhang.baidu.com/push.js';
+    var s = document.getElementsByTagName("script")[0];
+    s.parentNode.insertBefore(bp, s);
+})();
+</script>
+</body>
+</html>
+<!-- Generated by Win4000.Com (2017-03-25 12:10:00) --> 
+0
+
+

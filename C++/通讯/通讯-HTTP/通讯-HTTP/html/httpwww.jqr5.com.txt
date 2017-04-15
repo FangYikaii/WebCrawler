@@ -1,0 +1,1226 @@
+HTTP/1.1 200 OK
+Server: DnionOS/1.11.2.2
+Date: Sat, 25 Mar 2017 04:33:12 GMT
+Content-Type: text/html;charset=utf-8
+Content-Length: 106288
+Connection: close
+Vary: Accept-Encoding
+X-Powered-By: PHP/5.3.28
+Age: 810915
+Via: CT-CNC-ZJFY-P-6-100 (DLC-3.0), CT-JSYC-C-219-117 (DLC-3.0)
+Server-Info: DnionATS
+Warning: 113 DLC-3.0
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>机器人网-专注智能机器人与智能设备-中国机器人科技领域门户网站</title>
+    <meta name="keywords" content="机器人,robot,智能设备,机器人新闻,智能机器人,中国机器人网"/>
+    <meta name="description" content="中国机器人网是机器人科技领域网络传媒的先行者，集智能机器人、智能设备、工业、娱乐和服务机器人于一体的综合媒体网站，让机器人走进千家万户，改变从这里开始。"/>
+    <meta name="mobile-agent" content="format=html5; url=http://m.jqr5.com/"/>
+    <meta name="360-site-verification" content="327e4edc0c175a54073cc52089d3e4f7" />
+    <meta name="google-site-verification" content="DTzWHaMFv_0Sw_NzGbGMpE8pUn5S2fNJ-rQfaqHWUD8" />
+    <meta property="qc:admins" content="1325107377621256375" />
+    <!-- 请置于所有广告位代码之前 -->
+    <script type="text/javascript" src="http://cbjs.baidu.com/js/m.js"></script>
+    <link rel="canonical" href="http://www.jqr5.com/"/>
+    <link rel="shortcut icon" type="image/x-icon" href="http://www.jqr5.com/favicon.ico"/>
+    <link rel="bookmark" type="image/x-icon" href="http://www.jqr5.com/favicon.ico"/>
+    <!--品牌轮播相关-->
+    <link rel="stylesheet" type="text/css" href="http://www.jqr5.com/skin/jiqiren/css/screen.css"/>
+    
+    <meta http-equiv="mobile-agent" content="format=xhtml;url=http://m.jqr5.com/" />
+<script src='http://public.1985t.com/js/uaredirect.js' type='text/javascript'></script>
+<script type="text/javascript">uaredirect("http://m.jqr5.com/");</script>
+<link rel="stylesheet" type="text/css" href="http://www.jqr5.com/skin/jiqiren/css/newglobal.css"/>
+<script type="text/javascript" src="http://www.jqr5.com/file/script/js/jquery-1.9.1.min.js"></script>
+<!--destoon需要的-->
+<script type="text/javascript" src="http://www.jqr5.com/lang/zh-cn/lang.js"></script>
+<script type="text/javascript" src="http://www.jqr5.com/file/script/config.js"></script>
+<script type="text/javascript" src="http://www.jqr5.com/file/script/common.js"></script>
+<script type="text/javascript" src="http://www.jqr5.com/file/script/page.js"></script>
+<script type="text/javascript" src="http://www.jqr5.com/file/script/jquery.lazyload.js"></script><script type="text/javascript" src="http://gg.1985t.com/jqr5/jqr5_pc.js"></script>
+<script>
+function openpop(ID){
+$(ID).fadeIn('slow');
+$(ID+" .pop").animate({"marginTop":150},400);
+$("#usernamelogin3").focus();
+};
+function closepop(ID){
+$(ID+" .pop").animate({"marginTop":500},100,function (){
+$(ID).hide();
+$(this).css("marginTop",-300);
+});
+};
+</script>
+    <link rel="stylesheet" type="text/css" href="http://www.jqr5.com/skin/jiqiren/css/home.css"/>
+        <script type="text/javascript" src="http://www.jqr5.com/file/script/js/qiehuan.js"></script>
+            <script type="text/javascript" src="http://www.jqr5.com/file/script/js/nav.js"></script>
+        <script type="text/javascript" src="http://www.jqr5.com/file/script/js/search.js"></script>
+        <script type="text/javascript" src="http://www.jqr5.com/file/script/js/houcs.js"></script>
+            <script>
+    $(function(){
+    $('.duantitle1 li:last,.duantitle2 li:last,.duantitle3 li:last').addClass('last');
+    });
+    </script>
+<script src="http://public.1985t.com/js/uaredirect.js" type="text/javascript"></script>
+<script type="text/javascript">uaredirect("http://m.jqr5.com/");</script>
+</head>
+<body>
+<script src="http://tjs.sjs.sinajs.cn/open/api/js/wb.js" type="text/javascript" charset="utf-8"></script>
+<div class="header">
+<div class="topbar">
+<div class="outwrap">
+        <div id="destoon_member">
+                        </div>
+            <div class="topright">
+<wb:follow-button uid="2876132882" type="red_1" id="gz_sina" width="62" height="24" ></wb:follow-button><em>|</em><a href="#" target="_blank">官方微信</a><em>|</em><a href="#" target="_blank">客服热线：0793-8179555</a>
+            </div>
+</div>
+</div>
+<div class="sitetop">
+<h1 class="logo" style="background:url('http://www.jqr5.com/file/upload/201501/24/15-20-57-73-1.png') no-repeat center center;"><a href="http://www.jqr5.com/" title="机器人">机器人</a></h1>
+<div class="searchbar">
+<div class="selectbar" style="height: 36px;">
+<ul>
+                                                                            <li><a href="javascript:void(0);"  moduleid="24" moduledir="news">新闻资讯</a></li>
+                                                                                <li><a href="javascript:void(0);"  moduleid="25" moduledir="application">领域应用</a></li>
+                                                                                <li><a href="javascript:void(0);"  moduleid="26" moduledir="product">产品介绍</a></li>
+                                                                                <li><a href="javascript:void(0);"  moduleid="27" moduledir="study">学习园地</a></li>
+                                                                                <li><a href="javascript:void(0);"  moduleid="14" moduledir="video">视频观赏</a></li>
+                                                                                <li><a href="javascript:void(0);"  moduleid="12" moduledir="photo">图片展示</a></li>
+                                        </ul>
+<i></i>
+</div>
+<form action="http://www.jqr5.com//news/search.php" id="searchForm" method="get">
+            <input type="hidden" name="moduleid" value="24" id="search_moduleid"/>
+<input type="hidden" name="spread" value="0" id="search_spread"/>
+<input type="hidden" id="searchfor" name="searchfor" value="company">
+<div class="cell">
+<input id="search_kw" class="text" type="text" value="请输入要搜索的关键字..." onfocus="this.value='';this.style.color='#666';" onblur="if(this.value==''){this.value='请输入要搜索的关键字...';this.style.color='#ccc';}" name="kw" autocomplete="off">
+</div>
+<div class="search-button">
+<button class="btn-search">搜索</button>
+</div>
+</form>
+</div>
+</div>
+<div class="boxnav">
+<div class="boxnav1100">
+<ul class="nav dropdown ">
+<b class="current oncurrent"><a href="http://www.jqr5.com/" title="机器人网">首页</a></b>
+                                                                                                                                                                                                                                
+                <li><a href="http://www.jqr5.com/news/">新闻资讯</a>
+                                        <ul class="submenu block">
+                                                <li><a href="http://www.jqr5.com/news/list/46/">行业资讯</a></li>
+                                                <li><a href="http://www.jqr5.com/news/list/48/">展会资讯</a></li>
+                                                <li><a href="http://www.jqr5.com/news/list/49/">企业新闻</a></li>
+                                                <li><a href="http://www.jqr5.com/news/list/50/">新品发布</a></li>
+                                                <li><a href="http://www.jqr5.com/news/list/51/">趣味杂谈</a></li>
+                                            </ul>
+                </li>
+                
+                                                                
+                <li><a href="http://www.jqr5.com/application/">领域应用</a>
+                                        <ul class="submenu block">
+                                                <li><a href="http://www.jqr5.com/application/list/34/">金属加工</a></li>
+                                                <li><a href="http://www.jqr5.com/application/list/35/">抛光打磨</a></li>
+                                                <li><a href="http://www.jqr5.com/application/list/36/">清洗装配</a></li>
+                                                <li><a href="http://www.jqr5.com/application/list/37/">切割焊接</a></li>
+                                                <li><a href="http://www.jqr5.com/application/list/38/">喷涂涂胶</a></li>
+                                                <li><a href="http://www.jqr5.com/application/list/39/">上料下料</a></li>
+                                                <li><a href="http://www.jqr5.com/application/list/40/">码垛搬运</a></li>
+                                                <li><a href="http://www.jqr5.com/application/list/41/">锻造冶炼</a></li>
+                                                <li><a href="http://www.jqr5.com/application/list/42/">橡胶塑料</a></li>
+                                                <li><a href="http://www.jqr5.com/application/list/43/">雕刻分拣</a></li>
+                                                <li><a href="http://www.jqr5.com/application/list/44/">汽车配件</a></li>
+                                                <li><a href="http://www.jqr5.com/application/list/45/">其他应用</a></li>
+                                            </ul>
+                </li>
+                
+                                                                
+                <li><a href="http://www.jqr5.com/product/">产品介绍</a>
+                                        <ul class="submenu block">
+                                                <li><a href="http://www.jqr5.com/product/list/28/">工业机器人</a></li>
+                                                <li><a href="http://www.jqr5.com/product/list/29/">服务机器人</a></li>
+                                                <li><a href="http://www.jqr5.com/product/list/30/">特种机器人</a></li>
+                                                <li><a href="http://www.jqr5.com/product/list/31/">娱乐机器人</a></li>
+                                                <li><a href="http://www.jqr5.com/product/list/52/">智能设备</a></li>
+                                                <li><a href="http://www.jqr5.com/product/list/53/">智能机器人</a></li>
+                                                <li><a href="http://www.jqr5.com/product/list/67/">无人机</a></li>
+                                            </ul>
+                </li>
+                
+                                                                
+                <li><a href="http://www.jqr5.com/study/">学习园地</a>
+                                        <ul class="submenu block">
+                                                <li><a href="http://www.jqr5.com/study/list/25/">学习园地</a></li>
+                                                <li><a href="http://www.jqr5.com/study/list/26/">未来展望</a></li>
+                                                <li><a href="http://www.jqr5.com/study/list/27/">行业探讨</a></li>
+                                            </ul>
+                </li>
+                
+                                                                
+                <li><a href="http://www.jqr5.com/video/">视频观赏</a>
+                                        <ul class="submenu block">
+                                                <li><a href="http://www.jqr5.com/video/list/9/">工业机器人</a></li>
+                                                <li><a href="http://www.jqr5.com/video/list/17/">服务机器人</a></li>
+                                                <li><a href="http://www.jqr5.com/video/list/18/">特种机器人</a></li>
+                                                <li><a href="http://www.jqr5.com/video/list/19/">娱乐机器人</a></li>
+                                                <li><a href="http://www.jqr5.com/video/list/20/">机器人教学</a></li>
+                                                <li><a href="http://www.jqr5.com/video/list/21/">机器人电影</a></li>
+                                                <li><a href="http://www.jqr5.com/video/list/22/">人物专访</a></li>
+                                                <li><a href="http://www.jqr5.com/video/list/23/">会议演讲</a></li>
+                                                <li><a href="http://www.jqr5.com/video/list/24/">科技欣赏</a></li>
+                                            </ul>
+                </li>
+                
+                                                                
+                <li><a href="http://www.jqr5.com/photo/">图片展示</a>
+                                        <ul class="submenu block">
+                                                <li><a href="http://www.jqr5.com/photo/list/4/">工业机器人</a></li>
+                                                <li><a href="http://www.jqr5.com/photo/list/13/">服务机器人</a></li>
+                                                <li><a href="http://www.jqr5.com/photo/list/14/">特种机器人</a></li>
+                                                <li><a href="http://www.jqr5.com/photo/list/15/">娱乐机器人</a></li>
+                                                <li><a href="http://www.jqr5.com/photo/list/16/">行业展会</a></li>
+                                            </ul>
+                </li>
+                
+                                </ul>
+<div class="navright">
+<span class="tx"><a target="_blank" href="http://t.qq.com/wzy820514" rel="nofollow">腾讯微博</a></span>
+<span class="wz" id="wzz"><a target="_blank" href="http://www.jqr5.com/sitemap/">网站地图</a></span>
+<div class="ditu" style="display:none;">
+</div>
+</div>
+<script type="text/javascript">    
+             //出现网站地图
+            $('#wzz').mouseover(function() {
+                $(this).addClass('on');
+                //$('.ditu').css('display', 'block');
+            })
+            $('#wzz').mouseout(function() {
+                $(this).removeClass('on');
+                //$('.ditu').css('display', 'none');
+            })
+//隐藏网站地图
+$('.ditu').mouseover(function() {
+$(this).css('display', 'block');
+//$('#wzz').addClass('on');
+}).mouseout(function() {
+$(this).css('display', 'none');
+//$('#wzz').removeClass('on');
+})
+            </script>
+</div>
+</div>
+</div><!--主要内容-->
+<div class="content">
+<!--<div class="a_dvline">
+    <img src="http://www.jqr5.com/skin/jiqiren/pic/sr_show_top.jpg"/>
+    </div>-->
+<!--模块1-->
+<div class="box1">
+<div class="jiaodian">
+<!-- 代码 开始 -->
+<div id="fsD1" class="focus">
+<div id="D1pic1" class="fPic">
+                                                        <div class="fcon" style="display: none;">
+<a target="_blank" href="http://www.jqr5.com/news/hynews/9411.html"><img src="http://www.jqr5.com/file/upload/201703/08/11-09-33-37-246.jpg" style="opacity: 1; "></a>
+<span class="shadow"><a target="_blank" href="http://www.jqr5.com/news/hynews/9411.html">华为Mate9 Pro搭载麒麟960处理器 支持VR 售价4200</a></span>
+</div>
+                                        <div class="fcon" style="display: none;">
+<a target="_blank" href="http://www.jqr5.com/news/zhnews/9352.html"><img src="http://www.jqr5.com/file/upload/201703/01/11-46-25-11-246.jpg" style="opacity: 1; "></a>
+<span class="shadow"><a target="_blank" href="http://www.jqr5.com/news/zhnews/9352.html">怼上GTX1080ti！AMD Radeon RX Vega亮相GDC 2017</a></span>
+</div>
+                                        <div class="fcon" style="display: none;">
+<a target="_blank" href="http://www.jqr5.com/news/zhnews/9349.html"><img src="http://www.jqr5.com/file/upload/201702/28/14-28-48-85-246.jpg" style="opacity: 1; "></a>
+<span class="shadow"><a target="_blank" href="http://www.jqr5.com/news/zhnews/9349.html">MWC 2017软银CEO孙正义：30年内机器人智力将超过人类</a></span>
+</div>
+                                        <div class="fcon" style="display: none;">
+<a target="_blank" href="http://www.jqr5.com/news/hynews/9299.html"><img src="http://www.jqr5.com/file/upload/201702/21/14-17-31-27-246.png" style="opacity: 1; "></a>
+<span class="shadow"><a target="_blank" href="http://www.jqr5.com/news/hynews/9299.html">三宝平台机器人携手欧派，开拓创新智慧家居应用新征程</a></span>
+</div>
+                    </div>
+<div class="fbg">
+<div class="D1fBt" id="D1fBt">
+                                            <a href="javascript:void(0)" hidefocus="true" target="_self" class=""><i>0</i></a>
+                                                <a href="javascript:void(0)" hidefocus="true" target="_self" class=""><i>1</i></a>
+                                                <a href="javascript:void(0)" hidefocus="true" target="_self" class=""><i>2</i></a>
+                                                <a href="javascript:void(0)" hidefocus="true" target="_self" class=""><i>3</i></a>
+                        </div>
+</div>
+<span class="prev"></span>
+<span class="next"></span>
+</div>
+<script type="text/javascript">
+Qfast.add('widgets', { path: "http://www.jqr5.com/file/script/js/terminator2.2.min.js", type: "js", requires: ['fx'] });  
+Qfast(false, 'widgets', function () {
+K.tabs({
+id: 'fsD1',   //焦点图包裹id  
+conId: "D1pic1",  //** 大图域包裹id  
+tabId:"D1fBt",  
+tabTn:"a",
+conCn: '.fcon', //** 大图域配置class       
+auto: 1,   //自动播放 1或0
+effect: 'fade',   //效果配置
+eType: 'click', //** 鼠标事件
+pageBt:true,//是否有按钮切换页码
+bns: ['.prev', '.next'],//** 前后按钮配置class                          
+interval: 3000  //** 停顿时间  
+}) 
+})  
+</script>
+<!--代码 结束 -->
+<!--公司品牌-->
+<div class="yx_pc">
+<div class="tit660 tit">
+<span><a href="#">+MORE</a></span>公司品牌
+</div>
+<div class="img306">
+                <div class="waibox">
+                    <!--新轮播-->
+<div id="viewport-shadow" class="trans">
+                        <a href="#" id="next" title="go to the next slide" class="trans"></a>
+                        <a href="#" id="next" title="go to the next slide" class="trans"></a>
+                        <div id="viewport">        
+                            <div id="box">
+                                <div class="slide"><a href="http://www.cnzbh.com/" rel="nofollow" target="_blank"><img src="http://www.jqr5.com/file/upload/201611/28/14-34-01-32-1.jpg"></a></div>
+                                <div class="slide"><a href="http://www.are-fair.com/" rel="nofollow" target="_blank"><img src="http://www.jqr5.com/file/upload/201612/27/16-41-18-86-1.jpg"></a></div>
+                            </div>
+                        </div>
+                        <div id="time-indicator"></div>
+                    </div>
+                    <script type="text/javascript" src="http://www.jqr5.com/file/script/guanggao_lunbo.js"></script>
+<script type="text/javascript">
+                    $(function(){
+                    
+                        var $box = $('#box'), $indicators = $('.goto-slide'), $timeIndicator = $('#time-indicator'), slideInterval = 5000;
+                    
+                        var switchIndicator = function ($c, $n, currIndex, nextIndex) {
+                            $timeIndicator.stop().css('width', 0);
+                            $indicators.removeClass('current').eq(nextIndex).addClass('current');
+                        };
+                    
+                        var startTimeIndicator = function () {
+                            $timeIndicator.animate({width: '628px'}, slideInterval);
+                        };
+                    
+                        // initialize the plugin with the desired settings
+                        $box.boxSlider({
+                            speed: 1000,
+                            autoScroll: true,
+                            timeout: slideInterval,
+                            next: '#next',
+                            prev: '#prev',
+                            pause: '#pause',
+                            effect: 'scrollVert3d', /*scrollVert3d and scrollHorz3d*/ 
+                            blindCount: 15,
+                            onbefore: switchIndicator,
+                            onafter: startTimeIndicator
+                        });
+                    
+                        startTimeIndicator();
+                    
+                        // pagination isn't built in simply because it's easy to
+                        // roll your own with the plugin API methods
+                        /*$('#controls').on('click', '.goto-slide', function (ev){
+                            $box.boxSlider('showSlide', $(this).data('slideindex'));
+                            ev.preventDefault();
+                        });*/
+                        
+                    });
+                    
+                    </script>
+                    <!--新轮播-->
+                    </div>
+</div>
+</div>
+</div>
+<!--资讯-->
+<div class="zhixun">
+<div class="changeMenu">
+<ul class="n1">
+<li class="on"><a href="http://www.jqr5.com/news/">最新资讯</a></li>
+<li><a href="http://www.jqr5.com/news/">热门资讯</a></li>
+</ul>
+</div>
+<div class="ui-tabs-panel">
+                                                <h3><a href="http://www.jqr5.com/news/hynews/9451.html" target="_blank">刚上架就告罄！GTX1080Ti 美国亚马逊涨...</a></h3>
+<p>
+NVIDIA在近日发布了最新的旗舰级显卡GTX 1080 Ti，并且相应的将次一级的GTX 1080下调了部分价格，现在两...<a href="http://www.jqr5.com/news/hynews/9451.html" target="_blank">[详情]</a>
+</p>
+                                                                <h3><a href="http://www.jqr5.com/news/hynews/9450.html" target="_blank">博创联动将打造有人工智能属性的“智能...</a></h3>
+<p>
+博创联动是一家为农业机械和新能源汽车提供解决方案的技术公司。在 2014 年正式进入农业机械领域以前，...<a href="http://www.jqr5.com/news/hynews/9450.html" target="_blank">[详情]</a>
+</p>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                <ul class="cont_390">
+<li class="line"></li>
+                                                                                                                                            <li><i>03-15</i><a href="http://www.jqr5.com/news/hynews/9449.html" target="_blank">迪士尼乐园将推出卡通形象的机器人，用来与游客们互动</a></li>
+                                                                                <li><i>03-15</i><a href="http://www.jqr5.com/news/hynews/9448.html" target="_blank">美国科研人员利用声波控制操作智能手机</a></li>
+                                                                                <li><i>03-15</i><a href="http://www.jqr5.com/news/qwnews/9447.html" target="_blank">GTX 1080Ti下的《质量效应：仙女座》PC版：4K极限画质超60帧</a></li>
+                                                                                <li><i>03-15</i><a href="http://www.jqr5.com/news/hynews/9446.html" target="_blank">霍金反AI情绪日益高涨：应组建“世界政府”来防御AI崛起</a></li>
+                                                                                <li><i>03-15</i><a href="http://www.jqr5.com/news/xpnews/9445.html" target="_blank">2017年新一代iMAC将会添加VR/AR技术支持</a></li>
+                                                                                <li><i>03-14</i><a href="http://www.jqr5.com/news/zhnews/9444.html" target="_blank">两会惊现&quot;钢铁侠&quot; VR直播还能火多久？</a></li>
+                                                                                <li><i>03-14</i><a href="http://www.jqr5.com/news/hynews/9443.html" target="_blank">苹果Liam机器人一年可以拆解多少台iPhone6</a></li>
+                                                                                <li><i>03-14</i><a href="http://www.jqr5.com/news/xpnews/9442.html" target="_blank">索尼Xperia XZs手机国行版发布：后置1900万像素 售价4699元</a></li>
+                                                                                <li><i>03-14</i><a href="http://www.jqr5.com/news/xpnews/9441.html" target="_blank">自己能够行走的行李箱！这款智能设备就像一个大型移动电源</a></li>
+                                                                                <li><i>03-14</i><a href="http://www.jqr5.com/news/qwnews/9440.html" target="_blank">Oculus 推出空间站 VR 游戏，让你在客厅体验太空漫游</a></li>
+                                                                                                                                                                </ul>
+</div>
+<div class="ui-tabs-panel conNo">
+                                <h3><a href="http://www.jqr5.com/news/qynews/563.html" target="_blank">走近大疆一级代理商：无人机代理商为啥...</a></h3>
+<p>
+这时小编大概知道了，大疆看选一个一级代理商，并不是随随便便选了一家“卖”无人机的，而是真正懂无人...<a href="http://www.jqr5.com/news/qynews/563.html" target="_blank">[详情]</a>
+</p>
+                                                                <h3><a href="http://www.jqr5.com/news/qwnews/6988.html" target="_blank">国内十大智能机器人生产厂家排名</a></h3>
+<p>
+智能机器人生产厂家哪家强?今日我们一起来看看国内十大智能机器人生产厂家排名，希望能对大家有所帮助。<a href="http://www.jqr5.com/news/qwnews/6988.html" target="_blank">[详情]</a>
+</p>
+                                                                                                                                                                                                                                                                                                                                                                <ul class="cont_390">
+<li class="line"></li>
+                                                                                                                        <li><i>10-28</i><a href="http://www.jqr5.com/news/qwnews/7731.html" target="_blank">LOL末日人机 LOL末日人工智能AI 最强英雄推荐</a></li>
+                                                                                <li><i>10-03</i><a href="http://www.jqr5.com/news/hynews/1814.html" target="_blank">机器人的四大组成部分</a></li>
+                                                                                <li><i>11-23</i><a href="http://www.jqr5.com/news/hynews/2759.html" target="_blank">阿尔法二代机器人究竟会有多少人愿意为你掏钱?</a></li>
+                                                                                <li><i>08-11</i><a href="http://www.jqr5.com/news/qwnews/7267.html" target="_blank">盘点那些出现在里约奥运会上的智能机器人</a></li>
+                                                                                <li><i>06-10</i><a href="http://www.jqr5.com/news/hynews/715.html" target="_blank">大疆CEO导师李泽湘率团队创建松山湖国际机器人产业基地</a></li>
+                                                                                <li><i>08-10</i><a href="http://www.jqr5.com/news/qwnews/7241.html" target="_blank">宁泽涛爆冷出局！无缘100米自由泳决赛</a></li>
+                                                                                <li><i>11-01</i><a href="http://www.jqr5.com/news/qwnews/7787.html" target="_blank">淘宝Buy+使用教程 淘宝怎么用VR购物</a></li>
+                                                                                <li><i>09-07</i><a href="http://www.jqr5.com/news/qwnews/1343.html" target="_blank">盘点国外先进的仓储物流机器人</a></li>
+                                                                                <li><i>03-10</i><a href="http://www.jqr5.com/news/hynews/4516.html" target="_blank">微型无人机英军的“黑蜂”无人机仅16克</a></li>
+                                                                                <li><i>08-02</i><a href="http://www.jqr5.com/news/qwnews/7089.html" target="_blank">里约奥运帆船赛道崩塌紧急施工 距帆船比赛只剩8天</a></li>
+                                        </ul>
+</div>
+</div>
+</div>
+<!--模块2-->
+<div class="box2">
+<!--每日重磅头条-->
+<div class="meiri">
+<div class="tit660 tit">
+                 每日重磅头条
+</div>
+<div class="excerpt excerpt-1">
+<div class="meiri_header">
+<em>新闻</em>
+                                                            <h2><a href="http://www.jqr5.com/news/xpnews/7669.html" target="_blank">亚马逊新无人机专利曝光：人脸+语音识别 口袋大小</a></h2>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        </div>
+                <div class="clear"></div>
+                                                <a class="img220" href="http://www.jqr5.com/news/xpnews/7669.html"><img class="thumb" src="http://www.jqr5.com/file/upload/201610/26/14-22-28-18-246.jpg" style="display: inline;"></a>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
+<ul class="duantitle1">
+                                    <li>                    <a href="http://www.jqr5.com/news/xpnews/7669.html" target="_blank">• 亚马逊新无人机专利曝光：人脸+语音识别 口袋大小</a>
+                                                                                <a href="http://www.jqr5.com/news/zhnews/7546.html" target="_blank">• 2016世界机器人大会会址：北京亦创国际会展中心 抢鲜看</a>
+                                                                                <a href="http://www.jqr5.com/news/hynews/7364.html" target="_blank">• 走进章鱼机器人：软体机器人的未来就靠这只“八爪鱼”了</a>
+                    </li>                                        <li>                    <a href="http://www.jqr5.com/news/hynews/7156.html" target="_blank">• 美国推出全球最小迷你无人机 只有手掌般大小</a>
+                                                                                <a href="http://www.jqr5.com/news/qynews/6917.html" target="_blank">• 软银机器人走出日本：年底将登陆台湾 只租不卖</a>
+                                                                                <a href="http://www.jqr5.com/news/hynews/5936.html" target="_blank">• HTC Vive虚拟现实技术应用领域还将有那些？</a>
+                    </li>                                        <li>                    <a href="http://www.jqr5.com/news/hynews/5632.html" target="_blank">• 2016“金萝卜”服务机器人大奖申请在即，速来围观</a>
+                                                                                <a href="http://www.jqr5.com/news/hynews/5581.html" target="_blank">• 李世鹏：互联网+服务机器人=新的机遇</a>
+                                                                                <a href="http://www.jqr5.com/news/hynews/5425.html" target="_blank">• 质疑和虚火，中国服务机器人不需要!</a>
+                    </li>                                        <li>                    <a href="http://www.jqr5.com/news/hynews/5364.html" target="_blank">• 小牛M1电动车够逼格！</a>
+                                                                                <a href="http://www.jqr5.com/news/hynews/2913.html" target="_blank">• 小小昆虫机器人大用途！</a>
+                                                                                <a href="http://www.jqr5.com/news/hynews/2892.html" target="_blank">• 快递小哥叫上机器人开黑打助攻激战网购热潮</a>
+                    </li>                                        <li>                    <a href="http://www.jqr5.com/news/hynews/2781.html" target="_blank">• 国产智能人形机器人Alpha 2深受美国人们喜爱</a>
+                                                                                <a href="http://www.jqr5.com/news/hynews/2736.html" target="_blank">• 东莞制造业离无人工厂的步伐更近了</a>
+                                                                                <a href="http://www.jqr5.com/news/hynews/2655.html" target="_blank">• 军用机器人挑战硬汉解放军</a>
+                    </li>                    <a href="http://www.jqr5.com/news/" target="_blank" class="gd">更多>></a>
+</ul>
+</div>
+            
+            <div class="excerpt excerpt-2">
+<div class="meiri_header">
+<em style="background:#fe7e10">应用</em>
+                    <h2><a href="http://www.jqr5.com/application/xjues/88.html" target="_blank">用六轴库卡机器人实现大规格工程设计板件的铣削自动化</a></h2>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        </div>
+                <div class="clear"></div>
+                                <a class="img220" href="http://www.jqr5.com/application/xjues/88.html"><img class="thumb" src="http://www.jqr5.com/file/upload/201503/25/14-15-57-88-3.jpg" style="display: inline;"></a>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <ul class="duantitle2">
+                    <li>                    <a href="http://www.jqr5.com/application/xjues/88.html" target="_blank">• 铣削自动化</a>
+                                                                                <a href="http://www.jqr5.com/application/dzues/86.html" target="_blank">• 从压铸机中取样</a>
+                                                                                <a href="http://www.jqr5.com/application/mdues/40.html" target="_blank">• 包装袋操作处理</a>
+                    </li>                                        <li>                    <a href="http://www.jqr5.com/application/mdues/39.html" target="_blank">• 传送耐火黏土管</a>
+                                                                                <a href="http://www.jqr5.com/application/mdues/36.html" target="_blank">• 异工件搬运</a>
+                                                                                <a href="http://www.jqr5.com/application/mdues/34.html" target="_blank">• 胎皮搬运机器人</a>
+                    </li>                                        <li>                    <a href="http://www.jqr5.com/application/ssues/33.html" target="_blank">• 压装部件</a>
+                                                                                <a href="http://www.jqr5.com/application/ssues/23.html" target="_blank">• 折弯大重金属板</a>
+                                                                                <a href="http://www.jqr5.com/application/ssues/21.html" target="_blank">• 灌装机器人</a>
+                    </li>                                        <li>                    <a href="http://www.jqr5.com/application/ssues/19.html" target="_blank">• 折弯上下料</a>
+                                                                                <a href="http://www.jqr5.com/application/ptues/16.html" target="_blank">• SR210</a>
+                                                                                <a href="http://www.jqr5.com/application/qgues/14.html" target="_blank">• 半扇切割</a>
+                    </li>                                        <li>                    <a href="http://www.jqr5.com/application/qgues/13.html" target="_blank">• 屠宰自动化</a>
+                                                                                <a href="http://www.jqr5.com/application/qxues/12.html" target="_blank">• 六轴铰接臂机器人</a>
+                                                                                <a href="http://www.jqr5.com/application/pgues/8.html" target="_blank">• 植入物打磨抛光</a>
+                    </li>                    <a href="http://www.jqr5.com/application/" target="_blank" class="gd">更多>></a>
+</ul>
+</div>
+            <div class="excerpt excerpt-3">
+<div class="meiri_header">
+<em style="background:#ff4c4c">产品</em>
+                    <h2><a href="http://www.jqr5.com/product/show-129.html" target="_blank">大疆精灵3 Dji Phantom 3 遥控航拍无人机</a></h2>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        </div>
+                <div class="clear"></div>
+                                <a class="img220" href="http://www.jqr5.com/product/show-129.html"><img class="thumb" src="http://www.jqr5.com/file/upload/201602/17/15-52-36-22-192.jpg" style="display: inline;"></a>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <ul class="duantitle3">
+                    <li>                    <a href="http://www.jqr5.com/product/show-129.html" target="_blank">• 大疆精灵3</a>
+                                                                                <a href="http://www.jqr5.com/product/show-94.html" target="_blank">• 科沃斯DM81扫地机器人</a>
+                                                                                <a href="http://www.jqr5.com/product/show-93.html" target="_blank">• MOTi机器人</a>
+                    </li>                                        <li>                    <a href="http://www.jqr5.com/product/show-92.html" target="_blank">• 自由变形组合机器人</a>
+                                                                                <a href="http://www.jqr5.com/product/show-79.html" target="_blank">• 智能机器人助理</a>
+                                                                                <a href="http://www.jqr5.com/product/show-24.html" target="_blank">• Atlas人形机器人</a>
+                    </li>                                        <li>                    <a href="http://www.jqr5.com/product/show-23.html" target="_blank">• 越障机器人</a>
+                                                                                <a href="http://www.jqr5.com/product/show-22.html" target="_blank">• BigDog机器人</a>
+                                                                                <a href="http://www.jqr5.com/product/show-21.html" target="_blank">• 钢琴机器人</a>
+                    </li>                                        <li>                    <a href="http://www.jqr5.com/product/show-20.html" target="_blank">• 三星吸尘器机器人</a>
+                                                                                <a href="http://www.jqr5.com/product/show-18.html" target="_blank">• ABB机器人</a>
+                                                                                <a href="http://www.jqr5.com/product/show-17.html" target="_blank">• 无缆自治水下机器人</a>
+                    </li>                                        <li>                    <a href="http://www.jqr5.com/product/show-14.html" target="_blank">• H800水下机器人</a>
+                                                                                <a href="http://www.jqr5.com/product/show-13.html" target="_blank">• 罗博飞小蛟龙机器人</a>
+                                                                                <a href="http://www.jqr5.com/product/show-12.html" target="_blank">• iknow机器人</a>
+                    </li>                    <a href="http://www.jqr5.com/product/" target="_blank" class="gd">更多>></a>
+</ul>
+</div>
+</div>
+<!--热门产品推荐-->
+<div class="hot_toutiao">
+<div class="tit660 tit">
+                 热门产品推荐
+</div>
+<div class="list404">
+<ul>
+                                                        <li><a href="http://www.jqr5.com/product/show-91.html"><img src="http://www.jqr5.com/file/upload/201503/28/10-48-21-95-3.jpg"/></a><span><a href="http://www.jqr5.com/product/show-91.html" target="_blank">有“幽默细胞”的EMIEW2机器人</a></span>
+<p>
+日本日立(Hitachi)科学家研发出一种具有幽默细胞的机器人EMIEW2，该机器人不仅能讲笑话，还能判断自己讲...<a href="http://www.jqr5.com/product/show-91.html" target="_blank">[详情]</a>
+</p>
+</li>
+                                        <li><a href="http://www.jqr5.com/product/show-90.html"><img src="http://www.jqr5.com/file/upload/201503/28/10-30-45-51-3.png"/></a><span><a href="http://www.jqr5.com/product/show-90.html" target="_blank">OutRunner跑步机器人</a></span>
+<p>
+见过刘翔跨栏吗?他在你眼中是飞人吗?也许见过一款机器人后，在你心目中飞人不再是刘翔。美国佛罗里达州...<a href="http://www.jqr5.com/product/show-90.html" target="_blank">[详情]</a>
+</p>
+</li>
+                                        <li><a href="http://www.jqr5.com/product/show-89.html"><img src="http://www.jqr5.com/file/upload/201503/26/13-43-01-57-3.png"/></a><span><a href="http://www.jqr5.com/product/show-89.html" target="_blank">Ray奥迪搬运机器人</a></span>
+<p>
+这台名叫Ray的机器人是由巴伐利亚Serva TransportSystems公司打造。也早在2013年Ray便获得了德国创始人...<a href="http://www.jqr5.com/product/show-89.html" target="_blank">[详情]</a>
+</p>
+</li>
+                                        <li><a href="http://www.jqr5.com/product/show-88.html"><img src="http://www.jqr5.com/file/upload/201503/19/11-53-57-69-3.jpg"/></a><span><a href="http://www.jqr5.com/product/show-88.html" target="_blank">3D打印机器人Jimmy</a></span>
+<p>
+家用机器人的想法已经酝酿多年，但英特尔和Trossen却决定将之大幅推动一番。在今年的IDF大会上，英特尔...<a href="http://www.jqr5.com/product/show-88.html" target="_blank">[详情]</a>
+</p>
+</li>
+                                        <li><a href="http://www.jqr5.com/product/show-86.html"><img src="http://www.jqr5.com/file/upload/201503/19/11-21-57-43-3.jpg"/></a><span><a href="http://www.jqr5.com/product/show-86.html" target="_blank">Minibuilders 3D打印建筑机器人</a></span>
+<p>
+一个被称为Minibuilders的全新3D打印建筑机器人套件，可以像建筑工人那样3D打印出一间房屋，其快速、低...<a href="http://www.jqr5.com/product/show-86.html" target="_blank">[详情]</a>
+</p>
+</li>
+                                        <li><a href="http://www.jqr5.com/product/show-83.html"><img src="http://www.jqr5.com/file/upload/201503/19/10-37-43-47-3.jpg"/></a><span><a href="http://www.jqr5.com/product/show-83.html" target="_blank">飞行照明机器人</a></span>
+<p>
+最近，来自麻省理工学院的一项新发明让摄影师们看到曙光：一个能够自动调整光源的可飞行照明机器人，让...<a href="http://www.jqr5.com/product/show-83.html" target="_blank">[详情]</a>
+</p>
+</li>
+                    </ul>
+</div>
+</div>
+</div>
+<!--模块3-->
+<div class="box3">
+<!--产品介绍-->
+<div class="cpjs">
+<div class="tit660 tit">
+                 <span><a href="http://www.jqr5.com/product/">+MORE</a></span>产品介绍
+</div>
+<div class="jieshao">
+<div class="changeMenu">
+<ul class="n1 block"> 
+                                                                                    <li class="on">
+                        <a href="http://www.jqr5.com/product/list/28/" target="_blank">工业机器人</a></li>
+                                                                <li>
+                        <a href="http://www.jqr5.com/product/list/29/" target="_blank">服务机器人</a></li>
+                                                                <li>
+                        <a href="http://www.jqr5.com/product/list/30/" target="_blank">特种机器人</a></li>
+                                                                <li>
+                        <a href="http://www.jqr5.com/product/list/31/" target="_blank">娱乐机器人</a></li>
+                                                                <li>
+                        <a href="http://www.jqr5.com/product/list/52/" target="_blank">智能设备</a></li>
+                                                                <li>
+                        <a href="http://www.jqr5.com/product/list/53/" target="_blank">智能机器人</a></li>
+                                                                <li>
+                        <a href="http://www.jqr5.com/product/list/67/" target="_blank">无人机</a></li>
+                    </ul>
+</div>
+<div class="ui-tabs-panel">
+                <div class="img130">
+<ul>
+                                                                                <li><a href="http://www.jqr5.com/product/show-140.html" target="_blank"><img src="http://www.jqr5.com/file/upload/201607/30/11-18-13-55-246.jpg"/>安川首钢VS50II七轴机器人 点焊机器人 搬运机器人</a></li>
+                                                                                                                <li><a href="http://www.jqr5.com/product/show-89.html" target="_blank"><img src="http://www.jqr5.com/file/upload/201503/26/13-43-01-57-3.png"/>Ray奥迪搬运机器人</a></li>
+                                                                                                                <li><a href="http://www.jqr5.com/product/show-64.html" target="_blank"><img src="http://www.jqr5.com/file/upload/201502/25/11-37-31-50-3.jpg"/>KR 10 R1100 sixx WP</a></li>
+                                                                                                                <li><a href="http://www.jqr5.com/product/show-63.html" target="_blank"><img src="http://www.jqr5.com/file/upload/201502/25/11-07-56-47-3.jpg"/>KR 10 R1100 SIXX</a></li>
+                                                                                                                                                                                                                                                                                        </ul>
+</div>
+<ul class="cont_340">
+                                            <li><i>07-30</i><a href="http://www.jqr5.com/product/show-140.html" target="_blank">安川首钢VS50II七轴机器人 点焊机器人 搬运机器人</a></li>
+                                                <li><i>03-26</i><a href="http://www.jqr5.com/product/show-89.html" target="_blank">Ray奥迪搬运机器人</a></li>
+                                                <li><i>02-25</i><a href="http://www.jqr5.com/product/show-64.html" target="_blank">KR 10 R1100 sixx WP</a></li>
+                                                <li><i>02-25</i><a href="http://www.jqr5.com/product/show-63.html" target="_blank">KR 10 R1100 SIXX</a></li>
+                                                <li><i>02-25</i><a href="http://www.jqr5.com/product/show-62.html" target="_blank">KR 10 R1100 FIVVE</a></li>
+                                                <li><i>02-25</i><a href="http://www.jqr5.com/product/show-61.html" target="_blank">KR 10 R900 SIXX WP</a></li>
+                                                <li><i>02-25</i><a href="http://www.jqr5.com/product/show-60.html" target="_blank">KR 10 R900 SIXX</a></li>
+                                                <li><i>02-25</i><a href="http://www.jqr5.com/product/show-59.html" target="_blank">KR 6 R900 SIXX WP</a></li>
+                        </ul>
+</div>
+<div class="ui-tabs-panel conNo">
+                <div class="img130">
+<ul>
+                                                        <li><a href="http://www.jqr5.com/product/show-130.html" target="_blank"><img src="http://www.jqr5.com/file/upload/201602/17/16-31-21-98-192.jpg"/>爱乐优U03-家用智能机器人</a></li>
+                                                                                                                <li><a href="http://www.jqr5.com/product/show-127.html" target="_blank"><img src="http://www.jqr5.com/file/upload/201508/04/16-42-06-73-3.jpg"/>科沃斯窗宝TBW61家用全自动擦窗机器人</a></li>
+                                                                                                                <li><a href="http://www.jqr5.com/product/show-126.html" target="_blank"><img src="http://www.jqr5.com/file/upload/201508/03/14-39-41-44-3.jpg"/>科沃斯窗宝WRN70家用全自动智能擦窗机器人</a></li>
+                                                                                                                <li><a href="http://www.jqr5.com/product/show-125.html" target="_blank"><img src="http://www.jqr5.com/file/upload/201507/27/16-35-49-85-3.jpg"/>科沃斯窗宝W930全自动智能擦窗机器人</a></li>
+                                                                                                                                                                                                                                                                                        </ul>
+</div>
+<ul class="cont_340">
+                        <li><i>02-17</i><a href="http://www.jqr5.com/product/show-130.html" target="_blank">爱乐优U03-家用智能机器人</a></li>
+                                                <li><i>08-04</i><a href="http://www.jqr5.com/product/show-127.html" target="_blank">科沃斯窗宝TBW61家用全自动擦窗机器人</a></li>
+                                                <li><i>07-30</i><a href="http://www.jqr5.com/product/show-126.html" target="_blank">科沃斯窗宝WRN70家用全自动智能擦窗机器人</a></li>
+                                                <li><i>07-27</i><a href="http://www.jqr5.com/product/show-125.html" target="_blank">科沃斯窗宝W930全自动智能擦窗机器人</a></li>
+                                                <li><i>07-11</i><a href="http://www.jqr5.com/product/show-124.html" target="_blank">科沃斯窗宝W830全自动智能擦窗机器人</a></li>
+                                                <li><i>07-11</i><a href="http://www.jqr5.com/product/show-123.html" target="_blank">科沃斯窗宝WRN60全自动智能擦窗机器人</a></li>
+                                                <li><i>07-08</i><a href="http://www.jqr5.com/product/show-122.html" target="_blank">科沃斯地宝蓝鲸系列DR92全自动扫地机器人</a></li>
+                                                <li><i>07-08</i><a href="http://www.jqr5.com/product/show-121.html" target="_blank">科沃斯地宝阿尔法CR631智能扫地机器人</a></li>
+                        </ul>
+</div>
+<div class="ui-tabs-panel conNo">
+                <div class="img130">
+<ul>
+                                                        <li><a href="http://www.jqr5.com/product/show-72.html" target="_blank"><img src="http://www.jqr5.com/file/upload/201503/11/14-49-47-59-3.jpg"/>U-CAT海龟机器人</a></li>
+                                                                                                                <li><a href="http://www.jqr5.com/product/show-70.html" target="_blank"><img src="http://www.jqr5.com/file/upload/201503/11/14-20-50-61-3.jpg"/>Aquabot仿生鱼机器人</a></li>
+                                                                                                                <li><a href="http://www.jqr5.com/product/show-66.html" target="_blank"><img src="http://www.jqr5.com/file/upload/201503/11/10-38-09-25-3.jpg"/>水陆两栖GuardBot机器人</a></li>
+                                                                                                                <li><a href="http://www.jqr5.com/product/show-23.html" target="_blank"><img src="http://www.jqr5.com/file/upload/201502/06/11-00-16-59-3.jpg"/>Rhex越障机器人</a></li>
+                                                                                                                                                                                                                                                                                        </ul>
+</div>
+<ul class="cont_340">
+                        <li><i>03-11</i><a href="http://www.jqr5.com/product/show-72.html" target="_blank">U-CAT海龟机器人</a></li>
+                                                <li><i>03-11</i><a href="http://www.jqr5.com/product/show-70.html" target="_blank">Aquabot仿生鱼机器人</a></li>
+                                                <li><i>03-11</i><a href="http://www.jqr5.com/product/show-66.html" target="_blank">水陆两栖GuardBot机器人</a></li>
+                                                <li><i>02-06</i><a href="http://www.jqr5.com/product/show-23.html" target="_blank">Rhex越障机器人</a></li>
+                                                <li><i>02-06</i><a href="http://www.jqr5.com/product/show-22.html" target="_blank">BigDog大狗搬运机器人</a></li>
+                                                <li><i>02-05</i><a href="http://www.jqr5.com/product/show-17.html" target="_blank">AUV无缆自治水下机器人</a></li>
+                                                <li><i>02-05</i><a href="http://www.jqr5.com/product/show-16.html" target="_blank">MINI ROV JACK 300 水下机器人</a></li>
+                                                <li><i>02-05</i><a href="http://www.jqr5.com/product/show-15.html" target="_blank">ECA H300 水下机器人</a></li>
+                        </ul>
+</div>
+<div class="ui-tabs-panel conNo">
+                <div class="img130">
+<ul>
+                                                        <li><a href="http://www.jqr5.com/product/show-93.html" target="_blank"><img src="http://www.jqr5.com/file/upload/201503/28/11-42-44-83-3.png"/>萌萌哒MOTi机器人</a></li>
+                                                                                                                <li><a href="http://www.jqr5.com/product/show-92.html" target="_blank"><img src="http://www.jqr5.com/file/upload/201503/28/11-00-47-20-3.png"/>Cellrobot自由变形机器人</a></li>
+                                                                                                                <li><a href="http://www.jqr5.com/product/show-91.html" target="_blank"><img src="http://www.jqr5.com/file/upload/201503/28/10-48-21-95-3.jpg"/>有“幽默细胞”的EMIEW2机器人</a></li>
+                                                                                                                <li><a href="http://www.jqr5.com/product/show-90.html" target="_blank"><img src="http://www.jqr5.com/file/upload/201503/28/10-30-45-51-3.png"/>OutRunner跑步机器人</a></li>
+                                                                                                                                                                                                                                                                                        </ul>
+</div>
+<ul class="cont_340">
+                        <li><i>03-28</i><a href="http://www.jqr5.com/product/show-93.html" target="_blank">萌萌哒MOTi机器人</a></li>
+                                                <li><i>03-28</i><a href="http://www.jqr5.com/product/show-92.html" target="_blank">Cellrobot自由变形机器人</a></li>
+                                                <li><i>03-28</i><a href="http://www.jqr5.com/product/show-91.html" target="_blank">有“幽默细胞”的EMIEW2机器人</a></li>
+                                                <li><i>03-28</i><a href="http://www.jqr5.com/product/show-90.html" target="_blank">OutRunner跑步机器人</a></li>
+                                                <li><i>03-19</i><a href="http://www.jqr5.com/product/show-88.html" target="_blank">3D打印机器人Jimmy</a></li>
+                                                <li><i>03-19</i><a href="http://www.jqr5.com/product/show-87.html" target="_blank">世界最大杂耍机器人BugJuggler</a></li>
+                                                <li><i>03-19</i><a href="http://www.jqr5.com/product/show-85.html" target="_blank">SelfieBot飞行自拍机器人</a></li>
+                                                <li><i>03-19</i><a href="http://www.jqr5.com/product/show-84.html" target="_blank">亲子机器人小优</a></li>
+                        </ul>
+</div>
+<div class="ui-tabs-panel conNo">
+                <div class="img130">
+<ul>
+                                                        <li><a href="http://www.jqr5.com/product/show-133.html" target="_blank"><img src="http://www.jqr5.com/file/upload/201602/22/16-42-06-48-192.jpg"/>智能人形机器人优必选 阿尔法（Alpha） 1S</a></li>
+                                                                                                                <li><a href="http://www.jqr5.com/product/show-79.html" target="_blank"><img src="http://www.jqr5.com/file/upload/201503/11/15-57-07-64-3.jpg"/>智能机器人助理Jibo</a></li>
+                                                                                                                <li><a href="http://www.jqr5.com/product/show-69.html" target="_blank"><img src="http://www.jqr5.com/file/upload/201503/11/11-34-03-75-3.jpg"/>东芝高度仿真女性机器人</a></li>
+                                                                                                                <li><a href="http://www.jqr5.com/product/show-48.html" target="_blank"><img src="http://www.jqr5.com/file/upload/201502/12/15-30-10-27-3.jpg"/>智能儿童人型机器人iCub</a></li>
+                                                                                                                                                                                                                                                                                        </ul>
+</div>
+<ul class="cont_340">
+                        <li><i>02-22</i><a href="http://www.jqr5.com/product/show-133.html" target="_blank">智能人形机器人优必选 阿尔法（Alpha） 1S</a></li>
+                                                <li><i>03-11</i><a href="http://www.jqr5.com/product/show-79.html" target="_blank">智能机器人助理Jibo</a></li>
+                                                <li><i>03-11</i><a href="http://www.jqr5.com/product/show-69.html" target="_blank">东芝高度仿真女性机器人</a></li>
+                                                <li><i>02-12</i><a href="http://www.jqr5.com/product/show-48.html" target="_blank">智能儿童人型机器人iCub</a></li>
+                                                <li><i>02-12</i><a href="http://www.jqr5.com/product/show-47.html" target="_blank">robi智能机器人</a></li>
+                                                <li><i>02-12</i><a href="http://www.jqr5.com/product/show-44.html" target="_blank">HRP-4美女人型机器人</a></li>
+                                                <li><i>02-10</i><a href="http://www.jqr5.com/product/show-28.html" target="_blank">Asimo人型机器人</a></li>
+                                                <li><i>02-10</i><a href="http://www.jqr5.com/product/show-27.html" target="_blank">阿尔法智能人形机器人</a></li>
+                        </ul>
+</div>
+<div class="ui-tabs-panel conNo">
+                <div class="img130">
+<ul>
+                                                        <li><a href="http://www.jqr5.com/product/show-144.html" target="_blank"><img src="http://www.jqr5.com/file/upload/201611/22/16-43-51-96-246.jpg"/>微软VR头显</a></li>
+                                                                                                                <li><a href="http://www.jqr5.com/product/show-142.html" target="_blank"><img src="http://www.jqr5.com/file/upload/201610/27/10-27-00-68-246.png"/>小米VR眼镜正式版</a></li>
+                                                                                                                <li><a href="http://www.jqr5.com/product/show-139.html" target="_blank"><img src="http://www.jqr5.com/file/upload/201607/29/16-48-52-34-246.jpg"/>暴风魔镜 5代安卓 虚拟现实智能VR眼镜3D头盔</a></li>
+                                                                                                                <li><a href="http://www.jqr5.com/product/show-138.html" target="_blank"><img src="http://www.jqr5.com/file/upload/201604/23/16-05-47-22-192.jpg"/>暴风魔镜 4代IOS版 虚拟现实智能VR眼镜3D头盔</a></li>
+                                                                                                                                                                                                                                                                                        </ul>
+</div>
+<ul class="cont_340">
+                        <li><i>11-22</i><a href="http://www.jqr5.com/product/show-144.html" target="_blank">微软VR头显</a></li>
+                                                <li><i>10-27</i><a href="http://www.jqr5.com/product/show-142.html" target="_blank">小米VR眼镜正式版</a></li>
+                                                <li><i>07-29</i><a href="http://www.jqr5.com/product/show-139.html" target="_blank">暴风魔镜 5代安卓 虚拟现实智能VR眼镜3D头盔</a></li>
+                                                <li><i>04-23</i><a href="http://www.jqr5.com/product/show-138.html" target="_blank">暴风魔镜 4代IOS版 虚拟现实智能VR眼镜3D头盔</a></li>
+                                                <li><i>04-23</i><a href="http://www.jqr5.com/product/show-137.html" target="_blank">暴风魔镜4标准版Android</a></li>
+                                                <li><i>03-19</i><a href="http://www.jqr5.com/product/show-136.html" target="_blank">虚拟现实设备HTC Vive</a></li>
+                                                <li><i>03-19</i><a href="http://www.jqr5.com/product/show-135.html" target="_blank">索尼 PS VR售价仅399美元</a></li>
+                                                <li><i>02-12</i><a href="http://www.jqr5.com/product/show-42.html" target="_blank">sony虚拟眼镜Project Morpheus</a></li>
+                        </ul>
+</div>
+</div>
+</div>
+<!--机型搜索-->
+<div class="jx_search">
+<div class="tit660 tit">
+                 机器搜索
+</div>
+<div class="search404">
+<form action="product/search.php" target="_blank">
+<ul>
+<li class="">
+<label>类 型：</label>
+<select id="catid" name="catid">
+<option value="0">---请选择类型---</option>
+                                                        <option value="28">工业机器人</option>
+<option value="29">服务机器人</option>
+<option value="30">特种机器人</option>
+<option value="31">娱乐机器人</option>
+<option value="52">智能设备</option>
+<option value="53">智能机器人</option>
+<option value="67">无人机</option>
+</select>
+</li>
+<li class="">
+<label>用 途：</label>
+<select id="ppt_3"  name="ppt_3">
+<option value="">---请选择用途---</option>
+<option value="弧焊机器人">弧焊机器人</option>
+</select>
+</li>
+<li class="active">
+<label>品 牌：</label>
+<span id="selectc">
+<select id="brandid" name="brandid">
+<option value="">---请选择品牌---</option>
+<option value="11054">NJ4 90-2.2</option>
+</select>
+</span>
+</li>
+<input type="submit" value="搜索" class="sub">
+</ul>
+</form>
+<div class="img112">
+<ul>
+<li><a href="http://www.jqr5.com/product/list/28/" target="_blank"><img src="http://www.jqr5.com/skin/jiqiren/pic/gy.jpg"/>工业机器人</a></li>
+<li><a href="http://www.jqr5.com/product/list/53/" target="_blank"><img src="http://www.jqr5.com/skin/jiqiren/pic/zn.jpg"/>智能机器人</a></li>
+<li><a href="http://www.jqr5.com/product/list/52/" target="_blank"><img src="http://www.jqr5.com/skin/jiqiren/pic/cd.jpg"/>智能穿戴</a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<!--模块4-->
+<div class="box4">
+<!--产品应用-->
+<div class="cpyinyong">
+<div class="tit1100 tit">
+                <span><a href="http://www.jqr5.com/application/">+MORE</a></span>应用介绍
+</div>
+<!--资讯-->
+<div class="cp_yy">
+<div class="changeMenu">
+                <ul class="n1">
+<li><a href="http://www.jqr5.com/application/">推荐应用</a></li>
+<li class="on"><a href="http://www.jqr5.com/application/">最新应用</a></li>
+</ul>
+<span class="cp_nav">
+                                        <a href="http://www.jqr5.com/application/list/34/" target="_blank">金属加工</a>
+                    <a href="http://www.jqr5.com/application/list/35/" target="_blank">抛光打磨</a>
+                    <a href="http://www.jqr5.com/application/list/36/" target="_blank">清洗装配</a>
+                    <a href="http://www.jqr5.com/application/list/37/" target="_blank">切割焊接</a>
+                    <a href="http://www.jqr5.com/application/list/38/" target="_blank">喷涂涂胶</a>
+                    <a href="http://www.jqr5.com/application/list/39/" target="_blank">上料下料</a>
+                    <a href="http://www.jqr5.com/application/list/40/" target="_blank">码垛搬运</a>
+                    <a href="http://www.jqr5.com/application/list/41/" target="_blank">锻造冶炼</a>
+                    <a href="http://www.jqr5.com/application/list/42/" target="_blank">橡胶塑料</a>
+                    <a href="http://www.jqr5.com/application/list/43/" target="_blank">雕刻分拣</a>
+                    <a href="http://www.jqr5.com/application/list/44/" target="_blank">汽车配件</a>
+                    <a href="http://www.jqr5.com/application/list/45/" target="_blank">其他应用</a>
+                    </span>
+</div>
+<div class="ui-tabs-panel cp346 conNo">
+<ul>
+                                                                    <li><a href="http://www.jqr5.com/application/qgues/70.html"><img src="http://www.jqr5.com/file/upload/201503/18/10-32-29-58-3.jpg"/></a><span><a href="http://www.jqr5.com/application/qgues/70.html" target="_blank">轿底焊接工作站</a></span>
+<p>
+结合工厂现有条件，综合考虑焊接效率，此方案采用...<a href="http://www.jqr5.com/application/qgues/70.html" target="_blank">[详情]</a>
+</p>
+</li>
+                                                <li><a href="http://www.jqr5.com/application/qgues/66.html"><img src="http://www.jqr5.com/file/upload/201503/10/11-39-29-63-3.jpg"/></a><span><a href="http://www.jqr5.com/application/qgues/66.html" target="_blank">萨瓦尼尼出料自动化成形流水</a></span>
+<p>
+此流水线实现萨瓦尼尼出料后，对门板或轿壁成形所...<a href="http://www.jqr5.com/application/qgues/66.html" target="_blank">[详情]</a>
+</p>
+</li>
+                                                <li><a href="http://www.jqr5.com/application/qgues/61.html"><img src="http://www.jqr5.com/file/upload/201503/10/10-15-28-20-3.jpg"/></a><span><a href="http://www.jqr5.com/application/qgues/61.html" target="_blank">挖掘机结构件数字化焊接车间</a></span>
+<p>
+动臂、斗杆、底架、平台自动焊接·共计4条全自动生...<a href="http://www.jqr5.com/application/qgues/61.html" target="_blank">[详情]</a>
+</p>
+</li>
+                                                <li><a href="http://www.jqr5.com/application/mdues/59.html"><img src="http://www.jqr5.com/file/upload/201502/26/14-40-16-40-3.jpg"/></a><span><a href="http://www.jqr5.com/application/mdues/59.html" target="_blank">传送洗碗机机壳</a></span>
+<p>
+博世西门子家电有限公司(以下简称博西公司)在洗碗...<a href="http://www.jqr5.com/application/mdues/59.html" target="_blank">[详情]</a>
+</p>
+</li>
+                                                <li><a href="http://www.jqr5.com/application/mdues/56.html"><img src="http://www.jqr5.com/file/upload/201502/26/11-13-28-88-3.jpg"/></a><span><a href="http://www.jqr5.com/application/mdues/56.html" target="_blank">码垛机器人堆放纸箱</a></span>
+<p>
+纸箱机器人CD 纸箱制造股份公司是领先的生产化妆品...<a href="http://www.jqr5.com/application/mdues/56.html" target="_blank">[详情]</a>
+</p>
+</li>
+                                                <li><a href="http://www.jqr5.com/application/jsues/53.html"><img src="http://www.jqr5.com/file/upload/201502/14/14-14-27-84-3.jpg"/></a><span><a href="http://www.jqr5.com/application/jsues/53.html" target="_blank">机器人操作处理犁刀</a></span>
+<p>
+为在成型及调质设备的上游工位和工位之间操作处理...<a href="http://www.jqr5.com/application/jsues/53.html" target="_blank">[详情]</a>
+</p>
+</li>
+                        </ul>
+</div>
+<div class="ui-tabs-panel cp346">
+<ul>
+                                                <li><a href="http://www.jqr5.com/application/ssues/91.html"><img src="http://www.jqr5.com/file/upload/201607/30/10-11-55-47-230.jpg"/></a><span><a href="http://www.jqr5.com/application/ssues/91.html" target="_blank">上下料机器人特点、规格及应用</a></span>
+<p>
+上下料机器人属于工业机器人的一种。上下料机器人...<a href="http://www.jqr5.com/application/ssues/91.html" target="_blank">[详情]</a>
+</p>
+</li>
+                                                <li><a href="http://www.jqr5.com/application/dkues/90.html"><img src="http://www.jqr5.com/file/upload/201503/25/14-40-25-66-3.jpg"/></a><span><a href="http://www.jqr5.com/application/dkues/90.html" target="_blank">Delta机器人在食品包装自动化生产线上的应用</a></span>
+<p>
+Delta机器人属于高速、轻载的并联机器人，是典型的...<a href="http://www.jqr5.com/application/dkues/90.html" target="_blank">[详情]</a>
+</p>
+</li>
+                                                <li><a href="http://www.jqr5.com/application/xjues/89.html"><img src="http://www.jqr5.com/file/upload/201503/25/14-31-31-55-3.jpg"/></a><span><a href="http://www.jqr5.com/application/xjues/89.html" target="_blank">掌握握柄技术</a></span>
+<p>
+为完成所安排的任务，需要一种能从 8 格铸模中取出...<a href="http://www.jqr5.com/application/xjues/89.html" target="_blank">[详情]</a>
+</p>
+</li>
+                                                <li><a href="http://www.jqr5.com/application/xjues/88.html"><img src="http://www.jqr5.com/file/upload/201503/25/14-15-57-88-3.jpg"/></a><span><a href="http://www.jqr5.com/application/xjues/88.html" target="_blank">用六轴库卡机器人实现大规格工程设计板件的铣削自动化</a></span>
+<p>
+客户需要的解决方案为在一台能处理五轴 CNC 程序的...<a href="http://www.jqr5.com/application/xjues/88.html" target="_blank">[详情]</a>
+</p>
+</li>
+                                                <li><a href="http://www.jqr5.com/application/xjues/87.html"><img src="http://www.jqr5.com/file/upload/201503/25/14-06-59-44-3.jpg"/></a><span><a href="http://www.jqr5.com/application/xjues/87.html" target="_blank">精密产品“德国造”</a></span>
+<p>
+多年以来 Werner Bauser 有限公司为客户提供符合最...<a href="http://www.jqr5.com/application/xjues/87.html" target="_blank">[详情]</a>
+</p>
+</li>
+                                                <li><a href="http://www.jqr5.com/application/dzues/86.html"><img src="http://www.jqr5.com/file/upload/201503/25/11-20-18-42-3.jpg"/></a><span><a href="http://www.jqr5.com/application/dzues/86.html" target="_blank">从压铸机中取样</a></span>
+<p>
+在 Dynamit Nobel 公司内，铰接臂机器人逐渐的取代...<a href="http://www.jqr5.com/application/dzues/86.html" target="_blank">[详情]</a>
+</p>
+</li>
+                        </ul>
+</div>
+</div>
+</div>
+</div>
+<!--模块5-->
+<div class="box5">
+<!--产品视频-->
+<div class="cpshiping">
+<div class="tit1100 tit">
+                 <span><a href="http://www.jqr5.com/video/">+MORE</a></span>产品视频
+</div>
+<!--资讯-->
+<div class="cp_sp">
+<div class="changeMenu">
+                <ul class="n1 block">
+<li><a href="http://www.jqr5.com/video/">推荐视频</a></li>
+<li class="on"><a href="http://www.jqr5.com/video/">最新视频</a></li>
+</ul>
+</div>
+<div class="ui-tabs-panel cpsp1100 conNo">
+                                    <a href="http://www.jqr5.com/video/kjvideo/374.html" target="_blank" class="cp363">
+                    <img src="http://www.jqr5.com/file/upload/201603/11/11-54-02-91-192.jpg"/>
+                        <p class="bg"></p>
+<p class="tit">会跳舞的无人机你见过吗？</p>
+                        <em class="playicon"></em>
+                    </a>
+                                                            <a href="http://www.jqr5.com/video/kjvideo/372.html" target="_blank" class="cp220"><img src="http://www.jqr5.com/file/upload/201601/04/16-35-31-78-192.png"/>
+                    <p class="bg"></p>
+<p class="tit">波音777班机在着陆之后‘变形’成为机器人，急着跑去上厕所</p>
+                        <em class="playicon"></em>
+                    </a>
+                    <a href="http://www.jqr5.com/video/fwvideo/81.html" target="_blank" class="cp220"><img src="http://www.jqr5.com/file/upload/201503/30/16-55-16-47-34.png"/>
+                    <p class="bg"></p>
+<p class="tit">餐馆机器人</p>
+                        <em class="playicon"></em>
+                    </a>
+                    <a href="http://www.jqr5.com/video/kjvideo/80.html" target="_blank" class="cp220"><img src="http://www.jqr5.com/file/upload/201503/30/15-28-44-91-34.png"/>
+                    <p class="bg"></p>
+<p class="tit">美国发明3D隐形斗篷</p>
+                        <em class="playicon"></em>
+                    </a>
+                    <a href="http://www.jqr5.com/video/dyvideo/77.html" target="_blank" class="cp220"><img src="http://www.jqr5.com/file/upload/201503/27/16-52-53-14-34.png"/>
+                    <p class="bg"></p>
+<p class="tit">劲爆科幻微电影《搏击机器人》</p>
+                        <em class="playicon"></em>
+                    </a>
+                    <a href="http://www.jqr5.com/video/fwvideo/72.html" target="_blank" class="cp220"><img src="http://www.jqr5.com/file/upload/201503/26/16-43-14-66-34.png"/>
+                    <p class="bg"></p>
+<p class="tit">不用给小费 松下研发出洗头机器人</p>
+                        <em class="playicon"></em>
+                    </a>
+                    <a href="http://www.jqr5.com/video/dyvideo/68.html" target="_blank" class="cp220"><img src="http://www.jqr5.com/file/upload/201503/25/16-41-48-83-34.png"/>
+                    <p class="bg"></p>
+<p class="tit">2015慕尼黑展会宣传视频</p>
+                        <em class="playicon"></em>
+                    </a>
+                    </div>
+<div class="ui-tabs-panel cpsp1100">
+                                    <a href="http://www.jqr5.com/video/dyvideo/379.html" target="_blank" class="cp363">
+                    <img src="http://www.jqr5.com/file/upload/201602/16/16-50-42-20-192.jpg"/>
+                        <p class="bg"></p>
+<p class="tit">2016猴年春节机器人联欢晚会</p>
+                        <em class="playicon"></em>
+                    </a>
+                                        <a href="http://www.jqr5.com/video/ylvideo/390.html" target="_blank" class="cp220"><img src="http://www.jqr5.com/file/upload/201608/01/15-40-46-10-246.jpg"/>
+                    <p class="bg"></p>
+<p class="tit">小米VR新品预告视频</p>
+                        <em class="playicon"></em>
+                    </a>
+                    <a href="http://www.jqr5.com/video/fwvideo/389.html" target="_blank" class="cp220"><img src="http://www.jqr5.com/file/upload/201608/01/10-21-03-52-246.jpg"/>
+                    <p class="bg"></p>
+<p class="tit">机器人自杀事件视频 全球首例</p>
+                        <em class="playicon"></em>
+                    </a>
+                    <a href="http://www.jqr5.com/video/dyvideo/388.html" target="_blank" class="cp220"><img src="http://www.jqr5.com/file/upload/201608/01/10-04-46-41-246.jpg"/>
+                    <p class="bg"></p>
+<p class="tit">宝莱坞机器人之恋 电影高清版</p>
+                        <em class="playicon"></em>
+                    </a>
+                    <a href="http://www.jqr5.com/video/ylvideo/387.html" target="_blank" class="cp220"><img src="http://www.jqr5.com/file/upload/201603/24/17-01-52-35-192.jpg"/>
+                    <p class="bg"></p>
+<p class="tit">宝宝与阿尔法机器人的巅峰对决</p>
+                        <em class="playicon"></em>
+                    </a>
+                    <a href="http://www.jqr5.com/video/fwvideo/386.html" target="_blank" class="cp220"><img src="http://www.jqr5.com/file/upload/201603/24/16-54-11-79-192.jpg"/>
+                    <p class="bg"></p>
+<p class="tit">青少年用虚拟现实头盔玩《异形》整个人都傻了！</p>
+                        <em class="playicon"></em>
+                    </a>
+                    <a href="http://www.jqr5.com/video/fwvideo/385.html" target="_blank" class="cp220"><img src="http://www.jqr5.com/file/upload/201603/23/17-10-26-59-192.jpg"/>
+                    <p class="bg"></p>
+<p class="tit">智能机器人索菲亚</p>
+                        <em class="playicon"></em>
+                    </a>
+                    </div>
+</div>
+</div>
+</div>
+<!--模块6-->
+<div class="box6">
+<!--学习园地-->
+<div class="xuexyuandi">
+<div class="tit660 tit">
+                 <span><a href="http://www.jqr5.com/study/">+MORE</a></span>学习园地
+</div>
+<!--资讯-->
+<div class="xxyd">
+<div class="changeMenu">
+<ul class="n1">
+<li><a href="http://www.jqr5.com/study/">推荐教学</a></li>
+<li class="on"><a href="http://www.jqr5.com/study/">最新教学</a></li>
+</ul>
+                    <span class="study_nav">
+                                         <a href="http://www.jqr5.com/study/list/25/" target="_blank">学习园地</a>
+                    <a href="http://www.jqr5.com/study/list/26/" target="_blank">未来展望</a>
+                    <a href="http://www.jqr5.com/study/list/27/" target="_blank">行业探讨</a>
+                                        <a href="http://www.jqr5.com/video/list/20/" target="_blank">机器人教学</a>
+</span>
+</div>
+<div class="ui-tabs-panel conNo">
+                <div class="img270">
+                                                                    <a href="http://www.jqr5.com/study/ydstudy/231.html" target="_blank"><img src="http://www.jqr5.com/file/upload/201701/11/14-32-33-81-246.jpg"/>【科普】真正意义上的人工智能是什么？</a>
+                                                </div>
+<ul class="xxyd_340">
+                                                                                                                                        <li><i>02-28</i><a href="http://www.jqr5.com/study/wlstudy/257.html" target="_blank">人工智能越来越近，将改变我们的未来生活</a></li>
+                                                                                                <li><i>02-18</i><a href="http://www.jqr5.com/study/ydstudy/256.html" target="_blank">工业机器人坐标系是什么？坐标系包含哪些？</a></li>
+                                                                                                <li><i>02-16</i><a href="http://www.jqr5.com/study/ydstudy/255.html" target="_blank">机器人上下料工作站原理介绍，工业机器人自动生产线工作站</a></li>
+                                                                                                <li><i>02-15</i><a href="http://www.jqr5.com/study/hystudy/254.html" target="_blank">机器人不会让我们失业，目前水平还远远达不到完全替代人类</a></li>
+                                                                                                <li><i>01-24</i><a href="http://www.jqr5.com/study/ydstudy/253.html" target="_blank">最值得关注的100家人工智能公司，看看有没有你认识的？</a></li>
+                                                                                                <li><i>01-24</i><a href="http://www.jqr5.com/study/ydstudy/252.html" target="_blank">机器人发展历史：看看机器人的前世今生</a></li>
+                                                                                                <li><i>01-18</i><a href="http://www.jqr5.com/study/ydstudy/251.html" target="_blank">玩VR游戏需要什么条件？VR眼镜需要什么条件才能玩游戏？</a></li>
+                                                                                                <li><i>01-18</i><a href="http://www.jqr5.com/study/wlstudy/250.html" target="_blank">无人机的发展前景怎么样？</a></li>
+                                                                                                <li><i>01-13</i><a href="http://www.jqr5.com/study/wlstudy/249.html" target="_blank">未来人工智能机器人真会屠杀人类吗？</a></li>
+                                                </ul>
+</div>
+<div class="ui-tabs-panel">
+                <div class="img270">
+                                                <a href="http://www.jqr5.com/study/wlstudy/16.html" target="_blank"><img src="http://www.jqr5.com/file/upload/201502/07/10-21-37-81-3.jpg"/>谁在勇踏中国人工智能的前人未至之境?</a>
+                                                </div>
+<ul class="xxyd_340">
+                                                                                                                    <li><i>07-15</i><a href="http://www.jqr5.com/study/ydstudy/114.html" target="_blank">服务机器人的现状及其发展趋势</a></li>
+                                                                                                <li><i>07-15</i><a href="http://www.jqr5.com/study/ydstudy/115.html" target="_blank">焊接机器人研究及应用现状</a></li>
+                                                                                                <li><i>07-06</i><a href="http://www.jqr5.com/study/ydstudy/103.html" target="_blank">无人机遥感技术</a></li>
+                                                                                                <li><i>01-30</i><a href="http://www.jqr5.com/study/wlstudy/16.html" target="_blank">谁在勇踏中国人工智能的前人未至之境?</a></li>
+                                                                                                <li><i>03-21</i><a href="http://www.jqr5.com/study/wlstudy/52.html" target="_blank">未来可私人订制机器人 大白将成为你的私人管家</a></li>
+                                                                                                <li><i>07-06</i><a href="http://www.jqr5.com/study/ydstudy/104.html" target="_blank">农业机器人的应用与发展现状</a></li>
+                                                                                                <li><i>01-18</i><a href="http://www.jqr5.com/study/ydstudy/145.html" target="_blank">解析2016年中国制造业的四个发展方向</a></li>
+                                                                                                <li><i>01-05</i><a href="http://www.jqr5.com/study/wlstudy/20.html" target="_blank">未来把自己变成机器人你做好准备了吗?</a></li>
+                                                                                                <li><i>04-22</i><a href="http://www.jqr5.com/study/ydstudy/221.html" target="_blank">服务机器人的六大关键技术</a></li>
+                                                                                                <li><i>01-28</i><a href="http://www.jqr5.com/study/ydstudy/162.html" target="_blank">人工智能的“智商”分六个等级</a></li>
+                                                </ul>
+</div>
+</div>
+</div>
+<!--排行榜-->
+<div class="paihang">
+<div class="tit660 tit">
+                 排行榜
+</div>
+<!--资讯-->
+<div class="ph10">
+<div class="changeMenu">
+<ul class="n1">
+<li class="on"><a href="http://www.jqr5.com/study/">月排行</a></li>
+<li><a href="http://www.jqr5.com/study/">总排行</a></li>
+</ul>
+</div>
+<div class="ui-tabs-panel">
+<ul class="ph10_340">
+                                                                                        <li><i>02-16</i><em class="col">1</em><a href="http://www.jqr5.com/study/ydstudy/255.html" target="_blank">机器人上下料工作站原理介绍，工业机器人自动生产线工作站</a></li>
+                                                <li><i>02-15</i><em class="col">2</em><a href="http://www.jqr5.com/study/hystudy/254.html" target="_blank">机器人不会让我们失业，目前水平还远远达不到完全替代人类</a></li>
+                                                <li><i>02-28</i><em class="col">3</em><a href="http://www.jqr5.com/study/wlstudy/257.html" target="_blank">人工智能越来越近，将改变我们的未来生活</a></li>
+                                                <li><i>02-18</i><em >4</em><a href="http://www.jqr5.com/study/ydstudy/256.html" target="_blank">工业机器人坐标系是什么？坐标系包含哪些？</a></li>
+                                                <li><i>03-03</i><em >5</em><a href="http://www.jqr5.com/study/hystudy/258.html" target="_blank">这不是危言耸听，机器人抢走人类工作会让贫富差距拉大</a></li>
+                        </ul>
+</div>
+<div class="ui-tabs-panel conNo">
+<ul class="ph10_340">
+                                                                    <li><i>01-29</i><em class="col">1</em><a href="http://www.jqr5.com/study/wlstudy/2.html" target="_blank">未来几年将脱颖而出的优秀机器人企业</a></li>
+                                                <li><i>07-15</i><em class="col">2</em><a href="http://www.jqr5.com/study/ydstudy/114.html" target="_blank">服务机器人的现状及其发展趋势</a></li>
+                                                <li><i>07-15</i><em class="col">3</em><a href="http://www.jqr5.com/study/ydstudy/115.html" target="_blank">焊接机器人研究及应用现状</a></li>
+                                                <li><i>07-06</i><em >4</em><a href="http://www.jqr5.com/study/ydstudy/103.html" target="_blank">无人机遥感技术</a></li>
+                                                <li><i>01-30</i><em >5</em><a href="http://www.jqr5.com/study/wlstudy/16.html" target="_blank">谁在勇踏中国人工智能的前人未至之境?</a></li>
+                                                <li><i>03-21</i><em >6</em><a href="http://www.jqr5.com/study/wlstudy/52.html" target="_blank">未来可私人订制机器人 大白将成为你的私人管家</a></li>
+                                                <li><i>07-06</i><em >7</em><a href="http://www.jqr5.com/study/ydstudy/104.html" target="_blank">农业机器人的应用与发展现状</a></li>
+                                                <li><i>01-18</i><em >8</em><a href="http://www.jqr5.com/study/ydstudy/145.html" target="_blank">解析2016年中国制造业的四个发展方向</a></li>
+                                                <li><i>01-05</i><em >9</em><a href="http://www.jqr5.com/study/wlstudy/20.html" target="_blank">未来把自己变成机器人你做好准备了吗?</a></li>
+                                                <li><i>04-22</i><em >10</em><a href="http://www.jqr5.com/study/ydstudy/221.html" target="_blank">服务机器人的六大关键技术</a></li>
+                        </ul>
+</div>
+</div>
+</div>
+</div>
+<!--模块7-->
+<div class="box7">
+<!--产品视频-->
+<div class="cptuku">
+<div class="tit1100 tit">
+                <span><a href="http://www.jqr5.com/photo/">+MORE</a></span>产品图库
+</div>
+<!--资讯-->
+<div class="cp_tuku">
+<div class="changeMenu">
+<ul class="n1">
+<li><a href="http://www.jqr5.com/photo/">推荐图库</a></li>
+<li class="on"><a href="http://www.jqr5.com/photo/">最新图库</a></li>
+</ul>
+</div>
+<div class="ui-tabs-panel cptuku1100 conNo">
+                                                        <a href="http://www.jqr5.com/photo/tzpic/130.html" target="_blank" class="cp363"><img src="http://www.jqr5.com/file/upload/201603/07/14-04-01-24-192.jpg"/>
+                    <p class="bg"></p>
+<p class="tit">无人机大疆精灵4</p>
+                    </a>
+                    
+                                                            <a href="http://www.jqr5.com/photo/gypic/44.html" target="_blank" class="cp220"><img src="http://www.jqr5.com/file/upload/201503/21/14-05-13-15-34.jpg"/>
+                    <p class="bg"></p>
+<p class="tit">搬运机器人“Ray”将为奥迪进行一场新鲜革命</p>
+                    </a>
+                                        <a href="http://www.jqr5.com/photo/hypic/43.html" target="_blank" class="cp220"><img src="http://www.jqr5.com/file/upload/201503/20/14-51-29-51-34.jpg"/>
+                    <p class="bg"></p>
+<p class="tit">起亚汽车生产过程</p>
+                    </a>
+                                        <a href="http://www.jqr5.com/photo/tzpic/42.html" target="_blank" class="cp220"><img src="http://www.jqr5.com/file/upload/201503/19/15-48-32-27-34.jpg"/>
+                    <p class="bg"></p>
+<p class="tit">四足魔爪军用机器人</p>
+                    </a>
+                                        <a href="http://www.jqr5.com/photo/hypic/41.html" target="_blank" class="cp220"><img src="http://www.jqr5.com/file/upload/201503/19/10-51-55-28-34.jpg"/>
+                    <p class="bg"></p>
+<p class="tit">发那科机器人，工业机器人的巨人。</p>
+                    </a>
+                                        <a href="http://www.jqr5.com/photo/tzpic/21.html" target="_blank" class="cp220"><img src="http://www.jqr5.com/file/upload/201001/06/08-33-47-58-3.jpg"/>
+                    <p class="bg"></p>
+<p class="tit">我国各式各样的智能排爆机器人</p>
+                    </a>
+                                        <a href="http://www.jqr5.com/photo/gypic/19.html" target="_blank" class="cp220"><img src="http://www.jqr5.com/file/upload/201001/06/07-53-11-87-3.jpg"/>
+                    <p class="bg"></p>
+<p class="tit">工业生产机器人全自动化</p>
+                    </a>
+                    </div>
+<div class="ui-tabs-panel cptuku1100">
+                
+                                        <a href="http://www.jqr5.com/photo/fwpic/131.html" target="_blank" class="cp363"><img src="http://www.jqr5.com/file/upload/201603/19/11-14-56-56-192.jpg"/>
+                    <p class="bg"></p>
+<p class="tit">索尼 PS VR售价仅399美元</p>
+                    </a>
+                                                                                <a href="http://www.jqr5.com/photo/fwpic/132.html" target="_blank" class="cp220"><img src="http://www.jqr5.com/file/upload/201603/19/14-16-20-31-192.jpg"/>
+                    <p class="bg"></p>
+<p class="tit">虚拟现实设备HTC Vive</p>
+                    </a>
+                                        <a href="http://www.jqr5.com/photo/fwpic/131.html" target="_blank" class="cp220"><img src="http://www.jqr5.com/file/upload/201603/19/11-13-16-12-192.jpg"/>
+                    <p class="bg"></p>
+<p class="tit">索尼 PS VR售价仅399美元</p>
+                    </a>
+                                        <a href="http://www.jqr5.com/photo/tzpic/130.html" target="_blank" class="cp220"><img src="http://www.jqr5.com/file/upload/201603/07/14-02-39-77-192.jpg"/>
+                    <p class="bg"></p>
+<p class="tit">无人机大疆精灵4</p>
+                    </a>
+                                        <a href="http://www.jqr5.com/photo/ylpic/129.html" target="_blank" class="cp220"><img src="http://www.jqr5.com/file/upload/201602/22/16-43-54-72-192.jpg"/>
+                    <p class="bg"></p>
+<p class="tit">智能人形机器人优必选 阿尔法（Alpha） 1S</p>
+                    </a>
+                                        <a href="http://www.jqr5.com/photo/tzpic/128.html" target="_blank" class="cp220"><img src="http://www.jqr5.com/file/upload/201602/20/15-58-32-87-192.jpg"/>
+                    <p class="bg"></p>
+<p class="tit">四旋翼迷你无人机 Axis VIDIUS</p>
+                    </a>
+                                        <a href="http://www.jqr5.com/photo/tzpic/127.html" target="_blank" class="cp220"><img src="http://www.jqr5.com/file/upload/201602/20/15-49-36-55-192.jpg"/>
+                    <p class="bg"></p>
+<p class="tit">仿生小鸟无人机bionicbird</p>
+                    </a>
+                    </div>
+</div>
+</div>
+</div>
+</div>
+<!--友情链接-->
+<div class="link">
+<div class="bt">
+友情链接
+</div>
+<p class="homelinks">
+                     <a target="_blank" href="http://www.jqr5.com/">机器人</a>
+                <a target="_blank" href="http://www.juxia.com/">聚侠网页游戏</a>
+                <a target="_blank" href="http://www.gezila.com/">格子啦下载</a>
+                <a target="_blank" href="http://www.2cto.com">红黑联盟</a>
+                <a target="_blank" href="http://www.3234.com">3234游戏网</a>
+                <a target="_blank" href="http://www.45575.com/">45575小游戏</a>
+                <a target="_blank" href="http://www.2280.com">周公解梦</a>
+                <a target="_blank" href="http://www.jqr5.com/">中国机器人网</a>
+                <a target="_blank" href="http://robot.jiameng.com/">机器人加盟</a>
+                <a target="_blank" href="http://www.adhjn.com/">节电器</a>
+                <a target="_blank" href="http://www.globalrobot.com.cn/">全球机器人网</a>
+                <a target="_blank" href="http://www.6681.com/">养生</a>
+                <a target="_blank" href="http://www.duanwenxue.com/">短文学</a>
+                <a target="_blank" href="http://www.99zuowen.com/">初中作文</a>
+                <a target="_blank" href="http://www.easyzw.com/">小学作文</a>
+                <a target="_blank" href="http://www.jqr5.com/know/">问答平台</a>
+                <a target="_blank" href="http://www.lmwa.net/">防腐涂料</a>
+                <a target="_blank" href="http://www.qookar.com">库咔3D模型</a>
+                <a target="_blank" href="http://www.robots-cn.com/">焊接机器人</a>
+                <a target="_blank" href="http://www.zhe131.com/">9.9包邮</a>
+                <a target="_blank" href="http://www.robots-edu.com/">工业机器人培训</a>
+                <a target="_blank" href="http://www.chinawenwang.com/">中文网</a>
+                <a target="_blank" href="http://www.robotsbase.com/">机器人基地</a>
+                <a target="_blank" href="http://www.jiqirenku.com/">机器人库</a>
+                <a target="_blank" href="http://www.2cto.com/os/201601/456255.html">win7激活工具</a>
+                <a target="_blank" href="http://www.xzlrobot.com/">新战略机器人网</a>
+                <a target="_blank" href="http://www.i-so.cn">agv小车厂家</a>
+                <a target="_blank" href="http://www.jqr365.cn/">机器人365</a>
+                <a target="_blank" href="http://www.2cto.com/special/xiaomajihuogongju/">小马激活工具</a>
+                <a target="_blank" href="http://www.4493.com/">4493美图</a>
+                <a target="_blank" href="http://bizhi.4493.com/">壁纸大全</a>
+                <a target="_blank" href="http://www.wmpic.me/">唯美图片</a>
+                <a target="_blank" href="http://www.haotijin.com/">好提劲笑话</a>
+                <a target="_blank" href="http://www.77l.com/">齐齐乐手游网</a>
+                <a target="_blank" href="http://www.2cto.com/tag/jisuanji.html">计算机</a>
+                <a target="_blank" href="http://www.2cto.com/tag/">红黑联盟标签</a>
+                <a target="_blank" href="http://www.szjawest.com">收银机</a>
+        </p>
+</div>
+<div class="footer">
+<p>
+<a href="http://www.jqr5.com/" target="_blank">机器人</a><em>|</em><a href="http://www.jqr5.com/product/list/52/" target="_blank">智能设备</a><em>|</em><a href="http://www.jqr5.com/product/list/28/" target="_blank">工业机器人</a><em>|</em><a href="http://www.jqr5.com/know/" target="_blank">问答平台</a><em>|</em><a href="http://www.jqr5.com/product/list/53/" target="_blank">智能机器人</a><em>|</em><a href="http://www.jqr5.com/about/bqsm.html" rel="nofollow" target="_blank">版权声明</a><em>|</em><a href="http://www.jqr5.com/about/mzsm.html" rel="nofollow" target="_blank">免责声明</a><em>|</em><a href="http://www.jqr5.com/sitemap/" target="_blank">网站地图</a><br>
+ICP证：赣B2-20150090 <strong><a href="http://www.jqr5.com/">中国机器人网</a></strong>是机器人科技领域网络传媒的先行者，提供全方位资讯与互动服务!-<br>
+<a target="_blank"  rel="nofollow" href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=36110202000053"><img src="http://www.beian.gov.cn/img/ghs.png" class="ga" />赣公网安备 36110202000053号</a> ©2013 机器人网(www.jqr5.com). 赣ICP备12001941号-23  合作洽谈：<img src="http://www.jqr5.com/file/image/97653784_white.png" style="display:inline-block;">
+</p>
+</div>
+<div class="hide"><script type="text/javascript" src="http://www.jqr5.com/js/baidu_js_push.js"></script></div>
+<div class="hide"><script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_1254188765'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "w.cnzz.com/c.php%3Fid%3D1254188765%26l%3D3' type='text/javascript'%3E%3C/script%3E"));</script></div>
+<div class="hide">
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "//hm.baidu.com/hm.js?788a1b54f3d9da4fcb2f714ddcf5891a";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+</div>
+<div class="hide"><script type="text/javascript" src="http://www.jqr5.com/js/tongji.js"></script></div>
+<!--------------弹出框pop:登录注册------------------->
+<div class="popobox" id="pop-login" style="display:none;">
+<div class="pop">
+<h2 class="pop-titline"><span class="pop-close" onclick="closepop('#pop-login');">&nbsp;</span><span class="pop-tit">登录</span></h2>
+    <div class="pop-mainer">
+        <div class="popformbox enterpop">
+            <div class="cell">
+                <span>用&nbsp;户&nbsp;名：</span>
+                <input type="text" class="textcell" id="usernamelogin3" name="username" placeholder="用户名/邮箱/手机号" autocomplete="off"  value="" />
+            </div>
+            <div class="cell">
+                <span>密&nbsp;&nbsp;&nbsp;&nbsp;码：</span>
+                <input type="password" class="textcell" id="passwordlogin3" name="password" value="" />
+            </div>
+           
+            <div class="cell remembercell">
+                <span><input type="checkbox" name="remember" value="1" />记住密码</span>
+                <a href="/member/register.php" rel="nofollow">免费注册</a>
+                <a href="javascript:;" rel="nofollow">忘记密码？</a>
+            </div>
+             
+            <input type='hidden' name='frm' value='pop'/>
+            <p class="errortip" id="login3_error"></p>
+            <div class="popsubbtn"><input type="button" data='login3' class="sub-btn loginsubmit" value="登录" /></div>
+            
+            <div class="logcell">
+                <span>快捷登入：</span>
+                <a href="http://www.jqr5.com/api/oauth/qq/connect.php" class="qqlogin" title="QQ登录" rel="nofollow"></a>
+                <a href="http://www.jqr5.com/api/oauth/sina/connect.php" class="weibologin" title="新浪微博" rel="nofollow"></a>
+            </div>
+        </div>
+        
+    </div>
+    <!--pop-mainer:end-->
+</div>
+<div class="popbg"></div>
+</div>
+<!--------------弹出框pop:登录注册------------------->
+<script type="text/javascript">
+var destoon_userid = 0;
+var destoon_username = '';
+var destoon_message = 0;
+var destoon_chat = 0;
+var destoon_cart = substr_count(get_cookie('cart'), ',');
+var destoon_member = '';
+var oauth_site = '';
+var oauth_user = '';
+//destoon_member += (oauth_user && oauth_site) ? '<img src="http://www.jqr5.com/api/oauth/'+oauth_site+'/ico.png" align="absmiddle"/> 欢迎，<strong>'+oauth_user+'</strong> | <a href="http://www.jqr5.com/api/oauth/'+oauth_site+'/index.php?time=1489605503">绑定帐号</a> | <a href="javascript:" onclick="oauth_logout();">注销登录</a>' : '欢迎，<span class="f_red">客人</span> | <a href="http://www.jqr5.com/member/login.php">请登录</a> | <a href="http://www.jqr5.com/member/register.php">免费注册</a> | <a href="http://www.jqr5.com/member/send.php">忘记密码?</a>';
+    destoon_member += '<div class="left_login"><a href="javascript:openpop(\'#pop-login\');" class="log">登录</a><a href="http://www.jqr5.com/api/oauth/qq/connect.php" class="qqlogin" title="QQ登录"></a><a href="http://www.jqr5.com/api/oauth/sina/connect.php" class="weibologin" title="新浪微博"></a><a href="http://www.jqr5.com/member/register.php" class="reg">免费注册</a></div>';
+$('#destoon_member').html(destoon_member);
+$(function(){$("img").lazyload();});</script>
+<!--------------百度------------------->
+<script>
+(function(){
+    var bp = document.createElement('script');
+    var curProtocol = window.location.protocol.split(':')[0];
+    if (curProtocol === 'https') {
+        bp.src = 'https://zz.bdstatic.com/linksubmit/push.js';        
+    }
+    else {
+        bp.src = 'http://push.zhanzhang.baidu.com/push.js';
+    }
+    var s = document.getElementsByTagName("script")[0];
+    s.parentNode.insertBefore(bp, s);
+})();
+</script></body>
+</html>

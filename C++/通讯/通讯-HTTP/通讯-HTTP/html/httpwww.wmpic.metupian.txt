@@ -1,0 +1,826 @@
+HTTP/1.1 200 OK
+Server: DnionOS/1.11.2.2
+Date: Mon, 27 Mar 2017 07:14:40 GMT
+Content-Type: text/html; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: close
+Vary: Accept-Encoding
+X-Powered-By: PHP/5.6.30
+Set-Cookie: PHPSESSID=92m37ur9eg2idevqu4vdu08mp5; path=/
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Age: 281
+Via: CT-CNC-ZJFY-P-6-103 (DLC-3.0), CT-ZJQZ-C-128-213 (DLC-3.0)
+Server-Info: DnionATS
+
+1ae7
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="mobile-agent" content="format=html5;url=http://m.wmpic.me/tupian" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="applicable-device" content="pc">
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" />
+<meta http-equiv="Cache-Control" content="no-siteapp" />
+<meta http-equiv="Cache-Control" content="no-transform" />
+<title>图片_美图_唯美图片_小清新图片_美女、意境、搞笑_图片吧</title>
+<meta name="description" content="唯美图片每日分享最新的唯美图片,小清新,意境,美女和各种最新好看的唯美图片！" />
+<script src="http://static.wmpic.me/www/js/jquery_v1.6.1.min.js"></script>
+<script src="http://static.wmpic.me/www/js/js.js"></script>
+<script type="text/javascript">var isShield = false;</script>
+<script type="text/javascript" src="http://static.wmpic.me/www/replace_ab/js/adview_pic_cpc_cpm_cpa_guanggao_gg_ads_300x250.js"></script>
+<link rel="stylesheet" href="http://static.wmpic.me/www/themes/wmp/style_new.css?v1" type="text/css"/>
+<link rel="shortcut icon" href="/favicon.ico">
+<link rel="canonical" href="/tupian" />
+<script type="text/javascript" src="http://cbjs.baidu.com/js/m.js"></script>
+<script type="text/javascript" src="http://static.wmpic.me/www/js/gg.js"></script>
+</head>
+<body>
+<div id="topbar">
+    <div class="inner">
+        <ul id="jsddm" class="menu">
+            <li><a href="/">首页</a></li>
+            <li><a href="/groups">专辑</a></li>
+            <li><a href="/tags">热门标签</a></li>
+            <li><a href="/hot">随机美图</a></li>
+            <li><a href="/fm">唯美FM</a></li>
+        </ul>
+    </div>
+</div>
+<div id="dh">
+    <div class="inner">
+        <div class="nav-logo"><a href="/">唯美图片</a></div>
+        <div class="nav-items">
+            <ul>
+                <li class="cat-item cat-item-413">
+                    <a href="/tupian" title="美图_唯美图片_小清新图片_美女、意境、搞笑_图片吧">图片</a>
+                </li>
+                <li class="cat-item cat-item-1509">
+                    <a href="/meinv" title="清纯唯美_性感美女写真_日本美女_韩国美女_乌克兰美女_泰国美女_俄罗斯美女_印度美女街拍">美女</a>
+                </li>
+                <li class="cat-item cat-item-1509">
+                    <a href="/shishang" title="时尚吧_唯美时尚图片_时尚服装搭配_时尚彩妆_时尚街拍_韩流时尚_欧美时尚">时尚</a>
+                </li>
+                <li class="cat-item cat-item-1509">
+                    <a href="/video" title="微电影_小清新视频_流行视频_杯具傻缺">视频</a>
+                </li>
+                <li class="cat-item cat-item-7">
+                    <a href="/wenzi" title="文字吧_优美文字_原创文字_心情文字">文字</a>
+                </li>
+                <li class="cat-item cat-item-6">
+                    <a href="/wallpaper" title="唯美壁纸_小清新壁纸_手机电脑壁纸">壁纸</a>
+                </li>
+                <li class="cat-item cat-item-5">
+                    <a href="/touxiang" title="头像吧_女生头像_男生头像_欧美头像_唯美头像_小清新头像_情侣头像">头像</a>
+                </li>
+                <li>
+                    <a href="http://www.haotijin.com/?wm" target=" _blank">搞笑图片</a>
+                </li>
+            </ul>
+            <div class="new"></div>
+        </div>
+        <div class="nav-search">
+        <form class="search" method="get" id="searchform" action="/">
+            <input type="text" name="s" class="search-input" onblur="if(this.value==''){this.value='搜索美图...';}" onfocus="if(this.value=='搜索美图...'){this.value='';}" value="搜索美图...">
+            <input type="submit" value="" class="search-submit">
+        </form>
+        </div>
+    </div>
+</div>
+<div id="container">
+    <div class="page-cat-new">
+        <div class="topgg">
+        <div class="adv988">
+        	<script type="text/javascript">Meitu_A_D('mt_pc_1');</script>
+        </div>
+        </div>
+        <ul>
+            <li>
+                <a href="/tupian/wmpic"><img src="http://static.wmpic.me/www/themes/wmp/images/new/wm-p1.jpg"></a>
+                <div class="tp_t">唯美图片</div>
+            </li>
+            <li>
+                <a href="/tupian/qingxin"><img src="http://static.wmpic.me/www/themes/wmp/images/new/wm-p2.jpg"></a>
+                <div class="tp_t">小清新图片</div>
+            </li>
+            <li>
+                <a href="/tupian/sheying"><img src="http://static.wmpic.me/www/themes/wmp/images/new/wm-p3.jpg"></a>
+                <div class="tp_t">唯美摄影</div>
+            </li>
+            <li>
+                <a href="/tupian/funny"><img src="http://static.wmpic.me/www/themes/wmp/images/new/wm-p4.jpg"></a>
+                <div class="tp_t">搞笑图片</div>
+            </li>
+            <li>
+                <a href="/tupian/mingxing"><img src="http://static.wmpic.me/www/themes/wmp/images/new/wm-p5.jpg"></a>
+                <div class="tp_t">明星图片</div>
+            </li>
+            <li>
+                <a href="/meinv"><img src="http://static.wmpic.me/www/themes/wmp/images/new/wm-p6.jpg"></a>
+                <div class="tp_t">美女图片</div>
+            </li>
+            <li>
+                <a href="/tupian/cute"><img src="http://static.wmpic.me/www/themes/wmp/images/new/wm-p7.jpg"></a>
+                <div class="tp_t">可爱图片</div>
+            </li>
+        </ul>
+    </div>
+</div><div id="container" class="wm-page inner">
+	<div class="cat-list">
+		<div  class="banner"><img src="http://static.wmpic.me/www/themes/wmp/images/wm-banner.jpg"></div>
+	</div>
+    <div class="tp_list tp_title">
+    	<h2><a href="/tupian/wmpic">唯美图片</a></h2>
+        <div class="tp_list_l">
+            <ul>
+									<li>
+						<a target="_blank" href="/85372">
+							<img width="215" height="185" src="http://p1.wmpic.me/article/2017/03/27/1490585712_louDNGMe_215x185.jpg" class="attachment-thumbnail-215x185 wp-post-image" />
+						</a>
+						<div class="tp_t">
+							<a target="_blank" href="/85372">
+								辣眼睛的山茶花花海唯美图片							</a>
+						</div>
+					</li>
+									<li>
+						<a target="_blank" href="/85350">
+							<img width="215" height="185" src="http://p3.wmpic.me/article/2017/03/25/1490426153_BWieiqzw_215x185.jpg" class="attachment-thumbnail-215x185 wp-post-image" />
+						</a>
+						<div class="tp_t">
+							<a target="_blank" href="/85350">
+								岁月静好意境唯美花卉图片							</a>
+						</div>
+					</li>
+									<li>
+						<a target=
+b5c
+"_blank" href="/85336">
+							<img width="215" height="185" src="http://p1.wmpic.me/article/2017/03/25/1490413659_AueNCaqO_215x185.jpg" class="attachment-thumbnail-215x185 wp-post-image" />
+						</a>
+						<div class="tp_t">
+							<a target="_blank" href="/85336">
+								意境伤感朦胧女生唯美图片							</a>
+						</div>
+					</li>
+									<li>
+						<a target="_blank" href="/85335">
+							<img width="215" height="185" src="http://p1.wmpic.me/article/2017/03/25/1490413440_GeSYeVOV_215x185.jpg" class="attachment-thumbnail-215x185 wp-post-image" />
+						</a>
+						<div class="tp_t">
+							<a target="_blank" href="/85335">
+								下午茶咖啡厅意境唯美图片							</a>
+						</div>
+					</li>
+									<li>
+						<a target="_blank" href="/85304">
+							<img width="215" height="185" src="http://p2.wmpic.me/article/2017/03/24/1490334547_VeVLcxFH_215x185.jpg" class="attachment-thumbnail-215x185 wp-post-image" />
+						</a>
+						<div class="tp_t">
+							<a target="_blank" href="/85304">
+								微信聊天背景唯美景图片							</a>
+						</div>
+					</li>
+									<li>
+						<a target="_blank" href="/85294">
+							<img width="215" height="185" src="http://p2.wmpic.me/article/2017/03/24/1490324794_YrtqcFGA_215x185.jpg" class="attachment-thumbnail-215x185 wp-post-image" />
+						</a>
+						<div class="tp_t">
+							<a target="_blank" href="/85294">
+								火车站分别伤感女生唯美图片							</a>
+						</div>
+					</li>
+				            </ul>
+        </div>
+        <div class="tp_list_r">
+        	<a href="/tupian/wmpic"><img src="http://static.wmpic.me/www/themes/wmp/images/wm-1.jpg" /></a>
+        </div>
+    </div><!--part1 end-->
+	<!-- ### -->
+    <div class="xqxtp">
+    	<h2><a href="/tupian/qingxin">小清新图片</a></h2>
+        <div class="xqxtp_l">
+			<ul>
+													<li>
+						<div class="meta_pic">
+						<a target="_blank" href="/85377">
+						<img width="215" height="185" src="http://p1.wmpic.me/article/2017/03/27/1490593812_tlCorHjK_215x185.jpg" class="attachment-thumbnail-215x185 wp-post-image"/>
+						</a>
+						</div>
+						
+						<div class="tp_t">
+						<a target="_blank" href="/85377">
+							优美可爱的唯美小清新图片						</a>
+						</div>
+					</li>
+									<li>
+						<div class="meta_pic">
+						<a target="_blank" href="/85373">
+						<img width="215" height="185" src="http://p2.wmpic.me/article/2017/03/27/1490586424_jSRrOUln_215x185.jpg" class="attachment-thumbnail-215x185 wp-post-image"/>
+						</a>
+						</div>
+						
+						<div class="tp_t">
+						<a target="_blank" href="/85373">
+							唯美背景小清新高清图片						</a>
+						</div>
+					</li>
+									<li>
+						<div class="meta_pic">
+						<a target="_blank" href="/85347">
+						<img width="215" height="185" src="http://p3.wmpic.me/article/2017/
+1128
+03/25/1490424143_KsVRrJlU_215x185.jpg" class="attachment-thumbnail-215x185 wp-post-image"/>
+						</a>
+						</div>
+						
+						<div class="tp_t">
+						<a target="_blank" href="/85347">
+							每一个人的生命都有所不同  唯美小清新图片						</a>
+						</div>
+					</li>
+									<li>
+						<div class="meta_pic">
+						<a target="_blank" href="/85330">
+						<img width="215" height="185" src="http://p2.wmpic.me/article/2017/03/25/1490410690_DzAvgGMj_215x185.jpg" class="attachment-thumbnail-215x185 wp-post-image"/>
+						</a>
+						</div>
+						
+						<div class="tp_t">
+						<a target="_blank" href="/85330">
+							人约黄昏后的浪漫 小清新意境图片						</a>
+						</div>
+					</li>
+									<li>
+						<div class="meta_pic">
+						<a target="_blank" href="/85301">
+						<img width="215" height="185" src="http://p3.wmpic.me/article/2017/03/24/1490326712_ldKXxRBw_215x185.jpg" class="attachment-thumbnail-215x185 wp-post-image"/>
+						</a>
+						</div>
+						
+						<div class="tp_t">
+						<a target="_blank" href="/85301">
+							小清新意境唯美花朵图片						</a>
+						</div>
+					</li>
+									<li>
+						<div class="meta_pic">
+						<a target="_blank" href="/85296">
+						<img width="215" height="185" src="http://p1.wmpic.me/article/2017/03/24/1490325276_JapepDaE_215x185.jpg" class="attachment-thumbnail-215x185 wp-post-image"/>
+						</a>
+						</div>
+						
+						<div class="tp_t">
+						<a target="_blank" href="/85296">
+							清新淡雅的花草唯美意境图片						</a>
+						</div>
+					</li>
+									<li>
+						<div class="meta_pic">
+						<a target="_blank" href="/85261">
+						<img width="215" height="185" src="http://p2.wmpic.me/article/2017/03/23/1490247283_lRrCVmoy_215x185.jpg" class="attachment-thumbnail-215x185 wp-post-image"/>
+						</a>
+						</div>
+						
+						<div class="tp_t">
+						<a target="_blank" href="/85261">
+							唯美小清新高清静物图片						</a>
+						</div>
+					</li>
+									<li>
+						<div class="meta_pic">
+						<a target="_blank" href="/85256">
+						<img width="215" height="185" src="http://p3.wmpic.me/article/2017/03/23/1490239736_fDeRoDFF_215x185.jpg" class="attachment-thumbnail-215x185 wp-post-image"/>
+						</a>
+						</div>
+						
+						<div class="tp_t">
+						<a target="_blank" href="/85256">
+							早安语录正能量唯美小清新图片						</a>
+						</div>
+					</li>
+							</ul>
+        </div>
+        <div class="xqxtp_r">
+			<ul>
+							<li><span>01.10</span><a target="_blank" href="/85227" >高清女生背影小清新图片</a></li>
+							<li><span>01.10</span><a target="_blank" href="/85224" >微信背景小清新图片</a></li>
+							<li><span>01.10</span><a target="_blank" href="/85209" >最好的感情 是一起成长  小清新高清图片</a></li>
+							<li><span>01.10</span><a target="_blank" href="/85177" >最好的感情 是一起成长 高清唯美小清新图片</a></li>
+							<li><span>01.10</span><a target="_blank" href="/85102" >我的最爱 糖果色调的清新图片</a></li>
+							<li><span>01.10</span><a target="_blank" href="/85101" >送给70、80后的回忆 小清新教室图片</a></li>
+							<li><span>01.10</span><a target="_blank" href="/85097" >时尚小清新唯美高清图片</a></li>
+							<li><span>01.10</span><a target="_blank" href="/85068" >我想你陪我去看这片海  唯美女生小清新图片</a></li>
+							<li><span>01.10</span><a target="_blank" href="/85052" >高清日系唯美花草小清新图片</a></li>
+							<li><span>01.10</span><a target="_blank" href="/85041" >温馨细腻碎花物件小清新图片</a></li>
+							<li><span>01.10</span><a target="_blank" href="/85029" >路过心间的风雨随日光轻灵暖化</a></li>
+						</ul>
+        </div>
+    </div><!--xqxtp end-->
+    <div class="tp_list2 tp_title">
+    	<h2><a href="/tupian/yijing">意境图片</a></h2>
+            <ul>
+									<li>
+						<div class="meta_pic">
+						<a target="_blank" href="/85385">
+							<img width="215" height="185" src="http://p1.wmpic.me/article/2017/03/27/1490597334_oWkGAeHT_215x185.jpg" class="attachment-thumbnail-215x185 wp-post-image" />
+						</a>
+						</div>
+						<div class="tp_t2">
+							<a target="_blank" href="/85385">
+								小清新唯美背景意境�
+5af
+�片							</a>
+						</div>
+					</li>
+									<li>
+						<div class="meta_pic">
+						<a target="_blank" href="/85367">
+							<img width="215" height="185" src="http://p3.wmpic.me/article/2017/03/27/1490584433_bCQyQddO_215x185.jpg" class="attachment-thumbnail-215x185 wp-post-image" />
+						</a>
+						</div>
+						<div class="tp_t2">
+							<a target="_blank" href="/85367">
+								道路两边开满鲜花唯美意境图片							</a>
+						</div>
+					</li>
+									<li>
+						<div class="meta_pic">
+						<a target="_blank" href="/85351">
+							<img width="215" height="185" src="http://p3.wmpic.me/article/2017/03/25/1490426351_nnbZOmxY_215x185.jpg" class="attachment-thumbnail-215x185 wp-post-image" />
+						</a>
+						</div>
+						<div class="tp_t2">
+							<a target="_blank" href="/85351">
+								2017最新唯美意境风铃图片							</a>
+						</div>
+					</li>
+									<li>
+						<div class="meta_pic">
+						<a target="_blank" href="/85342">
+							<img width="215" height="185" src="http://p3.wmpic.me/article/2017/03/25/1490422001_WYrsKAZL_215x185.jpg" class="attachment-thumbnail-215x185 wp-post-image" />
+						</a>
+						</div>
+						<div class="tp_t2">
+							<a target="_blank" href="/85342">
+								唯美意境小女生背景图片写真							</a>
+						</div>
+					</li>
+									<li>
+						<div class="meta_pic">
+						<a target="_blank" href="/85333">
+							<img width="215"
+1121
+ height="185" src="http://p1.wmpic.me/article/2017/03/25/1490412687_upmExUmq_215x185.jpg" class="attachment-thumbnail-215x185 wp-post-image" />
+						</a>
+						</div>
+						<div class="tp_t2">
+							<a target="_blank" href="/85333">
+								旅行列车火车美景意境图片							</a>
+						</div>
+					</li>
+								
+			</ul>
+    </div><!--part2 end-->
+    <div class="tp_list2 tp_title">
+    	<h2><a href="/tupian/beauty">美女图片</a></h2>
+		<ul>
+		
+									<li>
+						<div class="meta_pic">
+						<a target="_blank" href="/85327">
+							<img width="215" height="185" src="http://p1.wmpic.me/article/2017/03/25/1490409624_CFJauTRS_215x185.jpg" class="attachment-thumbnail-215x185 wp-post-image"/>
+						</a>
+						</div>
+						<div class="tp_t2">
+							<a target="_blank" href="/85327">
+								花开不败我的姿态 欧美性感美女写真							</a>
+						</div>
+					</li>
+									<li>
+						<div class="meta_pic">
+						<a target="_blank" href="/85290">
+							<img width="215" height="185" src="http://p3.wmpic.me/article/2017/03/24/1490322854_CRwjwUyX_215x185.jpg" class="attachment-thumbnail-215x185 wp-post-image"/>
+						</a>
+						</div>
+						<div class="tp_t2">
+							<a target="_blank" href="/85290">
+								活出女王的气质 欧美性感美女图片写真							</a>
+						</div>
+					</li>
+									<li>
+						<div class="meta_pic">
+						<a target="_blank" href="/84969">
+							<img width="215" height="185" src="http://p1.wmpic.me/article/2017/03/10/1489110531_KPguhbuD_215x185.jpg" class="attachment-thumbnail-215x185 wp-post-image"/>
+						</a>
+						</div>
+						<div class="tp_t2">
+							<a target="_blank" href="/84969">
+								非主流欧美女生性感图片							</a>
+						</div>
+					</li>
+									<li>
+						<div class="meta_pic">
+						<a target="_blank" href="/59640">
+							<img width="215" height="185" src="http://p2.wmpic.me/article/2016/02/20/1455950455_VfapeiPX_215x185.jpg" class="attachment-thumbnail-215x185 wp-post-image"/>
+						</a>
+						</div>
+						<div class="tp_t2">
+							<a target="_blank" href="/59640">
+								艾薇儿半裸出镜魅惑诱人写真							</a>
+						</div>
+					</li>
+									<li>
+						<div class="meta_pic">
+						<a target="_blank" href="/56425">
+							<img width="215" height="185" src="http://p1.wmpic.me/article/2015/12/23/1450856772_PkFnvlQt_215x185.jpg" class="attachment-thumbnail-215x185 wp-post-image"/>
+						</a>
+						</div>
+						<div class="tp_t2">
+							<a target="_blank" href="/56425">
+								Sesy Muse 性感缪斯透视裙胴体隐现							</a>
+						</div>
+					</li>
+									<li>
+						<div class="meta_pic">
+						<a target="_blank" href="/56303">
+							<img width="215" height="185" src="http://p1.wmpic.me/article/2015/12/21/1450681017_ehXQjNvv_215x185.jpg" class="attachment-thumbnail-215x185 wp-post-image"/>
+						</a>
+						</div>
+						<div class="tp_t2">
+							<a target="_blank" href="/56303">
+								性感女生露背图片唯美背部							</a>
+						</div>
+					</li>
+									<li>
+						<div class="meta_pic">
+						<a target="_blank" href="/54552">
+							<img width="215" height="185" src="http://p3.wmpic.me/article/2015/10/16/1444965071_nLzQSpdC_215x185.JPG" class="attachment-thumbnail-215x185 wp-post-image"/>
+						</a>
+						</div>
+						<div class="tp_t2">
+							<a target="_blank" href="/54552">
+								性感美女：明媚安然							</a>
+						</div>
+					</li>
+									<li>
+						<div class="meta_pic">
+						<a target="_blank" href="/52015">
+							<img width="215" height="185" src="http://p3.wmpic.me/article/2015/05/05/1430793176_LrzlEoKr_215x185.jpg" class="attachment-thumbnail-215x185 wp-post-image"/>
+						</a>
+						</div>
+						<div class="tp_t2">
+							<a target="_blank" href="/52015">
+								性感美女sexy福利写真私房照							</a>
+						</div>
+					</li>
+									<li>
+						<div class="meta_pic">
+						<a target="_blank" href="/50744">
+							<img width="215" height="185" src="http://p3.wmpic.me/article/2015/02/25/1424827169_ndOSqLfE_215x185.jpg" class="attachment-thumbnail-215x185 wp-post-image"/>
+						</a>
+						</div>
+						<div class="tp_t2">
+							<a target="_blank" href="/50744">
+								性感美女sex福利写真私房照							</a>
+						</div>
+					</li>
+	
+33a6
+								<li>
+						<div class="meta_pic">
+						<a target="_blank" href="/50549">
+							<img width="215" height="185" src="http://p1.wmpic.me/article/2015/02/09/1423460907_AKDrDMWP_215x185.jpg" class="attachment-thumbnail-215x185 wp-post-image"/>
+						</a>
+						</div>
+						<div class="tp_t2">
+							<a target="_blank" href="/50549">
+								异域美女  性感诱惑私房照							</a>
+						</div>
+					</li>
+						</ul>
+    </div><!--part3 end-->
+    <div class="tp_list2 tp_title">
+    	<h2><a href="/tupian/funny">搞笑图片</a></h2>
+		<ul>
+		
+									<li>
+						<div class="meta_pic">
+						<a target="_blank" href="/84565">
+							<img target="_blank" width="215" height="185" src="http://p3.wmpic.me/article/2017/02/22/1487729699_XiIYxrWx_215x185.jpg" class="attachment-thumbnail-215x185 wp-post-image" />
+						</a>
+						</div>
+						<div class="tp_t2">
+							<a target="_blank" href="/84565">
+								假装有男朋友系列 单身狗女生微信图必备							</a>
+						</div>
+					</li>
+									<li>
+						<div class="meta_pic">
+						<a target="_blank" href="/76413">
+							<img target="_blank" width="215" height="185" src="http://p3.wmpic.me/article/2016/10/31/1477879388_pYzyaJNa_215x185.jpg" class="attachment-thumbnail-215x185 wp-post-image" />
+						</a>
+						</div>
+						<div class="tp_t2">
+							<a target="_blank" href="/76413">
+								日本REISSUE咖啡店出的动漫系列主题 卡布奇诺拉花							</a>
+						</div>
+					</li>
+									<li>
+						<div class="meta_pic">
+						<a target="_blank" href="/75251">
+							<img target="_blank" width="215" height="185" src="http://p3.wmpic.me/article/2016/10/15/1476496481_VLFSKahD_215x185.jpg" class="attachment-thumbnail-215x185 wp-post-image" />
+						</a>
+						</div>
+						<div class="tp_t2">
+							<a target="_blank" href="/75251">
+								光棍节快乐 搞笑单身狗图片							</a>
+						</div>
+					</li>
+									<li>
+						<div class="meta_pic">
+						<a target="_blank" href="/69799">
+							<img target="_blank" width="215" height="185" src="http://p1.wmpic.me/article/2016/07/18/1468816926_QjRDbERW_215x185.jpg" class="attachment-thumbnail-215x185 wp-post-image" />
+						</a>
+						</div>
+						<div class="tp_t2">
+							<a target="_blank" href="/69799">
+								网红小刺猬Marutaro搞笑图片							</a>
+						</div>
+					</li>
+									<li>
+						<div class="meta_pic">
+						<a target="_blank" href="/67938">
+							<img target="_blank" width="215" height="185" src="http://p2.wmpic.me/article/2016/06/25/1466826493_TfqpQHTK_215x185.jpg" class="attachment-thumbnail-215x185 wp-post-image" />
+						</a>
+						</div>
+						<div class="tp_t2">
+							<a target="_blank" href="/67938">
+								幽默的生活靠自己							</a>
+						</div>
+					</li>
+						</ul>
+    </div><!--part4 end-->
+    <div class="tp_list2 tp_title">
+    	<h2><a href="/tupian/qzone">空间图片</a></h2>
+		<ul>
+
+									<li>
+						<div class="meta_pic">
+						<a target="_blank" href="/85376">
+							<img width="215" height="185" src="http://p1.wmpic.me/article/2017/03/27/1490593497_OqqlstEK_215x185.jpg" class="attachment-thumbnail-215x185 wp-post-image" />
+						</a>
+						</div>
+						<div class="tp_t2">
+							<a target="_blank" href="/85376">
+								红尘陌上，岁月荏苒 小清新文艺静物空间图片							</a>
+						</div>
+					</li>
+									<li>
+						<div class="meta_pic">
+						<a target="_blank" href="/85328">
+							<img width="215" height="185" src="http://p2.wmpic.me/article/2017/03/25/1490409820_PBYAxxLc_215x185.jpg" class="attachment-thumbnail-215x185 wp-post-image" />
+						</a>
+						</div>
+						<div class="tp_t2">
+							<a target="_blank" href="/85328">
+								记忆最深处的风景 唯美风景空间图片							</a>
+						</div>
+					</li>
+									<li>
+						<div class="meta_pic">
+						<a target="_blank" href="/85269">
+							<img width="215" height="185" src="http://p2.wmpic.me/article/2017/03/23/1490251591_CEQTcmvX_215x185.jpg" class="attachment-thumbnail-215x185 wp-post-image" />
+						</a>
+						</div>
+						<div class="tp_t2">
+							<a target="_blank" href="/85269">
+								唯美外国风景空间图片							</a>
+						</div>
+					</li>
+									<li>
+						<div class="meta_pic">
+						<a target="_blank" href="/85215">
+							<img width="215" height="185" src="http://p3.wmpic.me/article/2017/03/22/1490152118_spaJwdtj_215x185.jpg" class="attachment-thumbnail-215x185 wp-post-image" />
+						</a>
+						</div>
+						<div class="tp_t2">
+							<a target="_blank" href="/85215">
+								小女生粉色系少女心空间图片							</a>
+						</div>
+					</li>
+									<li>
+						<div class="meta_pic">
+						<a target="_blank" href="/85183">
+							<img width="215" height="185" src="http://p2.wmpic.me/article/2017/03/21/1490077597_NDqJPJcK_215x185.jpg" class="attachment-thumbnail-215x185 wp-post-image" />
+						</a>
+						</div>
+						<div class="tp_t2">
+							<a target="_blank" href="/85183">
+								唯美高清意境QQ空间图片							</a>
+						</div>
+					</li>
+					
+		
+		</ul>
+    </div><!--part5 end-->
+    <div class="tp_list2 tp_title">
+    	<h2><a href="/tupian/mingxing">明星图片</a></h2>
+		<ul>
+		
+									<li>
+						<div class="meta_pic">
+						<a target="_blank" href="/85329">
+							<img width="215" height="185" src="http://p3.wmpic.me/article/2017/03/25/1490410388_gTOEJmAx_215x185.jpg" class="attachment-thumbnail-215x185 wp-post-image" />
+						</a>
+						</div>
+						<div class="tp_t2">
+							<a target="_blank" href="/85329">
+								帅气迷人阳光男孩井柏然明星图片写真							</a>
+						</div>
+					</li>
+									<li>
+						<div class="meta_pic">
+						<a target="_blank" href="/85289">
+							<img width="215" height="185" src="http://p3.wmpic.me/article/2017/03/24/1490322665_NbAyKJgj_215x185.jpg" class="attachment-thumbnail-215x185 wp-post-image" />
+						</a>
+						</div>
+						<div class="tp_t2">
+							<a target="_blank" href="/85289">
+								大表姐刘雯明星图片时尚穿搭写真							</a>
+						</div>
+					</li>
+									<li>
+						<div class="meta_pic">
+						<a target="_blank" href="/85218">
+							<img width="215" height="185" src="http://p1.wmpic.me/article/2017/03/22/1490153436_fMXhBkVu_215x185.jpg" class="attachment-thumbnail-215x185 wp-post-image" />
+						</a>
+						</div>
+						<div class="tp_t2">
+							<a target="_blank" href="/85218">
+								80后广平王任嘉伦男明星图片							</a>
+						</div>
+					</li>
+									<li>
+						<div class="meta_pic">
+						<a target="_blank" href="/85175">
+							<img width="215" height="185" src="http://p1.wmpic.me/article/2017/03/21/1490067231_MlLeFtMV_215x185.jpg" class="attachment-thumbnail-215x185 wp-post-image" />
+						</a>
+						</div>
+						<div class="tp_t2">
+							<a target="_blank" href="/85175">
+								小鲜肉于朦胧高清男明星图片							</a>
+						</div>
+					</li>
+									<li>
+						<div class="meta_pic">
+						<a target="_blank" href="/85128">
+							<img width="215" height="185" src="http://p2.wmpic.me/article/2017/03/20/1489976794_zpCIVSaY_215x185.jpg" class="attachment-thumbnail-215x185 wp-post-image" />
+						</a>
+						</div>
+						<div class="tp_t2">
+							<a target="_blank" href="/85128">
+								小鲜肉白敬亭唯美高清明星图片							</a>
+						</div>
+					</li>
+					
+				
+		</ul>
+    </div><!--part6 end-->
+<!-- ### -->	
+</div><!--container end-->
+<div style="clear:both;float:none"></div>
+﻿<div id="footer">
+	<div class="center">
+		<div class="container_24 clearfix">
+			<p><a href="/fm">唯美FM</a> | <a href="/book">留言板</a> | <a href="/sitemap">网站地图</a> | <a href="/feed">feed订阅</a> | <a href="/about">关于我们</a> | <a href="/partner">投放广告</a> | <a href="javascript:;" onClick="openpop(popboxreg)">注册</a> | <a href="javascript:;" onClick="openpop(popboxlogin)">登录</a>  | <a class="go2top" href="#">↑Top</a></p>
+			<p>&copy; 2011-2016 唯美图片  赣ICP备12001941号-38</p>
+			</div>
+	</div>
+</div>
+<script src="http://static.wmpic.me/www/themes/wmp/js/wmpic.js?version=0.005"></script>
+<script type="text/javascript">
+if(document.getElementById('ad_last')){
+	var leftHeight=mahua.$('mainbox').offsetHeight;
+	var rightHeight=mahua.$('sidebox').offsetHeight;
+	if(leftHeight>rightHeight){
+
+
+		var sideboxclear=0;
+		var sideboxleft=offsetLeft(mahua.$('ad_last'));
+		mahua.adEffect('ad_last');
+
+	}
+}
+function offsetLeft(elements){ 
+	var left = elements.offsetLeft; 
+	var parent = elements.offsetParent; 
+	while( parent != null ){ 
+	left += parent.offsetLeft; 
+	parent = parent.offsetParent; 
+	}; 
+	return left; 
+}; 
+</script>
+<!--footer end-->
+<div class="h_none">
+<script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_1256718880'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "w.cnzz.com/c.php%3Fid%3D1256718880' type='text/javascript'%3E%3C/script%3E"));</script>
+<!--百度统计代码-->
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "//hm.baidu.com/hm.js?7f4e9a5239eb9bae14cc9a9d47be98e0";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+<!--结束百度统计代码-->
+
+
+<script type="text/javascript" src="http://www.wmpic.me/js/tongji.js"></script>
+
+<script type="text/javascript">Meitu_A_D('mt_pc_tujia');</script>
+</div>
+<link rel="stylesheet" href="http://static.wmpic.me/www/css/popup.css" type="text/css"/>
+<script src="http://static.wmpic.me/www/css/js/popup.js?asdasd"></script>
+<!--注册登录弹出层-->
+<div class="pop_bg"></div>
+<div class="popup_layer" id="popboxlogin">
+<!--登录弹框-->
+  <div class="login_box pop h_block">
+    <div class="tith3"><a href="javascript:;" class="close" onClick="closepop(popboxlogin)"></a></div>
+    <div class="box_tit"><a href="javascript:;"  onClick="openpop(popboxreg)">注 册</a><a href="javascript:;" class="on">登 录</a></div>
+    <form>
+    <dl class="popup_form" id="loginForm">
+      <dd>
+        <label>用户名 :</label>
+        <input class="inputtext" name="username" type="text">
+        <span>请输入用户名</span>
+      </dd>
+      <dd>
+        <label>密   码 :</label>
+        <input class="inputtext" name="password" type="password">
+        <span>请输入密码</span>
+      </dd>
+     
+      <dd class="verify_code">
+        <label>验证码 :</label>
+        <input class="inputtext" id="Log_verify" name="verify" type="text">
+        <img class="verify" src="http://www.wmpic.me/verify" onclick="this.src='/verify?'+Math.random();" width="118" height="45"> </dd>
+      <dd class="btns">
+		<input type="button" class="inputsubmit" id="login" value="登录">
+      </dd>
+    </dl>
+    </form>
+    <div class="finish_box login" id="loginfinish">
+    	<p><span id="u1"></span>用户正在审核中，点击下面按钮查看更多美图</p>
+        <p><span id="u2"></span>不存在，点击下面按钮查看更多美图</p>
+        <a href="/" onClick="closepop(popboxreg)">返回首页</a>
+    </div>
+  </div>
+</div><!--E 登录弹框-->
+<div class="popup_layer" id="popboxreg">
+<!--S 注册弹框-->
+  <div class="register_box pop h_block">
+    <div class="tith3"><a href="javascript:;" target="_self" class="close" onClick="closepop(popboxreg)"></a></div>
+    <div class="box_tit"><a href="javascript:;" class="on">注 册</a><a href="javascript:;" onClick="openpop(popboxlogin)">登 录</a></div>
+    <form>
+    <dl class="popup_form"  id="regForm">
+      <dd>
+        <label>用户名 :</label>
+        <input class="inputtext" name="username" type="text">
+        <span>注册成功后可观看到更多美女图片</span>
+      </dd>
+      <dd>
+        <label>密   码 :</label>
+        <input class="inputtext" name="password" type="password">
+        <span>6-16位英文数字常用符号</span>
+      </dd>
+       <dd>
+        <label>手   机 :</label>
+        <input class="inputtext" name="mobile" type="text">
+        <span>请输入手机号码</span>
+      </dd>
+      <dd class="verify_code">
+        <label>验证码 :</label>
+        <input class="inputtext" id="Log_verify" name="verify" type="text">
+        <img class="verify" src="http://www.wmpic.me/verify" onclick="this.src='/verify?'+Math.random();" width="118" height="45"> </dd>
+      <dd class="btns">
+        <input type="button" class="inputsubmit" id="regBtn" value="注册">
+      </dd>
+    </dl>
+    </form>
+    <div class="finish_box" id="regFinish">
+    	<p><span id="u3"></span>用户注册成功，等待审核</p>
+        <a href="javascript:;" onClick="closepop(popboxreg)">完成</a>
+    </div>
+  </div>
+</div><!--E 注册弹框-->
+<div class="h_none"><script src="/js/baidu_js_push.js"></script></div>
+<div class="h_none"></div>
+</body>
+</html>
+0
+
+

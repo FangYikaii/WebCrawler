@@ -1,0 +1,47 @@
+HTTP/1.1 200 OK
+Server: DnionOS/1.11.2.3
+Date: Mon, 27 Mar 2017 07:14:50 GMT
+Content-Type: text/css
+Content-Length: 3143
+Connection: close
+Last-Modified: Tue, 05 Apr 2016 09:13:39 GMT
+Vary: Accept-Encoding
+ETag: "570381c3-c47"
+Expires: Sat, 04 Mar 2017 08:51:41 GMT
+Cache-Control: max-age=1036800
+Accept-Ranges: bytes
+Age: 3018169
+Via: CT-CNC-ZJFY-P-6-102 (DLC-3.0), CT-FJQZ-C-223-186 (DLC-3.0)
+Server-Info: DnionATS
+Warning: 113 DLC-3.0
+
+/*登录、注册弹出层*/
+.popup_layer{position: absolute;top:330px;width:600px;height: auto;background-color:#fff;z-index:100; display:none;font-family:Microsoft Yahei;z-index:999;}
+.popup_layer .login_box,.popup_layer .register_box{padding-bottom:20px;}
+.popup_layer h3{height:45px;line-height: 45px;text-align: center;color:#fff;background-color:#178acd;background-image:url(images/wm_logo_w.png);background-position:10px center;background-repeat:no-repeat;}
+.popup_layer h3 .close{position: absolute;right:0px;top:0px;width: 45px;height: 45px;background-image:url(images/close.png);background-repeat: no-repeat;background-position:center;}
+.popup_layer h3 .close:hover{background-color:#7ac012;}
+.popup_layer .tith3{height:45px;line-height: 45px;text-align: center;color:#fff;background-color:#178acd;background-image:url(images/wm_logo_w.png);background-position:10px center;background-repeat:no-repeat;}
+.popup_layer .tith3 .close{position: absolute;right:0px;top:0px;width: 45px;height: 45px;background-image:url(images/close.png);background-repeat: no-repeat;background-position:center;}
+.popup_layer .tith3 .close:hover{background-color:#7ac012;}
+.box_tit{margin:0 30px;}
+.box_tit a{display:inline-block;width:50%;text-align:center;font-size:18px;color:#666;border-bottom:1px solid #ddd;line-height:2em;margin-top:16px;}
+.box_tit a.on{color:#178acd;border-bottom:1px solid #178acd;font-weight:bold;}
+.popup_form{margin:20px auto 0 auto;}
+.popup_form dd{padding:15px 15px;}
+.popup_form dd.cszhuce{ position:relative;}
+.popup_form dd.cszhuce a{position: absolute;right: 84px;top: 8px;display: inline-block;height: 32px;line-height: 32px;color: #3496e1;}
+.popup_form dd label{display: inline-block;vertical-align:top;width: 4.5em;text-align: right;font-size: 16px;color:#323232;line-height: 45px;margin-right:0.5em;}
+.popup_form dd span{display:inline-block;line-height:45px;margin-left:0.5em;}
+.popup_form dd input.inputtext,.popup_form dd input.inputtext{display: inline-block;vertical-align:top;height: 43px;width:273px;border:1px solid #e8e6e6;}
+.popup_form dd a.forget{display:inline-block; height:30px; line-height:30px; margin-left: 30px; color: #999;}
+.popup_form dd.btns{text-align: center;padding-bottom: 20px;}
+.popup_form dd.btns input{width: 154px;height: 46px;border-radius: 3px;border:0;color:#fff;font-size: 18px;font-weight: bold;cursor: pointer;font-family:Microsoft yahei;font-weight:normal;}
+.popup_form dd.btns input.inputsubmit{background-color:#7ac012;}
+.popup_form dd img.popyzm{ width:118px; height:45px;}
+.finish_box{display:none;padding:160px 0 0 0;height:175px;text-align:center;background-image:url(images/finish.png);background-repeat:no-repeat;background-position:center 55px;}
+.finish_box.login{background-image:url(images/user.png);}
+.finish_box p{font-size:16px;color:#999;line-height:2em;}
+.finish_box a{display:block;margin:40px auto 0 auto;width:154px;height:46px;line-height:46px;color:#fff;text-align:center;background:#7ac012;border-radius:3px;font-size:18px;}
+.pop_bg{display:none;position:absolute;top:0;left:0;width:100%;height:100%;background:rgba(0,0,0,0.5);}
+

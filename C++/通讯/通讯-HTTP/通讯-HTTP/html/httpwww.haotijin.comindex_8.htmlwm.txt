@@ -1,0 +1,529 @@
+HTTP/1.1 200 OK
+Server: DnionOS/1.11.2.3
+Date: Sat, 25 Mar 2017 04:34:45 GMT
+Content-Type: text/html
+Transfer-Encoding: chunked
+Connection: close
+Vary: Accept-Encoding
+X-Powered-By: PHP/5.5.25
+Set-Cookie: _m_Uuid_=58d5f19da5323; expires=Mon, 25-Mar-2019 04:27:09 GMT; Max-Age=63072000; path=/; httponly
+Pragma: cache
+Cache-Control: max-age=3600
+Last-Modified: Sat, 25 Mar 2017 04:27:11 GMT
+Expires: Sat, 25 Mar 2017 05:27:11 GMT
+Age: 458
+Via: CT-CNC-ZJFY-P-6-100 (DLC-3.0), CT-FJQZ-C-223-187 (DLC-3.0)
+Server-Info: DnionATS
+
+1514
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Cache-Control" content="no-transform" />
+<meta http-equiv="Cache-Control" content="no-siteapp" />
+<meta name="mobile-agent" content="format=xhtml;url=http://m.haotijin.com/">
+<title>好提劲笑话大全_搞笑图片_搞笑视频_经典语录_邪恶漫画大全</title>
+<meta name="description" content="好提劲笑话大全提供了搞笑图片笑死人、搞笑视频笑死人、一句话经典语录、最新的成人笑话、邪恶漫画大全、十万个冷笑话大全 爆笑笑话等。生活需要激情，你需要提劲，好提劲！" />
+<meta name="keywords" content="笑话,笑话大全,搞笑,搞笑图片,搞笑视频" />
+<script src="http://public.1985t.com/js/uaredirect.js" type="text/javascript"></script>
+<script type="text/javascript">uaredirect("http://m.haotijin.com/");</script>
+<script src="https://gg.1985t.com/haotijin/pc_haotijin.js"></script>
+<link rel="stylesheet" href="/css/base.css">
+<link rel="stylesheet" href="/css/main.css?2016">
+<!--[if IE 6]>
+            <script src="/js/js2016/DD_belatedPNG_0.0.8a-min.js"></script>
+            <script>
+                 DD_belatedPNG.fix(".mainBg, .videoMianPlayBtn, .tagRed, .videoPlayBox i, .conBoxAct a b, .adedChangeBtn, , .addChoseList li i, #bdshare span.add_bds_more, .conBox .boxHeader,  #bdshare a.add_bds_qzone, #bdshare a.add_bds_tsina, #bdshare a.add_bds_renren, #bdshare a.add_bds_tqq");
+            </script>
+        <![endif]-->
+<script type="text/javascript" src="/js/jquery-1.9.1.min.js"></script>
+<script type="text/javascript" src="/js/js2016/focus.js"></script>
+<script type="text/javascript" src="/js/js2016/jquery.lazyload.min.js"></script>
+<script type="text/javascript" src="/js/js2016/dingcai_js.js?20160613"></script>
+<script type="text/javascript" src="/js/common.js?20160613"></script>
+
+<meta name="baidu-site-verification" content="p9Bb6Yy08f" />
+<meta name="360_union_verify" content="52e41b7a7ab419d7ecf265ada7cda91b">
+
+</head>
+<body>
+<div class="headerBg">
+    <div class="headerTop">
+    	<a href="/" class="logo fl" title="好提劲引领搞笑文化走向时代的最高峰！"><h1>好提劲</h1></a>
+        <ul class="nav fl">
+            <li><a class='on home' href="/" title=""><em class="ico-nav"></em><span>首页</span></a></li>
+            <li><a class='type-1' href="/tupian/" title=""><em class="ico-nav"></em><span>图片</span></a></li>
+            <li><a class='type-2' href="/xiaohua/" title=""><em class="ico-nav"></em><span>段子</span></a></li>
+            <li><a class='type-3' href="/shipin/" title=""><em class="ico-nav"></em><span>视频</span></a></li>
+            <!--li><a href="/yulu/" title=""><em class="ico-nav"></em><span>热门资讯</span></a></li-->
+        </ul>
+        <div id="searchbar"> 
+            <input type="text" id="key" class="ls"  value="输入搜索关键" onkeydown="if (event.keyCode==13) {}" onblur="if(this.value=='')value='输入搜索关键';" onfocus="if(this.value=='输入搜索关键')value='';" name="keyword">
+            <input type="submit" id="searchsubmit" value="" onclick="search()"> 
+        </div>
+    </div>
+</div>
+<div class="hr"></div>
+<script>
+function search(){
+	var key = $("#key").val();
+	if(key == ''){
+		alert('请输入搜索内容！')
+		return false;
+	}
+	window.location.href = '/search.html?tags='+key;		
+} 
+</script> 
+<div class="hr hr10"></div>
+<div class="wrap clearfix">
+  <!--左侧-->
+  <div class="section">   
+	<ul class="tab_btn_box">
+	    		   		   <li ><a href="/index.html?homerand">随机阅读</a></li>
+		   <li ><a href="/index.html?homehot">热门排行</a></li>
+		   <li class="on"><a href="javascript:;">最新内容</a></li>
+		 
+	</ul>
+ 
+             
+    	<div class="conBox"> <i class="tagRed"></i>
+          <h3 class="boxHeader"><a href="/tupian/69079.html">办公室来了两妹纸</a></h3>
+          <div class="videoPlayBox">
+              <a href="/tupian/69079.html" title="办公室来了两妹纸" target="_blank"></a><a href="/tupian/69079.html" target="_blank"><p style="text-align:center;">
+<img src="/uploads/2017/3/0f342c13a843eec8.jpg" width="288" height="240" /><span style="line-height:1.5;"></span> 
+</p>
+<p style="text-align:center;">
+<span style="line-height:1.5;"><span style="font-size:14px;"><strong><a href="http://haotijin.com" target="_blank"><span style="color:#E53333;">好提劲</span></a></strong>笑话网每日提供搞笑图片，段子，视频，娱乐等等....每日乐翻天！</span><span style="font-size:14px;"></span><br />
+</span> 
+</p></a>
+          </div>
+                        <div class="clearfix conBoxWrap">
+                    <div class="fl conBoxAct">
+                        <a href="javascript:;" onclick="vote(69079, 0)" class="ding">
+                            <b></b>
+                            <i id='ding69079' class="ding44255">525</i>
+                         </a>
+                        <span>|</span>
+                        <a href="javascript:vote(69079, 1);" class="cai">
+                            <b></b>
+                            <i id='cai69079' class="cai44255">141</i>
+                         </a>
+                    </div>
+            <di
+5b4
+v class="fr share"> 
+            <div id="bdshare" class="bdshare_t bds_tools get-codes-bdshare" data=" "></div></div>
+            <div class="hotTag fr"> <span>笑点：</span> <a href="/tag/gaoxiao_11_1.html" target="_blank">搞笑</a><a href="/tag/meinv_2_1.html" target="_blank">美女</a><a href="/tag/xiee_349_1.html" target="_blank">邪恶</a></div>
+          </div>      
+        </div>
+         
+    	<div class="conBox"> <i class="tagRed"></i>
+          <h3 class="boxHeader"><a href="/xiaohua/69017.html">情敌掉在河里</a></h3>
+          <div class="videoPlayBox">
+              <a href="/xiaohua/69017.html" title="情敌掉在河里" target="_blank"></a><a href="/xiaohua/69017.html" target="_blank"><p>
+问:如果你的情敌掉在河里了，他不会游泳，而你会，你该怎么办?答:在他身边游来游去..........
+</p></a>
+          </div>
+                        <div class="clearfix conBoxWrap">
+                    <div class="fl conBoxAct">
+                        <a href="javascript:;" onclick="vote(69017, 0)" class="ding">
+                            <b></b>
+                            <i id='ding69017' class="ding44255">531</i>
+                         </a>
+                        <span>|</span>
+                        <a href="javascript:vote(69017, 1);" class="cai">
+                            <b></b>
+                            <i id='cai69017' class="cai44255">277</i>
+                         </a>
+         
+b5c
+           </div>
+            <div class="fr share"> 
+            <div id="bdshare" class="bdshare_t bds_tools get-codes-bdshare" data=" "></div></div>
+            <div class="hotTag fr"> <span>笑点：</span> <a href="/tag/youmo_247_1.html" target="_blank">幽默</a><a href="/tag/gaoxiao_11_1.html" target="_blank">搞笑</a><a href="/tag/doubi_4079_1.html" target="_blank">逗逼</a></div>
+          </div>      
+        </div>
+         
+    	<div class="conBox"> <i class="tagRed"></i>
+          <h3 class="boxHeader"><a href="/tupian/69030.html">喂妹纸你看什么</a></h3>
+          <div class="videoPlayBox">
+              <a href="/tupian/69030.html" title="喂妹纸你看什么" target="_blank"></a><a href="/tupian/69030.html" target="_blank"><p style="text-align:center;">
+<img src="/uploads/2017/3/02DRG4Z22LEK.jpg" width="332" height="408" /><span style="line-height:1.5;"></span> 
+</p>
+<p style="text-align:center;">
+<span style="line-height:1.5;"><span style="font-size:14px;"><strong><a href="http://haotijin.com" target="_blank"><span style="color:#E53333;">好提劲</span></a></strong>笑话网每日提供搞笑图片，段子，视频，娱乐等等....每日乐翻天！</span><span style="font-size:14px;"></span><br />
+</span> 
+</p></a>
+          </div>
+                        <div class="clearfix conBoxWrap">
+                    <div class="fl conBoxAct">
+                        <a href="javascript:;" onclick="vote(69030, 0)" class="ding">
+                            <b></b>
+                            <i id='ding69030' class="ding44255">1081</i>
+                         </a>
+                        <span>|</span>
+                        <a href="javascript:vote(69030, 1);" class="cai">
+                            <b></b>
+                            <i id='cai69030' class="cai44255">234</i>
+                         </a>
+                    </div>
+            <div class="fr share"> 
+            <div id="bdshare" class="bdshare_t bds_tools get-codes-bdshare" data=" "></div></div>
+            <div class="hotTag fr"> <span>笑点：</span> <a href="/tag/erhuo_2285_1.html" target="_blank">二货</a><a href="/tag/meizhi_2249_1.html" target="_blank">妹纸</a><a href="/tag/doubi_4079_1.html" target="_blank">逗逼</a></div>
+          </div>      
+        </div>
+         
+    	<div class="conBox"> <i class="tagRed"></i>
+          <h3 class="boxHeader"><a href="/tupian/69032.html">自拍不要和比自己漂亮的人一起拍</a></h3>
+          <div class="videoPlayBox">
+              <a href="/tupian/69032.html" title="自拍不要和比自己漂亮的人一起拍" target="_blank"></a><a href="/tupian/69032.html" target="_blank"><p style="text-align:center;">
+<img src="/uploads/2017/3/2017226211942401.jpg" width="474" height="361" /><span style="line-height:1.5;"></span> 
+</p>
+<p style="text-align:center;">
+<span style="line-height:1.5;font-size:14px;"><
+b5a
+strong><a href="http://haotijin.com" target="_blank"><span style="color:#E53333;">好提劲</span></a></strong>笑话网每日提供搞笑图片，段子，视频，娱乐等等....每日乐翻天！</span><span style="line-height:1.5;font-size:14px;"></span> 
+</p></a>
+          </div>
+                        <div class="clearfix conBoxWrap">
+                    <div class="fl conBoxAct">
+                        <a href="javascript:;" onclick="vote(69032, 0)" class="ding">
+                            <b></b>
+                            <i id='ding69032' class="ding44255">1246</i>
+                         </a>
+                        <span>|</span>
+                        <a href="javascript:vote(69032, 1);" class="cai">
+                            <b></b>
+                            <i id='cai69032' class="cai44255">149</i>
+                         </a>
+                    </div>
+            <div class="fr share"> 
+            <div id="bdshare" class="bdshare_t bds_tools get-codes-bdshare" data=" "></div></div>
+            <div class="hotTag fr"> <span>笑点：</span> <a href="/tag/meizhi_2249_1.html" target="_blank">妹纸</a><a href="/tag/doubi_4079_1.html" target="_blank">逗逼</a><a href="/tag/xiee_349_1.html" target="_blank">邪恶</a></div>
+          </div>      
+        </div>
+         
+    	<div class="conBox"> <i class="tagRed"></i>
+          <h3 class="boxHeader"><a href="/tupian/69033.html">用功的妹纸</a></h3>
+          <div class="videoPlayBox">
+              <a href="/tupian/69033.html" title="用功的妹纸" target="_blank"></a><a href="/tupian/69033.html" target="_blank"><p style="text-align:center;">
+<img src="/uploads/2017/3/7b53d28417c5f824.jpg" width="322" height="455" /><span style="line-height:1.5;"></span> 
+</p>
+<p style="text-align:center;">
+<span style="line-height:1.5;"><span style="font-size:14px;"><strong><a href="http://haotijin.com" target="_blank"><span style="color:#E53333;">好提劲</span></a></strong>笑话网每日提供搞笑图片，段子，视频，娱乐等等....每日乐翻天！</span><br />
+</span> 
+</p></a>
+          </div>
+                        <div class="clearfix conBoxWrap">
+                    <div class="fl conBoxAct">
+                        <a href="javascript:;" onclick="vote(69033, 0)" class="ding">
+                            <b></b>
+                            <i id='ding69033' class="ding44255">901</i>
+                         </a>
+                        <span>|</span>
+                        <a href="javascript:vote(69033, 1);" class="cai">
+                            <b></b>
+                            <i id='cai69033' class="cai44255">269</i>
+                         </a>
+                    </div>
+            <div class="fr share"> 
+            <div id="bdshare" class="bdshare_t bds_tools get-codes-bdshare" data=" "></div></div>
+            <div class="hotTag fr"> <span>笑点：</s
+5ad
+pan> <a href="/tag/meizhi_2249_1.html" target="_blank">妹纸</a><a href="/tag/gaoxiao_11_1.html" target="_blank">搞笑</a><a href="/tag/leiren_29_1.html" target="_blank">雷人</a></div>
+          </div>      
+        </div>
+         
+    	<div class="conBox"> <i class="tagRed"></i>
+          <h3 class="boxHeader"><a href="/tupian/69034.html">菇凉 你内内很好看哦</a></h3>
+          <div class="videoPlayBox">
+              <a href="/tupian/69034.html" title="菇凉 你内内很好看哦" target="_blank"></a><a href="/tupian/69034.html" target="_blank"><p style="text-align:center;">
+<img src="/uploads/2017/3/7db3ec70a2e8cfd8.jpg" width="340" height="359" /><span style="line-height:1.5;"></span> 
+</p>
+<p style="text-align:center;">
+<span style="line-height:1.5;"><span style="font-size:14px;"><strong><a href="http://haotijin.com" target="_blank"><span style="color:#E53333;">好提劲</span></a></strong>笑话网每日提供搞笑图片，段子，视频，娱乐等等....每日乐翻天！</span><br />
+</span> 
+</p></a>
+          </div>
+                        <div class="clearfix conBoxWrap">
+                    <div class="fl conBoxAct">
+                        <a href="javascript:;" onclick="vote(69034, 0)" class="ding">
+                            <b></b>
+                            <i id='ding69034' class="ding44255">999</i>
+                         </a>
+                        <span>|</span>
+                        <a
+b7d
+ href="javascript:vote(69034, 1);" class="cai">
+                            <b></b>
+                            <i id='cai69034' class="cai44255">180</i>
+                         </a>
+                    </div>
+            <div class="fr share"> 
+            <div id="bdshare" class="bdshare_t bds_tools get-codes-bdshare" data=" "></div></div>
+            <div class="hotTag fr"> <span>笑点：</span> <a href="/tag/erhuo_2285_1.html" target="_blank">二货</a><a href="/tag/meizhi_2249_1.html" target="_blank">妹纸</a><a href="/tag/gaoxiao_11_1.html" target="_blank">搞笑</a></div>
+          </div>      
+        </div>
+         
+    	<div class="conBox"> <i class="tagRed"></i>
+          <h3 class="boxHeader"><a href="/tupian/69035.html">我要飞的更高</a></h3>
+          <div class="videoPlayBox">
+              <a href="/tupian/69035.html" title="我要飞的更高" target="_blank"></a><a href="/tupian/69035.html" target="_blank"><p style="text-align:center;">
+<img src="/uploads/2017/3/R3S969380C5F.jpg" width="490" height="387" /><span style="line-height:1.5;"></span> 
+</p>
+<p style="text-align:center;">
+<span style="line-height:1.5;"><span style="font-size:14px;"><strong><a href="http://haotijin.com" target="_blank"><span style="color:#E53333;">好提劲</span></a></strong>笑话网每日提供搞笑图片，段子，视频，娱乐等等....每日乐翻天！</span><span style="font-size:14px;"></span><br />
+</span> 
+</p></a>
+          </div>
+                        <div class="clearfix conBoxWrap">
+                    <div class="fl conBoxAct">
+                        <a href="javascript:;" onclick="vote(69035, 0)" class="ding">
+                            <b></b>
+                            <i id='ding69035' class="ding44255">575</i>
+                         </a>
+                        <span>|</span>
+                        <a href="javascript:vote(69035, 1);" class="cai">
+                            <b></b>
+                            <i id='cai69035' class="cai44255">498</i>
+                         </a>
+                    </div>
+            <div class="fr share"> 
+            <div id="bdshare" class="bdshare_t bds_tools get-codes-bdshare" data=" "></div></div>
+            <div class="hotTag fr"> <span>笑点：</span> <a href="/tag/qipa_1467_1.html" target="_blank">奇葩</a><a href="/tag/gaoxiao_11_1.html" target="_blank">搞笑</a><a href="/tag/doubi_4079_1.html" target="_blank">逗逼</a></div>
+          </div>      
+        </div>
+         
+    	<div class="conBox"> <i class="tagRed"></i>
+          <h3 class="boxHeader"><a href="/tupian/69036.html">菇凉好身材</a></h3>
+          <div class="videoPlayBox">
+              <a href="/tupian/69036.html" title="菇凉好身材" target="_blank"></a><a href="/tupian/69036.html" target="_blank"><p style="text-align:center;">
+<img src="/uploads/2017/3/bd698b0fly1fdve8awdrgj20go0ko3zl2.jpg" width="370" height="522" /> 
+</p>
+<p sty
+5c0
+le="text-align:center;">
+<span style="line-height:1.5;"><span style="font-size:14px;"><strong><a href="http://haotijin.com" target="_blank"><span style="color:#E53333;">好提劲</span></a></strong>笑话网每日提供搞笑图片，段子，视频，娱乐等等....每日乐翻天！</span><span style="font-size:14px;"></span><br />
+</span> 
+</p></a>
+          </div>
+                        <div class="clearfix conBoxWrap">
+                    <div class="fl conBoxAct">
+                        <a href="javascript:;" onclick="vote(69036, 0)" class="ding">
+                            <b></b>
+                            <i id='ding69036' class="ding44255">1237</i>
+                         </a>
+                        <span>|</span>
+                        <a href="javascript:vote(69036, 1);" class="cai">
+                            <b></b>
+                            <i id='cai69036' class="cai44255">162</i>
+                         </a>
+                    </div>
+            <div class="fr share"> 
+            <div id="bdshare" class="bdshare_t bds_tools get-codes-bdshare" data=" "></div></div>
+            <div class="hotTag fr"> <span>笑点：</span> <a href="/tag/neihan_95_1.html" target="_blank">内涵</a><a href="/tag/meizhi_2249_1.html" target="_blank">妹纸</a><a href="/tag/xiee_349_1.html" target="_blank">邪恶</a></div>
+          </div>      
+        </div>
+         
+    	<div class="conBox"> <i class="tagRed"></i>
+          <h3 class="b
+5b4
+oxHeader"><a href="/tupian/69037.html">平衡力超好的</a></h3>
+          <div class="videoPlayBox">
+              <a href="/tupian/69037.html" title="平衡力超好的" target="_blank"></a><a href="/tupian/69037.html" target="_blank"><p style="text-align:center;">
+<img src="/uploads/2017/3/266LD04Q6636.jpg" width="314" height="490" /><span style="line-height:1.5;"></span> 
+</p>
+<p style="text-align:center;">
+<span style="line-height:1.5;"><span style="font-size:14px;"><strong><a href="http://haotijin.com" target="_blank"><span style="color:#E53333;">好提劲</span></a></strong>笑话网每日提供搞笑图片，段子，视频，娱乐等等....每日乐翻天！</span><span style="font-size:14px;"></span><br />
+</span> 
+</p></a>
+          </div>
+                        <div class="clearfix conBoxWrap">
+                    <div class="fl conBoxAct">
+                        <a href="javascript:;" onclick="vote(69037, 0)" class="ding">
+                            <b></b>
+                            <i id='ding69037' class="ding44255">669</i>
+                         </a>
+                        <span>|</span>
+                        <a href="javascript:vote(69037, 1);" class="cai">
+                            <b></b>
+                            <i id='cai69037' class="cai44255">438</i>
+                         </a>
+                    </div>
+            <div class="fr share"> 
+            <div id="bdshare" class="bdshare_t bds_tool
+5b4
+s get-codes-bdshare" data=" "></div></div>
+            <div class="hotTag fr"> <span>笑点：</span> <a href="/tag/erhuo_2285_1.html" target="_blank">二货</a><a href="/tag/gaoxiao_11_1.html" target="_blank">搞笑</a><a href="/tag/doubi_4079_1.html" target="_blank">逗逼</a></div>
+          </div>      
+        </div>
+         
+    	<div class="conBox"> <i class="tagRed"></i>
+          <h3 class="boxHeader"><a href="/tupian/69038.html">防火防盗防闺蜜</a></h3>
+          <div class="videoPlayBox">
+              <a href="/tupian/69038.html" title="防火防盗防闺蜜" target="_blank"></a><a href="/tupian/69038.html" target="_blank"><p style="text-align:center;">
+<img src="/uploads/2017/3/B2C4H3MH35CX.jpg" width="340" height="406" /><span style="line-height:1.5;"></span> 
+</p>
+<p style="text-align:center;">
+<span style="line-height:1.5;"><span style="font-size:14px;"><strong><a href="http://haotijin.com" target="_blank"><span style="color:#E53333;">好提劲</span></a></strong>笑话网每日提供搞笑图片，段子，视频，娱乐等等....每日乐翻天！</span><br />
+</span> 
+</p></a>
+          </div>
+                        <div class="clearfix conBoxWrap">
+                    <div class="fl conBoxAct">
+                        <a href="javascript:;" onclick="vote(69038, 0)" class="ding">
+                            <b></b>
+                            <i id='ding69038' class="ding44255">871</i>
+                       
+5b4
+  </a>
+                        <span>|</span>
+                        <a href="javascript:vote(69038, 1);" class="cai">
+                            <b></b>
+                            <i id='cai69038' class="cai44255">346</i>
+                         </a>
+                    </div>
+            <div class="fr share"> 
+            <div id="bdshare" class="bdshare_t bds_tools get-codes-bdshare" data=" "></div></div>
+            <div class="hotTag fr"> <span>笑点：</span> <a href="/tag/erhuo_2285_1.html" target="_blank">二货</a><a href="/tag/meizhi_2249_1.html" target="_blank">妹纸</a><a href="/tag/gaoxiao_11_1.html" target="_blank">搞笑</a></div>
+          </div>      
+        </div>
+                
+        <div class="hr hr20"></div>
+        <div class="trunPage">  
+    		 
+        		        		        		        		        		    		 
+        		        		        		        		        		    		 
+        		            		            		    <a href="http://www.haotijin.com/index.html">首页</a>
+            		        		        		        		        		        		    		 
+        		        		        		<a href="http://www.haotijin.com/index_7.html?wm">上一页</a>
+        		        		        		        		    		 
+        		        		        		        		  <a href="http://www.haotijin.com/index_5.html?wm">5</a>        		        		        		    		 
+        		        		        		        		  <a href="http://www.haotijin.com/index_6.html?wm">6</a>       
+5af
+ 		        		        		    		 
+        		        		        		        		  <a href="http://www.haotijin.com/index_7.html?wm">7</a>        		        		        		    		 
+        		        		        		        		  <strong>8</strong>
+        		          		        		        		    		 
+        		        		        		        		  <a href="http://www.haotijin.com/index_9.html?wm">9</a>        		        		        		    		 
+        		        		        		        		  <a href="http://www.haotijin.com/index_10.html?wm">10</a>        		        		        		    		 
+        		        		        		        		        		<a href="http://www.haotijin.com/index_9.html?wm">下一页</a>
+        		        		    		 
+        		        		        		        		        		        		<a href="http://www.haotijin.com/index_6683.html?wm">末页</a>
+        		    		    	</div>	
+		<div class="hr hr20"></div>
+      </div>
+  <!--左侧section  end-->   
+  <!--右侧-->  
+  <div class="sidebar">
+<div class="w336Banner"> 
+    <!-- 广告位：haotijin_300*250 -->
+    <script type="text/javascript">haotijin_A_D('pc_haotijin_11');</script>
+</div>   
+<div class="hot_wz">
+    <div class="biaoti" style="display:none;">热点</div>
+    <div class="hot_lei"> 
+                    <a href="/tag/xiee_349_1.html" target="_blank" title="" style="width:auto;">邪恶</a> <a href="/tag/meinv_2_1.html" target="_blank" title="" style="width:auto;">美女</a> <a href="/tag/neihan_95_1.html" target="_
+b5a
+blank" title="" style="width:auto;">内涵</a> <a href="/tag/gaoxiao_11_1.html" target="_blank" title="" style="width:auto;">搞笑</a> <a href="/tag/xieemanhua_152_1.html" target="_blank" title="" style="width:auto;">邪恶漫画</a> <a href="/tag/gaoxiaoshipin_148_1.html" target="_blank" title="" style="width:auto;">搞笑视频</a> <a href="/tag/qiushi_1067_1.html" target="_blank" title="" style="width:auto;">糗事</a> <a href="/tag/chengrenmanhua_142_1.html" target="_blank" title="" style="width:auto;">成人漫画</a> <a href="/tag/qipa_1467_1.html" target="_blank" title="" style="width:auto;">奇葩</a> <a href="/tag/shipin_361_1.html" target="_blank" title="" style="width:auto;">视频</a> <a href="/tag/2B_124_1.html" target="_blank" title="" style="width:auto;">2B</a> <a href="/tag/leiren_29_1.html" target="_blank" title="" style="width:auto;">雷人</a> <a href="/tag/linglei_4067_1.html" target="_blank" title="" style="width:auto;">另类</a> <a href="/tag/gaoxiaotupian_125_1.html" target="_blank" title="" style="width:auto;">搞笑图片</a> <a href="/tag/meizhi_2249_1.html" target="_blank" title="" style="width:auto;">妹纸</a> <a href="/tag/chengrenxiaohua_140_1.html" target="_blank" title="" style="width:auto;">成人笑话</a> <a href="/tag/youmo_247_1.html" target="_blank" title="" style="width:auto;">幽默</a> <a href="/tag/diaosi_3_1.html" target="_blank" title="" style="width:auto;">屌丝</a> <a href="/tag/egao_78_1.html" target="_blank" title="" style="width:auto;">恶搞</a> <a href="/tag/gaoxiaomanhua_141_1.html" target="_blank" title="" style="width:auto;">搞笑漫画</a> <a href="/tag/hunxiaohua_173_1.html" target="_blank" title="" style="width:auto;">荤笑话</a> <a href="/tag/dianying_97_1.html" target="_blank" title="" style="width:auto;">电影</a> <a href="/tag/danteng_67_1.html" target="_blank" title="" style="width:auto;">蛋疼</a> <a href="/tag/neihantu_191_1.html" target="_blank" title="" style="width:auto;">内涵图</a> <a href="/tag/nannv_284_1.html" target="_blank" title="" style="width:auto;">男女</a> <a href="/tag/meirimanhua_136_1.html" target="_blank" title="" style="width:auto;">每日漫画</a> <a href="/tag/qiwen_2449_1.html" target="_blank" title="" style="width:auto;">奇闻</a> <a href="/tag/chuangyi_12_1.html" target="_blank" title="" style="width:auto;">创意</a> <a href="/tag/baoxiao_94_1.html" target="_blank" title="" style="width:auto;">爆笑</a> <a href="/tag/jiqing_128_1.html" target="_blank" title="" style="width:auto;">基情</a> 
+            
+         <!-- a href="/tag/xiee_349_1.html" target="_blank" title="" style="width:auto;">邪恶</a--> 
+    </div>
+</div>
+<div>
+    <div class="w336Banner"> 
+        <!-- 广告位：haotijin_原生3 -->
+        <script type="text/javascript">haotijin_A_D('pc_haotijin_12');</script>
+    </div>  
+
+    <div class="w336Banner"> 
+        <!-- 广告位：
+b5a
+haotijin_原生2 -->
+        <script type="text/javascript">haotijin_A_D('pc_haotijin_13');</script>
+    </div> 
+
+    <div class="hot_pic">
+        <div class="sideTitle" style="display:none;">每周热点</div>
+        <ul class="flli clearfix">    
+                             <li><a href="/tupian/69157.html" title="喔  波涛胸涌" target="_blank"><img src="/uploads/2017/3/c2adb464tw1epovh8ijhlg208y06chdt.jpg" alt="喔  波涛胸涌"/><span>喔  波涛胸涌</span></a></li>
+                             <li><a href="/tupian/69158.html" title="这是个合格的爸比" target="_blank"><img src="/uploads/2017/3/cc0040ad700408062.jpg" alt="这是个合格的爸比"/><span>这是个合格的爸比</span></a></li>
+                    </ul>
+    </div>
+    <div class="fix_parent"></div>
+    <div class="fix_div">
+
+        <div class="w336Banner"> 
+            <!-- 广告位：haotijin_后加baidu -->
+            <script type="text/javascript">haotijin_A_D('pc_haotijin_14');</script>
+        </div>  
+        <div style="margin-bottom:20px;"> 
+		
+		<div class="w336Banner"> 
+            <!-- 广告位：haotijinsousuo -->
+            <script type="text/javascript">haotijin_A_D('pc_haotijin_15');</script>
+        </div>  
+        <div style="margin-bottom:20px;"> 
+		
+            <!-- 广告位：haotijin_300*250_标签云 -->
+            <script type="text/javascript">haotijin_A_D('pc_haotijin_16');</script>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- 图+ --> 
+<script type="text/javascript">haotijin_A_D('pc_haotijin_18');</script>
+
+  <!--右侧sidebar  end-->  
+</div>
+</div> 
+<div class="hr hr20"></div>
+
+<div class="footer">
+    <div class="inner">
+        <!-- FriendLink begin -->
+         <div class="friendlink inner">
+    <ul>
+            <li><a href="http://www.2280.com" target="_blank"> 周公解梦</a> </li><li><a href="http://www.wmpic.me/" target="_blank">唯美图片</a> </li><li><a href="http://bizhi.4493.com" target="_blank">桌面壁纸</a> </li><li><a href="http://www.4493.com" target="_blank">美女图片</a> </li><li><a href="http://www.ys8.com" target="_blank">养生吧</a> </li><li><a href="http://www.lieqi.me/" target="_blank">猎奇网</a> </li><li><a href="http://www.xiaohua.com" target="_blank">笑话网</a> </li><li><a href="http://www.45575.com" target="_blank">小游戏大全</a> </li><li><a href="http://www.4779.com" target="_blank">4779小游戏</a> </li><li><a href="http://www.dyxiaohua.com/" target="_blank">好笑的笑话</a> </li><li><a href="http://www.exiaoba.com/" target="_blank">易笑吧</a> </li><li><a href="http://www.kxb.cc/" target="_blank">笑话大全</a> </li><li><a href="http://www.xieemanhua.cc/" target="_blank">邪恶漫画</a> </li><li><a href="http://xiaohua.8090.so/" target="_blank">8090笑话</a> </li><li><a href="http://www.jiongteng.com/" target="_blank">囧腾网</a> </li><li><a href="http://www.j
+a0f
+inshi.tv/" target="_blank">金视网</a> </li><li><a href="http://ent.qiyue.com/" target="_blank">娱乐新闻</a> </li><li><a href="http://www.4493.com/star/" target="_blank">明星图片</a> </li><li><a href="http://www.jqr5.com/" target="_blank">机器人</a> </li><li><a href="http://www.45575.com/" target="_blank">45575小游戏</a> </li><li><a href="http://www.wulin.cn/" target="_blank">中国功夫</a> </li>
+       </ul>
+</div>
+
+        <!-- FriendLink end -->
+        <!-- Footer begin --> 
+        <div class="foot">
+    <p><a target="_blank" rel="nofollow" href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=36110202000045"><img src="http://www.beian.gov.cn/img/ghs.png" class="ga" style="display:inline-block;vertical-align:middle;"> 赣公网安备 36110202000045号</a>
+    Copyright &#169; 2010-2013 <a href="http://www.haotijin.com/"><b>好提劲</b></a> 赣ICP备12001941号-13</p>
+    <p>
+    <a title="宅基腐重口猥琐群，小纯洁慎入！" href="">意见反馈</a><em>|</em>
+    <a href="/about/guanyu.html">关于好提劲</a> <em>|</em>
+    <a href="/about/Contact.html">联系我们</a> <em>|</em>  
+    <a href="/about/disclaimer.html">免责声明</a> <em>|</em> 
+    <a href="/data/sitemap.html">网站地图</a> <em>|</em> 
+    <a href="/data/rssmap.html">RSS地图</a>     
+<script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_1260374919'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "w.cnzz.com/c.php%3Fid%3D1260374919' type='text/javascript'%3E%3C/script%3E"));</script>
+    </p>
+ </div>
+<!-- 广告位：haotijin_120*300 -->
+<script type="text/javascript">haotijin_A_D('pc_haotijin_2');</script>
+<!-- 广告位：haotijin_富媒体 -->
+<script type="text/javascript">haotijin_A_D('pc_haotijin_10');</script>
+<script language="javascript" type="text/javascript" src="http://js.users.51.la/19015068.js"></script>
+<noscript><a href="http://www.51.la/?19015068" target="_blank"><img alt="&#x6211;&#x8981;&#x5566;&#x514D;&#x8D39;&#x7EDF;&#x8BA1;" src="http://img.users.51.la/19015068.asp" style="border:none" /></a></noscript>
+        <!-- Footer end -->
+    </div>
+</div>
+
+<script type="text/javascript" src="/js/js2016/article.js"></script>
+<div class="back-to-top" id="back-to-top"><a href="javascript:void(0);" target="_self">Back to Top</a></div>
+
+<script type="text/javascript" src="/js/IE6Top.js"></script>
+<script type="text/javascript" src="/js/js2016/share_fx.js"></script>
+</body>
+</html>
+
+0
+
+

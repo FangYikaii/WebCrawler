@@ -1,0 +1,927 @@
+HTTP/1.1 200 OK
+Server: DnionOS/1.11.2.3
+Date: Sat, 25 Mar 2017 04:35:50 GMT
+Content-Type: text/html; charset=gb2312
+Content-Length: 54857
+Connection: close
+Vary: Accept-Encoding
+X-Powered-By: PHP/5.6.9
+Age: 6166
+Via: CT-CNC-ZJFY-P-6-100 (DLC-3.0), CT-FJQZ-C-223-187 (DLC-3.0)
+Server-Info: DnionATS
+Warning: 113 DLC-3.0
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta name="mobile-agent" content="format=html5; url=http://m.duanwenxue.com/" />
+<meta name="mobile-agent" content="format=xhtml; url=http://m.duanwenxue.com/" />
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<meta http-equiv="Cache-Control" content="no-transform" />
+<meta http-equiv="Cache-Control" content="no-siteapp" />
+<title>短文学网_文学网_短文学_文学</title>
+<meta name="description" content="短文学网,文学网,短文学,文学,短文学网登录,短文网,短文,短篇文学网,精选推荐短篇原创文学,在线阅读伤感日志" />
+<link rel="stylesheet" type="text/css" href="/img/duan.css?20170324160711">
+<script src='http://public.1985t.com/js/uaredirect.js' type='text/javascript'></script>
+<script type="text/javascript">uaredirect("http://m.duanwenxue.com/");</script>
+<script type="text/javascript" src="/include/dedeajax2.js?9620170324160711"></script>
+<script type="text/javascript" src="/img/index.js?556620170324160711"></script>
+<base target="_self" />
+</head>
+<body>
+<!-- toolbar start-->
+<div id="toolbar">
+  <div class="tool">
+    <div class="tool-left">
+    <div class="sj_app" id="sj_app" onMouseOver="$(this).find('.ewm').show();" onMouseOut="$(this).find('.ewm').hide();">
+        <i class="qr_code"></i>安卓下载<i class="arrow"></i>
+        <div class="ewm up"> 
+            <p>扫一扫短文学APP<a href="/app_down.html" style=" float:none; padding:0; border-right:none;">点击进行APP下载</a></p>
+			<img src="/img/duan2014/az.jpg">
+            <div class="clear"></div>
+        </div>
+    </div>
+    <div class="sj_app" id="sj_app" onMouseOver="$(this).find('.ewm').show();" onMouseOut="$(this).find('.ewm').hide();">
+        <i class="qr_code"></i>IOS下载<i class="arrow"></i>
+        <div class="ewm up"> 
+            <p>扫一扫短文学APP<a href="/app_down.html" style=" float:none; padding:0; border-right:none;">点击进行APP下载</a></p>
+            <img src="/img/duan2014/ios.jpg">
+            <div class="clear"></div>
+        </div>
+    </div>
+     <a href="http://m.duanwenxue.com">手机访问</a> <a href="/data/sitemap.html">MAP</a> <a href="/tags.html">TAG</a> <a href="/data/rssmap.html">RSS</a> </div>
+    <div class="tool-right" id="tool-right"> 欢迎访问短文学网 您还没有 <a href="/member/login.php" onclick="openAjaxLoginDiv('ajaxlogincommon');return false;" >[ 登录 ]</a> <a href="/member/reg_new.php" >[ 注册 ]</a></div>
+  </div>
+</div>
+<!-- toolbar end --> 
+<!-- header start -->
+<div id="header">
+  <div class="head">
+    <div class="logo"><a href="/" title="短篇原创文学 Duanwenxue.com"><img src="/img/duan2014/logo.gif" /></a></div>
+    <div class="search">
+      <form action="http://search.duanwenxue.com/cse/search" accept-charset="utf-8" onsubmit="document.charset='utf-8';">
+        <input type="hidden" name="s" value="4855508985055551813">
+        <input type="text"  name="q" class="search-text" value="在这里搜索您感兴趣的文章" style="color:#999;" onblur="if(this.value==''){this.value='在这里搜索您感兴趣的文章';}" onfocus="if(this.value=='在这里搜索您感兴趣的文章'){this.value='';}" />
+        <input type="submit" class="search-btn" value="" />
+      </form>
+    </div>
+  </div>
+</div>
+<!-- header end --> 
+<!-- nav start -->
+<div class="nav">
+  <ul>
+    <li><a href="/"  class='active' >短文学网</a></li>
+    <li><a href="/shanggan/" >伤感文章</a></li>
+    <li><a href="/qinggan/" >情感日志</a></li>
+    <li><a href="/diary/" >心情日记</a></li>
+    <li><a href="/sanwen/" >散文精选</a></li>
+    <li><a href="/shige/" >诗歌大全</a></li>
+    <li><a href="/yuju/" >经典语句</a></li>
+    <li><a href="/haowenzhang/" >好文章</a></li>
+    <li><a href="/book/">长篇小说</a></li>
+    <li><a href="/tougao.html">投稿网址</a></li>
+    <li><a href="/shop">积分商城</a></li>
+  </ul>
+</div>
+<!-- nav end --> 
+<!-- subnav -->
+<div class="subnav">
+	<ul>
+		<li class="thiscase"><a href="/sanwen/suibi/">散文随笔</a></li>
+		<li><a href="/qinggan/meiwen/">美文欣赏</a></li>
+		<li><a href="/shanggan/ganrengushi/">感人故事</a></li>
+		<li><a href="/qinggan/aiqing/">爱情文章</a></li>
+		<li><a href="/diary/suibi/">心情随笔</a></li>
+		<li><a href="/sanwen/shuqing/">抒情散文</a></li>
+		<li><a href="/shige/">诗歌大全</a></li>
+		<li><a href="/shige/aiqingshiju/">爱情诗句</a></li>
+		<li><a href="/rizhi/shangganwenzi/">伤感文字</a></li>
+		<li><a href="/jingdian/ganwu/">人生感悟</a></li>
+		<li><a href="/jingdian/zheli/">人生哲理</a></li>
+		<li class="thiscase"><a href="/yuju/yulu/">经典语录</a></li>
+		<li><a href="/yuju/weimei/">唯美句子</a></li>
+		<li><a href="/jingdian/lizhi/">励志文章</a></li>
+		<li><a href="/jingdian/shenghuo/">生活随笔</a></li>
+		<li><a href="/yulu/aiqing/">爱情语录</a></li>
+		<li><a href="/jingdian/gushi/">故事会</a></li>
+		<li><a href="/yuju/shangxin/">伤心的句子</a></li>
+		<li><a href="/huayu/ganren/">感人的话</a></li>
+		<li><a href="/huayu/biaobai/">表白的话</a></li>
+		<li><a href="/huayu/">经典话语</a></li>
+		<li><a href="/juzi/">句子大全</a></li>
+	</ul>
+</div><!-- /subnav -->
+<!-- row start -->
+<div class="row index-row">
+  <div class="row-left">
+    <dl class="hot-news">
+      <dt> <div id="change" class="flash">
+      	<div class="changeDiv" style="display:none;">
+  <div class="h3tit"><a href="/zw/active-11.html">在旅途，你所遇见的世界</a></div>
+  <a href="/zw/active-11.html"><img width="290" height="400" 
+src="/Uploads/files/20170210_094611.jpg"></a></div>
+
+<div class="changeDiv" style="display:none;">
+  <div class="h3tit"><a href="/article/4575004.html">晚风还新，时光却旧了</a></div>
+  <a href="/article/4575004.html"><img width="290" height="400" 
+src="/Uploads/files/20170324_142407.jpg"></a></div>
+
+<div class="changeDiv" style="display:none;">
+  <div class="h3tit"><a href="/article/4574876.html">牵着影子寻觅</a></div>
+  <a href="/article/4574876.html"><img width="290" height="400" 
+src="/Uploads/files/20170324_145902.jpg"></a></div>
+
+<div class="changeDiv" style="display:block;">
+  <div class="h3tit"><a href="/article/4571280.html">遇见，就是缘</a></div>
+  <a href="/article/4571280.html"><img width="290" height="400" 
+src="/Uploads/files/20170323_140002.jpg"></a></div>
+
+<div class="changeDiv" style="display:block;">
+  <div class="h3tit"><a href="/article/4574535.html">踏花过日子</a></div>
+  <a href="/article/4574535.html"><img width="290" height="400" 
+src="/Uploads/files/20170323_142829.jpg"></a></div>
+		<ul class="numchange">
+			<li><span>1</span></li>
+			<li><span>2</span></li>
+			<li><span>3</span></li>
+			<li><span>4</span></li>
+			<li><span>5</span></li>
+		</ul>
+	</div> </dt>
+      <dd>
+      <div class="hot-news-list ">
+  <div class="h3tit"><a href="/article/4574641.html">每一份柔情，都婉约着一份伤痕</a></div>
+  <p>那些无忧无虑的日子，禁不起岁月的蹉跎，转眼就成了记忆中的一部分，那些青葱年华，都定格在了昨天</p>
+<div class="hot-news-list ">
+  <div class="h3tit"><a href="/article/4574963.html">春意阑珊，春情绵绵</a></div>
+  <p>站在时光的深处，筑一把岁月的风琴，弹最动听的歌曲，将你融入我的诗情画意里，正中进我内心最深的地方</p>
+<div class="hot-news-list ">
+  <div class="h3tit"><a href="/article/4575030.html">十年后，你的身边还有谁</a></div>
+   <p>哪有人喜欢孤单，只是不乱交朋友而已。人生像地铁，有的人会下去，有的人会上来，但总会有人一直陪你到终点</p>
+</div>
+<div class="hot-news-list ">
+  <div class="h3tit"><a href="/zw/active-11.html/"><font color="#ff3300">在旅途，点击参与</font></a> </div><p><font color="#ff3300">短文学网2017年第一期有奖征文活动——《在旅途，你所遇见的世界》隆重登场！如果出发了，将所有你想说的故事寄语笔尖，写下在旅途，你所遇见的世界。</font> </p>
+      </dd>
+    </dl>
+    <!--短文周刊 start-->
+    <div class="dwzk">
+      <div class="title">
+        <ul><li><a target='_blank' href='/zhoukan/no136'>第136期</a></li><li><a target='_blank' href='/zhoukan/no135'>第135期</a></li><li class='last'><a target='_blank' href='/zhoukan/no134'>第134期</a></li>
+        </ul>
+          <div class="h2tit"><a href="/zhoukan/">周刊</a></div>
+      </div>
+      <ul class="dwzk-news-list">
+        <li><span>晓枫婉月</span><a target='_blank' href='/article/4572387.html'>寂寞如花，独自优雅独芬芳</a></li><li><span>木梓桐</span><a target='_blank' href='/article/4572385.html'>真诚真实的活着</a></li><li><span>洒洒</span><a target='_blank' href='/article/4572380.html'>请进生命里的那些人</a></li><li><span>Love  Somnus</span><a target='_blank' href='/article/4572194.html'>相见何如不见时</a></li><li><span>围栏</span><a target='_blank' href='/article/4572148.html'>喂！时间你慢点，它们没跟来</a></li><li><span>风舞，花落</span><a target='_blank' href='/article/4572098.html'>在雨中</a></li><li><span>东荷西</span><a target='_blank' href='/article/4571963.html'>一颗花石头</a></li><li><span>河南油田薛洪文</span><a target='_blank' href='/article/4571924.html'>写给春的诗句</a></li>
+      </ul>
+    </div>
+    <!--短文周刊 end--> 
+    <!-- 文章盒子 start -->
+    <ul class="news-boxs">
+      <li>
+        <div class="title">
+          <ul>
+            <li><a href="/sanwen/suibi/">散文随笔</a></li>
+            <li><a href="/sanwen/youmei/">优美散文</a></li>
+            <li class="last"><a href="/sanwen/shuqing/">抒情散文</a></li>
+          </ul>
+            <div class="h2tit"><a href="/sanwen/">散文</a></div>
+        </div>
+        <dl>
+          <dt><div class="b"></div><div class="t">时光如斯</div><a target="_blank" href="/article/4574505.html"><img src="/Uploads/files/20170323_162756.jpg"></a>
+</dt>
+          <dd> <a target="_blank" href="/article/4575395.html">三月的阳光</a>
+<a target="_blank" href="/article/4575394.html">朗读春天 　　</a>
+<a target="_blank" href="/article/4575368.html">知己难求</a>
+<a target="_blank" href="/article/4575353.html">一时的心情</a>
+<a target="_blank" href="/article/4575263.html">三月间的冷风</a>
+<a target="_blank" href="/article/4575249.html">风的心声</a>
+<a target="_blank" href="/article/4575202.html">独立于街头</a>
+<a target="_blank" href="/article/4575201.html">走过千山万水不见你的影</a>
+ </dd>
+        </dl>
+      </li>
+      <li>
+        <div class="title">
+          <ul>
+            <li><a href="/shige/xiandai/">现代诗歌</a></li>
+            <li><a href="/shige/aiqing/">爱情诗歌</a></li>
+            <li class="last"><a href="/shige/yingwenshige/">英文诗歌</a></li>
+          </ul>
+            <div class="h2tit"><a href="/shige/">诗歌</a></div>
+        </div>
+        <dl>
+          <dt><div class="b"></div><div class="t">再见，回见</div><a target="_blank" href="/article/4574859.html"><img src="/Uploads/files/20170323_163116.jpg"></a>
+</dt>
+          <dd> <a target="_blank" href="/article/4575312.html">代毫吟</a>
+<a target="_blank" href="/article/4575292.html">祖国的春天.</a>
+<a target="_blank" href="/article/4575287.html">生命如同流星</a>
+<a target="_blank" href="/article/4575285.html">情何以堪</a>
+<a target="_blank" href="/article/4575284.html">诗歌的灵魂</a>
+<a target="_blank" href="/article/4575283.html">容不得我</a>
+<a target="_blank" href="/article/4575276.html">愁</a>
+<a target="_blank" href="/article/4575269.html">送学</a>
+ </dd>
+        </dl>
+      </li>
+      <li>
+        <div class="title">
+          <ul>
+            <li><a href="/shanggan/rizhi/">伤感日志</a></li>
+            <li><a href="/shanggan/ganrengushi/">感人故事</a></li>
+            <li class="last"><a href="/shanggan/riji/">伤感日记</a></li>
+          </ul>
+            <div class="h2tit"><a href="/shanggan/">伤感文章</a></div>
+        </div>
+        <dl>
+          <dt><div class="b"></div><div class="t">人总要学会在深夜跟往事和解</div><a target="_blank" href="/article/4574658.html"><img src="/Uploads/files/20170323_163758.jpg"></a>
+</dt>
+          <dd> <a target="_blank" href="/article/4574989.html">传奇</a>
+<a target="_blank" href="/article/4574988.html">时候</a>
+<a target="_blank" href="/article/4574987.html">花语</a>
+<a target="_blank" href="/article/4574984.html">神农</a>
+<a target="_blank" href="/article/4574983.html">呐喊</a>
+<a target="_blank" href="/article/4574928.html">曾经的相爱，是一场注定的遗憾</a>
+<a target="_blank" href="/article/4574663.html">因为爱你，所以牵挂</a>
+<a target="_blank" href="/article/4574658.html">人总要学会在深夜跟往事和解</a>
+ </dd>
+        </dl>
+      </li>
+      <li>
+        <div class="title">
+          <ul>
+            <li><a href="/qinggan/riji/">情感日记</a></li>
+            <li><a href="/qinggan/aiqing/">爱情文章</a></li>
+            <li class="last"><a href="/qinggan/qinqing/">亲情文章</a></li>
+          </ul>
+            <div class="h2tit"><a href="/qinggan/">情感日志</a></div>
+        </div>
+        <dl>
+          <dt><div class="b"></div><div class="t">没有谁能一直陪着你，你只有靠自</div><a target="_blank" href="/article/4574334.html"><img src="/Uploads/files/20170323_164445.jpg"></a>
+</dt>
+          <dd> <a target="_blank" href="/article/4575291.html">和大人“捉迷藏 ”</a>
+<a target="_blank" href="/article/4575273.html">初识心动，情到浓处带病中也再难自抑</a>
+<a target="_blank" href="/article/4575267.html">百木残花—55—子非鱼，汝非鱼</a>
+<a target="_blank" href="/article/4575210.html">我是你的小兔兔，你是我的好狮虎</a>
+<a target="_blank" href="/article/4575166.html">写《人在旅途》随感</a>
+<a target="_blank" href="/article/4575073.html">珍惜尘缘</a>
+<a target="_blank" href="/article/4575051.html">友情如歌的岁月</a>
+<a target="_blank" href="/article/4575030.html">十年后，你的身边还有谁</a>
+ </dd>
+        </dl>
+      </li>
+      <li>
+        <div class="title">
+          <ul>
+            <li><a href="/gushi/guigushi/">鬼故事</a></li>
+            <li><a href="/gushi/lizhigushi/">励志故事</a></li>
+            <li class="last"><a href="/gushi/mingrengushi/">名人故事</a></li>
+          </ul>
+            <div class="h2tit"><a href="/gushi/">故事</a></div>
+        </div>
+        <dl>
+          <dt><div class="b"></div><div class="t">孩子，你为什么要努力</div><a target="_blank" href="/article/4574754.html"><img src="/Uploads/files/20170323_164616.jpg"></a>
+</dt>
+          <dd> <a target="_blank" href="/article/4574981.html">农夫与驴</a>
+<a target="_blank" href="/article/4574895.html">千古文脉老道山</a>
+<a target="_blank" href="/article/4574887.html">湮没在宝古图大漠里的诗韵</a>
+<a target="_blank" href="/article/4574881.html">东胡老坛酱的传说</a>
+<a target="_blank" href="/article/4574880.html">土城子红谷的传说</a>
+<a target="_blank" href="/article/4574879.html">桃山与聚仙台迎仙老母的传说</a>
+<a target="_blank" href="/article/4574866.html">黑鱼泡子桃仙谷的传说</a>
+<a target="_blank" href="/article/4574781.html">祸从口出</a>
+ </dd>
+        </dl>
+      </li>
+      <li>
+        <div class="title">
+          <ul>
+            <li><a href="/rizhi/qqkongjian/">qq空间日志</a></li>
+            <li><a href="/rizhi/shangxin/">伤心日志</a></li>
+            <li class="last"><a href="/rizhi/kongjianwenzi/">空间文字</a></li>
+          </ul>
+            <div class="h2tit"><a href="/rizhi/">QQ日志</a></div>
+        </div>
+        <dl>
+          <dt><div class="b"></div><div class="t">三千繁华，弹指刹那</div><a target="_blank" href="/article/4574865.html"><img src="/Uploads/files/20170323_165047.jpg"></a>
+</dt>
+          <dd> <a target="_blank" href="/article/4574865.html">三千繁华，弹指刹那</a>
+<a target="_blank" href="/article/4573441.html">上帝带走他们的魂</a>
+<a target="_blank" href="/article/4573114.html">2017年3月20日</a>
+<a target="_blank" href="/article/4572790.html">同龄幸运</a>
+<a target="_blank" href="/article/4571695.html">牧羊日志</a>
+<a target="_blank" href="/article/4570280.html">《我的~每日一笑~》 之 认识你的名字重要性！（尤其是美女同事）</a>
+<a target="_blank" href="/article/4570276.html">我的~每日一笑~之 哥哥的CD</a>
+<a target="_blank" href="/article/4570209.html">温柔</a>
+ </dd>
+        </dl>
+      </li>
+      
+      <li>
+        <div class="title">
+          <ul>
+            <li><a href="/huayu/zhufu/">祝福的话</a></li>
+            <li><a href="/huayu/ganxie/">感谢的话</a></li>
+            <li class="last"><a href="/duanwen/xiaohua/">幽默笑话</a></li>
+          </ul>
+            <div class="h2tit"><a href="/jingdianyulu/">经典语录</a></div>
+        </div>
+        <dl>
+          <dt><div class="b"></div><div class="t">关于烦恼的句子</div><a target="_blank" href="/jingdianyulu/4527409.html"><img src="/Uploads/files/20170323_165147.jpg"></a>
+</dt>
+          <dd> <a target="_blank" href="/jingdianyulu/4562959.html">如果我说我爱你</a>
+<a target="_blank" href="/jingdianyulu/4527409.html">关于烦恼的句子</a>
+<a target="_blank" href="/jingdianyulu/4527406.html">烦恼人生的句子</a>
+<a target="_blank" href="/jingdianyulu/4527398.html">关于生活烦恼的句子</a>
+<a target="_blank" href="/jingdianyulu/4527376.html">有关忘记烦恼的句子</a>
+<a target="_blank" href="/jingdianyulu/4527343.html">关于化解烦恼的句子</a>
+<a target="_blank" href="/jingdianyulu/4527331.html">形容心烦的句子</a>
+<a target="_blank" href="/jingdianyulu/4527327.html">心情低落很心烦的句子</a>
+ </dd>
+        </dl>
+      </li>
+      <li>
+        <div class="title">
+          <ul>
+            <li><a href="/jingdian/shenghuo/">生活随笔</a></li>
+            <li><a href="/jingdian/ganwu/">人生感悟</a></li>
+            <li class="last"><a href="/huicui/">文章荟萃</a></li>
+          </ul>
+            <div class="h2tit"><a href="/jingdian/">经典文章</a></div>
+        </div>
+        <dl>
+          <dt><div class="b"></div><div class="t">你在心上，别来无恙</div><a target="_blank" href="/article/4574511.html"><img src="/Uploads/files/20170323_165451.jpg"></a>
+</dt>
+          <dd> <a target="_blank" href="/article/4575363.html">你若盛开，蝴蝶自来</a>
+<a target="_blank" href="/article/4575230.html">面对忧愁的时候</a>
+<a target="_blank" href="/article/4575211.html">狗</a>
+<a target="_blank" href="/article/4575038.html">低迷时光</a>
+<a target="_blank" href="/article/4575031.html">谈“厚道”</a>
+<a target="_blank" href="/article/4574980.html">热爱</a>
+<a target="_blank" href="/article/4574867.html">拉黑</a>
+<a target="_blank" href="/article/4574852.html">谈谈如何正确处理性</a>
+ </dd>
+        </dl>
+      </li>
+    </ul>
+    <!-- 文章盒子 end --> 
+  </div>
+  <div class="row-right">
+    <div id="user-login">
+      <div class="title"><span>原创作者: 250596 人</span>
+        <div class="h2tit">会员登录</div>
+      </div>
+      <form name="userlogin" action="/member/login.php" method="POST">
+        <input type="hidden" name="dopost" value="login" />
+        <input type="hidden" name="keeptime" value="604800" />
+        <div class="qq-login"> <a href="javascript:vod(0);" onclick="toQzoneLogin();return false;" class="qq-login-btn"></a>快捷登录: </div>
+        <div class="form-input-row">
+          <input type="text" name="userid" />
+          账号: </div>
+        <div class="form-input-row">
+          <input type="password" name="pwd" />
+          密码: </div>
+        <div class="form-row">
+          <div class="form-other-links"><a href="/member/reg_new.php" >&nbsp;注&nbsp;册&nbsp;&nbsp;&nbsp;&nbsp; </a> <a href="/member/resetpassword.php">忘记密码？</a> </div>
+          <button type="submit" class="login-submit">登录</button>
+        </div>
+      </form>
+    </div>
+      <div class="row-right-box">
+      <div class="title">
+        <div class="h2tit">本周排行榜</div>
+      </div>
+      <ul class="news-list news-list-icon">
+      
+        <li><span class='o'>1</span><a target='_blank' href='/jingxuan/4572142.html'>一生为一人，今生愿为你</a></li><li><span class='o'>2</span><a target='_blank' href='/jingxuan/4572168.html'>数到3，说我爱你</a></li><li><span class='o'>3</span><a target='_blank' href='/article/4572098.html'>在雨中</a></li><li><span >4</span><a target='_blank' href='/article/4573060.html'>燕雀把呢喃送给春天，和风把细腻带给春天</a></li><li><span >5</span><a target='_blank' href='/article/4572380.html'>请进生命里的那些人</a></li><li><span >6</span><a target='_blank' href='/article/4572387.html'>寂寞如花，独自优雅独芬芳</a></li><li><span >7</span><a target='_blank' href='/article/4573475.html'>时光荏苒，记忆纷飞</a></li><li><span >8</span><a target='_blank' href='/article/4572799.html'>他和她</a></li><li><span >9</span><a target='_blank' href='/article/4572214.html'>打开窗，让春风进驻</a></li><li><span >10</span><a target='_blank' href='/article/4572378.html'>春天的思念</a></li> 
+      </ul>
+    </div>
+    <div class="row-right-box"> <a href="/zhengwen/"><img src="/img/duan2014/banner1.png" /></a> </div>
+    <div class="row-right-box">
+      <div class="title"> <a target="_blank" href="/tougao/youxiu.html" class="author">&gt; 成为优秀作者</a>
+        <div class="h2tit">优秀作者</div>
+      </div>
+      <ul class="author-list">
+          
+        <li><a href="/user/36937"><img src="/uploads/userup/36937/myface.jpg" />&nbsp;任明真</a></li><li><a href="/user/57640"><img src="/uploads/userup/57640/avatar.jpg" />&nbsp;蒋双城</a></li><li><a href="/user/67922"><img src="/uploads/userup/67922/avatar.jpg" />&nbsp;橘黄色的时</a></li><li><a href="/user/88193"><img src="/uploads/userup/88193/avatar.jpg" />&nbsp;紫茉</a></li><li><a href="/user/75192"><img src="/uploads/userup/75192/avatar.jpg" />&nbsp;秦玉良</a></li><li><a href="/user/36358"><img src="/uploads/userup/36358/myface.jpg" />&nbsp;暗然凋零</a></li><li><a href="/user/69607"><img src="http://qzapp.qlogo.cn/qzapp/100285758/96F772F67DDCB44982213FDD1DC2FE76/100" />&nbsp;一夏</a></li><li><a href="/user/93978"><img src="/uploads/userup/93978/avatar.jpg" />&nbsp;轻闲</a></li><li><a href="/user/37294"><img src="/uploads/userup/37294/avatar.jpg" />&nbsp;素愫琴音</a></li><li><a href="/user/47332"><img src="/uploads/userup/47332/avatar.jpg" />&nbsp;晴曦</a></li>  
+          
+      	
+      </ul>
+    </div>
+    <div class="row-right-box">
+      <div class="title"> <a href="/tougao/" class="author">&gt; 成为人气作者</a>
+        <div class="h2tit">人气作者</div>
+      </div>
+      <ul class="author-list">
+      <li><a href="/user/195660"><img src="/uploads/userup/195660/avatar.jpg" />&nbsp;梁時</a></li><li><a href="/user/434489"><img src="/uploads/userup/434489/avatar.jpg" />&nbsp;第七感</a></li><li><a href="/user/652372"><img src="/uploads/userup/652372/avatar.jpg" />&nbsp;西秦孺子牛</a></li><li><a href="/user/653933"><img src="http://qzapp.qlogo.cn/qzapp/100285758/409E776338BD0E253DF1FE466B90CF04/100" />&nbsp;秋霜</a></li><li><a href="/user/93978"><img src="/uploads/userup/93978/avatar.jpg" />&nbsp;轻闲</a></li><li><a href="/user/653049"><img src="/uploads/userup/653049/avatar.jpg" />&nbsp;杨小溪</a></li><li><a href="/user/654370"><img src="http://qzapp.qlogo.cn/qzapp/100285758/17E64CB974CA8F9658452E24FA05C514/100" />&nbsp;大漠孤烟</a></li><li><a href="/user/461692"><img src="http://qzapp.qlogo.cn/qzapp/100285758/A71B12CC8AF77B5C4ABEFE43FD3EBC27/100" />&nbsp;美文2016</a></li><li><a href="/user/242089"><img src="http://qzapp.qlogo.cn/qzapp/100285758/86558320FB0D60C330DC3EF4AE5517AE/100" />&nbsp;靓珏</a></li><li><a href="/user/650379"><img src="http://qzapp.qlogo.cn/qzapp/100285758/296265537A9A672CB536ED0C056B3042/100" />&nbsp;旁月</a></li>
+      </ul>
+    </div>
+    <div class="row-right-box">
+      <div class="title">
+          <div class="h2tit"><a href="/new.html">最新投稿</a></div>
+      </div>
+      <ul class="news-list">
+        <li><a target="_blank" href="/article/4575411.html">献歌母亲的歌</a></li>
+<li><a target="_blank" href="/article/4575410.html">母爱似雪</a></li>
+<li><a target="_blank" href="/article/4575409.html">用点滴的心去品味生活，用感恩的</a></li>
+<li><a target="_blank" href="/article/4575408.html">人，要拥有一颗感恩的心</a></li>
+<li><a target="_blank" href="/article/4575395.html">三月的阳光</a></li>
+<li><a target="_blank" href="/article/4575394.html">朗读春天 　　</a></li>
+<li><a target="_blank" href="/article/4575391.html">做一个有情调的女人</a></li>
+<li><a target="_blank" href="/zuowen/4575385.html">一件事作文</a></li>
+
+      </ul>
+    </div>
+    <div class="row-right-box">
+      <div class="title">
+          <div class="h2tit"><a href="/mingyan/">名人名言</a></div>
+      </div>
+      <ul class="news-list">
+        <li><a target="_blank" href="/mingyan/4575364.html">目标励志名言</a></li>
+<li><a target="_blank" href="/mingyan/4574748.html">经典励志名句大全</a></li>
+<li><a target="_blank" href="/mingyan/4574372.html">故人名句大全</a></li>
+<li><a target="_blank" href="/mingyan/4573775.html">关于读书学习的名言</a></li>
+<li><a target="_blank" href="/mingyan/4573774.html">努力奋斗的名言</a></li>
+<li><a target="_blank" href="/mingyan/4573770.html">关于时间的名言</a></li>
+<li><a target="_blank" href="/mingyan/4572187.html">关于自律的名言警句</a></li>
+
+      </ul>
+    </div>
+    <div class="row-right-box">
+      <div class="title">
+          <div class="h2tit"><a href="/baike/">文学百科</a></div>
+      </div>
+      <ul class="news-list">
+        <li><a href="/zuowen/4575385.html">一件事作文</a></li>
+<li><a href="/zuowen/duhougan/4575383.html">百万英镑</a></li>
+<li><a href="/zuowen/duhougan/4575381.html">孔乙己读后感</a></li>
+<li><a href="/zuowen/duhougan/4575378.html">了不起的狐狸爸爸读后感</a></li>
+<li><a href="/zuowen/duhougan/4575377.html">明朝那些事儿读后感</a></li>
+<li><a href="/zuowen/4575375.html">大学自我鉴定</a></li>
+<li><a href="/zuowen/4575373.html">大学生学习思想汇报</a></li>
+<li><a href="/zuowen/4575366.html">入党申请入党积极分子申请书范文</a></li>
+
+      </ul>
+    </div>
+    <div class="row-right-box">
+      <div class="title">
+          <div class="h2tit"><a href="/haowenzhang/ ">精选专题</a></div>
+      </div>
+      <ul class="news-list free-list">
+        <li><a href="/z/zaoanxinyu/">早安心语</a></li>
+        <li><a href="/z/jingdianyululizhi/">励志语录</a></li>
+        <li><a href="/z/jingmeisanwen/">精美散文</a></li>
+        <li><a href="/z/qingshudaquan/">情书大全</a></li>       
+        <li><a href="/z/youmeidejuzi/">优美的句子</a></li>
+        <li><a href="/z/youneihandejuzi/">有内涵的句子</a></li>
+        <li><a href="/z/zhenai/">真爱</a></li>
+        <li><a href="/z/chudongxinlingdejuzi/">触动心灵的句子</a></li>
+        <li><a href="/z/biaobaidejuzi/">表白的句子</a></li>
+        <li><a href="/z/shanggangexingqianming/">伤感个性签名</a></li>
+ </ul>
+    </div>
+  </div>
+</div>
+<!-- row end --> 
+
+<!-- story start -->
+
+<div class="row story-box">
+  <div class="title">
+    <ul>
+        <li><a href="/book/list.html?id=4">现代言情</a></li>
+        <li><a href="/book/list.html?id=1">玄幻奇幻</a></li>
+        <li><a href="/book/list.html?id=5">穿越架空</a></li>
+        <li><a href="/book/list.html?id=9">都市重生</a></li>
+        <li class="last"><a href="/book/index.html">更多</a></li>
+    </ul>
+    <div class="h2tit">小说专区</div>
+    <a class="zuozhe_btn" href="/zuozhe/">作者中心</a>
+  </div>
+  <div class="story-lists">
+  	<div class="story-lists-ul">
+                        <div class="story-pic"><a target="_blank" href="/book/book_23569.html"><img src="/uploads/160825/444566-160R514121aW.jpg" width="100" height="149" /></a></div>
+                        <div  class="story-content">
+                            <ul>
+                <li class="stitle"><a target="_blank" href="/book/book_23569.html">雄图争霸</a></li>
+                                <li class="scat"><span>[分类]</span>&nbsp;&nbsp;<a href="/book/list.html?id=2">仙侠武侠</a></li>
+                                <li class="ccontent"><span>[简介]</span>&nbsp;&nbsp;四海共尊鹏举四十得子，朝堂震荡，天下祸乱纷纷，民不聊生，涂伤万灵，只为一己私欲。<span>&nbsp;&nbsp;[<a target="_blank" href="/book/book_23569.html">马上阅读</a>]</span></li>
+                            </ul>
+                        </div>
+                    </div><div class="story-lists-ul">
+                        <div class="story-pic"><a target="_blank" href="/book/book_198.html"><img src="/uploads/160711/444566-160G1155FAb.jpg" width="100" height="149" /></a></div>
+                        <div  class="story-content">
+                            <ul>
+                <li class="stitle"><a target="_blank" href="/book/book_198.html">妖怪的爱情</a></li>
+                                <li class="scat"><span>[分类]</span>&nbsp;&nbsp;<a href="/book/list.html?id=1">玄幻奇幻</a></li>
+                                <li class="ccontent"><span>[简介]</span>&nbsp;&nbsp;这是一个人和妖共存的世界，人和妖常年纷争不断，但也渐渐趋于和平，不过一次又一次事<span>&nbsp;&nbsp;[<a target="_blank" href="/book/book_198.html">马上阅读</a>]</span></li>
+                            </ul>
+                        </div>
+                    </div><div class="story-lists-ul">
+                        <div class="story-pic"><a target="_blank" href="/book/book_166.html"><img src="/uploads/160523/444566-160523151923339.jpg" width="100" height="149" /></a></div>
+                        <div  class="story-content">
+                            <ul>
+                <li class="stitle"><a target="_blank" href="/book/book_166.html">那从没遇见的爱情</a></li>
+                                <li class="scat"><span>[分类]</span>&nbsp;&nbsp;<a href="/book/list.html?id=4">现代言情</a></li>
+                                <li class="ccontent"><span>[简介]</span>&nbsp;&nbsp;年华如水，爱情是其中的一掬，若未遇见，青春的泉眼也会干涸。<span>&nbsp;&nbsp;[<a target="_blank" href="/book/book_166.html">马上阅读</a>]</span></li>
+                            </ul>
+                        </div>
+                    </div>
+  </div>
+
+</div>
+
+<!-- story end -->
+
+
+<!-- row start -->
+<div class="row">
+  <div class="title">
+    <ul>
+      <li><a href="/diary/xingfu/">幸福</a></li>
+      <li><a href="/diary/kuaile/">快乐</a></li>
+      <li><a href="/diary/ganshang/">感伤</a></li>
+      <li><a href="/diary/nanguo/">难过</a></li>
+      <li><a href="/diary/wuliao/">无聊</a></li>
+      <li><a href="/diary/sinian/">思念</a></li>
+      <li><a href="/diary/jimo/">寂寞</a></li>
+      <li><a href="/diary/ganwu/">感悟</a></li>
+      <li><a href="/diary/jili/">激励</a></li>
+      <li><a href="/diary/youxian/">悠闲</a></li>
+      <li><a href="/diary/shige/">诗歌</a></li>
+      <li><a href="/diary/suigan/">随感</a></li>
+      <li><a href="/diary/suibi/">心情随笔</a></li>
+      <li class="last"><a href="/diary/rizhi/">心情日志</a></li>
+    </ul>
+    <div class="h2tit">精彩心情日记</div>
+  </div>
+  <div  class="row-box-mod3">
+    <dl>
+      <dt><a href="/diary/"><img src="/img/duan2014/img10.jpg" /></a></dt>
+      <dd>
+        <ul>
+          <li><span>天上的云在</span><a target="_blank" href="/diary/4575024.html">桃花十里，十里桃花</a></li>
+<li><span>苦乐相随</span><a target="_blank" href="/diary/4575019.html">从此不再孤独</a></li>
+<li><span>抱朴子</span><a target="_blank" href="/diary/4575007.html">诗歌《送学》</a></li>
+<li><span>抱朴子</span><a target="_blank" href="/diary/4575005.html">红嘴鸥</a></li>
+<li><span>杨小猫</span><a target="_blank" href="/diary/4574868.html">应届毕业生</a></li>
+<li><span>忆白</span><a target="_blank" href="/diary/4574819.html">兵的抉择</a></li>
+<li><span>茗旋</span><a target="_blank" href="/diary/4574743.html">温暖的不只是被子</a></li>
+<li><span>今日今沙编</span><a target="_blank" href="/diary/4574648.html">母爱成就未来</a></li>
+<li><span>忘情水</span><a target="_blank" href="/diary/4574586.html">桃花劫</a></li>
+
+        </ul>
+      </dd>
+    </dl>
+    <dl>
+      <dt><a href="/diary/suibi/"><img src="/img/duan2014/img11.jpg" /></a></dt>
+      <dd>
+        <ul>
+          <li><span>刘嘉晨</span><a target="_blank" href="/article/4575391.html">做一个有情调的女人</a></li>
+<li><span>～苍雪°</span><a target="_blank" href="/article/4575342.html">献给信命的朋友</a></li>
+<li><span>大漠孤烟</span><a target="_blank" href="/article/4575297.html">青春已经耗费，余生不在虚度</a></li>
+<li><span>美与沧桑</span><a target="_blank" href="/article/4575243.html">今生， 我欠您一声“再见”</a></li>
+<li><span>冷树</span><a target="_blank" href="/article/4575054.html">雨的意义</a></li>
+<li><span>若尘</span><a target="_blank" href="/article/4575039.html">无悔人生</a></li>
+<li><span>美与沧桑</span><a target="_blank" href="/article/4575004.html">晚风还新，时光却旧了</a></li>
+<li><span>醉沐枫林</span><a target="_blank" href="/article/4574982.html">失眠，如同那年，那晚</a></li>
+<li><span>丁碧君</span><a target="_blank" href="/article/4574966.html">团支部书记</a></li>
+
+        </ul>
+      </dd>
+    </dl>
+    <dl>
+      <dt><a href="/diary/rizhi/"><img src="/img/duan2014/img12.jpg" /></a></dt>
+      <dd>
+        <ul>
+          <li><span>冷树</span><a target="_blank" href="/article/4575056.html">生活感悟</a></li>
+<li><span>静若莲花</span><a target="_blank" href="/article/4574850.html">被搁置的生活</a></li>
+<li><span>静若莲花</span><a target="_blank" href="/article/4574848.html">我的先生</a></li>
+<li><span>冷树</span><a target="_blank" href="/article/4574820.html">心的想法</a></li>
+<li><span>骑驴去高考</span><a target="_blank" href="/article/4574814.html">一个奇怪的梦</a></li>
+<li><span>半文半武</span><a target="_blank" href="/article/4573822.html">我还想说说手机对我对我们的影响</a></li>
+<li><span>半文半武</span><a target="_blank" href="/article/4573814.html">刚才看到苏运莹和他的野子</a></li>
+<li><span>子午张礼</span><a target="_blank" href="/article/4573718.html">井水现象</a></li>
+<li><span>冷树</span><a target="_blank" href="/article/4573689.html">不一样的今天</a></li>
+
+        </ul>
+      </dd>
+    </dl>
+  </div>
+</div>
+<!-- row end --> 
+<!--经典语句 start-->
+<dl class="jdyj">
+  <dt>
+    <ul>
+      <li class="title">
+        <div class="h2tit">经典语句</div>
+      </li>
+      <li><a href="/yuju/aiqing/">爱情语句</a></li>
+      <li><a href="/yuju/shanggan/">伤感的句子</a></li>
+      <li><a href="/yuju/youmei/">优美的句子</a></li>
+      <li><a href="/yuju/weimei/">唯美的句子</a></li>
+      <li><a href="/yuju/zheli/">哲理句子</a></li>
+      <li><a href="/duanwen/weixiaoshuo/">微小说</a></li>
+      <li><a href="/duanwen/duanyu/">心情短语</a></li>
+      <li><a href="/duanwen/xinqing/">心情签名</a></li>
+      <li><a href="/duanwen/qianming/">个性签名</a></li>
+      <li><a href="/duanwen/mingyan/">名言佳句</a></li>
+    </ul>
+  </dt>
+  <dd>
+    <div class="h3tit">经典语句投稿</div>
+    <form id="quick-jingdianyuju-form" action="/member/ajaxaction.php">
+      <textarea></textarea>
+      <button type="button" id="quick-jingdianyuju-submit">发布短句</button>
+    </form>
+    <ul id="jdyj-list">
+      <li class="jdyj-list-1">
+        <div class="l"> <a href="/user/638844"> <img src="http://qzapp.qlogo.cn/qzapp/100285758/F66A534D59245669E959E37BAC35C31D/100" /> <span> 平儿 </span> </a> </div>
+        <div class="r">
+          <div class="r-t">
+            <div class="r-c">
+              <p><p>雪后的屋檐，雨丝如线，在太阳下，亮闪闪，倾刻间，思绪飘散，远离了人间。</p></p>
+              <div class="r-tool"><a href="javascript:;" data-id="4575293" class="ajax-ding">顶 <span id="ding4575293">0</span></a> <a href="javascript:;" data-id="4575293" class="ajax-fav">收藏 <span id="fav4575293">0</span></a></div>
+            </div>
+          </div>
+        </div>
+      </li>
+<li class="jdyj-list-1">
+        <div class="l"> <a href="/user/588176"> <img src="/uploads/userup/588176/avatar.jpg" /> <span> 飘风落月 </span> </a> </div>
+        <div class="r">
+          <div class="r-t">
+            <div class="r-c">
+              <p><p>&nbsp;如斯流年，光阴匆匆，几多惆怅几许沉浮，多少灿烂多少繁华，到最后，不过都化两行萧然。总觉得，不是所有老来回忆都能拈花微笑的。</p></p>
+              <div class="r-tool"><a href="javascript:;" data-id="4575206" class="ajax-ding">顶 <span id="ding4575206">0</span></a> <a href="javascript:;" data-id="4575206" class="ajax-fav">收藏 <span id="fav4575206">0</span></a></div>
+            </div>
+          </div>
+        </div>
+      </li>
+<li class="jdyj-list-1">
+        <div class="l"> <a href="/user/588176"> <img src="/uploads/userup/588176/avatar.jpg" /> <span> 飘风落月 </span> </a> </div>
+        <div class="r">
+          <div class="r-t">
+            <div class="r-c">
+              <p><p>&nbsp;暗香盈袖的日子，当中也夹杂了太多的疼痛。遥望落日，携余晖饮尽一盅浪迹天涯，续又涩然地痴笑。是心态写老了光阴，还是容颜沧桑了岁月?当华年将昨日泪水尘封，仅剩幽梦回肠，谁又读懂了谁灿烂表像下那颗沉默疼痛的心？</p></p>
+              <div class="r-tool"><a href="javascript:;" data-id="4575205" class="ajax-ding">顶 <span id="ding4575205">0</span></a> <a href="javascript:;" data-id="4575205" class="ajax-fav">收藏 <span id="fav4575205">0</span></a></div>
+            </div>
+          </div>
+        </div>
+      </li>
+<li class="jdyj-list-1">
+        <div class="l"> <a href="/user/588176"> <img src="/uploads/userup/588176/avatar.jpg" /> <span> 飘风落月 </span> </a> </div>
+        <div class="r">
+          <div class="r-t">
+            <div class="r-c">
+              <p><p>&nbsp;爱情的缤纷与伤感，为爱，为一个人，愿意付出一生的光阴。一份承诺的情感，在流年里世俗的激流中沧桑着等待，倾情一生，携手走过的那段岁月，相互厮守的感觉，真好。</p></p>
+              <div class="r-tool"><a href="javascript:;" data-id="4575204" class="ajax-ding">顶 <span id="ding4575204">0</span></a> <a href="javascript:;" data-id="4575204" class="ajax-fav">收藏 <span id="fav4575204">0</span></a></div>
+            </div>
+          </div>
+        </div>
+      </li>
+<li class="jdyj-list-2">
+        <div class="l"> <a href="/user/588176"> <img src="/uploads/userup/588176/avatar.jpg" /> <span> 飘风落月 </span> </a> </div>
+        <div class="r">
+          <div class="r-t">
+            <div class="r-c">
+              <p><p>&nbsp;世界的天涯处，我把记忆的影子一点一点拉长，来时的路，那么的遥远，到了最后，就像一片安静的落叶，停留在散落的悄无声息，若干年后，坐在窗前，当一切都成为往事，一路相随。也许只是路过，不经意间，我们都成了光阴的过客，素心青莲，容颜也老，再也承受不起爱之重负，擦肩而过的岁月，只愿不再牵连着奢望。</p></p>
+              <div class="r-tool"><a href="javascript:;" data-id="4575203" class="ajax-ding">顶 <span id="ding4575203">0</span></a> <a href="javascript:;" data-id="4575203" class="ajax-fav">收藏 <span id="fav4575203">0</span></a></div>
+            </div>
+          </div>
+        </div>
+      </li>
+<li class="jdyj-list-2">
+        <div class="l"> <a href="/user/588176"> <img src="/uploads/userup/588176/avatar.jpg" /> <span> 飘风落月 </span> </a> </div>
+        <div class="r">
+          <div class="r-t">
+            <div class="r-c">
+              <p><p>&nbsp;回顾曾经与你的缘起沉浮，犹如一场绚丽的烟花转眼即逝。岁月里，谁又能经受光阴的逝去，留住那似水的流年？</p></p>
+              <div class="r-tool"><a href="javascript:;" data-id="4575200" class="ajax-ding">顶 <span id="ding4575200">0</span></a> <a href="javascript:;" data-id="4575200" class="ajax-fav">收藏 <span id="fav4575200">0</span></a></div>
+            </div>
+          </div>
+        </div>
+      </li>
+<li class="jdyj-list-2">
+        <div class="l"> <a href="/user/588176"> <img src="/uploads/userup/588176/avatar.jpg" /> <span> 飘风落月 </span> </a> </div>
+        <div class="r">
+          <div class="r-t">
+            <div class="r-c">
+              <p><p>&nbsp;一直不想承认自己在慢慢变老，光阴荏苒中，褪去稚嫩，苍老了容颜。</p></p>
+              <div class="r-tool"><a href="javascript:;" data-id="4575199" class="ajax-ding">顶 <span id="ding4575199">0</span></a> <a href="javascript:;" data-id="4575199" class="ajax-fav">收藏 <span id="fav4575199">0</span></a></div>
+            </div>
+          </div>
+        </div>
+      </li>
+<li class="jdyj-list-2">
+        <div class="l"> <a href="/user/588176"> <img src="/uploads/userup/588176/avatar.jpg" /> <span> 飘风落月 </span> </a> </div>
+        <div class="r">
+          <div class="r-t">
+            <div class="r-c">
+              <p><p>&nbsp;放下笔，静静地聆听窗外落雨的声音，将笔墨落在沉浮的光阴里，将心念放在起落的故事中。许久后的沉默，这一刻终于有勇气再次，与文字邂逅，还是那样的温馨，还是那样的心境，让思想的花绽放在纯白的纸页，成为自己平淡流年里最美的印记。</p></p>
+              <div class="r-tool"><a href="javascript:;" data-id="4575198" class="ajax-ding">顶 <span id="ding4575198">0</span></a> <a href="javascript:;" data-id="4575198" class="ajax-fav">收藏 <span id="fav4575198">0</span></a></div>
+            </div>
+          </div>
+        </div>
+      </li>
+<li class="jdyj-list-3">
+        <div class="l"> <a href="/user/588176"> <img src="/uploads/userup/588176/avatar.jpg" /> <span> 飘风落月 </span> </a> </div>
+        <div class="r">
+          <div class="r-t">
+            <div class="r-c">
+              <p><p>&nbsp;叹光阴挽梦去，将浮生逝流年，往事成非，在隐形的梦境中，抛流光，题写伤悲，指尖散去，是一粟尘埃在沧海无际中，寻觅流年深远的曲径，一颗惆怅的心，催老浮生，伤词断句，销魂破散的醉笑复醉，这似水流年不断洗礼的内心怀思，忽飘的旧梦，在清萧纵横的律动中，凝望鬓发霜白，追忆流年泪滴襟。</p></p>
+              <div class="r-tool"><a href="javascript:;" data-id="4575197" class="ajax-ding">顶 <span id="ding4575197">0</span></a> <a href="javascript:;" data-id="4575197" class="ajax-fav">收藏 <span id="fav4575197">0</span></a></div>
+            </div>
+          </div>
+        </div>
+      </li>
+<li class="jdyj-list-3">
+        <div class="l"> <a href="/user/588176"> <img src="/uploads/userup/588176/avatar.jpg" /> <span> 飘风落月 </span> </a> </div>
+        <div class="r">
+          <div class="r-t">
+            <div class="r-c">
+              <p><p>&nbsp;浮生偏与流年好,斑鬓衰颜独自哀。暮槿老、敛残红，流年如梦，往事如烟，浮生是歌，把那些云淡风轻，在岁月匆忙的长河里，耕织在指尖的笔，任双手写下无数不落的希望，多像为它，赋予一双羽翼在白云的蓝天下，留藏光阴渐逝的故事，然、流年坐守浮生，不堪追忆着过往，旧樽陈酿，编织一纸醉卧流年。</p></p>
+              <div class="r-tool"><a href="javascript:;" data-id="4575196" class="ajax-ding">顶 <span id="ding4575196">0</span></a> <a href="javascript:;" data-id="4575196" class="ajax-fav">收藏 <span id="fav4575196">0</span></a></div>
+            </div>
+          </div>
+        </div>
+      </li>
+<li class="jdyj-list-3">
+        <div class="l"> <a href="/user/588176"> <img src="/uploads/userup/588176/avatar.jpg" /> <span> 飘风落月 </span> </a> </div>
+        <div class="r">
+          <div class="r-t">
+            <div class="r-c">
+              <p><p>&nbsp;一百年的光阴是否太短，牵手的日子是如此的短暂，不经意的一袭清冷，瞬间断了愿。缘来缘去的传奇里，你我成了伤心的结局，转身，往事已成梦，回首，一切皆成空。时光的青灯，烟絮袅袅，是谁，一路向前走，不回头，让我在孤独的岁月里越陷越深？</p></p>
+              <div class="r-tool"><a href="javascript:;" data-id="4575195" class="ajax-ding">顶 <span id="ding4575195">0</span></a> <a href="javascript:;" data-id="4575195" class="ajax-fav">收藏 <span id="fav4575195">0</span></a></div>
+            </div>
+          </div>
+        </div>
+      </li>
+<li class="jdyj-list-3">
+        <div class="l"> <a href="/user/652291"> <img src="http://qzapp.qlogo.cn/qzapp/111111/942FEA70050EEAFBD4DCE2C1FC775E56/100" /> <span> 神笔马良 </span> </a> </div>
+        <div class="r">
+          <div class="r-t">
+            <div class="r-c">
+              <p><p>感情才是人类永恒的话题，也是每个作者的文章的亮点。</p></p>
+              <div class="r-tool"><a href="javascript:;" data-id="4575194" class="ajax-ding">顶 <span id="ding4575194">0</span></a> <a href="javascript:;" data-id="4575194" class="ajax-fav">收藏 <span id="fav4575194">0</span></a></div>
+            </div>
+          </div>
+        </div>
+      </li>
+
+    </ul>
+    <div class="jdyj-slide-icon"> <span class="left"></span> <span class="icon active"></span> <span class="icon"></span> <span class="icon"></span> <span class="right"></span> </div>
+  </dd>
+</dl>
+<!--经典语句 end--> 
+<!--横栏广告 start-->
+<div class="row-ad"><a href="/zhengwen/"><img src="/img/duan2014/banner2.png" /></a></div>
+<!--横栏广告 end--> 
+<!--friends start-->
+<div class="row friendlinks">
+  <div class="title">
+    <div class="h3tit">友情链接</div>
+  </div>
+  <ul class="links">
+    <li><a href="/" >短篇原创文学</a></li><li><a href="http://www.6681.com/" target="_blank">养生</a></li><li><a href="http://www.3234.com/" target="_blank">3234单机游戏</a></li><li><a href="http://www.juxia.com/" target="_blank">聚侠网页游戏</a></li><li><a href="http://www.easyzw.com/" target="_blank">小学作文</a></li><li><a href="http://www.ys8.com/" target="_blank">养生吧</a></li><li><a href="http://www.wmpic.me/" target="_blank">唯美图片</a></li><li><a href="http://www.d1xz.net" target="_blank">星座</a></li><li><a href="http://www.4493.com/" target="_blank">美女图片</a></li><li><a href="http://www.tianqi.com" target="_blank">天气预报</a></li><li><a href="http://www.lookmw.cn/" target="_blank">美文欣赏</a></li><li><a href="http://www.zuowen.org.cn" target="_blank">作文网</a></li><li><a href="http://www.kj-cy.cn/" target="_blank">经典语句</a></li><li><a href="http://www.lieqi.me" target="_blank">猎奇</a></li><li><a href="http://www.2280.com" target="_blank">周公解梦</a></li><li><a href="http://www.sanwen8.cn" target="_blank">散文</a></li><li><a href="http://www.fanw8.com" target="_blank">古诗文网</a></li><li><a href="http://www.xingzuo360.cn/" target="_blank">360星座网</a></li><li><a href="http://www.oicq88.com/" target="_blank">QQ网名</a></li><li><a href="http://www.lizhi123.net" target="_blank">励志</a></li><li><a href="http://www.xpgod.com/" target="_blank">软件下载</a></li><li><a href="http://www.yikexun.cn/" target="_blank">经典语录</a></li><li><a href="http://www.woyaogexing.com" target="_blank">我要个性网</a></li><li><a href="http://www.xiaogushi.com/" target="_blank">小故事</a></li><li><a href="http://www.glook.cn/" target="_blank">生日祝福短信</a></li><li><a href="http://faloo.com" target="_blank">飞卢小说网</a></li><li><a href="http://www.chazidian.com" target="_blank">查字典</a></li><li><a href="http://www.yw11.com" target="_blank">免费起名网</a></li><li><a href="http://www.qqpk.cn" target="_blank">网名</a></li><li><a href="http://www.qqrizhi.com/" target="_blank">QQ日志</a></li><li><a href="http://www.99zuowen.com" target="_blank">99作文网</a></li><li><a href="http://www.xiaopi.com/" target="_blank">小皮游戏</a></li><li><a href="http://www.86kx.com/" target="_blank">白领网</a></li><li><a href="http://www.7723.cn" target="_blank">7723手机游戏</a></li><li><a href="http://www.rz520.com/" target="_blank">QQ日志</a></li><li><a href="http://www.jokeji.cn/" target="_blank">笑话大全</a></li><li><a href="http://www.jj59.com/" target="_blank">文章网</a></li><li><a href="http://www.qqgexingqianming.com/" target="_blank">QQ个性签名</a></li><li><a href="http://www.2265.com/" target="_blank">2265安卓网</a></li><li><a href="http://www.anyv.net/" target="_blank">微信公众平台</a></li><li><a href="/new.html" >最新文章</a></li><li><a href="http://www.baidu.com" target="_blank">百度搜索</a></li><li><a href="/haowenzhang/" >好文章</a></li><li><a href="http://www.2cto.com" target="_blank">红黑联盟</a></li><li><a href="http://www.jqr5.com" target="_blank">机器人</a></li><li><a href="http://www.meiweishudan.com/" target="_blank">美味书单</a></li>
+  </ul>
+</div>
+<!--friends end--> 
+<!--footer start-->
+<div class="index-footer">
+  <div class="footer-nav">
+    <div class="l">
+      <div class="title">
+        <div class="h3tit">短文学导航</div>
+      </div>
+      <div class="service-guide">
+        <ul>
+          <li><a href="/shanggan/"><strong>伤感文章</strong></a></li>
+          <li><a href="/shanggan/rizhi/">伤感日志</a></li>
+          <li><a href="/shanggan/ganrengushi/">感人故事</a></li>
+          <li><a href="/shanggan/riji/">伤感日记</a></li>
+          <li><a href="/rizhi/shangganwenzi/">伤感文字</a></li>
+          <li><a href="/jingdian/ganwu/">人生感悟</a></li>
+        </ul>
+        <ul>
+          <li><a href="/qinggan/"><strong>情感日志</strong></a></li>
+          <li><a href="/qinggan/meiwen/">美文欣赏</a></li>
+          <li><a href="/qinggan/riji/">情感日记</a></li>
+          <li><a href="/qinggan/gushi/">情感故事</a></li>
+          <li><a href="/qinggan/aiqing/">爱情文章</a></li>
+          <li><a href="/qinggan/qinqing/">亲情文章</a></li>
+        </ul>
+        <ul>
+          <li><a href="/sanwen/"><strong>散文精选</strong></a></li>
+          <li><a href="/sanwen/jingdian/">经典散文</a></li>
+          <li><a href="/sanwen/suibi/">散文随笔</a></li>
+          <li><a href="/sanwen/youmei/">优美散文</a></li>
+          <li><a href="/sanwen/shuqing/">抒情散文</a></li>
+          <li><a href="/sanwen/aiqing/">爱情散文</a></li>
+        </ul>
+        <ul>
+          <li><a href="/juzi/haoju/"><strong>好词好句</strong></a></li>
+          <li><a href="/duanwen/geyan/">人生格言</a></li>
+          <li><a href="/duanwen/mingyan/">名言名句</a></li>
+          <li><a href="/yuju/weimei/">唯美句子</a></li>
+          <li><a href="/duanwen/gerenqianming/">个人签名</a></li>
+          <li><a href="/shige/aiqingshiju/">爱情诗句</a></li>
+        </ul>
+        <ul>
+          <li><a href="/huayu/"><strong>经典话语</strong></a></li>
+          <li><a href="/huayu/ganren/">感人的话</a></li>
+          <li><a href="/huayu/biaobai/">表白的话</a></li>
+          <li><a href="/huayu/libie/">离别的话</a></li>
+          <li><a href="/huayu/lizhi/">励志的话</a></li>
+          <li><a href="/juzi/aiqingqianming/">爱情签名</a></li>
+        </ul>
+        <ul>
+          <li><a href="/yulu/"><strong>语录大全</strong></a></li>
+          <li><a href="/yulu/aiqing/">爱情语录</a></li>
+          <li><a href="/yulu/aiqingxuanyan/">爱情宣言</a></li>
+          <li><a href="/juzi/leiren/">雷人语录</a></li>
+          <li><a href="/duanju/">经典短句</a></li>
+          <li><a href="/yulu/gaoxiao/">搞笑语录</a></li>
+        </ul>
+      </div>
+    </div>
+    <ul class="r">
+      <li class="title"><a href="/guestbook/">在线留言</a>
+        <div class="h3tit">联系中心</div>
+      </li>
+      <li class="qq">小编QQ:<img src="/img/duan2014/xiaobianqq.png" /></li>
+      <li class="wx">微信号:duanwenxuewang</li>
+      <li class="mail">E-mail:<img src="/img/duan2014/email.png" /></li>
+      <li class="qqq">QQ群1:<img src="/img/duan2014/qqqun1.png" />（已满）</li>
+      <li class="qqq">QQ群2:<img src="/img/duan2014/qqqun2.png" /></li>
+      <li class="qqq">QQ群3:暂无</li>
+    </ul>
+  </div>
+  <div class="copyright"> <a href="/about/">关于我们</a> | <a href="/guestbook/">在线留言</a> | <a href="/about/service.html">服务条款</a> | <a href="/about/mianze.html">免责声明</a> | <a href="/about/cooperation.html">广告合作</a> | <a href="/tags.html">TAG标签</a> | <a href="/data/sitemap.html">网站地图</a> | <a href="/data/rssmap.html">RSS订阅</a> | <a href="/tougao.html">在线写日记</a> | <a rel="nofollow" href="/member/article_add1.php">在线投稿</a><br />
+    提供 <a href="/sanwen/">散文精选</a>,<a href="/qinggan/">情感日志</a>,<a href="/jingdian/ganwu/">人生感悟</a>,<a href="/yuju/weimei/">唯美的句子</a>,<a href="/yulu/aiqing/">爱情语录</a>在线阅读 <a href="/">短文学 - 短篇原创文学 www.duanwenxue.com</a> 版权所有<br />
+   <a target="_blank"  rel="nofollow" href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=36110202000051"><img src="http://www.beian.gov.cn/img/ghs.png" class="ga" />赣公网安备 36110202000051号</a> CopyRight &copy; 2010 <a href="/">Duanwenxue.com</a> All Rights Reserved. <a href="http://www.miibeian.gov.cn/" rel="nofollow">赣ICP备12001941号-37</a> </div>
+</div>
+<!--footer sssssss end--> 
+
+<div id="gBtn" class="gbtn">
+  <a class="btn help" href="/member/article_add1.php"><i class="iconfont">?</i><span>在线投稿</span></a>
+    
+  <div class="gewm" id="gEwm" style="display:block;"><span class="close"></span></div>
+  <a id="gEwm-a" class="btn weixin" href="###" style="display: none;"><i class="iconfont">?</i>微信关注</a>
+  
+  <div class="gesa bdsharebuttonbox" id="gEsa">
+  	<ul>
+    	<li class="head">分享短文学网</li>
+    	<li><a href="#" class="qzone" data-cmd="qzone">QQ空间</a></li>
+    	<li><a href="#" class="weixin" data-cmd="weixin">微信</a></li>
+    	<li><a href="#" class="sina" data-cmd="tsina">新浪微博</a></li>
+    	<li><a href="#" class="qqwb" data-cmd="tqq">腾讯微博</a></li>
+    </ul>
+  	<span class="close"></span></div>
+  <a id="gEsa-a" class="btn fenxiang" href="###" style="display: block;"><i class="iconfont">?</i>在线分享</a>
+  
+  <a class="btn ttop" href="#"><i class="iconfont">?</i>返回顶部</a>
+</div>
+
+<script>
+    $(function(){
+       $("#gBtn>a.btn").hover(function(){
+          if(!$(this).is(":animated")){
+              $(this).animate({width:"85px",left:"-75px"}, 100); 
+          }
+       },function(){
+           if(!$(this).is(":animated")){
+               $(this).animate({width:"15px",left:"0px"}, 100); 
+           }
+       });
+    });
+</script>
+
+<script language="javascript" type="text/javascript">ToolCheckLogin(); CheckLogin();</script>
+<script>window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"-1","bdSize":"32"},"share":{}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];
+</script>
+<div style="display:none"><script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_1256319371'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "w.cnzz.com/c.php%3Fid%3D1256319371' type='text/javascript'%3E%3C/script%3E"));</script>
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "//hm.baidu.com/hm.js?a48e6ab107a4e68d47e6fdb5d83961e5";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script></div>
+<span style="display:none"><script type="text/javascript" src="/js/tongji.js"></script></span>
+
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "//hm.baidu.com/hm.js?707f388a2f7cc65327c959536185737c";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+<div style="display:none"><script src="/js/tj.js"></script></div>
+</body>
+</html>

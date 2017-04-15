@@ -1,0 +1,15 @@
+﻿生成启动时间为 2017/3/27 15:14:30。
+     1>项目“C:\Users\Administrator\Desktop\C++\通讯-HTTP\通讯-HTTP\通讯-HTTP.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\Software\VS2013\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _CRT_SECURE_NO_WARNINGS /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\通讯-HTTP.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt "通讯-HTTP.cpp"
+         通讯-HTTP.cpp
+     1>c:\users\administrator\desktop\c++\通讯-http\通讯-http\通讯-http.cpp(236): warning C4018: “<”: 有符号/无符号不匹配
+       Link:
+         D:\Software\VS2013\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Administrator\Desktop\C++\通讯-HTTP\Debug\通讯-HTTP.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:D:\Software\VS2013\VC\Include\Manifest\dpiaware.manifest /DEBUG /PDB:"C:\Users\Administrator\Desktop\C++\通讯-HTTP\Debug\通讯-HTTP.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Administrator\Desktop\C++\通讯-HTTP\Debug\通讯-HTTP.lib" /MACHINE:X86 Debug\stdafx.obj
+         "Debug\通讯-HTTP.obj"
+         通讯-HTTP.vcxproj -> C:\Users\Administrator\Desktop\C++\通讯-HTTP\Debug\通讯-HTTP.exe
+     1>已完成生成项目“C:\Users\Administrator\Desktop\C++\通讯-HTTP\通讯-HTTP\通讯-HTTP.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:04.99

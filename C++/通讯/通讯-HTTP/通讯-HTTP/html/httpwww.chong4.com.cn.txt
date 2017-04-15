@@ -1,0 +1,317 @@
+HTTP/1.1 200 OK
+Server: nginx/1.6.0
+Date: Sat, 25 Mar 2017 04:39:12 GMT
+Content-Type: text/html; charset=utf-8
+Transfer-Encoding: chunked
+Connection: close
+X-Powered-By: PHP/5.2.17
+Expires: Mon, 26 Jul 1997 05:00:00 GMT
+Last-Modified: Sat, 25 Mar 2017 04:39:12 GMT
+Cache-Control: no-store, no-cache, must-revalidate
+Pragma: no-cache
+
+1e9e
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>穿衣打扮 - 服饰搭配,美容知识</title>
+<base href="http://www.chong4.com.cn/" />
+<link rel="stylesheet" rev="stylesheet" href="template/liangkuai/styles.css" type="text/css" media="all" />
+
+<script type="text/javascript" src="images/js/common.js"></script>
+<script type="text/javascript" src="lang/zh-cn/jslang.js"></script>
+<script type="text/javascript" src="images/js/ajax.js"></script>
+
+<link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="http://www.chong4.com.cn/feed.php" />
+<link rel="apple-touch-icon" sizes="152x152" href="/apple-touch-icon.png" />
+</head>
+<body>
+<div id="wrapper">
+	<div id="innerWrapper">
+		<div id="header">
+			<div id="innerHeader">
+				<div class="blog-header">
+					<div class="blog-logo"><a href="http://www.chong4.com.cn/"><img src="/image/logo.gif" width="85" height="84" alt="穿衣打扮" title="穿衣打扮" /></a></div>
+					<h2><a href="http://www.chong4.com.cn/">穿衣打扮</a></h2>
+					<div class="blog-desc">提供服饰搭配,美容知识等方面的精彩文章</div>
+				</div>
+				<div id="bbsup"></div>
+				<div id="menu">
+					<ul>
+<li class="menuleft"><a href="http://www.chong4.com.cn/" title="穿衣打扮首页">首页</a></li>
+<li><a href="http://www.chong4.com.cn/picwall.php" title="图片墙">图片墙</a></li>
+<li><a href="http://www.chong4.com.cn/index.php?go=starred" title="查看最受欢迎的文章">精选</a></li>
+<li><a href="http://www.chong4.com.cn/index.php?mode=2" title="查看全部文章">全部</a></li>
+<li><a href="http://www.chong4.com.cn/tag.php" title="查看文章分类">分类</a></li>
+<li><a href="http://www.chong4.com.cn/cydb/link.php?001" target="_blank" title="壹基金公益捐助" rel="nofollow">壹基金</a></li>
+					</ul>
+				</div>
+			</div>
+		</div>
+		<div id="mainWrapper">
+			<div id="content" class="content">
+				<div id="innerContent">
+					<div class="textbox">
+	<div class="textbox-title">
+		<span id="starid19107"><img src="images/others/unstarred.gif" /></span><h2><a href="/read.php?19107" target="_blank">来件半身裙吧，制胜搭配参考在此</a></h2>
+		<div class="textbox-label">[ 2017/03/25 08:00 | by Sky ]</div>
+	</div>
+	<div class="textbox-content">
+	<p>　　女人为什么爱打扮？因为女装的花样多啊！随便归纳总结就能罗列出一大堆很带感的时尚单品。来件半身裙吧，虽然没有连衣裙那样穿搭起来简单便捷，但参考完这些出奇制胜的小心机，花招就由得你耍。</p><p style="text-align: center;"><br /><a href="http://www.chong4.com.cn/read.php?19107" target="_blank"><img alt="来件半身裙吧，制胜搭配参考在此" src="http://www.chong4.com.cn/img01/linshi/2017-03-19/3a5747ff433340e23a6a71d011ce3396.jpg" title="来件半身裙吧，制胜搭配参考在此" /></a></p><p style="text-align: center;">↑ 点击图片阅读全文 ↑</p><p>　　01 制胜观点第一招，屁股大别选百褶裙。因为臀部线条太过明显会把褶皱都撑开，那么百褶裙的效果就大打折扣。颇具复古气息的百褶裙，融合了时髦的金属色，在行走之间闪烁着时代感。虽然是老调重弹老款新穿，活力也是不能小觑的。<div class="readmore"><img src="/image/readmore.gif" /><a href="/read.php?19107" title="点击阅读全文" target="_blank">阅读全文</a></div>
+	</div>
+	<div class="textbox-bottom">
+	分类：<a href="/tag.php?tag=%E5%8D%8A%E8%BA%AB%E8%A3%99" target="_blank">半身裙</a> | 评论(0) | 阅读(300)
+	</div>
+	
+</div><div class="textbox">
+	<div class="textbox-title">
+		<span id="starid19106"><img src="images/others/unstarred.gif" /></span><h2><a href="/read.php?19106" target="_blank">春夏清凉专利，镂空寻踪觅迹</a></h2>
+		<div class="textbox-label">[ 2017/03/24 21:10 | by May ]</div>
+	</div>
+	<div class="textbox-content">
+	<p>　　当温度达到可以任性的程度，就意味着将有一批不露不舒服斯基出没，镂空方式花样繁多，演绎着少与多的复杂关系，是细节设计中的鲜活亮点，以各种方式改变着寻常惯性、丰富着造型形态、活跃着时尚氛围。</p><p style="text-align: center;"><br /><a href="http://www.chong4.com.cn/read.php?19106" target="_blank"><img alt="春夏清凉专利，镂空寻踪觅迹" src="http://www.chong4.com.cn/img01/linshi/2017-03-19/b90eee5c9d835074801c7020f75a5bc2.jpg" title="春夏清凉专利，镂空寻踪觅迹" /></a></p><p style="text-align: center;">↑ 点击图片阅读全文 ↑</p><p>　　01 从最简单易穿的T恤开始，在领部附近剪一个洞，时髦度陡增，大小适中的圆领与各类脸型匹配度还算高，镂空还能分走一部分注意，这个季节用来打底，下摆扎进牛仔裤中，根据温度选择外套抵挡春寒，作为内搭T胜任舒适耐穿不抢戏的基本款角色。<div class="readmore"><img src="/image/readmore.gif" /><a href="/read.php?19106" title="点击阅读全文" target="_blank">阅读全文</a></div>
+	</div>
+	<div class="textbox-bottom">
+	分类：<a href="/tag.php?tag=%E9%95%82%E7%A9%BA" target="_blank">镂空</a> | 评论(0) | 阅读(330)
+	</div>
+	
+</div><div class="textbox">
+	<div class="textbox-title">
+		<span id="starid19105"><img src="images/others/unstarred.gif" /></span><h2><a href="/read.php?19105" target="_blank">保持青春 必备减龄单品少不了</a></h2>
+		<div class="textbox-label">[ 2017/03/24 13:30 | by Sky ]</div>
+	</div>
+	<div class="textbox-content">
+	<p>　　容颜不老青春常驻那都是神话，普通大众还是想办法让自己看起来年轻一点比较实际。又是一年春暖花开，风景是够美的，但时光的流逝却让人唏嘘不已。穿衣打扮告诉我们，要想保持青春，必备的减龄单品可不能少。</p><p style="text-align: center;"><br /><a href="http://www.chong4.com.cn/read.php?19105" target="_blank"><img alt="保持青春 必备减龄单品少不了" src="http://www.chong4.com.cn/img01/linshi/2017-03-19/ddaae8cded711ec9137efdb9b983f465.jpg" title="保持青春 必备减龄单品少不了" /></a></p><p style="text-align: center;">↑ 点击图片阅读全文 ↑</p><p>　　01 春夏的阳光明媚喜欢轻薄细腻的材质，比如真丝比如网纱。而减龄则需要俏皮可爱的时尚元素，喇叭袖小立领因为网纱的轻盈而委婉动人。米色不热闹不喧哗，配合着妙龄韶光的巧笑倩兮刚刚好。<div class="readmore"><img src="/image/readmore.gif" /><a href="/read.php?19105" title="点击阅读全文" target="_blank">阅读全文</a></div>
+	</div>
+	<div class="textbox-bottom">
+	分类：<a href="/tag.php?tag=%E5%8D%95%E5%93%81" target="_blank">单品</a> | 评论(0) | 阅读(567)
+	</div>
+	
+</div><div class="textbox">
+	<div class="textbox-title">
+		<span id="starid19104"><img src="images/others/unstarred.gif" /></span><h2><a href="/read.php?19104" target="_blank">没点儿特别之处，怎么能成为早春的裙子！</a></h2>
+		<div class="textbox-label">[ 2017/03/24 07:00 | by Dora ]</div>
+	</div>
+	<div class="textbox-content">
+	<p>　　就以往经验而言，想成为早春的裙子，一定得有某种特别之处，要不然混不到春天彻底到来就被扼杀到摇篮里了，所以，幸存的都是精品，而且，是有能耐的精品，至于，到底是什么能耐，接着往下看就知道了。</p><p style="text-align: center;"><br /><a href="http://www.chong4.com.cn/read.php?19104" target="_blank"><img alt="没点儿特别之处，怎么能成
+2000
+为早春的裙子！" src="http://www.chong4.com.cn/img01/linshi/2017-03-19/b1a943180a4bbd40145b93a1582ac30b.jpg" title="没点儿特别之处，怎么能成为早春的裙子！" /></a></p><p style="text-align: center;">↑ 点击图片阅读全文 ↑</p><p>　　01 精致的木耳边，规则的印花排列，乍一看还以为上世纪某个年代的裙子穿越过来了呢。好在，这些融合在一起，巧妙的构筑了一幅关于复古的画卷，倒也没什么违和感，起码，经得起考验。<div class="readmore"><img src="/image/readmore.gif" /><a href="/read.php?19104" title="点击阅读全文" target="_blank">阅读全文</a></div>
+	</div>
+	<div class="textbox-bottom">
+	分类：<a href="/tag.php?tag=%E8%BF%9E%E8%A1%A3%E8%A3%99" target="_blank">连衣裙</a> | 评论(1) | 阅读(841)
+	</div>
+	
+</div><div class="textbox">
+	<div class="textbox-title">
+		<span id="starid19103"><img src="images/others/unstarred.gif" /></span><h2><a href="/read.php?19103" target="_blank">打造如春风拂面的职场装扮</a></h2>
+		<div class="textbox-label">[ 2017/03/23 19:55 | by May ]</div>
+	</div>
+	<div class="textbox-content">
+	<p>　　随着活力春天的到来，职场装扮也随之转变节奏，有型有款的西装、性感轻盈的裙子、以及百搭的衬衫T恤等都在此列，在经典款好质感的最基础上留意一下细节，就能让造型美得清爽有品位。</p><p style="text-align: center;"><br /><a href="http://www.chong4.com.cn/read.php?19103" target="_blank"><img alt="打造如春风拂面的职场装扮" src="http://www.chong4.com.cn/img01/linshi/2017-03-19/17dc15f25e28720bb72a3b6c29664a59.jpg" title="打造如春风拂面的职场装扮" /></a></p><p>　　OP的白色西装套装，一身白色间杂少量黑色非常提神，撞色包边宽松流畅，平底尖头鞋也呼应完美，整身轻盈精巧、青春优雅，职业或休闲都能轻松hold住。<div class="readmore"><img src="/image/readmore.gif" /><a href="/read.php?19103" title="点击阅读全文" target="_blank">阅读全文</a></div>
+	</div>
+	<div class="textbox-bottom">
+	分类：<a href="/tag.php?tag=%E8%A3%85%E6%89%AE" target="_blank">装扮</a> | 评论(0) | 阅读(767)
+	</div>
+	
+</div><div class="textbox">
+	<div class="textbox-title">
+		<span id="starid19102"><img src="images/others/unstarred.gif" /></span><h2><a href="/read.php?19102" target="_blank">娇艳胜过四月天焕然新款衬衫</a></h2>
+		<div class="textbox-label">[ 2017/03/23 13:10 | by Anny ]</div>
+	</div>
+	<div class="textbox-content">
+	<p>　　转眼天即暖，终于可以摆脱所有与厚重有关的压抑感，焕然新款衬衫，让好身段象春日的暖阳一般，亮晃晃地抢眼，说什么人面桃花相映红，明明是只要拥有好心情，娇艳隆重分分钟。</p><p style="text-align: center;"><br /><a href="http://www.chong4.com.cn/read.php?19102" target="_blank"><img alt="娇艳胜过四月天焕然新款衬衫" src="http://www.chong4.com.cn/img01/linshi/2017-03-19/b1220dffe16c1c360ec3975ea7797209.jpg" title="娇艳胜过四月天焕然新款衬衫" /></a></p><p style="text-align: center;">↑ 点击图片阅读全文 ↑</p><p>　　01 红花绿叶蓝天，春日轻暖的浪漫竟然可以规划得如此简单，简单得仿佛不带一点心机的率真娇憨，虽然开衩小喇叭袖新颖得会惹人妒忌，但这感觉实在是够清新，好感有如空气，吸一口深入肺腑。<div class="readmore"><img src="/image/readmore.gif" /><a href="/read.php?19102" title="点击阅读全文" target="_blank">阅读全文</a></div>
+	</div>
+	<div class="textbox-bottom">
+	分类：<a href="/tag.php?tag=%E8%A1%AC%E8%A1%AB" target="_blank">衬衫</a> | 评论(0) | 阅读(994)
+	</div>
+	
+</div><div class="textbox">
+	<div class="textbox-title">
+		<span id="starid19101"><img src="images/others/unstarred.gif" /></span><h2><a href="/read.php?19101" target="_blank">怕什么胸小，选对了裙你还是女神</a></h2>
+		<div class="textbox-label">[ 2017/03/22 23:50 | by Sky ]</div>
+	</div>
+	<div class="textbox-content">
+	<p>　　&ldquo;肉肉你放开我的腰，有种冲我的胸来&rdquo;，虽然是句玩笑话，但真实的反应想要减肥的决心以及对平胸的不满。但是从穿衣打扮的角度来说，大胸已经过时了，怕什么胸小，选对了裙你还是女神。</p><p style="text-align: center;"><br /><a href="http://www.chong4.com.cn/read.php?19101" target="_blank"><img alt="怕什么胸小，选对了裙你还是女神" src="http://www.chong4.com.cn/img01/linshi/2017-03-19/e1d3edaa1762eb9060723fb04c533a24.jpg" title="怕什么胸小，选对了裙你还是女神" /></a></p><p style="text-align: center;">↑ 点击图片阅读全文 ↑</p><p>　　01 适合小胸妹纸的裙第一当属吊带裙，不可否认，有曲线美穿出来的效果足够妖娆妩媚，但平胸的妹纸似乎更能传递吊带裙的美感。慵懒不需要曲线美也能让人心旷神怡，美和美的感觉可以大不一样。<div class="readmore"><img src="/image/readmore.gif" /><a href="/read.php?19101" title="点击阅读全文" target="_blank">阅读全文</a></div>
+	</div>
+	<div class="textbox-bottom">
+	分类：<a href="/tag.php?tag=%E8%A3%99%E5%AD%90" target="_blank">裙子</a> | 评论(1) | 阅读(1417)
+	</div>
+	
+</div><div class="textbox">
+	<div class="textbox-title">
+		<span id="starid19100"><img src="images/others/unstarred.gif" /></span><h2><a href="/read.php?19100" target="_blank">半掩婀娜铿锵捧场，有风衣美丽不忧伤</a></h2>
+		<div class="textbox-label">[ 2017/03/22 08:00 | by Anny ]</div>
+	</div>
+	<div class="textbox-content">
+	<p>　　细数女生的衣橱，最能给人飘逸之美的，除了千古绝唱连衣裙的轻舞飞扬，就只有风衣在帅气之余来偶尔串串场，虽然不一定能有百褶裙裾那般满满的仙气尽收眼底，却也能为婀娜柔胰巧添三分铿锵之气，别样韵味旖旎。</p><p style="text-align: center;"><br /><a href="http://www.chong4.com.cn/read.php?19100" target="_blank"><img alt="半掩婀娜铿锵捧场，有风衣美丽不忧伤" src="http://www.chong4.com.cn/img01/linshi/2017-03-19/d9f2b6080aa57ad0bc871df40d13a60e.jpg" title="半掩婀娜铿锵捧场，有风衣美丽不忧伤" /></a></p><p style="text-align: center;">↑ 点击图片阅读全文 ↑</p><p>　　01 淡淡的蓝调，虽不似幽深那般缀着冷冷的睿智与哀怨，却也自带着几分清冷之气，就仿佛薄雾初掩晨曦，浪漫里渗透着欲语还羞的迷离，于是诱惑就这样不请自来，纯净的清新的，给你最想要的初见。<div class="readmore"><img src="/image/readmore.gif" /><a href="/read.php?19100" title="点击阅读全文" target="_blank">阅读全文</a></div>
+	</div>
+	<div class="textbox-bottom">
+	分类：<a href="/tag.php?tag=%E9%A3%8E%E8%A1%A3" target="_blank">风衣</a> | 评论(0) | 阅读(1642)
+	</div>
+	
+</div><div class="textbox">
+	<div class="textbox-title">
+		<span id="starid19099"><img src="images/others/unstarred.gif" /></span><h2><a href="/read.php?19099" target="_blank">与长裤合拍的特色小衫集锦</a></h2>
+		<div class="textbox-label">[ 2017/03/21 20:45 | by Sky ]</div>
+	</div>
+	<div class="textbox-content">
+	<p>　　连衣裙半身裙，A字裙直筒裙，长裙短裙，一年四季姑娘的衣柜几乎被裙装完全占据。但不论你有多爱裙装，裤装的存在也是不容置疑的穿搭力量。与长裤合拍的特色小衫给你想要的绝佳浪漫。</p><p style="text-align: center;"><br /><a href="http://www.chong4.com.cn/read.php?19099" target="_blank"><img alt="与长裤合拍的特色小衫集锦" src="http://www.chong4.com.cn/img01/linshi/2017-03-19/11da8ca5fb6854fa89a3bb1e295586a1.jpg" title="与长裤合拍的特色小衫集锦" /></a></p><p style="text-align: center;">↑ 点击图片阅读全文 ↑</p><p>　　01 白衬衫搭配裤装绝对不会出错，不论是牛仔裤的休闲还是小脚裤的干练，对白衬衫来说简直易如反掌。当然，再简单的白衬衫也是有个性的，刺绣点缀在袖口�
+3951
+��一瞬间就多了几分民族风气韵。<div class="readmore"><img src="/image/readmore.gif" /><a href="/read.php?19099" title="点击阅读全文" target="_blank">阅读全文</a></div>
+	</div>
+	<div class="textbox-bottom">
+	分类：<a href="/tag.php?tag=%E6%9C%8D%E9%A5%B0" target="_blank">服饰</a> | 评论(0) | 阅读(1623)
+	</div>
+	
+</div><div class="textbox">
+	<div class="textbox-title">
+		<span id="starid19098"><img src="images/others/unstarred.gif" /></span><h2><a href="/read.php?19098" target="_blank">性感≠暴露，是一种前卫的生活方式</a></h2>
+		<div class="textbox-label">[ 2017/03/21 15:40 | by Dora ]</div>
+	</div>
+	<div class="textbox-content">
+	<p>　　一直以来，外界对性感的理解都有着理所当然的偏差，好像不暴露就不能达到所谓&ldquo;感性意识认知的魅力美&rdquo;似的，其实，大可不必如此抵触，对异性具有亲和力以致引起异性爱恋的感觉，不过是一种前卫的生活方式而已。</p><p style="text-align: center;"><br /><a href="http://www.chong4.com.cn/read.php?19098" target="_blank"><img alt="性感≠暴露，是一种前卫的生活方式" src="http://www.chong4.com.cn/img01/linshi/2017-03-19/fa1d8e95d310af5fa6f89335f203681a.jpg" title="性感≠暴露，是一种前卫的生活方式" /></a></p><p style="text-align: center;">↑ 点击图片阅读全文 ↑</p><p>　　01 随着时代的进步，女人早就摆脱以前唯唯诺诺的弱者形象了，跟为了男人打扮自己相比，为了取悦自己<a class="inlink" href="http://www.chong4.com.cn/" target="_blank">打扮</a>自己似乎更有意义。因为，想展示荷尔蒙的心情，未必非得和谁有关系，开心就好。<div class="readmore"><img src="/image/readmore.gif" /><a href="/read.php?19098" title="点击阅读全文" target="_blank">阅读全文</a></div>
+	</div>
+	<div class="textbox-bottom">
+	分类：<a href="/tag.php?tag=%E8%A3%85%E6%89%AE" target="_blank">装扮</a> | 评论(0) | 阅读(1706)
+	</div>
+	
+</div><div class="textbox">
+	<div class="textbox-title">
+		<span id="starid19097"><img src="images/others/unstarred.gif" /></span><h2><a href="/read.php?19097" target="_blank">花样美裙，比闺蜜还贴心懂你</a></h2>
+		<div class="textbox-label">[ 2017/03/20 11:05 | by Anny ]</div>
+	</div>
+	<div class="textbox-content">
+	<p>　　爱美吗，穿连衣裙，想偷懒吗，穿连衣裙，心情不好吗，穿连衣裙，想给他惊喜吗，穿连衣裙......对，一言不合就穿连衣裙，它就是女生衣橱的救世主，成长过程中的小伙伴，比闺蜜还懂你的贴心豆瓣。</p><p style="text-align: center;"><br /><a href="http://www.chong4.com.cn/read.php?19097" target="_blank"><img alt="花样美裙，比闺蜜还贴心懂你" src="http://www.chong4.com.cn/img01/linshi/2017-03-19/9d5212ab4c1d0765b93389948b2e3bb4.jpg" title="花样美裙，比闺蜜还贴心懂你" /></a></p><p style="text-align: center;">↑ 点击图片阅读全文 ↑</p><p>　　01 无关轻熟或率真，每个女人的内心都会有那么几分不愿被第二人发现的小无赖，对着镜子俏皮自拍，灯笼袖印花衬衫配百褶宽松小吊带，美美的瞬间情不自禁绽放娇憨，感怀&mdash;&mdash;我怎么这么可爱！<div class="readmore"><img src="/image/readmore.gif" /><a href="/read.php?19097" title="点击阅读全文" target="_blank">阅读全文</a></div>
+	</div>
+	<div class="textbox-bottom">
+	分类：<a href="/tag.php?tag=%E8%BF%9E%E8%A1%A3%E8%A3%99" target="_blank">连衣裙</a> | 评论(0) | 阅读(2674)
+	</div>
+	
+</div><div class="textbox">
+	<div class="textbox-title">
+		<span id="starid19096"><img src="images/others/unstarred.gif" /></span><h2><a href="/read.php?19096" target="_blank">春装夹克大扫荡，利落帅气风格多样</a></h2>
+		<div class="textbox-label">[ 2017/03/19 23:55 | by May ]</div>
+	</div>
+	<div class="textbox-content">
+	<p>　　棒球服、牛仔夹克，春装外套要选哪一卦？春装外套要穿脱便捷随时应对无常的温差，也要利落百搭不拖沓，毕竟春装单品那么多各种排列组合力求得体不浮夸，新季造型中给自由随意的短外套加点新意或设计感来终结无聊吧。</p><p><br />　　【牛仔夹克组：】</p><p style="text-align: center;"><br /><a href="http://www.chong4.com.cn/read.php?19096" target="_blank"><img alt="春装夹克大扫荡，利落帅气风格多样" src="http://www.chong4.com.cn/img01/linshi/2017-03-15/3a8acc0609ffbab7f9ff654b21cf16b8.jpg" title="春装夹克大扫荡，利落帅气风格多样" /></a></p><p>　　初阶搭配：Camille Charriere，牛仔外套搭配小白裙平底鞋，都是简约风基本单品，质感包包丰富造型成为很好的点缀。<div class="readmore"><img src="/image/readmore.gif" /><a href="/read.php?19096" title="点击阅读全文" target="_blank">阅读全文</a></div>
+	</div>
+	<div class="textbox-bottom">
+	分类：<a href="/tag.php?tag=%E5%A4%B9%E5%85%8B" target="_blank">夹克</a> | 评论(0) | 阅读(2059)
+	</div>
+	
+</div>
+					<div class="article-bottom" style="display: block">
+						<div class="pages">
+							 <a href="index.php?mode=1&amp;page=1">首页</a>  <span class="pagelink-current">1</span>  <a href="index.php?mode=1&amp;page=2">2</a>  <a href="index.php?mode=1&amp;page=3">3</a>  <a href="index.php?mode=1&amp;page=4">4</a>  <a href="index.php?mode=1&amp;page=5">5</a>  <a href="index.php?mode=1&amp;page=6">6</a>  <a href="index.php?mode=1&amp;page=7">7</a>  <a href="index.php?mode=1&amp;page=8">8</a>  <a href="index.php?mode=1&amp;page=9">9</a>  <a href="index.php?mode=1&amp;page=10">10</a>  <a href="index.php?mode=1&amp;page=2" class="pagesnext">下一页</a>  <a href="index.php?mode=1&amp;page=1592">尾页</a>  [ <a href="index.php?mode=1" title="切换到摘要模式">摘要</a> | <a href="index.php?mode=2" title="切换到列表模式">列表</a> ]
+						</div>
+					</div>
+				</div>
+			</div>
+		<div class="sidebar">
+			<div id="innerSidebar">
+
+<div class="panel">
+<h3>主题推荐</h3>
+	<div class="panel-content">
+		<ul>
+<li>☆ 当红必备元素播报 ☆</li>
+<li><a href="http://www.chong4.com.cn/read.php?18751" title="格纹，守经典追时尚看点多多" target="_blank">格纹，守经典追时尚看点多多</a></li>
+<li><a href="http://www.chong4.com.cn/read.php?18741" title="没办法，早已沦为针织的忠实粉丝" target="_blank">没办法，早已沦为针织的忠实粉丝</a></li>
+<li><a href="http://www.chong4.com.cn/read.php?18734" title="一场秋雨一场寒，麂皮绒给你送温暖" target="_blank">一场秋雨一场寒，麂皮绒给你送温暖</a></li>
+<li><a href="http://www.chong4.com.cn/read.php?18719" title="最炫中国风 被T台认可的神奇元素" target="_blank">最炫中国风 被T台认可的神奇元素</a></li>
+<li><a href="http://www.chong4.com.cn/read.php?18714" title="假两件真层次 才是上上之选" target="_blank">假两件真层次 才是上上之选</a></li>
+<li>☆ 学会搭配就很美 ☆</li>
+<li><a href="http://www.chong4.com.cn/read.php?18754" title="一叶知秋，看秋日穿搭怎样留住朝气" target="_blank">一叶知秋，看秋日穿搭怎样留住朝气</a></li>
+<li><a href="http://www.chong4.com.cn/read.php?18753" title="翻开看一眼，优雅系养成日记" target="_blank">翻开看一眼，优雅系养成日记</a></li>
+<li><a href="http://www.chong4.com.cn/read.php?18749" title="娇小女生与长大衣无缘？才不是呢！" target="_blank">娇小女生与长大衣无缘？才不是呢！</a></li>
+<li><a href="http://www.chong4.com.cn/read.php?18745" title="短发妞双11什么外套值得买" target="_blank">短发妞双11什么外套值得买</a></li>
+<li><a href="http://www.chong4.com.cn/read.php?18726" title="省钱秘笈｜就3招 不买新衣也时髦" target="_blank">省钱秘笈｜就3招 不买新衣也时髦</a></li>
+<li>☆ 品位生活 心情箴语 ☆</li>
+<li><a href="http://www.chong4.com.cn/read.php?18619" title="许一场一见如故 眉目成书" target="_blank">许一场一见如故 眉目成书</a></li>
+<li><a href="http://www.chong4.com.cn/read.php?16923" title="始终念念不忘白日梦" target="_blank">始终念念不忘白日梦</a></li>
+<li><a href="http://www.chong4.com.cn/read.php?16957" title="你缺的是吸收正能量的方法" target="_blank">你缺的是吸收正能量的方法</a></li>
+<li><a href="http://www.chong4.com.cn/read.php?16951" title="请学会尊重他人" target="_blank">请学会尊重他人</a></li>
+<li><a href="http://www.chong4.com.cn/read.php?16948" title="想要路过你的全世界" target="_blank">想要路过你的全世界</a></li>
+
+		</ul>
+	</div>
+</div>
+
+				<div class="panel">
+<h3>最新文章</h3>
+<div class="panel-content">
+<ul><li><a href="/read.php?19107" title="来件半身裙吧，制胜搭配参考在此" target="_blank">来件半身裙吧，制胜搭配参考在此</a></li><li><a href="/read.php?19106" title="春夏清凉专利，镂空寻踪觅迹" target="_blank">春夏清凉专利，镂空寻踪觅迹</a></li><li><a href="/read.php?19105" title="保持青春 必备减龄单品少不了" target="_blank">保持青春 必备减龄单品少不了</a></li><li><a href="/read.php?19104" title="没点儿特别之处，怎么能成为早春的裙子！" target="_blank">没点儿特别之处，怎么能成为早春的裙子！</a></li><li><a href="/read.php?19103" title="打造如春风拂面的职场装扮" target="_blank">打造如春风拂面的职场装扮</a></li><li><a href="/read.php?19102" title="娇艳胜过四月天焕然新款衬衫" target="_blank">娇艳胜过四月天焕然新款衬衫</a></li><li><a href="/read.php?19101" title="怕什么胸小，选对了裙你还是女神" target="_blank">怕什么胸小，选对了裙你还是女神</a></li><li><a href="/read.php?19100" title="半掩婀娜铿锵捧场，有风衣美丽不忧伤" target="_blank">半掩婀娜铿锵捧场，有风衣美丽不忧伤</a></li><li><a href="/read.php?19099" title="与长裤合拍的特色小衫集锦" target="_blank">与长裤合拍的特色小衫集锦</a></li><li><a href="/read.php?19098" title="性感≠暴露，是一种前卫的生活方式" target="_blank">性感≠暴露，是一种前卫的生活方式</a></li><li><a href="/read.php?19097" title="花样美裙，比闺蜜还贴心懂你" target="_blank">花样美裙，比闺蜜还贴心懂你</a></li><li><a href="/read.php?19096" title="春装夹克大扫荡，利落帅气风格多样" target="_blank">春装夹克大扫荡，利落帅气风格多样</a></li></ul>
+</div>
+</div>
+
+<div class="panel"><script type="text/javascript" src="/js/search.js"></script></div>
+
+<div class="panel">
+<h3>关于本站</h3>
+	<ul class="aboutus">
+		<li>穿衣打扮专为女性提供服饰搭配、美容知识等方面的精彩文章，每天更新，欢迎常来。</li>
+		<li>如果你有穿衣打扮方面的疑问或者心得希望和我们交流，请关注我们的微信号<a href="http://www.chong4.com.cn/cydb/link.php?009" target="_blank" title="穿衣打扮微信公众号" rel="nofollow">cydbabc</a>，热心的小编们等着你哦！</li>
+		<li>如果你觉得这里不错，请推荐给你的朋友们！</li>
+		<li>网站合作及广告投放请联系：<br />电邮 saiping@chong4.com<br />电话 13950121131<br />QQ 1024759</li>
+		<li><script type="text/javascript" src="/js/about.js"></script></li>
+	</ul>
+</div>
+
+			</div>
+		</div>
+		</div>
+		<div id="footersp"></div>
+		<div id="footer">
+			<div id="innerFooter">
+
+<div id="frlink">
+	<ul>
+		<li class="frtitle">友情链接：</li>
+		<li><a href="http://www.netnoease.com/" target="_blank" title="不新鲜毋宁死,不原创毋宁吃屎">网不易</a></li>
+		<li><a href="http://mail.qq.com/" target="_blank" title="QQ邮箱">QQ邮箱</a></li>
+		<li><a href="http://xianguo.com/section/1F72342637DF9B1CEA7B0BDAEB63A62D" target="_blank" title="鲜果">鲜果</a></li>
+		<li><a href="http://www.ladyband.com/" target="_blank" title="女人帮">女人帮</a></li>
+		<li><a href="http://fashion.onlylady.com/" target="_blank" title="女人志服饰">女人志服饰</a></li>
+		<li><a href="http://www.wmpic.me/" target="_blank" title="唯美图片">唯美图片</a></li>
+		<li><a href="http://www.mihuwa.com/" target="_blank" title="迷糊娃">迷糊娃</a></li>
+		<li><a href="http://www.71lady.com/" target="_blank" title="奇丽女性网">奇丽女性网</a></li>
+		<li><a href="http://www.bianzhirensheng.com/" target="_blank" title="编织人生">编织人生</a></li>
+		<li><a href="http://www.hers.com.cn/" target="_blank" title="hers女性网">hers女性网</a></li>
+		<li><a href="http://clothing.lady8844.com/" target="_blank" title="爱美网服饰">爱美网服饰</a></li>
+		<li><a href="http://www.meyol.com/" target="_blank" title="魅网女性">魅网女性</a></li>
+		<li><a href="http://face.39.net/" target="_blank" title="39美容">39美容</a></li>
+		<li><a href="http://vogue.moonbasa.com/" target="_blank" title="梦芭莎时尚网">梦芭莎时尚网</a></li>
+		<li><a href="http://dress.yxlady.com/" target="_blank" title="伊秀服饰网">伊秀服饰网</a></li>
+		<li><a href="http://www.ixiumei.com/" target="_blank" title="秀美女性网">秀美女性网</a></li>
+		<li><a href="http://www.meixie.com/" target="_blank" title="美鞋网">美鞋网</a></li>
+	</ul>
+</div>
+
+			<div id="footericp"><a href="http://www.miibeian.gov.cn" target="_blank">闽ICP备09050381号</a></div>
+
+<script>window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"4","bdPos":"right","bdTop":"180"}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+
+<div class="footer02"></div>
+
+			<p>&copy;&nbsp;2015&nbsp;www.cydb.com</p>
+
+			</div>
+		</div>
+	</div>
+
+</div>
+
+<div class="count">
+	<a href="http://www.chong4.com.cn/list.html" title="穿衣打扮全部文章列表">穿衣打扮全部文章列表</a>
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F987a52b30d2e01bb9a5a912588468110' type='text/javascript'%3E%3C/script%3E"));
+</script>
+</div>
+
+</body>
+</html>
+0
+
+

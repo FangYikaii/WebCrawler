@@ -1,0 +1,584 @@
+HTTP/1.1 200 OK
+Expires: Sat, 25 Mar 2017 04:49:00 GMT
+Date: Sat, 25 Mar 2017 04:19:00 GMT
+Server: nginx/1.4.2
+Content-Type: text/html
+Transfer-Encoding: chunked
+Cache-Control: max-age=1800
+Age: 625
+X-Via: 1.1 zhj76:0 (Cdn Cache Server V2.0), 1.1 qzh230:10 (Cdn Cache Server V2.0)
+Connection: close
+
+90ac
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="gb2312">
+	<meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1">
+	<title>皮卡堂过家家,皮卡堂过家家新版,4399皮卡堂</title>
+	<meta name="keywords" content="皮卡堂过家家,皮卡堂过家家新版,4399皮卡堂小游戏" />
+	<meta name="description" content="4399皮卡堂—可爱迷你的虚拟家园。快乐、创造、惊喜都可以在皮卡堂的世界中拥有。任意挑选家具和装饰，打造完全属于你的个性家园，和朋友们一起来体验皮卡堂的幸福生活吧。" />
+	<link rel="alternate" media="only screen and(max-width: 640px)" href="http://m.news.4399.com/pikatang/" /><meta http-equiv="Cache-Control" content="no-transform" /><script type="text/javascript" src="http://newsimg.5054399.com/js/checkMobile.js"></script><script>check_mobile('http://m.news.4399.com/pikatang/','http://m.news.4399.com/pikatang/','')</script>	
+	<link href="http://newsimg.5054399.com/css/style_common.css" rel="stylesheet" type="text/css" />
+	<link href="http://newsimg.5054399.com/pikatang/v3/index/css/style_e20170301.css" rel="stylesheet" type="text/css" />
+	<script type="text/javascript" src="http://newsimg.5054399.com/js/jquery-1.6.2.min.js"></script>
+	<script type="text/javascript" src="http://newsimg.5054399.com/js/jq/lzimg.js"></script>
+	<script type="text/javascript" src="http://newsimg.5054399.com/baiduad/ertong_function.js"></script>
+	<script language="javascript" src="http://www.4399.com/jss/trace_news.js"></script>	
+	<base target="_blank">
+</head>
+<body onmousedown="tracking(event)">
+
+<div class="top-wrap" id="top">
+    <div class="top-head cf">
+    	<a class="top-logo fl" href="http://www.4399.com/"><img src="http://www.4399.com/images/play/logo.gif" alt="4399小游戏"></a>
+    	<div class="top-list fl">
+    		<a href="http://www.4399.com/" target="_blank">首页</a>
+		    <a target="_blank" href="http://joke.4399pk.com/" class="red">笑话</a>						
+			<a target="_blank" href="http://www.4399.com/special/195.htm">女生</a>
+			<a href="http://app.4399.cn/" class="red">4399游戏盒</a>
+      </div>
+		<div class="fr top-img">
+          	<a href="http://news.4399.com/gonglue/pikatang/gonglvexinde/201512-21-585239.html"><img alt="4399游戏盒签到领礼包" src="http://newsimg.5054399.com/uploads/userup/1702/2Q6242A213.jpg"></a>
+        	<a href="http://my.4399.com/kefu/pkt.html"><img alt="皮卡堂客服" src="http://newsimg.5054399.com/pikatang/v3/index/images/top-btn2.jpg"></a>        	
+        	<a href="http://v.4399pk.com/pikatang/video_213831.htm"><img src="http://newsimg.5054399.com/uploads/userup/1608/311P2249A2.jpg" alt="皮卡堂充值帮助"></a>
+<a href="http://my.4399.com/jifen/yx-pkt"><img src="http://newsimg.5054399.com/uploads/userup/1611/1G11644T13.gif" alt="皮卡堂新手卡" /></a>
+
+        	<a href="###" onClick="addfav(event,'4399皮卡堂-www.4399.com','http://news.4399.com/pikatang/')"><img alt="收藏4399皮卡堂" src="http://newsimg.5054399.com/pikatang/v3/index/images/top-btn5.gif"></a>
+ 		</div>
+	</div>
+</div>
+
+<div class="bg bg1" style="background-image:url(http://newsimg.5054399.com/uploads/userup/1703/0110592N591.jpg);"></div>
+<div class="bg bg2" style="background-image:url(http://newsimg.5054399.com/uploads/userup/1703/02094034U21.jpg);"></div>
+<div class="bg bg3" style="background-image:url(http://newsimg.5054399.com/uploads/userup/1703/01105940I61.jpg);"></div>
+<div class="w game">
+	<script>
+	(function(){
+		var a = function (name) {
+			if(window.location.search=='') return '';
+	　　	var reg = new RegExp("(^|&)" + name +"=([^&]*)(&|$)","i");
+	　　	var r = window.location.search.substr(1).match(reg);
+			return r!=null?'&'+name+'='+encodeURIComponent(r[2]):'';
+		}
+		var url = 'http://my.4399.com/yx_pkt/?from=news&newsrefer='+encodeURIComponent(document.referrer)+a('gamestart')+a('sid');				
+		document.write('<center><iframe width="960" scrolling="no" height="572" frameborder="0" name="tt" src="'+url+'"></iframe></center>');
+	})();
+	</script>
+</div>
+<div class="w m1">
+	<p class="m1-tit1">皮卡堂小游戏说明 :</p>
+	<p class="m1-txt1">《<a href="http://news.4399.com/pikatang/">皮卡堂</a>》是一个可爱迷你的虚拟家园。快乐、创造、惊喜都可以在皮卡堂的世界中拥有。任意挑选家具和装饰，打造完全属于你的个性家园；当你醒来，就可以穿上自己最喜欢的精致衣服，去朋友的家做客聊天或去商城购物。你还会拥有自己的花园和牧场，和朋友们一起精心的种植花朵，仔细的照顾牧场里的小动物，让花朵和小动物健康地长大，耐心等待收获的日子。<span>本游戏深受女生们的喜爱，只要你用心去玩，就能体验到完美的游戏感受。</span></p>
+</div>
+<div class="w m2">
+	<a href="http://news.4399.com/gonglue/pikatang/gonglvexinde/201512-21-585239.html"><img alt="4399游戏盒签到领礼包" src="http://newsimg.5054399.com/uploads/userup/1702/2Q6230c541.jpg"></a>
+<a href="http://www.3387.com/huodong/yxzzds3/"><img alt="3387游戏制作大赛3" src="http://newsimg.5054399.com/uploads/userup/1702/24111T25558.jpg"></a>
+<a href="http://my.4399.com/zhuanti/pkt/mblb"><img alt="4399皮卡堂完善注册资料" src="http://newsimg.5054399.com/uploads/userup/1702/091P5142496.jpg"></a>
+</div>
+<div class="w m3">
+	<div class="m3-1 cf">
+		<a class="m3-btn1" href="http://news.4399.com/gonglue/pikatang/xinshouzhinan/">皮卡堂新手攻略</a>
+		<a class="m3-btn2" href="http://news.4399.com/gonglue/pikatang/gonglvexinde/">皮卡堂攻略</a>
+		<a class="m3-btn3" href="http://news.4399.com/gonglue/pikatang/wenda/">皮卡堂问答</a>
+		<a class="m3-btn4" href="http://v.4399pk.com/pikatang/">皮卡堂视频</a>
+		<a class="m3-btn5" href="http://my.4399.com/forums/mtag-81132">皮卡堂官方论坛</a>
+		<a class="m3-btn6" href="http://cz.4399.com/pkt/?je=50">皮卡堂充值中心</a>
+	</div>
+	<div class="m3-2 cf">
+		<div class="m3-search fl">
+			<form method="get" action="http://news.4399.com/pikatang/search.php">
+				<input class="stxt" name="q" value="请输入关键词">
+				<input class="sbtn" type="submit" value="" name="">
+			</form>
+		</div>
+		<div class="m3-keys fl">
+			<p>
+<span>热门搜索：</span>
+<a href="http://news.4399.com/pktsy/" target='_blank'>皮卡堂手机版</a>
+<a href="http://news.4399.com/pikatang/search.php?q=皮卡豆" target='_blank'>皮卡豆</a>
+<a href="http://news.4399.com/pikatang/search.php?q=宠物蛋" target='_blank'>宠物蛋</a>
+<a href="http://news.4399.com/pikatang/search.php?q=家具" target='_blank'>家具</a>
+</p>
+			<a class="btn m3-help" href="http://news.4399.com/gonglue/pikatang/wenda/201608-24-667520.html">皮卡堂搜索指南</a>
+		</div>
+		<div class="m3-share fr">
+			<div class="bdsharebuttonbox" id="bdshare" data-tag="share_1">
+				<span>分享到：</span>
+				<a href="#" class="bds_sqq sqq" data-cmd="sqq" title="分享到QQ好友"></a>
+				<a href="#" class="bds_qzone qz" data-cmd="qzone" title="分享到QQ空间"></a>				
+				<a href="#" class="bds_tqf tx" data-cmd="tqf" title="分享到腾讯朋友"></a>
+				<a href="#" class="bds_tsina wb" data-cmd="tsina" title="分享到新浪微博"></a>
+				<a href="#" class="bds_weixin" data-cmd="weixin" title="分享到微信"></a>
+			</div>
+		</div>
+	</div>
+</div>
+<div class="w m5" id="jchd">
+	<div class="ml">
+		<div class="mslide">			
+			<a  href="http://news.4399.com/gonglue/pikatang/youxixinwen/201703-23-740081.html"><img alt="皮卡堂3月23日抢凳子主题活" lzimg="1" lz_src="http://newsimg.5054399.com/uploads/userup/1703/2311020R310.jpg"/></a><a  href="http://news.4399.com/gonglue/pikatang/youxixinwen/201702-14-728545.html"><img alt="跨服狼人杀" lz_src="http://newsimg.5054399.com/uploads/userup/1702/1416445E013.jpg"/></a><a  href="http://news.4399.com/gonglue/pikatang/gonglvexinde/201512-21-585239.html"><img alt="皮卡堂游戏盒签到礼包领取攻" lz_src="http://newsimg.5054399.com/uploads/userup/1702/2Q622004D1.jpg"/></a>
+			<div class="clear"></div>
+			<i class="mslide-b"></i>
+			<p class="mslide-p">				
+				<a  href="http://news.4399.com/gonglue/pikatang/youxixinwen/201703-23-740081.html">皮卡堂3月23日抢凳子主题活</a>				
+			</p>
+			<div class="mslide-i">				
+				<span  class="on"></span><span ></span><span ></span>		
+			</div>
+		</div>
+	</div>
+	<div class="mc">
+		<div class="mhd">
+			<a class="mtit" href="http://news.4399.com/gonglue/pikatang/youxixinwen/">皮卡堂新闻公告</a>
+			<a class="btn mmore" href="http://news.4399.com/gonglue/pikatang/youxixinwen/">皮卡堂新闻</a>
+		</div>
+		<ul class="mbd">			
+			<li><a href="http://news.4399.com/gonglue/pikatang/youxixinwen/201703-23-740086.html">皮卡堂3月23日购物街更新</a><span>03-23</span></li><li><a href="http://news.4399.com/gonglue/pikatang/youxixinwen/201703-23-740084.html">皮卡堂3月23日十元充值奖励</a><span>03-23</span></li><li><a href="http://news.4399.com/gonglue/pikatang/youxixinwen/201703-23-740081.html">皮卡堂3月23日抢凳子主题活</a><span>03-23</span></li><li><a href="http://news.4399.com/gonglue/pikatang/youxixinwen/201703-23-740077.html">皮卡堂3月23日大白商店、龙</a><span>03-23</span></li><li><a href="http://news.4399.com/gonglue/pikatang/youxixinwen/201703-23-740074.html">皮卡堂3月23日四叶草、新房</a><span>03-23</span></li><li><a href="http://my.4399.com/forums/thread-50295440">皮卡堂3月23日合服公告</a><span>03-22</span></li><li><a href="http://my.4399.com/forums/thread-56570005">皮卡堂3月23日全服更新公告</a><span>03-22</span></li>
+		</ul>
+	</div>
+	<div class="mr">
+		<div class="mhd">
+			<a class="mtit" href="http://news.4399.com/pikatang/huodong/">皮卡堂活动</a>
+			<a class="btn mmore" href="http://news.4399.com/pikatang/huodong/">皮卡堂所有活动</a>
+		</div>
+		<ul class="mbd">			
+			<li><a  href="http://news.4399.com/pikatang/huodong/740161.html"><font color='#FF0000'>[爆料]游戏盒签到免费领三星</font></a><span>03-23</span></li><li><a  rel="external nofollow"  href="http://my.4399.com/forums/thread-56472697">每人说一个秘密吧（发奖））</a><span>03-22</span></li><li><a  rel="external nofollow"  href="http://my.4399.com/forums/thread-56534167">皮卡剧：那些年被愚弄过的事</a><span>03-20</span></li><li><a  rel="external nofollow"  href="http://my.4399.com/forums/thread-56535968">皮卡堂美发节决赛名单公布</a><span>03-17</span></li><li><a  rel="external nofollow"  href="http://my.4399.com/forums/thread-56526361">群组明星成员招募</a><span>03-17</span></li><li><a  rel="external nofollow"  href="http://my.4399.com/forums/thread-56534103">暖春皮卡剧发奖公示</a><span>03-17</span></li><li><a  rel="external nofollow"  href="http://my.4399.com/forums/thread-56423038">美发节海选名单公布</a><span>02-28</span></li>
+		</ul>
+	</div>
+</div>
+<div class="w m4">
+	<div class="m4-btn">
+		<a class="m4-btn1" href="http://news.4399.com/gonglue/pikatang/jcxt/zhongzhi/">皮卡堂种植系统</a>
+		<a class="m4-btn2" href="http://news.4399.com/gonglue/pikatang/jcxt/mcxt/">皮卡堂牧场系统</a>
+		<a class="m4-btn3" href="http://news.4399.com/gonglue/pikatang/jcxt/laxt/">皮卡堂恋爱系统</a>
+		<a class="m4-btn4" href="http://news.4399.com/gonglue/pikatang/jcxt/zyxt/">皮卡堂职业系统</a>
+		<a class="m4-btn5" href="http://news.4399.com/gonglue/pikatang/jcxt/cwxt/">皮卡堂宠物系统</a>
+		<a class="m4-btn6" href="http://news.4399.com/gonglue/pikatang/jcxt/prxt/">皮卡堂烹饪系统</a>
+		<a class="m4-btn7" href="http://news.4399.com/gonglue/pikatang/jcxt/sjxt/">皮卡堂升级系统</a>
+		<a class="m4-btn8" href="http://news.4399.com/gonglue/pikatang/jcxt/kdxt/">皮卡堂矿洞系统</a>
+		<a class="m4-btn9" href="http://news.4399.com/gonglue/pikatang/jcxt/dyxt/">皮卡堂钓鱼系统</a>
+		<a class="m4-btn10" href="http://news.4399.com/gonglue/pikatang/jcxt/hyxt/">皮卡堂会员系统</a>
+		<a class="m4-btn11" href="http://news.4399.com/pikatang/jcxt/slxt/">皮卡堂森林系统</a>
+	</div>
+</div>
+<div class="w m6">
+	<div class="ml">
+		<div class="mhd">
+			<a class="mtit" href="http://news.4399.com/gonglue/pikatang/gonglvexinde/">皮卡堂秘籍</a>
+			<a class="btn mmore" href="http://news.4399.com/gonglue/pikatang/gonglvexinde/">皮卡堂升级攻略</a>
+		</div>
+		<ul class="mbd">
+			<li ><a  href="http://news.4399.com/gonglue/pikatang/gonglvexinde/201703-22-739665.html">皮卡堂如何获得绿幻想草毯</a><span>03-23</span></li><li ><a  href="http://news.4399.com/gonglue/pikatang/gonglvexinde/201703-22-739660.html">皮卡堂如何获得三叶草池中吊</a><span>03-23</span></li><li ><a  href="http://news.4399.com/gonglue/pikatang/gonglvexinde/201703-22-739657.html">皮卡堂如何获得时光的惊喜</a><span>03-23</span></li><li ><a  href="http://news.4399.com/gonglue/pikatang/gonglvexinde/201703-22-739668.html">皮卡堂如何获得三叶草藤绕栏</a><span>03-23</span></li><li ><a  href="http://news.4399.com/gonglue/pikatang/gonglvexinde/201703-22-739729.html">皮卡堂如何获得绿幻想木栏</a><span>03-23</span></li><li ><a  href="http://news.4399.com/gonglue/pikatang/gonglvexinde/201703-22-739653.html">皮卡堂如何获得林间小木棚</a><span>03-22</span></li><li ><a  href="http://news.4399.com/gonglue/pikatang/gonglvexinde/201703-22-739652.html">皮卡堂如何获得绿幻想树桩</a><span>03-22</span></li>		
+		</ul>
+	</div>
+	<div class="mc">
+		<div class="mhd">
+			<a class="mtit" href="http://news.4399.com/gonglue/pikatang/xinshouzhinan/">皮卡堂新手指南</a>
+			<a class="btn mmore" href="http://news.4399.com/gonglue/pikatang/xinshouzhinan/">皮卡堂成长攻略</a>
+		</div>
+		<ul class="mbd">
+			<li ><a href="http://news.4399.com/gonglue/pikatang/xinshouzhinan/201703-22-739923.html">皮卡堂如何获得森林邮箱</a><span>03-22</span></li><li ><a href="http://news.4399.com/gonglue/pikatang/xinshouzhinan/201703-22-739921.html">皮卡堂如何获得林深时见鹿</a><span>03-22</span></li><li ><a href="http://news.4399.com/gonglue/pikatang/xinshouzhinan/201703-22-739919.html">皮卡堂如何获得云中书房沙发</a><span>03-22</span></li><li ><a href="http://news.4399.com/gonglue/pikatang/xinshouzhinan/201703-22-739917.html">皮卡堂如何获得云中书房窗户</a><span>03-22</span></li><li ><a href="http://news.4399.com/gonglue/pikatang/xinshouzhinan/201703-22-739851.html">皮卡堂如何获得冬季日系走廊</a><span>03-22</span></li><li ><a href="http://news.4399.com/gonglue/pikatang/xinshouzhinan/201703-22-739846.html">皮卡堂如何获得甜蜜蜜墙纸</a><span>03-22</span></li><li ><a href="http://news.4399.com/gonglue/pikatang/xinshouzhinan/201703-22-739843.html">皮卡堂如何获得清甜花花水柱</a><span>03-22</span></li>		
+		</ul>
+	</div>
+	<div class="mr">
+		<div class="mhd">
+			<a class="mtit" href="http://news.4399.com/gonglue/pikatang/wenda/">皮卡堂百科问答</a>
+			<a class="btn mmore" href="http://news.4399.com/gonglue/pikatang/wenda/">皮卡堂职业知识问答</a>
+		</div>
+		<ul class="mbd">
+			<li ><a  href="http://news.4399.com/gonglue/pikatang/wenda/201703-22-739913.html">皮卡堂如何获得云中书房飘窗</a><span>03-22</span></li><li ><a  href="http://news.4399.com/gonglue/pikatang/wenda/201703-22-739911.html">皮卡堂如何获得云中书房草毯</a><span>03-22</span></li><li ><a  href="http://news.4399.com/gonglue/pikatang/wenda/201703-22-739910.html">皮卡堂如何获得云中书房梯子</a><span>03-22</span></li><li ><a  href="http://news.4399.com/gonglue/pikatang/wenda/201703-22-739870.html">皮卡堂如何获得皮皮虾道具</a><span>03-22</span></li><li ><a  href="http://news.4399.com/gonglue/pikatang/wenda/201703-22-739858.html">皮卡堂如何获得迪路服装</a><span>03-22</span></li><li ><a  href="http://news.4399.com/gonglue/pikatang/wenda/201703-22-739854.html">皮卡堂如何获得安吉尔</a><span>03-22</span></li><li ><a  href="http://news.4399.com/gonglue/pikatang/wenda/201703-22-739842.html">皮卡堂如何获得花嫁服装</a><span>03-22</span></li>
+		</ul>
+	</div>
+
+</div>
+<div class="w m7" id="pklt">
+	<div class="mhd">
+		<a class="mtit" href="http://my.4399.com/forums/mtag-81132">皮卡堂过家家论坛</a>
+		<a class="btn mmore" href="http://my.4399.com/forums/mtag-81132">4399皮卡堂论坛</a>
+	</div>
+	<div class="ml ml2">
+		<div class="mbd2">
+			<ul class="hdul1 fl">
+	<li><a rel="external nofollow" href="http://v.4399pk.com/pikatang/video_270414.htm"><img alt="皮卡堂探究贵族会员" lzimg="1" lz_src="http://newsimg.5054399.com/uploads/userup/1611/161K420I11.jpg"/><p>探究贵族会员</p></a></li>
+	<li><a rel="external nofollow" href="http://my.4399.com/forums/thread-55714375"><img alt="皮卡堂金冠升级改版" lzimg="1" lz_src="http://newsimg.5054399.com/uploads/userup/1612/061009541005.jpg"/><p>金冠升级改版</p></a></li>
+	<li><a rel="external nofollow" href="http://my.4399.com/jifen/product-id-32312"><img alt="皮卡堂新年贺岁礼包" lzimg="1" lz_src="http://newsimg.5054399.com/uploads/userup/1701/241K3492Q8.jpg"/><p>皮卡堂新年贺岁礼包</p></a></li>
+	<li><a rel="external nofollow" href="http://huodong.4399.com/tuya/tuya151/"><img lzimg="1" alt="皮卡堂涂鸦画板比赛" lz_src="http://newsimg.5054399.com/uploads/userup/1703/251030451Y5.jpg"/><p>涂鸦画板第151期</p></a></li>				
+</ul>
+<ul class="hdul2 fl">
+	<li><a rel="external nofollow" href="http://huodong.4399.com/tuya" class="hdtit">涂鸦画板</a><p>一个专门为爱画画的孩子进行举办的涂鸦比赛，这里欢迎爱画画的你！从现在开...<a rel="external nofollow" href="http://huodong.4399.com/tuya">[详情]</a></p></li>
+	<li><a rel="external nofollow" href="http://news.4399.com/gonglue/pikatang/gonglvexinde/201512-21-585239.html" class="hdtit">4399游戏盒签到礼包领取</a><p>在4399游戏盒-广场-电脑游戏专区中每日签到，累计签到满1天、7天、20天可领取...<a rel="external nofollow" href="http://news.4399.com/gonglue/pikatang/gonglvexinde/201512-21-585239.html">[详情]</a></p></li>
+	<li><a rel="external nofollow" href="http://my.4399.com/forums/thread-52177803" class="hdtit">群组管理规定</a><p>最新群组管理规定出炉啦！为了给大家营造一个和谐的皮卡堂交流场所，要共同遵守...<a rel="external nofollow" href="http://my.4399.com/forums/thread-52177803">[详情]</a></p></li>
+</ul>
+<ul class="hdul3 fl">
+	<li><a rel="external nofollow" href="http://my.4399.com/forums/mtag-81132-144#anc_kind"><img alt="皮卡堂玩家交流" lzimg="1" lz_src="http://newsimg.5054399.com/uploads/userup/1611/1210123O116.jpg"/><p>玩家交流</p></a></li>
+	<li><a rel="external nofollow" href="http://my.4399.com/forums/mtag-81132-359#anc_kind"><img alt="皮卡堂精美截图" lzimg="1" lz_src="http://newsimg.5054399.com/uploads/userup/1611/12101321SU.jpg"/><p>精美截图</p></a></li>
+	<li><a rel="external nofollow" href="http://my.4399.com/forums/mtag-81132-457#anc_kind"><img alt="皮卡堂皮卡剧场" lzimg="1" lz_src="http://newsimg.5054399.com/uploads/userup/1611/121013361432.jpg"/><p>皮卡剧场</p></a></li>
+	<li><a rel="external nofollow" href="http://my.4399.com/forums/mtag-81132-146#anc_kind"><img alt="皮卡堂问题处理" lzimg="1" lz_src="http://newsimg.5054399.com/uploads/userup/1611/1210134BM6.jpg"/><p>问题处理</p></a></li>
+</ul>						
+		</div>
+	</div>
+	<div class="mr mr2">
+		<ul class="wjul cf">			
+			<li><a rel="external nofollow" href="http://my.4399.com/zone/847313559"><img alt="4399童" lzimg="1" lz_src="http://newsimg.5054399.com/uploads/userup/1611/141620451234.jpg"/><em></em><p>4399童</p></a></li>
+<li><a rel="external nofollow" href="http://my.4399.com/zone/762301922"><img alt="4399邮件" lzimg="1" lz_src="http://newsimg.5054399.com/uploads/userup/1611/1416205B049.jpg"/><em></em><p>4399邮件</p></a></li>
+<li><a rel="external nofollow" href="http://my.4399.com/zone/101060799"><img alt="4399宾君" lzimg="1" lz_src="http://newsimg.5054399.com/uploads/userup/1611/141621155Z5.jpg"/><em></em><p>4399宾君</p></a></li>
+<li><a rel="external nofollow" href="http://my.4399.com/zone/1046406690"><img alt="4399少时" lzimg="1" lz_src="http://newsimg.5054399.com/uploads/userup/1611/14162129D93.jpg"/><em></em><p>4399少时</p></a></li>
+		</ul>
+		<div class="cf">
+			<a class="wjtit fl" href="http://my.4399.com/forums/mtag-81132">皮卡堂论坛</a>
+			<a class="btn mmore mmore1 fr" href="http://my.4399.com/forums/thread-send-tagid-81132">我要发话题</a>
+		</div>
+		<ul class="mbd">			
+			<li ><a  rel="external nofollow" href="http://my.4399.com/forums/thread-56573030">处些小可耐pwp</a><span>03-23</span></li><li ><a  rel="external nofollow" href="http://my.4399.com/forums/thread-56573002">小美女小帅哥，给你印象分</a><span>03-23</span></li><li ><a  rel="external nofollow" href="http://my.4399.com/forums/thread-56451250">【顾柠曦】处友(&#9825;˙︶˙</a><span>03-23</span></li><li ><a  rel="external nofollow" href="http://my.4399.com/forums/thread-56569041">诶嘿我第一个嘛？</a><span>03-22</span></li><li ><a  rel="external nofollow" href="http://my.4399.com/forums/thread-56569013">生而为蛆，我很抱歉</a><span>03-20</span></li>	
+		</ul>
+	</div>
+</div>
+<div class="w m2">	
+	<a href="http://v.4399pk.com/pikatang/video_310843.htm"><img  alt="皮卡堂皮卡剧制作教程" lzimg="1" lz_src="http://newsimg.5054399.com/uploads/userup/1612/2Q14AR645.jpg" width="470" height="80"></a><a href="http://my.4399.com/forums/thread-50264169"><img alt="皮卡堂温馨提示" lzimg="1" lz_src="http://newsimg.5054399.com/uploads/userup/1608/3015461Q934.jpg" width="465" height="80"></a>
+</div>
+<div class="w m8" id="pkjc">
+	<div class="mhd">
+		<a class="mtit" href="http://my.4399.com/forums/mtag-81132-457">皮卡堂皮卡剧</a>
+		<a class="btn mmore" href="http://my.4399.com/forums/mtag-81132-457">皮卡堂皮卡剧大全</a>
+		<a class="btn mmore1" href="http://my.4399.com/forums/mtag-81132-457#anc_kind">我要发剧场</a>
+	</div>
+	<div class="ml ml2">
+		<ul class="jcul cf">			
+			<li><a  rel="external nofollow"  href="http://my.4399.com/forums/thread-56404736">
+															
+					
+					<img alt="皮卡堂刚刚好" lzimg="1" lz_src="http://newsimg.5054399.com/uploads/userup/1703/1GF451I36.jpg"/>
+					<p>刚刚好</p>
+				</a>
+			</li><li><a  rel="external nofollow"  href="http://my.4399.com/forums/thread-56397053 ">
+															
+					
+					<img alt="皮卡堂春天很美，只因有你" lzimg="1" lz_src="http://newsimg.5054399.com/uploads/userup/1703/1GF425Q38.jpg"/>
+					<p>春天很美，只因有你</p>
+				</a>
+			</li><li><a  rel="external nofollow"  href="http://my.4399.com/forums/thread-56383447 ">
+															
+					
+					<img alt="皮卡堂最是一年春好处" lzimg="1" lz_src="http://newsimg.5054399.com/uploads/userup/1703/1GFK36036.jpg"/>
+					<p>最是一年春好处</p>
+				</a>
+			</li><li><a  rel="external nofollow"  href="http://my.4399.com/forums/thread-56459827">
+															
+					
+					<img alt="皮卡堂春之瑜易 " lzimg="1" lz_src="http://newsimg.5054399.com/uploads/userup/1703/1GFHK1F.jpg"/>
+					<p>春之瑜易 </p>
+				</a>
+			</li><li><a  rel="external nofollow"  href="http://my.4399.com/forums/thread-56437136 ">
+															
+					
+					<img alt="皮卡堂你是谁的春天又是谁的太阳" lzimg="1" lz_src="http://newsimg.5054399.com/uploads/userup/1703/1GFFT296.jpg"/>
+					<p>你是谁的春天又是谁的太阳</p>
+				</a>
+			</li><li><a  rel="external nofollow"  href="http://my.4399.com/forums/thread-56384949 ">
+															
+					
+					<img alt="皮卡堂青涩的爱" lzimg="1" lz_src="http://newsimg.5054399.com/uploads/userup/1703/1GF6442429.jpg"/>
+					<p>青涩的爱</p>
+				</a>
+			</li><li><a  rel="external nofollow"  href="http://my.4399.com/forums/thread-56455278">
+															
+					
+					<img alt="皮卡堂你长得好像一个人" lzimg="1" lz_src="http://newsimg.5054399.com/uploads/userup/1703/1GF62412L.jpg"/>
+					<p>你长得好像一个人</p>
+				</a>
+			</li><li><a  rel="external nofollow"  href="http://my.4399.com/forums/thread-56421961 ">
+															
+					
+					<img alt="皮卡堂万物之春 " lzimg="1" lz_src="http://newsimg.5054399.com/uploads/userup/1703/1GF55c3V.jpg"/>
+					<p>万物之春 </p>
+				</a>
+			</li>
+		</ul>
+	</div>
+	<div class="mr mr2">
+		<div class="rmtit">近期热门作品</div>
+		<ul class="mbd cf">
+			<li ><a  rel="external nofollow"  href="http://my.4399.com/forums/thread-56404736">刚刚好</a><span>03-20</span></li><li ><a  rel="external nofollow"  href="http://my.4399.com/forums/thread-56397053 ">春天很美，只因有你</a><span>03-20</span></li><li ><a  rel="external nofollow"  href="http://my.4399.com/forums/thread-56383447 ">最是一年春好处</a><span>03-17</span></li><li ><a  rel="external nofollow"  href="http://my.4399.com/forums/thread-56459827">春之瑜易 </a><span>03-17</span></li><li ><a  rel="external nofollow"  href="http://my.4399.com/forums/thread-56437136 ">你是谁的春天又是谁的太阳</a><span>03-17</span></li><li ><a  rel="external nofollow"  href="http://my.4399.com/forums/thread-56384949 ">青涩的爱</a><span>03-17</span></li><li ><a  rel="external nofollow"  href="http://my.4399.com/forums/thread-56455278">你长得好像一个人</a><span>03-17</span></li><li ><a  rel="external nofollow"  href="http://my.4399.com/forums/thread-56421961 ">万物之春 </a><span>03-17</span></li>	
+		</ul>
+	</div>
+</div>
+<div class="w m9">
+	<div class="mhd">
+		<a class="mtit" href="http://news.4399.com/gonglue/pikatang/youxijietu/">皮卡堂美屋大秀场</a>
+		<a class="btn mmore" href="http://news.4399.com/gonglue/pikatang/youxijietu/">皮卡堂美屋大秀场</a>
+		<a class="btn mmore2" rel="external nofollow" href="http://my.4399.com/album/upload-sid-100212-tid-1002">我也要上传</a>
+	</div>
+	<ul class="zpul cf">
+		<li>
+			<a href="http://news.4399.com/plus/view.php?aid=717123" class="zp">
+								
+				<img alt="皮卡堂冬日聚餐" lzimg="1" lz_src="http://newsimg.5054399.com/uploads/userup/1701/061200109649.jpg"/>冬日聚餐</a>
+			<div class="auther">
+				<i></i>
+				<a rel="external nofollow" href="http://my.4399.com/zone/1356211998">70服 Marine</a>
+			</div>
+		</li><li>
+			<a href="http://news.4399.com/gonglue/pikatang/youxijietu/201702-16-729135.html" class="zp">
+								
+				<img alt="皮卡堂团聚新年" lzimg="1" lz_src="http://newsimg.5054399.com/uploads/userup/1702/161003512Y5.jpg"/>团聚新年</a>
+			<div class="auther">
+				<i></i>
+				<a rel="external nofollow" href="http://my.4399.com/zone/580636436">3服 苏白执乄</a>
+			</div>
+		</li><li>
+			<a href="http://news.4399.com/gonglue/pikatang/youxijietu/201702-16-729143.html" class="zp">
+								
+				<img alt="皮卡堂年.喜乐长安" lzimg="1" lz_src="http://newsimg.5054399.com/uploads/userup/1702/16101202T44.jpg"/>年.喜乐长安</a>
+			<div class="auther">
+				<i></i>
+				<a rel="external nofollow" href="http://my.4399.com/zone/7631703">113服 丷嘉莹小可</a>
+			</div>
+		</li><li>
+			<a href="http://news.4399.com/gonglue/pikatang/youxijietu/201702-16-729140.html" class="zp">
+								
+				<img alt="皮卡堂新年快乐新年快乐 " lzimg="1" lz_src="http://newsimg.5054399.com/uploads/userup/1702/16101054VD.jpg"/>新年快乐新年快乐 </a>
+			<div class="auther">
+				<i></i>
+				<a rel="external nofollow" href="http://my.4399.com/zone/580537413">7服 黎先生丿</a>
+			</div>
+		</li><li>
+			<a href="http://news.4399.com/gonglue/pikatang/youxijietu/201702-16-729139.html" class="zp">
+								
+				<img alt="皮卡堂长廊里的年味" lzimg="1" lz_src="http://newsimg.5054399.com/uploads/userup/1702/161009332920.jpg"/>长廊里的年味</a>
+			<div class="auther">
+				<i></i>
+				<a rel="external nofollow" href="http://my.4399.com/zone/100205506">132服 GG17</a>
+			</div>
+		</li>
+	</ul>
+</div>
+<div class="w m10">
+	<div class="ml">
+		<div class="mhd">
+			<a class="mtit" href="http://news.4399.com/pikatang/wanjia/">皮卡堂玩家秀</a>
+			<a class="btn mmore" href="http://news.4399.com/pikatang/wanjia/">皮卡堂玩家秀</a>
+			<a class="btn mmore2" href="http://my.4399.com/album/upload-sid-100212-tid-1002">我也要上传</a>
+		</div>
+		<ul class="zpul cf">
+			<li>
+				<a href="http://news.4399.com/pikatang/wanjia/709198.html" class="zp">
+									
+					<img alt="大家一起来爆照" lzimg="1" lz_src="http://newsimg.5054399.com/uploads/userup/1612/150933054U5.jpg"/>大家一起来爆照</a>
+				<div class="auther">
+					<i></i>
+					<a rel="external nofollow" href="http://my.4399.com/zone/2001281973">苏柒染の</a>
+				</div>
+			</li><li>
+				<a href="http://news.4399.com/pikatang/wanjia/709196.html" class="zp">
+									
+					<img alt="穿小学校服搞搞事" lzimg="1" lz_src="http://newsimg.5054399.com/uploads/userup/1612/150932115B1.jpg"/>穿小学校服搞搞事</a>
+				<div class="auther">
+					<i></i>
+					<a rel="external nofollow" href="http://my.4399.com/zone/2235915678">德宵er</a>
+				</div>
+			</li>			
+		</ul>
+	</div>
+	<div class="mr">
+		<div class="mhd" id="jcsp">
+			<a class="mtit" href="http://v.4399pk.com/pikatang/">皮卡堂视频攻略</a>
+			<a class="btn mmore" href="http://v.4399pk.com/pikatang/">皮卡堂视频大全</a>
+			<a class="btn mmore2" href="http://my.4399.com/forums/thread-55473527">我也要投稿</a>
+		</div>
+		<ul class="zpul spul cf">			
+			<li>
+				<a href="http://v.4399pk.com/pikatang/video_310843.htm" class="zp">
+										
+					<em class="cover"><i></i></em>
+					<img alt="皮卡堂皮卡剧制作教程" lzimg="1" lz_src="http://vedio.5054399.com/video/upload/1482895985.jpg"/>皮卡剧制作教程</a>
+				<div class="auther">
+					<i></i>
+					<span>4399小编</span>
+				</div>
+			</li><li>
+				<a href="http://v.4399pk.com/pikatang/video_270414.htm" class="zp">
+										
+					<em class="cover"><i></i></em>
+					<img alt="皮卡堂贵族系统介绍" lzimg="1" lz_src="http://vedio.5054399.com/video/upload/1479534820.jpg"/>贵族系统介绍</a>
+				<div class="auther">
+					<i></i>
+					<span>4399小编</span>
+				</div>
+			</li><li>
+				<a href="http://v.4399pk.com/pikatang/video_218226.htm" class="zp">
+										
+					<em class="cover"><i></i></em>
+					<img alt="皮卡堂带你领略过家家" lzimg="1" lz_src="http://vedio.5054399.com/video/upload/1479534835.jpg"/>带你领略过家家</a>
+				<div class="auther">
+					<i></i>
+					<span>4399小编</span>
+				</div>
+			</li>
+		</ul>
+	</div>
+</div>	
+<div class="w m11">
+	<div class="fl">
+		<a class="btn kf1 lh" href="http://my.4399.com/kefu/pkt.html">在线客服</a>
+		<a class="btn kf2 lh" href="http://my.4399.com/kefu/czkf.html">在线客服</a>
+	</div>
+	<div class="tx1 fl">充值电话：400-633-4399转641/642<br/>客服热线：400-633-4399转602/603</div>
+<div class="tx2 fl">客服投诉邮箱：tousu@4399.com<br/>玩家交流群：565907644</div>
+<div class="tx3 fl">玩家交流群：567520808<br/>玩家交流群：249521476</div>	
+</div>	
+<div class="w pl">
+	<div class="pl-t"></div>
+	<div class="pl-c">
+		<script type="text/javascript">
+        var F_ID ="65731";
+        var F_URL =" http://cdn.comment.4399pk.com/html/"+F_ID+".htm?dm="+window.location.host;
+        var F_FRAME_ID ="CommFrame";
+        function F_Resize(h){
+        	document.getElementById(F_FRAME_ID).height = h;
+        }
+        document.write('<iframe id="'+F_FRAME_ID+'" name="'+F_FRAME_ID+'" width="940" height="0" scrolling="no" allowtransparency="true" src="about:blank" frameborder="0" style="border:0px;margin-bottom:5px;"></iframe>');
+        var get_screen_height = function(){
+			if(window.self&&self.innerHeight) return self.innerHeight;
+			if(document.documentElement&&document.documentElement.clientHeight) return document.documentElement.clientHeight;
+			return document.body.clientHeight;
+        },
+        get_scroll_top = function(){
+			if(typeof(window.pageYOffset) !="undefined") return window.pageYOffset;
+			if(document.documentElement && document.documentElement.scrollTop) return document.documentElement.scrollTop;
+			if(document.body) return document.body.scrollTop;
+        },
+        get_offset_top = function(o){
+			var offset_t = o.offsetTop;
+			while(o=o.offsetParent){
+				offset_t += o.offsetTop;
+			}
+			return offset_t;
+        };
+        function chg_src(){
+			var screenH = get_screen_height(), scrollT = get_scroll_top();
+			var iframeH = get_offset_top(document.getElementById('CommFrame'));
+			if (parseInt(screenH)+parseInt(scrollT) > parseInt(iframeH) - 200){
+				document.getElementById('CommFrame').src = F_URL;
+				$(window).unbind("scroll", chg_src);
+				$(window).unbind("resize", chg_src);
+			}
+        }
+        $(window).bind("scroll", chg_src);$(window).bind("resize", chg_src);chg_src();
+        </script>  
+	
+	<div class="pl-ad">
+		<script type="text/javascript" src="http://newsimg.5054399.com/baiduad/baidu_product_api.js"></script>
+        <script>BaiduProductFunc.union({cid:"u2310989",width:940,height:60,style:0});</script>        
+	</div>
+	
+	<div class="i_middle2 pd_miky">
+		<div class="link_miky">
+			<div class="line_miky">
+				<ul>
+					<li><a href="http://news.4399.com/">游戏资讯</a></li>
+<li><a href="http://ssjj.4399.com/">生死狙击官网</a></li>
+<li><a href="http://www.4399.com/flash/32979.htm">洛克王国</a></li>
+<li><a href="http://www.4399.com/flash/35538.htm">奥拉星</a></li>
+<li><a href="http://news.4399.com/cslm/">创世联盟</a></li>
+<li><a href="http://news.4399.com/jlp/">热血精灵派</a></li>
+<li><a href="http://www.4399.com/flash/151038.htm">造梦西游4</a></li>
+<li><a href="http://news.4399.com/cos/">4399英魂之刃</a></li>
+<li><a href="http://news.4399.com/mo/">极战联盟</a></li>
+<li><a href="http://news.4399.com/mnsj/">迷你世界</a></li>
+<li><a href="http://news.4399.com/sanguosha/">三国杀</a></li>
+<li><a href="http://news.4399.com/mhfc/">梦幻飞车</a></li>
+<li><a href="http://ssjj.4399.com/">生死狙击</a></li>
+<li><a href="http://news.4399.com/wmpy/">完美漂移</a></li>
+<li><a href="http://news.4399.com/aoqi/">奥奇传说</a></li>
+<li><a href="http://news.4399.com/war/">战争使命</a></li>
+<li><a href="http://www.4399.cn/">手机游戏</a></li>
+<li><a href="http://a.4399.cn/">安卓游戏</a></li>
+<li><a href="http://xin.4399.cn/">最新手机网游</a></li>
+<li><a href="http://news.4399.cn/top/">手游排行榜</a></li>
+<li><a href="http://www.4399.cn/zhuanqu/">手机游戏攻略</a></li>
+<li><a href="http://news.4399.com/yyssy/">阴阳师</a></li>
+<li><a href="http://news.4399.com/wzlm/">王者荣耀</a></li>
+<li><a href="http://news.4399.com/tailaruiya/">泰拉瑞亚手机版</a></li>
+<li><a href="http://news.4399.com/ssjjol/">生死狙击手游</a></li>
+<li><a href="http://zhanhui.4399.cn/cj/">2017ChinaJoy</a></li>
+<li><a href="http://news.4399.com/ttpk/">天天酷跑</a></li>
+<li><a href="http://news.4399.com/wzlm/duibi/">王者荣耀哪个英雄厉害</a></li>
+<li><a href="http://news.4399.com/gonglue/kpct/kazu/">皇室战争卡组</a></li>
+<li><a href="http://app.4399.cn/">4399游戏盒</a></li>
+<li><a href="http://h.4399.com/">h5游戏</a></li>
+<li><a href="http://www.4399.com/">小游戏大全</a></li>
+<li><a href="http://www.4399.com/special/34.htm">黄金矿工</a></li>
+<li><a href="http://www.4399.com/special/17.htm">海绵宝宝</a></li>
+<li><a href="http://www.4399.com/special/18.htm">超级玛丽</a></li>
+<li><a href="http://www.4399.com/special/143.htm">斗地主</a></li>
+<li><a href="http://www.4399.com/flash/gamehw.htm">好玩的游戏</a></li>
+<li><a href="http://www.4399.com/special/26.htm">拳皇</a></li>
+<li><a href="http://www.4399.com/flash/12669.htm">果蔬连连看</a></li>
+<li><a href="http://www.4399.com/special/1.htm">双人游戏</a></li>
+<li><a href="http://www.4399dmw.com/">好看的动漫</a></li>
+<li><a href="http://www.4399dmw.com/huoying/">火影忍者</a></li>
+<li><a href="http://www.4399dmw.com/haizeiwang/">海贼王</a></li>
+<li><a href="http://www.4399dmw.com/sishen/">死神</a></li>
+<li><a href="http://www.4399dmw.com/donghua/">动画片大全</a></li>
+<li><a href="http://www.4399dmw.com/qinshimingyue/">秦时明月之君临天下</a></li>
+<li><a href="http://www.4399er.com/">儿歌视频大全</a></li>
+<li><a href="http://www.fanxian.com/">返现网</a></li>
+				</ul>
+				<div class="clear"></div>
+			</div>
+		</div>
+	</div>
+	</div>
+	<div class="pl-b"></div>
+</div>
+	
+<div class="footer">
+	<script src="http://www.4399.com/jss/news_footer.js"></script>
+	<br/>软著登字第0204466号&nbsp;沪网文[2011]0350-034号 新广出审【2014】986号
+</div>
+
+<div class="fix" id="float_widget" style="display: none;">
+	<div class="fixbg">		
+		<div class="fban"><a href="http://v.4399pk.com/pikatang/video_270414.htm"><img alt="皮卡堂贵族系统介绍" src="http://newsimg.5054399.com/uploads/userup/1611/1G110234R2.jpg"></a></div>
+		<a class="fxa f1" href="javascript:;" onClick="wscroll('jchd');return false;">精彩活动</a>
+		<a class="fxa f2" href="javascript:;" onClick="wscroll('pklt');return false;">官方论坛</a>
+		<a class="fxa f3" href="javascript:;" onClick="wscroll('pkjc');return false;">皮卡剧场</a>
+		<a class="fxa f4" href="javascript:;" onClick="wscroll('jcsp');return false;">皮卡堂视频</a>
+		<a class="fxa f5" href="javascript:;" onClick="wscroll('top');return false;">回到顶部</a>
+	</div>
+</div>
+
+<script type="text/javascript" src="http://newsimg.5054399.com/pikatang/v3/index/js/pkt_index.js"></script>
+<script type="text/javascript">
+var bds_html = '想要拥有自己的皮卡家园吗？那就快来#4399皮卡堂#吧。各种系统升级养成攻略应有尽有，精彩内容尽在4399皮卡堂。' ;
+var bds_pic  = 'http://newsimg.5054399.com/uploads/userup/1608/2414241W624.jpg' ;
+bdshare2(bds_html,bds_pic);
+
+check_search($('form'),'请输入你要查找的内容');   //通用顶部搜索
+function hide_1024(str){
+    var width = window.screen.width; 
+    if( width <= 1024 ){
+        //$('.fw01').show();
+        $(str).hide();
+        return ;
+    }else{
+    	$(str).show();
+    }
+}
+hide_1024('.fix2') ;
+$('.close-ad').click(function(){
+	$('.fix2').hide();
+	return false;
+})
+</script>
+
+<script type="text/javascript">title="4399皮卡堂";</script>
+<script type="text/javascript" src="http://newsimg.5054399.com/js/play_hs20120105.js"></script>
+<script type="text/javascript" src="http://newsimg.5054399.com/js/4399xingwei.js"></script>
+<script type="text/javascript" src="http://news.4399.com/js/tj.js"></script>
+</body>
+</html>
+
+0
+
+

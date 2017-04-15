@@ -1,0 +1,17 @@
+HTTP/1.1 301 Moved Permanently
+Server: Tengine
+Content-Length: 0
+Connection: close
+Date: Sat, 25 Mar 2017 04:39:03 GMT
+X-Powered-By: ASP.NET
+X-AspNet-Version: 4.0.30319
+Location: http://www.mgqr.com/
+Cache-Control: private
+Via: cache4.l2et15[14,301-0,M], cache14.l2et15[14,0], kunlun2.cn250[38,301-0,M], kunlun7.cn250[39,0]
+X-Cache: MISS TCP_MISS dirn:-2:-2
+X-Swift-SaveTime: Sat, 25 Mar 2017 04:38:42 GMT
+X-Swift-CacheTime: 0
+Timing-Allow-Origin: *
+EagleId: 7ae44a8714904167223313476e
+
+
